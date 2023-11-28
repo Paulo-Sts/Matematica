@@ -1,2 +1,2 @@
 # Matemática
-Estudo da matemática
+Estudo da matemática.
