@@ -1,4 +1,4 @@
-# Mamtemática
+# Matemática
 Estudo da matemática.
 
 <br>
