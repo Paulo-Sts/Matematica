@@ -47,6 +47,7 @@ Estudo da matemática.
 * Sistemas de equações do 1º grau
 * Equações biquadradas
 * Inequações
+* Funções
 
 > ### Teoria dos conjuntos
 
