@@ -40,7 +40,7 @@ Estudo da matemática.
 
 > ### Algebra
 * Monômios
-* Polonômios
+* Polinômios
 * Produtos notáveis
 * Equação do 1º grau
 * Equação so 2º grau
@@ -48,11 +48,12 @@ Estudo da matemática.
 * Equações biquadradas
 * Inequações
 
+> ### Teoria dos conjuntos
+
 > ### Matemática financeira
 * Juros simples
 * Juros compostos
 
 > ### Estatística e Probabilidade
-
 
 > ### Geometria
