@@ -6,12 +6,11 @@ Estudo da matemática.
 
 ## ASSUNTOS
 
+> ### Matemática básica (TUDO)
 * Tabuada
 * Sistemas de numeração
 * Sistemas de numeração decimal
 * Unidades de medida
-
-> ### Matemática básica
 * Adição
 * Subtração
 * Multiplicação
@@ -38,7 +37,7 @@ Estudo da matemática.
 * Porcentagem
 * Escalas
 
-> ### Algebra
+> ### Algebra (MAIORIA)
 * Monômios
 * Polinômios
 * Produtos notáveis
@@ -46,15 +45,49 @@ Estudo da matemática.
 * Equação so 2º grau
 * Sistemas de equações do 1º grau
 * Equações biquadradas
+* Exponencial
+* Logarítimo
 * Inequações
 * Funções
 
-> ### Teoria dos conjuntos
+> ### Teoria dos conjuntos (NÃO)
 
-> ### Matemática financeira
+> ### Matemática financeira (ÚTIL)
 * Juros simples
 * Juros compostos
+* Descontos
+* Taxas de juros
+* Amortização
+* Cálculo financeiro
+* Taxas de retorno
+* Sequências numéricas *
 
-> ### Estatística e Probabilidade
+> ### Análise combinatória (ÚTIL)
+* PFC
+* arranjo
+* Permutação
+* Combinação
+* binômio de Newton
 
-> ### Geometria
+> ### Probabilidade (ÚTIL)
+* conceitos gerais
+* Cálculo de probabilidade
+* laplace *
+* condicional
+* independente
+* distribuição binomial *
+
+> ### Estatística (ÚTIL)
+* Média aritmética
+* Média geométrica
+* Média ponderada
+* Moda e mediana *
+* Conceitos gerais *
+* Medidas de posição *
+* Medidas de dispersão *
+
+> ### Geometria (NÃO)
+* Plana
+* Espacial
+* Analítica
+* Trigonometria
