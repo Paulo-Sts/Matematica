@@ -12,7 +12,7 @@
 * Intervalo aberto o extremo não faz parte.
 * Intervalo fechado o extremo faz parte.
 
-#### Representação de Intervalo e de Conjunto
+#### Representação de intervalo e de conjunto
 * ]a,b[ ou (a,b) = {x ∈ R | a < x < b}
 * [a,b] = {x ∈ R | a ≤ X ≤ b}
 * [a,b[ ou [a,b) = {x ∈ R | a ≤ x < b}
@@ -29,7 +29,7 @@ Ex: S = {x ∈ R | 10 < x < 25}
 Ex: S = {x ∈ R | -4 ≤ x < 16}  
 1. [-4, 16[
 
-#### Representação Geométrica
+#### Representação geométrica
 <div style="display:inline_block">
    <p>Intervalo Aberto de Extremos:</p>
     <img height="50" width="200" src="https://static.todamateria.com.br/upload/in/te/intervalo_aberto.jpg">
