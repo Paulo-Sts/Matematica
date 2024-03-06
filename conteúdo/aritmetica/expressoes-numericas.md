@@ -19,7 +19,7 @@ Ex: (25 x 2 + 10) : 20 - 1
 4. calcular operação de subtração => 3 - 1 = 2
 5. logo resultado = 2
 
-> ### Relação entre sinais antes dos parenteses, colchetes ou chaves
+#### Relação entre sinais antes dos parenteses, colchetes ou chaves
 * É como se fosse multiplicado por 1 ou -1.
 * Para sinal positivo, mantém-se os sinais.
 * Para sinal negativo, inverte-se os sinais.

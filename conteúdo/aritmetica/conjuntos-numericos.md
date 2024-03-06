@@ -31,7 +31,7 @@
 * O **0** é um número neutro, não sendo nem positivo nem negativo.
 * Ao ser representado na reta numérica pode-se identificar que os números com mesmo valor numérico (em relação a origem), mas com sinais contrários são chamados números simétricos ou opostos.
 
-#### Reta Numérica
+#### Reta numérica
 
 <br>
 
