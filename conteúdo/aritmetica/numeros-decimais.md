@@ -18,7 +18,7 @@ Ex: 0,2 = Dois décimos
 Ex: 3,56 = Três inteiros e cinquenta e seis centésimos    
 Ex: 1,101 = Um inteiro e cento e um milésimos  
 
-### TRANSFORMAÇÃO DE NÚMERO DECIMAL EM FRAÇÃO
+### Conversão de número decimal em fração
 * Para transformar um número decimal em fração, deve-se retirar a vírgula, colocar o número em forma de fração, definindo como denominador o 1, seguido **n** zeros correspondente ao número de casas decimais após a vírgula.
 
 Ex: 14,8 = 148/10  
