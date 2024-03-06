@@ -31,6 +31,8 @@
 * O **0** é um número neutro, não sendo nem positivo nem negativo.
 * Ao ser representado na reta numérica pode-se identificar que os números com mesmo valor numérico (em relação a origem), mas com sinais contrários são chamados números simétricos ou opostos.
 
+#### Reta Numérica
+
 <br>
 
 <div style="display:inline_block">
@@ -48,7 +50,7 @@
 <br>
 <br>
 
-> ### Módulo
+#### Módulo
 * Módulo ou valor absoluto é a distância de um número inteiro até a origem.
 * O módulo de um número real positivo é o próprio número, já o módulo de um número real negativo é o seu oposto.
 * Representação:
