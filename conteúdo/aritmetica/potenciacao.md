@@ -12,7 +12,7 @@
   - n = expoente
   - a . a . a . a ... a = potência (produto de n fatores iguais)
 
-> ### Cálculo
+#### Cálculo
 1. Identifica-se o valor da base e do expoente.
 2. Multiplica-se a base o número de vezes correspondente ao expoente.
 3. O resultado da multiplicação é a potência.

@@ -12,7 +12,7 @@
 * Prova real da adição:
   - soma - parcela2 = parcela1
 
-> ### Cálculo
+#### Cálculo
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Somar os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada junção o resultado é um algarismo, sendo reagrupado para a próxima ordem o valor que exceder (maior que 9) o teto da respectiva casa decimal (unidade, dezena, centena, ...).
@@ -88,7 +88,7 @@ Ex: 15 + (-25) = -10
 * Prova real da subtração:
   - subtraendo + diferença = minuendo
 
-> ### Cálculo
+#### Cálculo
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Subtrair os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada subtração o resultado é um algarismo.
@@ -164,7 +164,7 @@ Ex: 15 + (-25) = -10
 * Prova real da multiplicação:
   - produto / fator2 = fator1
 
-> ### Cálculo
+#### Cálculo
 1. Empilhar os fatores de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Multiplica-se cada valor do primeiro fator pelo segundo fator começando na casa das unidades, organizando o resultado a partir da posição das unidades do segundo fator.
 3. Após, multiplica-se cada valor do primeiro fator pelo segundo fator na casa das dezenas, organizando o resultado a partir da posição das dezenas do segundo fator.
@@ -258,7 +258,7 @@ Ex: 1 x (-25) = -25
 * Prova real da divisão:
   - quociente x divisor + resto = dividendo
 
-> ### Cálculo
+#### Cálculo
 1. A divisão é feita da esquerda para a direita, pegando sempre o primeiro algarismo (de maior ordem) do dividendo em que seja possível dividir pelo divisor.
 2. Determina-se um número que multiplicado pelo divisor seja igual ou o mais próximo do dividendo.
 3. O valor encontrado é adicionado como um algarismo do quociente.

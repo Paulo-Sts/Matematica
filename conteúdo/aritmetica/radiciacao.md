@@ -15,7 +15,7 @@
 * Prova real da radiciação:
   - <sup>n</sup>√a = b onde b<sup>n</sup> = a
 
-> ### Cálculo
+#### Cálculo
 1. Identifica-se o índice (expoente) e o radicando.
 2. Procura-se determinar que número multiplicado por si mesmo o número de vezes correspondente ao índice (expoente) seja igual ao radicando.
 3. O número que tendo como o resultado de sua potência o radicando é o resultado.

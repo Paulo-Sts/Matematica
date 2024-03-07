@@ -155,7 +155,7 @@ Ex: Decomposição de 30 = 2 . 3 . 5
 * O MMC de dois números **a** e **b**, também representa o menor valor que pode ser dividido por **a** e **b** ao mesmo tempo.
 * O MMC é determinado a partir da decomposição dos valores em fatores primos.
 
-> ### Cálculo
+#### Cálculo
 1. Organiza-se os números a esquerda lado a lado.
 2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números, colocando o quociente a direita.
 3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
@@ -181,7 +181,7 @@ Ex: MMC de 30 e 14 = 210
 * O MDC de dois números **a** e **b**, é o maior valor que divide **a** e **b** ao mesmo tempo.
 * O MDC é determinado a partir da decomposição dos valores em fatores primos.
 
-> ### Cálculo
+#### Cálculo
 1. Organiza-se os números a esquerda lado a lado.
 2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números.
 3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
