@@ -130,9 +130,14 @@ Ex: 12000 : 24 (é divisível)
 * O conjunto dos números primos é um conjunto infinito.
 * O número um não é considerado um número primo.
 * O número dois, é o único número primo par.
-* Os números primos são fundamentais no entendimento da aritmética. É possível determinar a representação de qualquer número inteiro, por meio de números primos, processo esse, chamado de decomposição em fatores primos.
+* O teorema fundamental da aritmética define que, todo número natural maior que 1 ou é primo ou pode ser representado como o produto de números primos.
+* Os números primos são fundamentais no entendimento da aritmética.O processo de transformar qualquer número em produto de fatores primos é chamado de decomposição em fatores primos.
+* A conjectura de Goldbach determina que, todo número par maior que 2 pode ser representado como a soma de dois números primos.
 * Representação do conjunto de números primos:
   - P = {2, 3, 5, 7, 11, ...}
+
+Ex: 4 = 2 + 2  
+Ex: 18 = 11 + 7 
 
 ## NÚMEROS COMPOSTOS
 * Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
