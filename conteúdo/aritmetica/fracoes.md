@@ -16,17 +16,20 @@
   - a = numerador
   - n = denominador
 
-> ### Tipos de fração
+***DICA:*** Uma forma de montar uma fração é representa-la de forma geométrica, por exemplo um retângulo dividido em partes iguais, com algumas partes rachuradas. Isso ajuda a visualizar frações a partir do enunciado das questões.
 
-#### Fração própria
+## TIPOS DE FRAÇÃO
+
+> ### Fração própria
 * Uma fração é própria, quando o seu numerador é menor que o denominador, ou seja, representa um valor menor que um inteiro.
 
 Ex: 4/5  
 
-#### Fração imprópria
+> ### Fração imprópria
 * Uma fração é imprópria, quando o seu numerador é maior que o denominador, ou seja, representa um valor maior que um inteiro.
 * A fração imprópria pode ser transformada em fração mista, a partir da divisão dos seus elementos.
 
+#### Cálculo
 Ex: 8/3 = 2 2/3
 1. divide-se o numerador pelo denominador => 8 : 3
 2. encontra-se o número que multiplicado por 3 se aproxima de 8 => 3 . 2 = 6
@@ -35,29 +38,39 @@ Ex: 8/3 = 2 2/3
 5. o quociente 2 então se torna a parte inteira da fração, resto 2 se torna o numerador e repete-se o denominador original 3 formando a parte fracionária => 2 2/3
 6. logo o resultado => 2 2/3
 
-#### Fração mista
+> ### Fração mista
 * Uma fração mista, é uma fração formada por uma parte que representa a parte inteira e uma parte que representa a parte fracionária.
 * A fração mista é uma fração derivada de uma fração imprópria.
 
+#### Cálculo
 Ex: 2 2/3 = 8/3
 1. multiplica-se o denominador da parte fracionária pela parte inteira => 2 . 3 = 6
 2. soma-se o resultado com o numerador => 6 + 2 = 8
 3. o 8 é o numerador e repete-se o denominador => 8/3
          
-#### Fração equivalente
+> ### Fração equivalente
 * São frações formadas por diferentes valores, mas que representam a mesma parte de um inteiro.
 * Pode-se identificar frações equivalentes, realizando a sua simplificação, ou multiplicando seu numerador e denominador por um mesmo número.
 * Pode-se realizar a comparação de frações por meio da sua redução a um mesmo denominador.
 
 Ex: 1/2 = 2/4
 
-#### Fração aparente
+#### Cálculo
+Ex: Qual é maior 5/8 ou 4/7?
+1. Determinar o MMC dos denominadores 8 e 7 => 56
+2. O MMC será o novo denominador.
+3. Deve-se dividir o MMC pelo denominador de cada fração e multiplicar pelo seu numerador => 56 : 8 = 7 => 7 x 5 = 35/56 | 56 : 7 = 8 => 8 x 4 = 32/56
+4. Comparando as frações equivalentes, determina-se qual a maior. 35/56 > 32/56
+5. Logo 5/8 > 4/7.
+
+> ### Fração aparente
 * É uma fração que pode ser representada como um número inteiro, pois o seu numerador é divisível pelo seu denominador.
 
 Ex: 6/3 = 2
 
-#### Fração geratriz
+> ### Fração geratriz
 * É uma fração em que a divisão do numerador pelo denominador, tem como resultado uma dízima periódica.
+* Pode-se transformar dízimas periódicas em suas frações geratrizes, para obter maior precisão ao realizar operações com esses valores.
 
 Ex: 3/9 = 0,333...
 
