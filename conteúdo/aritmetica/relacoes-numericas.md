@@ -39,12 +39,31 @@ Ex: D(10)= {1, 2, 5, 10}
 10 : 9 = 1 com resto 1 (não divisível) 
 10 : 10 = 1  
 
-***DICA:*** Para verificar se o conjunto determinado dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser igual ao número que se quer saber seus divisores.
+***DICA:*** Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser igual ao número que se quer saber seus divisores.
 
 Ex: D(16)= {1, 2, 4, 8, 16}
 1. multiplica-se os dois primeiros extremos => 1 . 16 = 16
 2. multiplica-se os segundos extremos => 2 . 8 = 16
 3. para conjuntos com elementos impares, multiplica-se o elemento do meio por si mesmo => 4 . 4 = 16
+
+#### Número de divisores de um número
+1. Decompoe-se o número em fatores primos.
+2. Os números da decomposição são utilizados para encontrar os divisores.
+3. Começa-se multiplicando o primeiro número por 1.
+4. O resultado de cada multiplicação é adicionado ao conjunto que conterá os divisores do número, começando pelo 1.
+5. Depois multiplica-se os demais números por cada elemento do conjunto até o último, adicionando os resultados das multiplicações no conjunto ao final.
+6. Realiza-se as multiplicações em cascata até o último número primo usado na fatoração.
+7. O conjunto do resultado das multiplicações será o conjunto dos divisores do número.
+
+Ex: D(12)= {1, 2, 3, 4, 6, 12}
+1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
+2. multiplica-se 2 por 1 => 2 * 1 = 2 => {1}.
+3. adiciona-se o resultado no conjunto => {1, 2}.
+4. multiplica-se o segundo 2 pelos elementos do conjunto => 2 * 1 = 2 | 2 * 2 = 4 
+5. adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4}
+6. multiplica-se o 3 pelos elementos do conjunto => 3 * 1 = 3 | 3 * 2 = 6 | 3 * 2 = 6 | 3 * 4 = 12
+7. adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4, 3, 6, 6, 12}
+8. ordena-se o conjunto, retirando valores repetidos formando o conjunto dos divisores do 12 => {1, 2, 3, 4, 6, 12}
 
 ## DIVISIBILIDADE
 * Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro (divisão exata).
