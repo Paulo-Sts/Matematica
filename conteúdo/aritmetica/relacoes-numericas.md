@@ -46,7 +46,7 @@ Ex: D(16)= {1, 2, 4, 8, 16}
 2. multiplica-se os segundos extremos => 2 . 8 = 16
 3. para conjuntos com elementos impares, multiplica-se o elemento do meio por si mesmo => 4 . 4 = 16
 
-#### Número de divisores de um número
+#### Conjunto dos divisores de um número
 1. Decompoe-se o número em fatores primos.
 2. Os números da decomposição são utilizados para encontrar os divisores.
 3. Começa-se multiplicando o primeiro número por 1.
@@ -57,13 +57,39 @@ Ex: D(16)= {1, 2, 4, 8, 16}
 
 Ex: D(12)= {1, 2, 3, 4, 6, 12}
 1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
-2. multiplica-se 2 por 1 => 2 * 1 = 2 => {1}.
+2. multiplica-se 2 por 1 => 2 . 1 = 2 => {1}.
 3. adiciona-se o resultado no conjunto => {1, 2}.
-4. multiplica-se o segundo 2 pelos elementos do conjunto => 2 * 1 = 2 | 2 * 2 = 4 
+4. multiplica-se o segundo 2 pelos elementos do conjunto => 2 . 1 = 2 | 2 . 2 = 4 
 5. adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4}
-6. multiplica-se o 3 pelos elementos do conjunto => 3 * 1 = 3 | 3 * 2 = 6 | 3 * 2 = 6 | 3 * 4 = 12
+6. multiplica-se o 3 pelos elementos do conjunto => 3 . 1 = 3 | 3 . 2 = 6 | 3 . 2 = 6 | 3 . 4 = 12
 7. adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4, 3, 6, 6, 12}
 8. ordena-se o conjunto, retirando valores repetidos formando o conjunto dos divisores do 12 => {1, 2, 3, 4, 6, 12}
+
+#### Quantidade de divisores de um número
+1. Decompoe-se o número em fatores primos.
+2. Organiza-se em potência os números primos utilizados na fatoração.
+3. Soma-se 1 ao expoente de cada número primo.
+4. O produto da desses expoentes terá como resultado a quantidade de divisores do número. 
+
+Ex: D(12)= {1, 2, 3, 4, 6, 12}
+1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
+2. organiza-se na forma de produto dos números primos => 2<sup>2</sup> . 3<sup>1</sup>
+3. pega-se o expoente de cada potência e soma um => 2 + 1 = 3 | 1 + 1 = 2
+4. multiplica-se os novos valores dos expoentes => 3 . 2 = 6
+5. o 12 possui 6 divisores
+
+#### Soma dos divisores de um número
+1. Decompoe-se o número em fatores primos.
+2. Organiza-se em potência os números primos utilizados na fatoração.
+3. Desenvolve-se a partir de cada número primo as combinações possíveis de seus expoentes começando do zero até o maior número.
+4. Soma-se essas combinações.
+5. Realiza-se o produto dos resultados da soma das combinações dos expoentes possíveis de cada número primo.
+
+Ex: D(12)= {1, 2, 3, 4, 6, 12}
+1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
+2. organiza-se na forma de produto dos números primos => 2<sup>2</sup> . 3<sup>1</sup>
+3. soma das combinações de cada número primo => (2<sup>0</sup> + 2<sup>1</sup> + 2<sup>2</sup>) | (3<sup>0</sup> + 3<sup>1</sup>)
+4. produto das somas das combinações de cada número primo será o resultado => (1 + 2 + 4) . (1 + 3) => 7 . 4 = 28
 
 ## DIVISIBILIDADE
 * Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro (divisão exata).
