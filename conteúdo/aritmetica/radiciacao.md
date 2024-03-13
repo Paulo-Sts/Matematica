@@ -97,6 +97,24 @@ Ex: 2/<sup>5</sup>√9 = 2/<sup>5</sup>√3<sup>2</sup> . <sup>5</sup>√3<sup>3
 
 Ex: 3/√6 - √3 = 3/√6 - √3 . √6 + √3/√6 + √3 = 3(√6 + √3)/(√6 - √3).(√6 + √3) = 3(√6 + √3)/(√6)<sup>2</sup> - (√3)<sup>2</sup> = 3(√6 + √3)/6 - 3 = 3(√6 + √3)/3 = √6 + √3
 
+> ### Radical duplo ou biquadrático
+* Radical duplo ou biquadrático é toda expressão irracional na forma **√a ± b** em que **a** e **b** são racionais positivos, sendo **a<sup>2</sup>** > **b** e **b** não seja um quadrado perfeito.
+* O radical duplo só existe quando há uma soma ou diferença entre os radicais.
+* O objetivo é transformar o radical duplo em uma soma ou subtração de radicais simples, isso é feito por meio de uma relação entre radicais.
+* Relação de transformação de radicais duplos:
+  - √(a ± √b) = √(a + c)/2 ± √(a - c)/2
+  - c = √(a<sup>2</sup>- b)
+
+#### Cálculo
+1. Encontrar o valor de **c**.
+2. Montar os valores da relação.
+3. Encontrar os radicais simples.
+
+Ex: √(5 + √24)  
+1. Encontrar o valor de c => √(5<sup>2</sup>- 24) => √25 - 24 => √1 = 1
+2. Montar a relação => √(5 + √24) = √(5 + 1)/2 + √(5 - 1)/2 => √6/2 + √4/2 => √3 + √2
+3. Logo √(5 + √24) = √3 + √2
+
 ## OPERAÇÕES COM RADICAIS
 
 > ### Adição
@@ -133,3 +151,12 @@ Ex: √27/√3 = √27/3 = √9 = 3
   - <sup>n</sup>√a / <sup>n</sup>√b = <sup>n</sup>√a/b
 
 Ex: √27/√3 = √27/3 = √9 = 3
+
+***DICA:*** Para realizar multiplicação ou divisão entre raízes com índices diferentes, é necessário transformar as raízes para que tenham o mesmo índice. Isso é feito encontrando o MMC entre os dois índices, o resultado será o novo índice. Depois é necessário transformar os radicandos, isso é feito dividindo o novo índice pelo índice anterior e o multiplicando pelo expoente do radicando, esse será o novo expoente do radicando.
+
+Ex: <sup>3</sup>√8/√4  
+1. MMC(3, 2) = 6  
+2. 6 : 3 = 2 => 2 x 1 = 2 logo <sup>6</sup>√8<sup>2</sup>
+3. 6 : 2 = 3 => 3 x 1 = 3 logo <sup>6</sup>√4<sup>3</sup>
+4. divisão <sup>6</sup>√8<sup>2</sup>/<sup>6</sup>√4<sup>3</sup>
+5. <sup>6</sup>√64/<sup>6</sup>√64 = √64/64 = √1 = 1
