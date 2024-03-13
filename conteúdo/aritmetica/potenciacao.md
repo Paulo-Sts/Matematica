@@ -84,6 +84,14 @@ Ex: 2<sup>4<sup>2</sup></sup> = 2<sup>16</sup>
 Ex: ( 4 . 2 )<sup>2</sup> = 4<sup>2</sup> . 2<sup>2</sup>  
 Ex: ( 16 . 3)<sup>5</sup> = 16<sup>5</sup> . 3<sup>5</sup>  
 
+#### Potência de uma razão
+* A potência de uma razão, é igual a potencia de cada elemento da razão. O inverso também é verdadeiro.
+* Representação:
+  - (a/b)<sup>n</sup> = a<sup>n</sup>/b<sup>n</sup>
+
+Ex: (4/2)<sup>2</sup> = 4<sup>2</sup>/2<sup>2</sup>  
+Ex: (16/3)<sup>5</sup> = 16<sup>5</sup>/3<sup>5</sup>  
+
 #### Potência de base negativa
 * Quando a base for negativa e o expoente for par, o resultado é positivo.
 * Quando a base for negativa e o expoente for ímpar, o resultado é negativo.
@@ -95,7 +103,7 @@ Ex: ( 16 . 3)<sup>5</sup> = 16<sup>5</sup> . 3<sup>5</sup>
 Ex: (-4)<sup>2</sup> =  (-4) . (-4) = 16  
 Ex: (-4)<sup>3</sup> =  (-4) . (-4) . (-4) = -32
 
-OBS: Quando o expoente elevar todo o valor do parêntese sempre será positivo para expoente par, mas se não existir parêntese a potência é apenas sobre a base e o sinal negativo permanece.
+**Observação:** Quando o expoente elevar todo o valor do parêntese sempre será positivo para expoente par, mas se não existir parêntese a potência é apenas sobre a base e o sinal negativo permanece.
 
 Ex: -4<sup>2</sup> = - (4) . (4) = -16  
 
