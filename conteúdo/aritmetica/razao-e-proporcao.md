@@ -116,3 +116,18 @@ Ex: (1, 2, 3, 4, 6) e (36, 18, 12, 9, 6)
 3. 3 . 12 = 36
 4. 4 . 9 = 36
 5. 6 . 6 = 36
+
+> ### Divisão proporcional
+* A divisão proporcional descreve a distribuição equitativa de uma quantidade entre diferentes partes, a partir da proporção estabelecida entre essas partes. 
+* Existem divisões diretamente proporcionais e divisões inversamente proporcionais.
+
+#### Divisão diretamente proporcional
+* Na divisão diretamente proporcional a distribuição das partes é diretamente determinada pela proporção que cada parte representa em relação ao todo.
+* Nessa divisão um valor **a** é dividido por um valor **b** (formado pelo total de partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor então será distribuido de acordo com a quantidade que cada respectiva parte corresponde ao total das partes.
+
+Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
+1. total de partes = 10
+2. divisão do valor pelo total de partes => 100/10 = 10
+3. cada parte do valor vale 10
+4. divisão diretamente proporcional => 10 x 1 = 10 | 10 x 5 = 50 | 10 x 4 = 40
+5. resultado = 10, 50 e 40
