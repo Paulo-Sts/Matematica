@@ -222,7 +222,19 @@ Ex: MMC de 30 e 14 = 210
 4. divide-se agora por 7 => 1 : ***7*** = repete-se o 1, 7 : ***7*** = 1
 5. o produto dos quocientes é o resultado => 2 . 3 . 5 . 7 = 210
 
-***DICA:*** O MMC de dois ou mais valores em que um dos números é um número primo, o MMC dos dois valores será o produto entre esses dois valores.
+> ### Propriedades do MMC
+
+#### MMC entre números primos
+* O MMC de dois ou mais números primos, será o produto entre esses números.
+
+Ex: MMC(2, 11) = 22  
+Ex: MMC(2, 5) = 10  
+
+#### MMC entre múltiplos
+* O MMC entre dois números, em que o maior é múltiplo do menor, será o número maior.
+
+Ex: MMC(10, 2) = 10    
+Ex: MMC(6, 3) = 6    
 
 ***DICA:*** Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
 
@@ -247,6 +259,25 @@ Ex: MDC de 30 e 12 = 6
 3. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : **3** = 5, 3 : **3** = 1 (divisor comum)
 4. divide-se agora por 5 => 5 : **5** = 1, 1 : **5** repete-se o 1
 5. o produto dos divisores comuns é o resultado => 2 . 3 = 6
+
+> ### Propriedades do MDC
+
+#### MDC entre números consecutivos
+* Entre dois números consecutivos o MDC entre eles sempre será 1, pois eles são primos entre si.
+
+Ex: MDC(11, 10) = 1  
+
+#### MDC entre divisores
+* O MDC entre dois ou mais números em que um deles é divisor dos demais, o MDC será esse número.
+
+Ex: MDC(5, 10, 20) = 5  
+
+#### Relação MDC e MMC
+* O produto entre o MDC e o MMC de dois números é igual ao produto desses dois números. 
+* Representação da relação:
+  - MDC(a, b) x MMC(a, b) = a x b
+
+Ex: MDC(10, 2) = 10 e MMC(10, 2) = 2 => 10 x 2 = 10 x 2  
 
 ***DICA:*** Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
 
