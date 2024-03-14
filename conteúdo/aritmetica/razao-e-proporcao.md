@@ -123,7 +123,7 @@ Ex: (1, 2, 3, 4, 6) e (36, 18, 12, 9, 6)
 
 #### Divisão diretamente proporcional
 * Na divisão diretamente proporcional a distribuição das partes é diretamente determinada pela proporção que cada parte representa em relação ao todo.
-* Nessa divisão um valor **a** é dividido por um valor **b** (formado pelo total de partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor então será distribuido de acordo com a quantidade que cada respectiva parte corresponde ao total das partes.
+* Nessa divisão um valor é dividido por um outro valor (formado pela soma das partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor correspondente a uma parte do total então será distribuido de acordo com a quantidade que cada respectiva parte representa do total das partes.
 
 Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
 1. total de partes = 10
@@ -131,3 +131,16 @@ Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
 3. cada parte do valor vale 10
 4. divisão diretamente proporcional => 10 x 1 = 10 | 10 x 5 = 50 | 10 x 4 = 40
 5. resultado = 10, 50 e 40
+
+#### Divisão inversamente proporcional
+* Na divisão inversamente proporcional a distribuição das partes é inversamente determinada pela proporção que cada parte representa em relação ao todo.
+* Nessa divisão um valor é dividido por um outro valor (formado pelo inverso da soma das partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor correspondente a uma parte do total então será distribuido de acordo com a quantidade que cada respectivo inverso da parte representa do total das partes.
+* Quanto maior o valor, menor sua parte e quanto menor o valor maior a sua parte.
+
+Ex: divisão de 130 em partes inversamente proporcionais a 2, 5 e 6.
+1. 130/ (1/2 + 1/5 + 1/6)
+2. calculando o valor total do inverso de cada parte => MMC(2, 5, 6) = 30 => (15 + 6 + 5)/30 => 26/30 = 26 (o 30 é descartado)
+3. divisão do valor pelo total de partes => 130/26 = 5
+4. cada parte do valor vale 5
+5. divisão inversamente proporcional => 5 x 15 = 75 | 5 x 6 = 30 | 5 x 5 = 25 (cada parte distriuída pelas quantidades 15, 6 e 5)
+6. resultado = 75, 30 e 25
