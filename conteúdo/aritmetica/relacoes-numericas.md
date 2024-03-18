@@ -184,6 +184,8 @@ Ex: 12000 : 24 (é divisível)
 Ex: 4 = 2 + 2  
 Ex: 18 = 11 + 7 
 
+***DICA:*** Para descobrir se um número é primo, basta dividi-lo pelos números primos antecedentes ao número primo que possui raíz quadrada maior que o número que se quer descobrir se é primo ou composto, se a divisão for exata ele não é primo.
+
 ## NÚMEROS COMPOSTOS
 * Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
 * Todo número não primo é um número composto, assim como todo número composto pode ser representado a partir do produto dos números primos que o forma.
