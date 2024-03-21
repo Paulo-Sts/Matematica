@@ -3,7 +3,7 @@
 <br>
 
 ## MÚLTIPLOS DE UM NÚMERO
-* Os múltiplos de um número, é o conjunto formado pelos resultados da multiplicação desse número, por cada um dos elementos que formam o conjunto dos números inteiros.
+* Os múltiplos de um número, é o conjunto formado pelos resultados da multiplicação desse número, por cada um dos elementos que formam o conjunto dos números naturais.
 * O conjunto dos múltiplos de um número, é um conjunto infinito, que se inicia sempre pelo número zero.
 * Para verificar se um número **a** é múltiplo de **b** basta, dividir **a** por **b**, se o resultado for um número exato, então **a** é múltiplo de **b**.
 * Representação dos múltiplos:
@@ -56,7 +56,7 @@ Ex: D(16)= {1, 2, 4, 8, 16}
 7. O conjunto do resultado das multiplicações será o conjunto dos divisores do número.
 
 Ex: D(12)= {1, 2, 3, 4, 6, 12}
-1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
+1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 => (2, 2, 3)
 2. multiplica-se 2 por 1 => 2 . 1 = 2 => {1}.
 3. adiciona-se o resultado no conjunto => {1, 2}.
 4. multiplica-se o segundo 2 pelos elementos do conjunto => 2 . 1 = 2 | 2 . 2 = 4 
@@ -154,7 +154,7 @@ Ex: 209 (é divisível)
 Ex: 411 (não é divisível)  
 
 > ### Divisibilidade por quize
-* Um número é divisível por quinze, quanto ele for divisível por tês e por cinco ao mesmo tempo.
+* Um número é divisível por quinze, quanto ele for divisível por três e por cinco ao mesmo tempo.
 
 Ex: 900 (é divisível)  
 Ex: 155 (não é divisível)  
@@ -176,7 +176,7 @@ Ex: 12000 : 24 (é divisível)
 * O número um não é considerado um número primo.
 * O número dois, é o único número primo par.
 * O teorema fundamental da aritmética define que, todo número natural maior que 1 ou é primo ou pode ser representado como o produto de números primos.
-* Os números primos são fundamentais no entendimento da aritmética.O processo de transformar qualquer número em produto de fatores primos é chamado de decomposição em fatores primos.
+* Os números primos são fundamentais no entendimento da aritmética. O processo de transformar qualquer número em produto de fatores primos é chamado de decomposição em fatores primos.
 * A conjectura de Goldbach determina que, todo número par maior que 2 pode ser representado como a soma de dois números primos.
 * Representação do conjunto de números primos:
   - P = {2, 3, 5, 7, 11, ...}
@@ -194,7 +194,7 @@ Ex: 18 = 11 + 7
 * É o processo de representar um número composto qualquer, em forma de multiplicação, em que os elementos da multiplicação são todos números primos.
 * O processo de decomposição, também chamado de fatoração é a divisão sucessiva de um número por números primos, até sua redução ao número um.
 * Representação da decomposição:
-  - n : p = A tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e A = produto entre os elementos de p.
+  - **n** : **p** = **a** tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e **a** = produto entre os elementos de **p**.
 
 Ex: Decomposição de 30 = 2 . 3 . 5
 1. dividir por 2 => 30 : 2 = 15
