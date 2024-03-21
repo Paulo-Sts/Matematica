@@ -55,18 +55,72 @@ Ex: (2, 8, 14, 20, 28, ...) => r = 6
 
 Ex: (30, 25, 20, 15, 10, 5, 0, -5, -10, ...) => r = -5  
 
-
-
 > ### Propriedades das progressões aritméticas
 
-#### soma
+#### Igualdade da soma de termos equidistantes e a soma dos termos extremos
+* Em uma P.A finita, a soma dos termos equidistantes dos extremos é igual a soma dos termos extremos.
 
-#### meio
+Ex: (2, 6, 10, 14, 18, 22, 26)  
+1. soma dos extremos => 2 + 26 = 28
+2. soma do 2º e 6º termo => 6 + 22 = 28
+3. soma do 3º e 5° termo => 10 + 18 = 28
 
-#### ímpar
+***DICA:*** Essa propriedade é útil em questões que se pede para encontrar o valor de um determinado termo, a partir dos termos dados, por exemplo tem se os 1º, 2º e 6º termos e se pede o valor do 5º termo. 
 
-#### consecutivos
+#### Relação entre três termos consecutivos
+* Considerando três termos consecutivos de uma P.A, o termo do meio será igual a média aritmética dos termos dos extremos.
 
-## TERMO GERAL DE UMA P.A
+Ex: (2, 6, 10, 14, 18, 22, 26)  
+1. selecionando três termos consecutivos => 10, 14, 18
+2. média dos termos extremos => 10 + 18 = 28/2 = 14
+3. igualdade com o termo do meio => 14 = 14
+
+#### Igualdade entre o valor central e a média dos termos equidistantes de uma P.A de tamanho ímpar
+* Em uma P.A finita com número ímpar de termos, o termo central é igual à média aritmética dos termos equidistantes do termo central da P.A.
+
+Ex: (2, 6, 10, 14, 18, 22, 26)  
+1. termo central => 14
+2. média dos termos equidistantes => 10 + 18 = 28/2 = 14 | 6 + 22 = 28/2 = 14 | 2 + 26 = 28/2 = 14
+3. igualdade com o termo central => 14 = 14
+
+#### Igualdade entre três termos consecutivos somados e o triplo do termo central
+* Em uma P.A, selecionando três termos consecutivos, a soma destes termos, será igual ao triplo do termo do central deste subconjunto.
+
+Ex: (2, 6, 10, 14, 18, 22, 26)  
+1. selecionando três termos consecutivos => 10, 14, 18
+2. soma dos três termos => 10 + 14 + 18 = 42
+3. triplo do termo do meio => 14 . 3 = 42
+4. igualdade com o termo do meio => 42 = 42
+
+## FÓRMULA DO TERMO GERAL DE UMA P.A
+* Essa fórmula é utilizada para encontrar o valor de termos desconhecidos em uma progressão aritmética.
+* Fórmula:
+  - a<sub>n</sub> = a<sub>1</sub> + (n - 1).r
+  - a<sub>n</sub> = termo desconhecido
+  - a<sub>1</sub> = primeiro termo
+  - n = total de termos da P.A
+  - r = razão da P.A
+
+Ex: (3, 5, 7, 9, _, _, _, _, ...) qual o 5º termo?
+
+1. montagem fórmula => a<sub>5</sub> = 3 + (5 - 1).2
+2. subtração => 3 + (5- 1).2 => 3 + (4).2
+3. multiplicado e soma => 3 + (4).2 => 3 + 8 = 11
+4. logo a<sub>5</sub> = 11
 
 ## SOMA DOS TERMOS DE UMA P.A
+* É a fórmula usada para calcular a soma dos termos de uma Progressão aritmética.
+* Fórmula:
+  - S<sub>n</sub> = (a<sub>1</sub> + a<sub>n</sub>).n/2
+  - S<sub>n</sub> = soma
+  - a<sub>1</sub> = primeiro termo
+  - a<sub>n</sub> = último termo
+  - n = total de termos da P.A
+
+Ex: (3, 5, 7, 9, 11, 13, 15, 17)
+
+1. montagem fórmula => S<sub>8</sub> = (3 + 17).8/2 
+2. soma do 1º e 8º termo => 3 + 17 = 20
+3. multiplicado pelo número de termos => 20 . 8 = 160
+4. dividido por 2 => 160/2 = 80
+5. logo S<sub>8</sub> = 80
