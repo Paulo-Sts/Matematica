@@ -69,6 +69,22 @@
 <div style="display:inline_block">
     <img align="left" height="130" width="380" src="../../img/representacao-aplicacao-capital.png">
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+#### Diagrama de fluxo de caixa
+
+<div style="display:inline_block">
+    <img align="left" height="120" width="380" src="../../img/diagrama-fluxo-de-caixa.png">
+</div>
+
+
 <br>
 <br>
 <br>
