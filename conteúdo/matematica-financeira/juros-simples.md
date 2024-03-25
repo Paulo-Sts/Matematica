@@ -29,7 +29,7 @@
   - J = c . i . t
   - J = juros
   - C = capital inicial
-  - i = taxa de juros
+  - i = taxa de juros (em porcentagem ou em forma unitária)
   - t = tempo
 
 #### Fórmula do montante
@@ -38,7 +38,7 @@
   - M = c . (1 + i . t)
   - M = montante
   - c = capital inicial
-  - i = taxa de juros
+  - i = taxa de juros (em porcentagem ou em forma unitária)
   - t = tempo
 
 Ex: Uma aplicação financeira de R$ 1.500,00 foi feita a taxa de juros simples de 3% ao mês pelo período de 5 meses. Determine o valor do montante.
@@ -54,3 +54,5 @@ Ex: Uma aplicação financeira de R$ 1.500,00 foi feita a taxa de juros simples 
 **Observação:** No regime de juros simples, as taxas de juros são proporcionais, dessa forma é possível converter uma taxa definida em determinado período, para uma taxa proporcional a ela em outro tipo de período.
 
 Ex: 12% a.a = 1% a.m = 6% a.s
+
+***DICA:*** Usa-se a fórmula do valor do juros, quando apenas uma variável é desconhecida, já a fórmula do montante é mais indicada quando mais de uma variável for desconhecida.
