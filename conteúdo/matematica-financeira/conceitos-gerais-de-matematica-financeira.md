@@ -64,13 +64,22 @@
 
 ## REPRESENTAÇÃO GRÁFICA DOS ELEMENTOS QUE FORMAM AS OPERAÇÕES DE JUROS
 
-<div style="display: grid;  row-gap: 25px;">
-    <div style="display:inline_block">
-        <h4>Aplicação do capital</h4>
-        <img align="left" height="130" width="380" src="../../img/representacao-aplicacao-capital.png">
-    </div>
-    <div style="display:inline_block">
-        <h4>Comparação entre regime simples e regime composto</h4>
-        <img align="left" height="200" width="380" src="../../img/regime-simples-e-composto.png">
-    </div>
+#### Aplicação do capital
+
+<div style="display:inline_block">
+    <img align="left" height="130" width="380" src="../../img/representacao-aplicacao-capital.png">
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+#### Comparação entre regime simples e regime composto
+
+<div style="display:inline_block">
+    <img align="left" height="200" width="380" src="../../img/regime-simples-e-composto.png">
+</div>
+
