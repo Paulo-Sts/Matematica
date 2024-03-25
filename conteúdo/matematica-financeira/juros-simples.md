@@ -51,3 +51,6 @@ Ex: Uma aplicação financeira de R$ 1.500,00 foi feita a taxa de juros simples 
 6. resultado => M = 1725
 7. Logo o montante é R$ 1.725,00
 
+**Observação:** No regime de juros simples, as taxas de juros são proporcionais, dessa forma é possível converter uma taxa definida em determinado período, para uma taxa proporcional a ela em outro tipo de período.
+
+Ex: 12% a.a = 1% a.m = 6% a.s
