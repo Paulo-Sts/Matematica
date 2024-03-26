@@ -24,7 +24,7 @@
   - j = juros
 
 #### Valor dos juros
-* Calcula o valor dos juros sobre o capital inicial 
+* Calcula o valor dos juros sobre o capital inicial. 
 * Fórmula:
   - J = c . i . t
   - J = juros
