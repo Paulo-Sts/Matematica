@@ -32,6 +32,13 @@ Ex: √16 = 4
 3. fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
 4. multiplica-se uma unidade de cada grupo 2 * 2 = 4
 
+***DICA:*** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar a raíz original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
+
+Ex: 8√6 = √48
+1. calcular a potência => 8<sup>2</sup> = 64
+2. multiplicar pelo radicando => 8 . 6 = 48
+3. logo é igual a raíz de √48
+
 > ### Propriedades da radiciação
 
 #### Raíz de potência com expoente igual 
