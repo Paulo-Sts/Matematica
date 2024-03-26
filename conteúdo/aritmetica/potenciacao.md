@@ -130,3 +130,15 @@ Ex: (1/3)<sup>2</sup> =  1<sup>2</sup>/3<sup>2</sup> = 1/9
 
 Ex: 4<sup>1/2</sup> =  <sup>2</sup>√4<sup>1</sup> = √4  
 Ex: 8<sup>1/3</sup> =  <sup>3</sup>√8<sup>1</sup> = <sup>3</sup>√8  
+
+#### Comparação entre potências
+* Para comparar duas ou mais potências, elas devem possui a mesma base, ou possuírem expoentes iguais, nesse caso a potência de maior base será a de maior valor.
+
+Ex: 2<sup>75</sup> e 4<sup>37</sup> 
+1. igualar as bases => 4<sup>37</sup> = ( 2<sup>2</sup> )<sup>37</sup> = 2<sup>74</sup>
+2. comparar as bases => 2<sup>75</sup> > 2<sup>74</sup>
+
+Ex: 2<sup>75</sup> e 3<sup>50</sup> 
+1. igualar os expoentes => 2<sup>75</sup> = ( 2<sup>3</sup> )<sup>25</sup> | 3<sup>50</sup> = ( 3<sup>2</sup> )<sup>25</sup>
+2. eliminar o parêntese => ( 2<sup>3</sup> ) = 8<sup>25</sup> | ( 3<sup>2</sup> ) = 9<sup>25</sup>
+3. comparar as bases => 8<sup>25</sup> < 9<sup>25</sup>
