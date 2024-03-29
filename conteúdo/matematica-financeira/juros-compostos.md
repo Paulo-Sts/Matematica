@@ -48,4 +48,4 @@ Ex: Qual deve ser o capital inicial para que uma aplicação que renda 20% ao an
 4. realizar divisão => c = 1440/1,44 = 1000
 5. Logo o capital é R$ 1.000,00
 
-**Observação:** No regime de juros compostor, as taxas de juros não podem ser convertidas diretamente, como no caso dos juros simples. É necessário encontrar a taxa equivalente por meio da fórmula, dessa forma é preferível alterar o tempo do que a taxa.
+**Observação:** No regime de juros compostos, as taxas de juros não podem ser convertidas diretamente, como no caso dos juros simples. É necessário encontrar a taxa equivalente por meio da fórmula, dessa forma é preferível alterar o tempo do que a taxa.
