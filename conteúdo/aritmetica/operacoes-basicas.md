@@ -337,4 +337,22 @@ Ex: -4 : (-2) = 2
 * A divisão de dois números com o sinais diferentes, sempre resulta em um número negativo.
 
 Ex: -20 : 4 = -5  
-Ex: 10 : (-5) = -2
+Ex: 10 : (-5) = -2  
+
+***DICA:*** Para divisões em que o dividendo é menor que o divisor, adiciona-se um zero ao dividendo e um zero e vírgula ao quociente, se ainda não for possível dividir, adiciona-se zero ao dividendo e zero no quociente. Esse procedimento pode ser feito até que o dividendo possa ser dividido pelo divisor.
+
+Ex: 20 : 500 = 0,04
+1. adiciona-se um zero ao dividendo e ao quociente um zero e vírgula => 200 : 500 | 0, (quociente)
+2. adicioana-se um ao dividendo e ao quociente => 2000 : 500 | 0,0 (quociente)
+3. multiplica-se o divisor por quatro => 2000 : 500 => 500 . 4 = 2000 => 2000 - 2000 = 0 | 0,04 (quociente)
+4. logo o resultado é 0,04
+
+***DICA:*** Quanto ao descer um número na divisão e ele for menor que o divisor, multiplica-se o divisor por zero e adiciona zero ao quociente e subtrai o valor do dividendo por zero, para que ele se transforme em resto e seja possível adicionar zero a ele. 
+
+Ex: 618 : 60 = 10,3
+1. separa o 61 para ser dividido => 61'8 : 60 => 61 : 60 => 60 . 1 = 60 => 61 - 60 = 1 | 1 (quociente)
+2. resto 1 e desce o próximo algarismo => 18 : 60 | 1 (quociente)
+3. multiplica-se o 60 por 0 para trazer o dividendo para o resto => 60 . 0 = 0 => 18 - 0 = 18 | 10 (quociente)
+4. adiciona zero ao resto e vírgula ao quociente => 180 : 60 | 10, (quociente)
+5. multiplica o divisor por 3 => 60 . 3 = 180 => 180 - 180 = 0 | 10,3 (quociente)
+6. logo o resultado é 10,3
