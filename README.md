@@ -17,7 +17,7 @@ Estudo da matemática.
    - Potenciação
    - Radiciação
    - Expressões numéricas
-   - Números decimais
+   - [Números decimais](./conteúdo/aritmetica/numeros-decimais.md)
    - Tabuada
    - Sistemas de numeração
    - Unidades de medida
