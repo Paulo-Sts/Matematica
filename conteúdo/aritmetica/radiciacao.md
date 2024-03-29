@@ -87,7 +87,7 @@ Ex: √<sup>3</sup>√64 = <sup>2 . 3</sup>√64 = <sup>6</sup>√64 = 2
 Ex: <sup>5</sup>√242 = <sup>5</sup>√3<sup>5</sup> = 3
 
 > ### Racionalização de denominadores
-* A racionalização de denominadores, é a transformação de uma fração de denominador irracional, em uma fração equivalente com denominador racional.
+* A racionalização de denominadores, é a transformação de uma fração de denominador irracional, em uma fração equivalente com denominador racional, ou seja, é a transformação de um número em número racional.
 
 #### Denominador com raíz quadrada
 * Multiplica-se o numerador e o denominador da fração, pelo valor do denominador da fração.
