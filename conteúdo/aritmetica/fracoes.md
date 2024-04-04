@@ -18,6 +18,11 @@
 
 ***DICA:*** Uma forma de montar uma fração é representa-la de forma geométrica, por exemplo um retângulo dividido em partes iguais, com algumas partes rachuradas. Isso ajuda a visualizar frações a partir do enunciado das questões.
 
+***DICA:*** Frações em que o numerador ou o denominador são negativos, tem como resultado um valor negativo. Frações em que o numerador e o denominador são negativos tem como resultado um valor positivo.
+
+Ex: -1/2 = 1/-2 = -(1/2)  
+Ex: 1/2 = -1/-2  
+
 ## TIPOS DE FRAÇÃO
 
 > ### Fração própria
