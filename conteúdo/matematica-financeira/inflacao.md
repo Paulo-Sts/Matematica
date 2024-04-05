@@ -40,5 +40,26 @@ inflação no período = ?
 4. logo a inflação foi de 25%
 
 #### Taxa acumulada de inflação
+* A inflação acumulada é o produto da inflação de cada período somado ao valor total em cada período, menos o valor total final.
+* Fórmula:
+  - inflação acumulada = (1 + i1) . (1 + i2) ... (1 + in) - 1
+  - (1 + i1) = inflação no 1º período
+  - (1 + i2) = inflação no 2º período
+  - (1 + in) = inflação no último período
+
+Ex: Produto em 2021 a inflação foi de 5% a.a, em 2022 custa R$ 2% a.a, em 2023 foi de 4% a.a qual a taxa de inflação acumulada nos três anos?
+
+Dados:
+inflação 2021 = 5% a.a
+inflação 2022 = 2% a.a
+inflação 2023 = 4% a.a
+inflação acumulada = ?
+
+1. montar fórmula => inflação acumulada = (1 + 0,05) . (1 + 0,02) . (1 + 0,04) - 1
+2. soma => (1 + 0,05) = (1,05) | (1 + 0,02) = (1,02) | (1 + 0,04) = (1,04)
+3. multiplicação => 1,05 . 1,02 . 1,04 = 1,11384
+4. subtração => 1,11384 - 1 = 0,11384
+5. forma de porcentagem => 0,11384 . 100 = 11,384%
+6. logo a inflação foi de 11,384%
 
 #### Desvalorização monetária
