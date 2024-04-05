@@ -29,10 +29,10 @@
 
 Ex: Produto em 2020 custava R$ 20,00 em 2021 custa R$ 25,00 qual a taxa de inflação?
 
-Dados:
-índice final = 25
-índice inicial = 20
-inflação no período = ?
+Dados:  
+índice final = 25  
+índice inicial = 20  
+inflação no período = ?  
 
 1. montar fórmula => (25/20) - 1
 2. divisão => 25/20 = 1,25
@@ -47,13 +47,13 @@ inflação no período = ?
   - (1 + i2) = inflação no 2º período
   - (1 + in) = inflação no último período
 
-Ex: Produto em 2021 a inflação foi de 5% a.a, em 2022 custa R$ 2% a.a, em 2023 foi de 4% a.a qual a taxa de inflação acumulada nos três anos?
+Ex: Em 2021 a inflação foi de 5% a.a, em 2022 custa R$ 2% a.a, em 2023 foi de 4% a.a qual a taxa de inflação acumulada nos três anos?
 
-Dados:
-inflação 2021 = 5% a.a
-inflação 2022 = 2% a.a
-inflação 2023 = 4% a.a
-inflação acumulada = ?
+Dados:  
+inflação 2021 = 5% a.a  
+inflação 2022 = 2% a.a  
+inflação 2023 = 4% a.a  
+inflação acumulada = ?  
 
 1. montar fórmula => inflação acumulada = (1 + 0,05) . (1 + 0,02) . (1 + 0,04) - 1
 2. soma => (1 + 0,05) = (1,05) | (1 + 0,02) = (1,02) | (1 + 0,04) = (1,04)
@@ -63,3 +63,18 @@ inflação acumulada = ?
 6. logo a inflação foi de 11,384%
 
 #### Desvalorização monetária
+* Determina a diminuição do poder de compra da moeda de acordo com o índice de inflação.
+* Fórmula:
+  - TDM = taxa inflacionária/(1 + taxa inflacionária)
+
+Ex: Em 2024 a inflação foi de 5% a.a, qual a taxa de desvalorização da moeda correspondente?
+
+Dados:  
+inflação 2024 = 5% a.a  
+taxa de desvalorização da moeda = ?  
+
+1. montar fórmula => TDM = 0,05/ 1 + 0,05
+2. soma =>  1 + 0,05 = 1,05
+3. divisão => 0,05/ 1,05 = 0,0476190476190476
+4. forma de porcentagem => 0,0476190476190476 . 100 = 4,76190476190476%
+5. logo a desvalorização da moeda foi de aproximadamente 4,8%
