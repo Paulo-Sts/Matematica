@@ -4,7 +4,7 @@
 
 ## DEFINIÇÃO
 * A multiplicação é a expressão do aumento das quantidades de um determinado valor, sendo uma forma simplificada de calcular a adição.
-* O simbolo **x**, **\*** e **.** (vezes) representa a operação de multiplicação.
+* Os simbolos **x**, **\*** e **.** (vezes) representa a operação de multiplicação.
 * Cada termo da multiplicação é chamado de **fator**
 * O resultado da multiplicação é denominado **produto**.
 * A multiplicação simplifica a adição pegando um dos fatores e o repetindo (somando) a quantidade de vezes correspondente ao outro fator.
