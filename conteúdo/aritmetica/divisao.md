@@ -99,11 +99,11 @@ Ex: 10 : (-5) = -2
 
 Ex: 20 : 500 = 0,04
 1. adiciona-se um zero ao dividendo e ao quociente um zero e vírgula => 200 : 500 | 0, (quociente)
-2. adicioana-se um ao dividendo e ao quociente => 2000 : 500 | 0,0 (quociente)
+2. adiciona-se um zero ao dividendo e ao quociente => 2000 : 500 | 0,0 (quociente)
 3. multiplica-se o divisor por quatro => 2000 : 500 => 500 . 4 = 2000 => 2000 - 2000 = 0 | 0,04 (quociente)
 4. logo o resultado é 0,04
 
-***DICA:*** Quanto ao descer um número na divisão e ele for menor que o divisor, multiplica-se o divisor por zero e adiciona zero ao quociente e subtrai o valor do dividendo por zero, para que ele se transforme em resto e seja possível adicionar zero a ele. 
+***DICA:*** Quando ao descer um número na divisão e ele for menor que o divisor, multiplica-se o divisor por zero e adiciona zero ao quociente e subtrai o valor do dividendo por zero, para que ele se transforme em resto e seja possível adicionar zero a ele. 
 
 Ex: 618 : 60 = 10,3
 1. separa o 61 para ser dividido => 61'8 : 60 => 61 : 60 => 60 . 1 = 60 => 61 - 60 = 1 | 1 (quociente)
