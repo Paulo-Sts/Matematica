@@ -5,7 +5,7 @@
 ## MÚLTIPLOS DE UM NÚMERO
 * Os múltiplos de um número, é o conjunto formado pelos resultados da multiplicação desse número, por cada um dos elementos que formam o conjunto dos números naturais.
 * O conjunto dos múltiplos de um número, é um conjunto infinito, que se inicia sempre pelo número zero.
-* Para verificar se um número **a** é múltiplo de **b** basta, dividir **a** por **b**, se o resultado for um número exato, então **a** é múltiplo de **b**.
+* Para verificar se um número **b** é múltiplo de **a** basta, dividir **b** por **a**, se o resultado for um número exato, então **b** é múltiplo de **a**.
 * Representação dos múltiplos:
   - M(a) = {0, ...}
 
@@ -39,7 +39,7 @@ Ex: D(10)= {1, 2, 5, 10}
 10 : 9 = 1 com resto 1 (não divisível) 
 10 : 10 = 1  
 
-***DICA:*** Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser igual ao número que se quer saber seus divisores.
+***DICA:*** Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser iguais ao número que se quer saber seus divisores.
 
 Ex: D(16)= {1, 2, 4, 8, 16}
 1. multiplica-se os dois primeiros extremos => 1 . 16 = 16
@@ -95,7 +95,7 @@ Ex: D(12)= {1, 2, 3, 4, 6, 12}
 * Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro (divisão exata).
 
 > ### Divisibilidade por dois
-* Um número é divisível por dois, quando o número for par, ou seja, quando o número termina em: zero, dois, quatro, seis ou oito.
+* Um número é divisível por dois, quando o número for par, ou seja, quando o número terminar em: zero, dois, quatro, seis ou oito.
 
 Ex: 22 (é divisível)  
 Ex: 31 (não é divisível)  
@@ -107,7 +107,7 @@ Ex: 234 (é divisível)
 Ex: 34 (não é divisível)  
 
 > ### Divisibilidade por quatro
-* Um número é divisível por quatro, quando os dois últimos algarismos forem um zero, ou quando os dois últimos algarismos formarem um número divisível por quatro.
+* Um número é divisível por quatro, quando os seus dois últimos algarismos forem zero, ou quando os dois últimos algarismos formarem um número divisível por quatro.
 
 Ex: 1500 (é divisível)  
 Ex: 1031 (não é divisível)  
@@ -125,7 +125,7 @@ Ex: 132 (é divisível)
 Ex: 44 (não é divisível)  
 
 > ### Divisibilidade por oito
-* Um número é divisível por oito, quando seus três últimos algarismos forem zero, ou ainda quanto a soma dos três últimos algarismos formarem um número divisível por oito.
+* Um número é divisível por oito, quando seus três últimos algarismos forem zero, ou ainda quando a soma dos três últimos algarismos formarem um número divisível por oito.
 
 Ex: 28000 (é divisível)  
 Ex: 244 (não é divisível)  
@@ -164,20 +164,20 @@ Ex: 155 (não é divisível)
 * Pode-se verificar a divisibilidade de qualquer número composto identificando quais números multiplicados resultam no número, quais os critérios de divisibilidade desses números e aplicar ao número que se deseja dividir esses critérios.
 
 Ex: 12000 : 24 (é divisível)
-1. verificar os números que formam o vinte e quatro e seus critérios de divisibilidade => 24 = 8 . 3
-2. é possível por vinte e quatro, quando atender aos critérios de divisibilidade de oito e três.
+1. verificar os números que formam o 24 e seus critérios de divisibilidade => 24 = 8 . 3
+2. é possível por 24, quando atender aos critérios de divisibilidade de 8 e 3.
 3. (divisibilidade por três) soma dos algarismos ser divisível por três => 1 + 2 + 0 + 0 + 0 = 3 (é divisível)
 4. (divisibilidade por oito) três últimos algarismos iguais a zero ou a sua soma ser divisível por oito => 12'000 = 000 (é divisível)
 5. logo é possível dividir => 12000 : 24 = 500
 
 ## NÚMEROS PRIMOS
-* Número primo, é todo número divisível apenas por um e por ele mesmo.
+* Número primo, é todo número divisível apenas por **1** e por ele mesmo.
 * O conjunto dos números primos é um conjunto infinito.
-* O número um não é considerado um número primo.
-* O número dois, é o único número primo par.
-* O teorema fundamental da aritmética define que, todo número natural maior que 1 ou é primo ou pode ser representado como o produto de números primos.
+* O número **1** não é considerado um número primo.
+* O número **2**, é o único número primo par.
+* O teorema fundamental da aritmética define que, todo número natural maior que **1** ou é primo ou pode ser representado como o produto de números primos.
 * Os números primos são fundamentais no entendimento da aritmética. O processo de transformar qualquer número em produto de fatores primos é chamado de decomposição em fatores primos.
-* A conjectura de Goldbach determina que, todo número par maior que 2 pode ser representado como a soma de dois números primos.
+* A conjectura de Goldbach determina que, todo número par maior que **2** pode ser representado como a soma de dois números primos.
 * Representação do conjunto de números primos:
   - P = {2, 3, 5, 7, 11, ...}
 
@@ -188,11 +188,11 @@ Ex: 18 = 11 + 7
 
 ## NÚMEROS COMPOSTOS
 * Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
-* Todo número não primo é um número composto, assim como todo número composto pode ser representado a partir do produto dos números primos que o forma.
+* Todo número maior que **1** que não primo é um número composto, assim como todo número composto pode ser representado a partir do produto dos números primos que o forma.
 
 ## DECOMPOSIÇÃO EM NÚMEROS PRIMOS OU FATORAÇÃO NUMÉRICA
 * É o processo de representar um número composto qualquer, em forma de multiplicação, em que os elementos da multiplicação são todos números primos.
-* O processo de decomposição, também chamado de fatoração é a divisão sucessiva de um número por números primos, até sua redução ao número um.
+* O processo de decomposição, também chamado de fatoração é a divisão sucessiva de um número por números primos, até sua redução ao número **1**.
 * Representação da decomposição:
   - **n** : **p** = **a** tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e **a** = produto entre os elementos de **p**.
 
