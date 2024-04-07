@@ -24,7 +24,7 @@ Ex: 35 + 66 = 101
 3. adição da ordem das dezenas => 3 + 6 = 9  
 4. soma-se o valor reagrupado => 9 + 1 = 10
 5. (opção A1) adiciona o último algarismo e reagrupa o outro para a próxima ordem => 01
-6. (opção A2) repete-se o último algarismo já que não há valores a somar => 101
+6. (opção A2) repete-se o último algarismo já que não há mais valores a somar => 101
 7. (opção B) como não há mais algarismos pode-se adicionar diretamente os dois da última adição => 101
 8. logo o resultado => 101
 
@@ -57,7 +57,6 @@ Ex: 0 + 6 = 6
 * O número oposto ou simétrico é o número com sinal trocado.
 * A soma de números opostos sempre é igual a zero.
 * Representação:
-  - a | -a
   - a + (-a) = 0
 
 Ex: 10 + (-10) = 0    
@@ -71,8 +70,8 @@ Ex: -6 + 6 = 0
 Ex: 10 + 7 = 17  
 Ex: -4 + (-5) = -9
 
-##### Sinais diferentes
-* Subtrai-se os valores mantendo sinal do maior número.
+#### Sinais diferentes
+* Subtrai-se os valores mantendo o sinal do maior número.
 
 Ex: -2 + 7 = +5  
 Ex: 15 + (-25) = -10
