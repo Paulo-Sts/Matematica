@@ -26,7 +26,7 @@
 > ### Propriedades
 * O conjunto dos números inteiros tem como origem o **0** e se estende ao infinito tanto a esquerda como também a direita.
 * Os números negativos são representados com um sinal de **-** (negativo) sempre antes de cada número, já nos números positivos o uso do sinal de **+** (positivo) antes de cada valor é opcional.
-* Cada elemento é igual ao número que o antecede com o acrécimo de 1 para números positivos e igual ao número que o antecede com o acrécimo de -1 para números negativos.
+* Cada elemento é igual ao número que o antecede com o acrécimo de **1** para números positivos e igual ao número que o antecede com o acrécimo de **-1** para números negativos.
 * Todos os elementos que formam o conjunto dos números inteiros, possuem um antecessor (anterior imediato) e um sucessor (posterior imediato).
 * O **0** é um número neutro, não sendo nem positivo nem negativo.
 * Ao ser representado na reta numérica pode-se identificar que os números com mesmo valor numérico (em relação a origem), mas com sinais contrários são chamados números simétricos ou opostos.
@@ -67,7 +67,7 @@ Ex: |-10| = 10
 
 > ### Propriedades
 * É composto por todos os números que podem ser representados na forma **n/d** em que **n** (numerador) e **d** (denominador) são números inteiros e **d** é ≠ **0**.
-* São outras formas de representar os números racionais, os números decimais (em forma de dízima periódica) e os números sob a forma de % (porcentagem) pois representam uma fração.
+* São outras formas de representar os números racionais, os números decimais (em forma de dízima periódica) e os números sob a forma de **%** (porcentagem) pois representam uma fração.
 * Entre dois números inteiros, existem infinitos números racionais.
 * Um número racional é a representação de uma parte do todo.
 * O inverso de um número racional **a/b** é o número racional **b/a**. Sendo o produto entre ele e o seu inverso igual a um.
@@ -88,7 +88,7 @@ Ex: -4/3 é o inverso de -3/4
 > ### Propriedades
 * Os números irracionais podem ser algébricos ou transcendentes. Algébrico é aquele que satisfaz uma equação algébrica, todo que não satisfazer é um irracional transcendente.
 
-Ex: 1,41413...
+Ex: 1,41413...  
 Ex: 3,141592...
 
 ## NÚMEROS REAIS
