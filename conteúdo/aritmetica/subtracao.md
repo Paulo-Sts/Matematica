@@ -17,8 +17,8 @@
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Subtrair os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada subtração o resultado é um algarismo.
-4. Para o caso de o minuendo da ordem que se está subtraindo ser menor que o subtraendo, retira-se da ordem a esquerda 1 valor (dezena, centena, ...) e se acrescenta ao minuendo (soma) que está sendo subtraído (para que ele se torne maior que o subtraendo).
-5. Após isso realiza-se a subtração, sendo que o valor retirado da ordem a esquerda é modificado em menos 1 casa da sua ordem (decimal, centena, ...).
+4. Para o caso de o minuendo da ordem que se está subtraindo ser menor que o subtraendo, retira-se da ordem a esquerda **1** valor (dezena, centena, ...) e se acrescenta ao minuendo (soma) que está sendo subtraído (para que ele se torne maior que o subtraendo).
+5. Após isso realiza-se a subtração, sendo que o valor retirado da ordem a esquerda é modificado em menos **1** casa da sua ordem (decimal, centena, ...).
 6. Após a retirada de todos os valores de acordo com sua ordem o resultado é a diferença. 
 
 Ex: 78 - 29 = 49   
