@@ -9,8 +9,8 @@
   - Notação de intervalo;
   - Notação de conjunto;
   - Notação geométrica.
-* Intervalo aberto o extremo não faz parte.
-* Intervalo fechado o extremo faz parte.
+* Quando o intervalo é aberto o extremo não faz parte.
+* Quando o intervalo é fechado o extremo faz parte.
 
 #### Representação de intervalo e de conjunto
 * ]a,b[ ou (a,b) = {x ∈ R | a < x < b}
