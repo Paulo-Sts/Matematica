@@ -132,7 +132,7 @@ Ex: 1/2 . 3/4 = 1 . 2/3 . 4 = 2/12 - 1/6
 
 > ### Divisão de frações
 * Para dividir, basta inverter a segunda fração e realizar a multiplicação entre numeradores e denominadores.
-* Representação da subtração de frações:
+* Representação da divisão de frações:
   - a/b : c/d = a/b . d/c 
 
 Ex: 10/8 : 2/4 = 10/8 . 4/2 = 10 . 4/8 . 2 = 40/16 = (:8) = 5/2  
