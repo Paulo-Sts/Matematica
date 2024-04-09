@@ -28,7 +28,7 @@ Ex: -2<sup>2</sup> = -1.2<sup>2</sup> = -1.4 = -4
 > ### Propriedades da potenciação
 
 #### Potência com expoente igual a um
-* Todo número elevado a potência em que o expoente é igual a um, tem como resultado o próprio número, pois a base é multiplicada uma única vez. Assim como quando o valor da base de uma potenciação for igual a um, o resultado sempre será um.
+* Todo número elevado a potência em que o expoente é igual a 1, tem como resultado o próprio número, pois a base é multiplicada uma única vez. Assim como quando o valor da base de uma potenciação for igual a 1, o resultado sempre será 1.
 * Representação:
   - a<sup>1</sup> = a
   - 1<sup>n</sup> = 1
@@ -37,7 +37,7 @@ Ex: 5<sup>1</sup> = 5
 Ex: 1<sup>2</sup> = 1  
 
 #### Potência com expoente igual a zero
-* Todo número elevado a potência com expoente zero, tem como resultado um. Isso se da pelo fato de que o expoente zero de uma potência, se deriva da subtração de expoentes iguais entre potências, ou seja, uma divisão de potências de mesma base. Logo por se tratar de uma divisão de potências em que os expoentes são iguais, ao realizar a subtração, eles são eliminados, restando apenas a divisão, que por se tratar de uma divisão entre dois números iguais, tem como resultado o valor um.
+* Todo número elevado a potência com expoente zero, tem como resultado 1. Isso se dá pelo fato de que o expoente zero de uma potência, se deriva da subtração de expoentes iguais entre potências, ou seja, uma divisão de potências de mesma base. Logo por se tratar de uma divisão de potências em que os expoentes são iguais, ao realizar a subtração, eles são eliminados, restando apenas a divisão, que por se tratar de uma divisão entre dois números iguais, tem como resultado o valor um.
 * Já quando o número zero é o valor da base de uma potenciação, o resultado sempre será igual a zero, pois a multiplicação do número zero, sempre resulta em zero.
 * Uma exponenciação formada por uma base igual a zero e um expoente também zero, é definida como indeterminada. Ela é definida assim pois, não existe um resultado definido para esse tipo de operação, visto que poderia-se aplicar o princípio de resolução quando o expoente é igual a zero e o princípio de quando a base é igual a zero, o que cria uma ambiguidade de resultado.
 * Representação:
