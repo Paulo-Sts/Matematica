@@ -25,10 +25,15 @@ Ex: 15% de 30 = 4.5
 ## OPERAÇÕES COM PORCENTAGEM
 
 > ### Transformação de taxas
-* Taxa percentual para taxa unitária (Dividir por 100)
-* Taxa unitária para taxa percentual (Multiplica por 100)
+
+#### Taxa percentual para taxa unitária
+* Para converter uma taxa percentual para taxa unitária, basta dividir por 100.
 
 Ex: 20% => 20 : 100 = 0,2  
+
+#### Taxa unitária para taxa percentual
+* Para converter uma taxa unitária para taxa percentual, basta multiplicar por 100.
+
 Ex: 0,05 => 0,05 . 100 = 5%  
 
 > ### Aumento de um valor
