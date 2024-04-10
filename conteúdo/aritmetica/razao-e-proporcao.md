@@ -63,7 +63,7 @@ Ex: 20/10 = 10/x
 4. x = 5
 
 #### Quarta proporcional
-* Dados três números racionais **a**, **b** e **c**, não nulos, define-se como quarta proporcional dessses números o número **x**, tal que **a/b** = **c/x**.
+* Dados três números racionais **a**, **b** e **c**, não nulos, define-se como quarta proporcional desses números o número **x**, tal que **a/b** = **c/x**.
 
 Ex: 8/12 = 6/x
 1. 8 . x = 12 . 6
@@ -142,5 +142,5 @@ Ex: divisão de 130 em partes inversamente proporcionais a 2, 5 e 6.
 2. calculando o valor total do inverso de cada parte => MMC(2, 5, 6) = 30 => (15 + 6 + 5)/30 => 26/30 = 26 (o 30 é descartado)
 3. divisão do valor pelo total de partes => 130/26 = 5
 4. cada parte do valor vale 5
-5. divisão inversamente proporcional => 5 x 15 = 75 | 5 x 6 = 30 | 5 x 5 = 25 (cada parte distriuída pelas quantidades 15, 6 e 5)
+5. divisão inversamente proporcional => 5 x 15 = 75 | 5 x 6 = 30 | 5 x 5 = 25 (cada parte distribuída pelas quantidades 15, 6 e 5)
 6. resultado = 75, 30 e 25
