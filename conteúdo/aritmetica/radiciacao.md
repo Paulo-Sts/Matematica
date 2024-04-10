@@ -32,7 +32,7 @@ Ex: √16 = 4
 3. fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
 4. multiplica-se uma unidade de cada grupo 2 * 2 = 4
 
-***DICA:*** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar a raíz original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
+***DICA:*** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
 
 Ex: 8√6 = √48
 1. calcular a potência => 8<sup>2</sup> = 64
@@ -125,7 +125,7 @@ Ex: √(5 + √24)
 ## OPERAÇÕES COM RADICAIS
 
 > ### Adição
-* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e somar os seus coeficientes.
+* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e soma-se os coeficientes.
 * Para radicais não semelhantes, antes da soma é preciso simplificar o radical. 
 * Quando não é possível a simplificação, calcula-se o valor dos radicais e soma-se o resultado.
 
@@ -134,7 +134,7 @@ Ex: 8√6 + 9√24 = 8√6 + 9√2<sup>2</sup>.2.3 = 8√6 + (9.2)√2.3 = 8√6
 Ex: √81 + √25 = 9 + 5 = 14  
 
 > ### Subtração
-* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e subtrair os seus coeficientes.
+* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e se subtrair os coeficientes.
 * Para radicais não semelhantes, antes da subtração é preciso simplificar o radical.
 Quando não é possível a simplificação, calcula-se o valor dos radicais e subtraí-se o resultado.
 
@@ -149,7 +149,6 @@ Ex: √5 + √2 = 2.24 - 1,41 = 0.82
   - <sup>n</sup>√a . <sup>n</sup>√b = √a . b
 
 Ex: <sup>3</sup>√9 . <sup>3</sup>√3 = <sup>3</sup>√9 . 3 = <sup>3</sup>√27 = 3  
-Ex: √27/√3 = √27/3 = √9 = 3
 
 > ### Divisão
 * Na divisão de radicais de mesmo índice, repete-se o índice do radical e divide-se os radicandos.
@@ -159,7 +158,9 @@ Ex: √27/√3 = √27/3 = √9 = 3
 
 Ex: √27/√3 = √27/3 = √9 = 3
 
-***DICA:*** Para realizar multiplicação ou divisão entre raízes com índices diferentes, é necessário transformar as raízes para que tenham o mesmo índice. Isso é feito encontrando o MMC entre os dois índices, o resultado será o novo índice. Depois é necessário transformar os radicandos, isso é feito dividindo o novo índice pelo índice anterior e o multiplicando pelo expoente do radicando, esse será o novo expoente do radicando.
+#### Redução de radicais a um mesmo índice
+1. Encontrar o MMC entre os dois índices, o resultado será o novo índice. 
+2. Transformar os radicandos, isso é feito dividindo o novo índice pelo índice anterior e o multiplicando pelo expoente do radicando, esse será o novo expoente do radicando.
 
 Ex: <sup>3</sup>√8/√4  
 1. MMC(3, 2) = 6  

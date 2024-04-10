@@ -68,7 +68,7 @@ Ex: 34,6 . 12,111 = 419,0406
 
 > ### Divisão
 * Iguala-se o número de casas decimais do dividendo e do divisor.
-* realiza-se a divisão normal eliminando a vírgula.
+* Realiza-se a divisão normal eliminando a vírgula.
 
 Ex: 14,8 : 2 = 7,4  
 1. 14,8 : 2,0 => 148 : 20 = 7,4
