@@ -34,9 +34,9 @@ Ex: √16 = 4
 
 ***DICA:*** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
 
-Ex: 8√6 = √48
-1. calcular a potência => 8<sup>2</sup> = 64
-2. multiplicar pelo radicando => 8 . 6 = 48
+Ex: 4√3 = √48
+1. calcular a potência => 4<sup>2</sup> = 16
+2. multiplicar pelo radicando => √16 . 3 = √48
 3. logo é igual a raíz de √48
 
 > ### Propriedades da radiciação
