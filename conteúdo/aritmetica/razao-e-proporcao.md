@@ -124,6 +124,11 @@ Ex: (1, 2, 3, 4, 6) e (36, 18, 12, 9, 6)
 #### Divisão diretamente proporcional
 * Na divisão diretamente proporcional a distribuição das partes é diretamente determinada pela proporção que cada parte representa em relação ao todo.
 * Nessa divisão um valor é dividido por um outro valor (formado pela soma das partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor correspondente a uma parte do total então será distribuido de acordo com a quantidade que cada respectiva parte representa do total das partes.
+* Representação:
+  - A/a = B/b = C/c = (A + B + C)/(a + b + c) = k
+  - A + B + C = partes que formam o total
+  - a + b + c = valor diretamente proporcional de cada parte do total
+  - k = constante de proporcionalidade
 
 Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
 1. total de partes = 10
@@ -136,6 +141,11 @@ Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
 * Na divisão inversamente proporcional a distribuição das partes é inversamente determinada pela proporção que cada parte representa em relação ao todo.
 * Nessa divisão um valor é dividido por um outro valor (formado pelo inverso da soma das partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor correspondente a uma parte do total então será distribuido de acordo com a quantidade que cada respectivo inverso da parte representa do total das partes.
 * Quanto maior o valor, menor sua parte e quanto menor o valor maior a sua parte.
+* Representação:
+  - A/(1/a) = B/(1/b) = C/(1/c) = (A + B + C)/(1/a + 1/b + 1/c) = k
+  - A + B + C = partes que formam o total
+  - 1/a + 1/b + 1/c = valor inversamente proporcional de cada parte do total
+  - k = constante de proporcionalidade
 
 Ex: divisão de 130 em partes inversamente proporcionais a 2, 5 e 6.
 1. 130/ (1/2 + 1/5 + 1/6)
