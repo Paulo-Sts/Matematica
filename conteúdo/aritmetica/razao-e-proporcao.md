@@ -121,6 +121,8 @@ Ex: (1, 2, 3, 4, 6) e (36, 18, 12, 9, 6)
 * A divisão proporcional descreve a distribuição equitativa de uma quantidade entre diferentes partes, a partir da proporção estabelecida entre essas partes. 
 * Existem divisões diretamente proporcionais e divisões inversamente proporcionais.
 
+***DICA:*** Quando a questão não especificar o tipo de divisão, considera-se que a divisão é diretamente proporcional.
+
 #### Divisão diretamente proporcional
 * Na divisão diretamente proporcional a distribuição das partes é diretamente determinada pela proporção que cada parte representa em relação ao todo.
 * Nessa divisão um valor é dividido por um outro valor (formado pela soma das partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor correspondente a uma parte do total então será distribuido de acordo com a quantidade que cada respectiva parte representa do total das partes.
