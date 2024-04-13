@@ -38,9 +38,17 @@ Ex: Quantos números de 4 algarismos, formados pelos algarismos 1, 2, 4, 6 e 8 t
 3. subtração => 625 - 120 = 505
 4. logo a resposta é 505 números
 
+#### Questões que apresentam mais de uma hipótese para um evento
+1. Deve se calcular as possibilidades para cada evento.
+2. Depois somar as possibilidades.
 
+Ex: Existem 2 modos de se ir da cidade A à cidade B, 3 modos de se ir da cidade B à cidade C e 4 modos de se ir da cidade A à cidade C sem passar pela cidade B. Usando essas opções, o número de modos diferentes de se ir da cidade A à cidade C?
 
+Hipótese 1: De A para C
+1. 4 possibilidades
 
+Hipótese 2: De A para B para C
+1. multiplicar => 2 . 3 = 6 possibilidades
 
-
-
+Total:
+1. somar possiblidades das hipóteses => 4 + 6 = 10 possibilidades
