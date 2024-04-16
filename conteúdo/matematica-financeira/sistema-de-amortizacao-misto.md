@@ -3,7 +3,10 @@
 <br>
 
 ## DEFINIÇÃO
-* É um sistema intermediário entre o Sistema Price e o Sistema de Amortização constante. O valor da prestação no Sistema de Amortização Misto (SAM) é a média entre a prestação no sistema Price e o SAC.
+* Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
+* Representação:
+  - Prestação = amortização + juros
+* O Sistema de Amortização Misto (SAM) é um sistema intermediário entre o Sistema Price e o Sistema de Amortização constante. O valor da prestação no Sistema de Amortização Misto (SAM) é a média entre a prestação no sistema Price e o SAC.
 * Fórmula:
   - P<sub>sam</sub> = (P<sub>saf</sub> + P<sub>sac</sub>)/2
   - P<sub>sam</sub> = Prestação no sistema de amortização mista
