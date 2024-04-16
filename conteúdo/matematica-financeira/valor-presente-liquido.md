@@ -8,7 +8,7 @@
 * Fórmula:
   - VPL = - p + r1/(1 + i)<sup>1</sup> + r2/(1 + i)<sup>2</sup> + r3/(1 + i)<sup>3</sup> + ... + rn/(1 + i)<sup>n</sup>
   - p = valor presente inicial
-  - r = valor de entrada ou saída de caixa previsto no período total
+  - r = valor de entrada ou saída de caixa previsto em cada período do período total
   - i = taxa real de juros
   - n = período
 
@@ -23,7 +23,7 @@
 | VPL < 0   | Investimento inviável    |
 
 
-Ex: Investimento de 100 mil com aumento do fluxo de 50 mil por ano durante 4 anos, a uma taxa real anual de 2%. É viável?
+Ex: Investimento de 100 mil, com retorno de fluxo de caixa de 50 mil por ano durante 4 anos, a uma taxa real anual de 2%. É viável?
 
 DADOS:  
 p = R$ 100.000,00  
