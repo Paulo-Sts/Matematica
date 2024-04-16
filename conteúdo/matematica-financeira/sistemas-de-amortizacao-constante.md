@@ -3,8 +3,7 @@
 <br>
 
 ## DEFINIÇÃO
-* Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. A segunda parcela paga ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
-* Existem diversos sistemas de amortização, onde cada um possui particularidades em como é formado o valor das prestações e suas modificações ao longo do tempo.
+* Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
 * Representação:
   - Prestação = amortização + juros
 * O Sistema de Amortização Constante (SAC) é um sistema de amortização utilizado em geral para financiamentos imobiliários. 

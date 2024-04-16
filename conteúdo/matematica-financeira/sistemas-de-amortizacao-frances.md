@@ -1,4 +1,4 @@
-# Sistemas de Amortização
+# Sistemas de Amortização Francês
 
 <br>
 
