@@ -4,7 +4,7 @@
 
 ## DEFINIÇÃO
 * A taxa interna de retorno (TIR), é a taxa que iguala o VPL de um investimento a zero. Ela é utilizada para calcular qual a taxa que iguala o valor presente atual, e o valor presente previsto em uma aplicação, ou seja, o retorno do valor aplicado é igual ao valor presente (VPL = 0).
-* Dessa forma é possível estipular a partir de qual valor de taxa um investimento passar a ser viável e também inviável.
+* Dessa forma é possível estipular a taxa mínima (maior que a TIP) que um investimento precisa ter para ser rentável, assim como a partir de qual taxa (menor que a TIP) o investimento é inviável.
 * O cálculo do valor da TIP é feita com base no VPL.
 
 Ex: Investimento de 20 mil com retorno em 1 período de 35 mil, qual a taxa interna de retorno desse investimento?
