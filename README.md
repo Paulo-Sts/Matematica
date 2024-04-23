@@ -3,88 +3,89 @@ Estudo da matemática.
 
 ## SUMÁRIO
 
-1. Aritmética
-   - Sistema de numeração decimal
-   - Números naturais
-   - Números inteiros
-   - Números racionais
-   - Números irracionais
-   - Números reais
-   - Adição
-   - Subtração
-   - Multiplicação
-   - Divisão
-   - Potenciação
-   - Radiciação
-   - Expressões numéricas
-   - [Números decimais](./conteúdo/aritmetica/numeros-decimais.md)
-   - Tabuada
-   - Sistemas de numeração
-   - Unidades de medida
-   - Potência de dez e Notação científica
-   - Múltiplos
-   - Divisores
-   - Números primos e compostos
-   - Fatoração
-   - MMC
-   - MDC
-   - Frações
-   - Razão e proporção
-   - Regra de três simples e composta
-   - Porcentagem
-   - Escalas
-2. Álgebra
-   - Monômios
-   - Polinômios
-   - Produtos notáveis
-   - Equação do 1º grau
-   - Sistemas de equações do 1º grau
-   - Equação do 2º grau
-   - Equações biquadradas
-   - Equação exponencial
-   - Inequações
-   - Logarítimo
-   - Progressão aritmética
-   - Progressão geométrica
-3. Funções
-   - Função do 1º grau
-   - Função do 2º grau
-   - Função exponencial
-4. Teoria dos conjuntos
-   - Relações entre conjuntos
-   - Operações entre conjuntos
-   - Diagrama de Venn
-5. Matemática financeira
-   - Juros simples
-   - Juros compostos
-   - Descontos
-   - Taxas de juros
-   - Amortização
-   - Cálculo financeiro
-   - Taxas de retorno
-6. Análise combinatória 
-   - PFC
-   - arranjo
-   - Permutação
-   - Combinação
-   - Binômio de Newton
-7. Probabilidade 
-   - Conceitos gerais
-   - Cálculo de probabilidade
-   - Laplace 
-   - Probabilidade condicional
-   - Probabilidadde de eventos independentes
-   - Distribuição binomial 
-8. Estatística 
-   - Média aritmética
-   - Média geométrica
-   - Média ponderada
-   - Moda e mediana 
-   - Conceitos gerais 
-   - Medidas de posição 
-   - Medidas de dispersão 
-9. Geometria
-   - Geometria plana
-   - Geometria espacial
-   - Geometria analítica
-   - Trigonometria
+#### Parte 1 - Aritmética
+  - Sistemas de numeração
+  - Sistema de Numeração Decimal
+  - Conjuntos Numéricos (naturais, inteiros, racionais, irracionais e reais)
+  - Adição
+  - Subtração
+  - Multiplicação
+  - Divisão
+  - Tabuada
+  - Potenciação
+  - Radiciação
+  - [Números Decimais](./conteúdo/aritmetica/numeros-decimais.md)
+  - Expressões Numéricas
+  - Unidades de Medida
+  - Potência de Dez e Notação Científica
+  - Relações Numéricas (múltiplos, divisores, números primos, números compostos, fatoração, MMC, MDC)
+  - Frações
+  - Razão e proporção
+  - Regra de três simples e composta
+  - Porcentagem
+  - Escalas
+
+#### Parte 2 - Teoria dos Conjuntos
+  - Relações entre Conjuntos
+  - Operações entre Conjuntos
+  - Diagrama de Venn
+
+#### Parte 3 - Álgebra
+- Monômios
+- Polinômios
+- Produtos Notáveis
+- Equação do 1º grau
+- Sistemas de Equações do 1º grau
+- Equação do 2º grau
+- Equações Biquadradas
+- Equação Exponencial
+- Inequações
+- Logarítimo
+
+#### Parte 4 - Funções
+  - Função do 1º grau
+  - Função do 2º grau
+  - Função exponencial
+
+#### Parte 5 - Sequências Numéricas
+  - Progressão Aritmética
+  - Progressão Geométrica
+
+#### Parte 6 - Matemática Financeira
+  - Juros simples
+  - Juros compostos
+  - Descontos
+  - Taxas de juros
+  - Amortização
+  - Cálculo financeiro
+  - Taxas de retorno
+
+#### Parte 7 - Análise combinatória 
+  - PFC
+  - arranjo
+  - Permutação
+  - Combinação
+  - Binômio de Newton
+
+#### Parte 8 - Probabilidade 
+  - Conceitos gerais
+  - Cálculo de probabilidade
+  - Laplace 
+  - Probabilidade condicional
+  - Probabilidadde de eventos independentes
+  - Distribuição binomial 
+
+#### Parte 9 - Estatística 
+  - Média aritmética
+  - Média geométrica
+  - Média ponderada
+  - Moda e mediana 
+  - Conceitos gerais 
+  - Medidas de posição 
+  - Medidas de dispersão 
+
+#### Parte 10 - Geometria
+  - Geometria plana
+  - Geometria espacial
+  - Geometria analítica
+  - Trigonometria
