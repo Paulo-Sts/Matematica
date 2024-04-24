@@ -41,10 +41,10 @@ Ex: Quantos números de 4 algarismos, formados pelos algarismos 1, 2, 4, 6 e 8 t
 
 Ex: Existem 2 modos de se ir da cidade A à cidade B, 3 modos de se ir da cidade B à cidade C e 4 modos de se ir da cidade A à cidade C sem passar pela cidade B. Usando essas opções, o número de modos diferentes de se ir da cidade A à cidade C?
 
-Hipótese 1: De A para C
+Hipótese 1 (De A para C)
 1. 4 possibilidades
 
-Hipótese 2: De A para B de para C
+Hipótese 2 (De A para B de para C)
 1. Multiplicar => 2 . 3 = 6 possibilidades
 
 Total:
