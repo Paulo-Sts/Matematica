@@ -21,12 +21,12 @@ i = 10% a.m
 if = 5% a.m  
 r = ?  
 
-1. analisar desigualdade => 10 > r + 5 => a taxa real será menor do que 5%
-2. montar fórmula => (1 + 0,1) = (1 + r) . (1 + 0,05)
-3. somar => (1 + 0,1) = (1 + r) . 1 + (0,05) = 1,1 = (1 + r) . 1,05
-4. dividir => 1 + r = 1,1/1,05 = 1,047619047619048
-5. isolar icógnita => r = 1,047619047619048 - 1 = 0,047619047619048
-6. converter para taxa percentual => 0,047619047619048 . 100 = 4,76
-7. taxa real = 4,76%
+1. Analisar desigualdade => 10 > r + 5 => a taxa real será menor do que 5%
+2. Montar fórmula => (1 + 0,1) = (1 + r) . (1 + 0,05)
+3. Somar => (1 + 0,1) = (1 + r) . 1 + (0,05) = 1,1 = (1 + r) . 1,05
+4. Dividir => 1 + r = 1,1/1,05 = 1,047619047619048
+5. Isolar icógnita => r = 1,047619047619048 - 1 = 0,047619047619048
+6. Converter para taxa percentual => 0,047619047619048 . 100 = 4,76
+7. Resposta: A taxa real é = 4,76%
 
 ***DICA:*** Verificando a diferença entre a taxa de aparente e a inflação, pode-se eliminar alternativas em que o valor da taxa real somado a inflação for ou maior do que a taxa nominal, ou igual, pois a taxa nominal sempre é maior do que a taxa real somada a inflação.
