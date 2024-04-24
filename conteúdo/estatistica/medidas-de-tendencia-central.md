@@ -6,7 +6,7 @@
 * A média é o valor que demonstra a concentração dos dados de uma distribuição. Também pode ser considerado o valor médio do conjunto dos dados da distribuição.
 * Existem quatro tipos de média: aritmética (simples e ponderada), geométrica e harmônica.
 * Para um conjunto de dados existe uma relação de valores entre os diferentes tipos de média.
-* Representação da relação:
+* Representação da relação entre médias:
   - MA ≥ MG ≥ MH
   - MA = média aritmética
   - MG = média geométrica
@@ -20,9 +20,9 @@
    - n = quantidade de valores da amostra
 
 Ex: MA de (2, 4, 10, 20) = 12
-1. soma dos valores => (2 + 4 + 10 + 20)/4
-2. divisão dos valores => 36/4 => 12
-3. MA = 12
+1. Soma dos valores => (2 + 4 + 10 + 20)/4
+2. Divisão dos valores => 36/4 => 12
+3. Resposta: MA = 12
 
 > ### Média aritmética ponderada
 * É a multiplicação de cada valor pela sua frequência, somados e divididos pela soma das frequências.
@@ -33,10 +33,10 @@ Ex: MA de (2, 4, 10, 20) = 12
    - f = frequência ou peso
 
 Ex: MP de (2, 2, 4, 10, 10, 10, 10, 10, 20, 20) = 9.8
-1. multiplicação dos valores pelos frequências => (2 . 2 + 4 . 1 + 10 . 5 + 20 . 2)/(2 + 1 + 5 + 2) = (4 + 4 + 50 + 40)/10 
-2. soma dos valores => (4 + 4 + 50 + 40)/10 = 98/10 
-3. divisão => 9.8
-4. MP = 9.8
+1. Multiplicação dos valores pelos frequências => (2 . 2 + 4 . 1 + 10 . 5 + 20 . 2)/(2 + 1 + 5 + 2) = (4 + 4 + 50 + 40)/10 
+2. Soma dos valores => (4 + 4 + 50 + 40)/10 = 98/10 
+3. Divisão => 9.8
+4. Resposta: MP = 9.8
 
 > ### Média geométrica
 * A média geométrica é a n-ésima raíz (definida pela quantidade de valores da amostra) da multiplicação de uma amostra.
@@ -46,9 +46,9 @@ Ex: MP de (2, 2, 4, 10, 10, 10, 10, 10, 20, 20) = 9.8
    - n = quantidade de valores da amostra
 
 Ex: MG de (2, 8)
-1. produto => <sup>2</sup>√2 . 8 = √16
-2. encontrar a raíz => √16 = 4
-3. MG = 4
+1. Produto => <sup>2</sup>√2 . 8 = √16
+2. Encontrar a raíz => √16 = 4
+3. Resposta: MG = 4
 
 > ### Média harmônica
 * A média harmônica de uma amostra em que todos os valores são maiores que zero, é a quantidade de valores da amostra, dividido pelo soma do inverso dos valores da amostra.
@@ -58,7 +58,7 @@ Ex: MG de (2, 8)
   - x = valor
 
 Ex: MH de (2, 8)
-1. montar a razão => 2/(1/2 + 1/8)
-2. soma dos denominadores => MMC(2, 8) = 8 | 1/2 + 1/8 = (4 + 1)/8 = 5/8
-3. divisão => 2/(5/8) = 2/1 x 8/5 = (2 . 8)/(1 . 5) = 16/5 = 3.2
-4. MH = 3.2
+1. Montar a razão => 2/(1/2 + 1/8)
+2. Soma dos denominadores => MMC(2, 8) = 8 | 1/2 + 1/8 = (4 + 1)/8 = 5/8
+3. Divisão => 2/(5/8) = 2/1 x 8/5 = (2 . 8)/(1 . 5) = 16/5 = 3,2
+4. Resposta: MH = 3,2

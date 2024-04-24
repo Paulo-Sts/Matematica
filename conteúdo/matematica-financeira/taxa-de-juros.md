@@ -9,6 +9,7 @@
 ## TAXA NOMINAL OU APARENTE
 * Taxa nominal, é a taxa em que o período da capitalização e o de tempo da capitalização estão definidas em unidades diferentes.
 * Essa taxa não pode ser utilizada pois, o seu valor real é diferente de como ela está apresentada, sendo necessário a sua transformação em taxa efetiva.
+* A taxa nominal é definida pelo regime de juros compostos.
 
 Ex: 13% a.a, capitalizado mensalmente. (a taxa é anual, equanto a capitalização ocorre a cada mês)
 
@@ -19,6 +20,7 @@ Ex: 13% a.a, capitalizado mensalmente. (a taxa é anual, equanto a capitalizaç�
 Ex: 2% a.m com capitalização mensal.
 
 #### Conversão da taxa nominal em taxa efetiva
+* A conversão de uma taxa nominal para taxa efetiva se dá pelo uso de taxas proposcionais. 
 * Deve-se identificar o tipo de capitalização, pois é o que determina em que unidade de período a taxa de juros deve ser expressa.
 
 Ex: 36% a.a com capitalização mensal
@@ -34,7 +36,6 @@ taxa = 36% ao ano
 ## TAXAS PROPORCIONAIS
 * Taxas proporcionais, são diferentes taxas que produzem os mesmos juros, em um mesmo prazo a juros simples. As taxas proporcionais são taxas equivalentes em aplicações de regime simples.
 * A conversão entre taxas aplicadas a juros simples é feita a partir da relação do seu período de capitalização com o período da aplicação.
-
 
 Ex: 12% a.m = 144% a.a = 24% a.b
 

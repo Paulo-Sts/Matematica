@@ -48,4 +48,5 @@ Hipótese 2: (De A para B de para C)
 1. Multiplicar => 2 . 3 = 6 possibilidades
 
 Total:
-1. Somar possiblidades das hipóteses => 4 + 6 = 10 possibilidades
+1. Somar possiblidades das hipóteses => 4 + 6 = 10 
+2. Resposta: 10 possibilidades
