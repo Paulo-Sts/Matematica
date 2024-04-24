@@ -67,9 +67,9 @@ juros = 18% a.m
 | 4            | 1.180,00            | 1.000,00        | 180,00    | 0                 | 
 
 CÁLCULO DOS JUROS:
-1. montar fórmula => J = sd .1 => J = 1000 . 18/100 = 180
-2. multiplicar e dividir => J = 1000 . 18/100 => J = 18000/100 => J = 180
-3. Logo serão pagos juros de R$ 180,00
+1. Montar fórmula => J = sd .1 => J = 1000 . 18/100 = 180
+2. Multiplicar e dividir => J = 1000 . 18/100 => J = 18000/100 => J = 180
+3. Resposta: Serão pagos juros = R$ 180,00
 
 COM FUNDO DE AMORTIZAÇÃO:
 
@@ -88,32 +88,32 @@ juros do fundo de amortização = 15% a.m
 | 4            | 380,26              | 200,26          | 180,00    | -                 | 
 
 CÁLCULO DA PRESTAÇÃO:
-1. calcular prestação => P = m . i/(1 + i)<sup>t</sup> - 1 => P = 1000 . 0,15/(1 + 0,15)<sup>4</sup> - 1
-2. somar => P = 1000 . 0,15/(1 + 0,15)<sup>4</sup> - 1 => P = 1000 . 0,15/(1,15)<sup>4</sup> - 1
-3. resolver potência => P = 1000 . 0,15/(1 + 0,15)<sup>4</sup> - 1 => P = 1000 . 0,15/1,74900625 - 1
-4. subtrair denominador => P = 1000 . 0,15/1,74900625 - 1 => P = 1000 . 0,15/0,74900625
-5. multiplicar => P = 1000 . 0,15/0,74900625 => P = 150/0,74900625
-6. dividir => P = 150/0,74900625 => P = 200,26
-7. prestação para o fundo de amortização => R$ 200,26
+1. Calcular prestação => P = m . i/(1 + i)<sup>t</sup> - 1 => P = 1000 . 0,15/(1 + 0,15)<sup>4</sup> - 1
+2. Somar => P = 1000 . 0,15/(1 + 0,15)<sup>4</sup> - 1 => P = 1000 . 0,15/(1,15)<sup>4</sup> - 1
+3. Resolver potência => P = 1000 . 0,15/(1 + 0,15)<sup>4</sup> - 1 => P = 1000 . 0,15/1,74900625 - 1
+4. Subtrair denominador => P = 1000 . 0,15/1,74900625 - 1 => P = 1000 . 0,15/0,74900625
+5. Multiplicar => P = 1000 . 0,15/0,74900625 => P = 150/0,74900625
+6. Dividir => P = 150/0,74900625 => P = 200,26
+7. Resposta: Prestação para o fundo de amortização = R$ 200,26
 
 CÁLCULO DO SALDO DEVEDOR 1ª PRESTAÇÃO:
-1. montar fórmula => M = p . (1 + i)<sup>t</sup> - 1/i => M = 200,26 . (1 + 0,15)<sup>1</sup> - 1/0,15
-2. somar => M = 200,26 . (1 + 0,15)<sup>1</sup> - 1/0,15 => M = 200,26 . (1,15)<sup>1</sup> - 1/0,15
-3. resolver potência => M = 200,26 . (1,15)<sup>1</sup> - 1/0,15 => M = 200,26 . (1,15 - 1)/0,15
-4. subtrair => M = 200,26 . (1,15 - 1)/0,15 => M = 200,26 . 0,15/0,15
-5. multiplicar e dividir => M = 200,26 . 0,15/0,15 => M = 30,039/0,15 => 200,26
-6. a cada parcela deverá ser adicionado ao fundo R$ 200,26
+1. Montar fórmula => M = p . (1 + i)<sup>t</sup> - 1/i => M = 200,26 . (1 + 0,15)<sup>1</sup> - 1/0,15
+2. Somar => M = 200,26 . (1 + 0,15)<sup>1</sup> - 1/0,15 => M = 200,26 . (1,15)<sup>1</sup> - 1/0,15
+3. Resolver potência => M = 200,26 . (1,15)<sup>1</sup> - 1/0,15 => M = 200,26 . (1,15 - 1)/0,15
+4. Subtrair => M = 200,26 . (1,15 - 1)/0,15 => M = 200,26 . 0,15/0,15
+5. Multiplicar e dividir => M = 200,26 . 0,15/0,15 => M = 30,039/0,15 => 200,26
+6. Resposta: A cada parcela deverá ser adicionado ao fundo = R$ 200,26
 
 CÁLCULO DO SALDO DEVEDOR 2ª PRESTAÇÃO:
-1. montar fórmula => SD<sub>t</sub> = m - p . [(1 + i)<sup>t</sup> - 1/i] => SDA = 1000 - 200,26 . [(1 + 0,15)<sup>2</sup> - 1/0,15]
-2. resultado = 569,44
+1. Montar fórmula => SD<sub>t</sub> = m - p . [(1 + i)<sup>t</sup> - 1/i] => SDA = 1000 - 200,26 . [(1 + 0,15)<sup>2</sup> - 1/0,15]
+2. Resposta: R$ 569,44
 
 **Observação:** A taxa do cálculo do saldo devedor deve ser a da taxa de aplicação do fundo de amortização, enquanto o período será o mesmo da prestação.
 
 CÁLCULO DO SALDO DEVEDOR 3ª PRESTAÇÃO:
-1. montar fórmula => SD<sub>t</sub> = m - p . [(1 + i)<sup>t</sup> - 1/i] => SDA = 1000 - 200,26 . [(1 + 0,15)<sup>3</sup> - 1/0,15]
-2. resultado = 304,59
+1. Montar fórmula => SD<sub>t</sub> = m - p . [(1 + i)<sup>t</sup> - 1/i] => SDA = 1000 - 200,26 . [(1 + 0,15)<sup>3</sup> - 1/0,15]
+2. Resposta: R$ 304,59
 
 CÁLCULO DO SALDO DEVEDOR 4ª PRESTAÇÃO:
-1. montar fórmula => SD<sub>t</sub> = m - p . [(1 + i)<sup>t</sup> - 1/i] => SDA = 1000 - 200,26 . [(1 + 0,15)<sup>4</sup> - 1/0,15]
-2. resultado = 0
+1. Montar fórmula => SD<sub>t</sub> = m - p . [(1 + i)<sup>t</sup> - 1/i] => SDA = 1000 - 200,26 . [(1 + 0,15)<sup>4</sup> - 1/0,15]
+2. Resposta: R$ 0

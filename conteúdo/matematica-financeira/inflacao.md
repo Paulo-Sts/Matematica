@@ -34,10 +34,10 @@ Dados:
 índice inicial = 20  
 inflação no período = ?  
 
-1. montar fórmula => (25/20) - 1
-2. divisão => 25/20 = 1,25
-3. subtração => 1,25 - 1 = 0,25
-4. logo a inflação foi de 25%
+1. Montar fórmula => (25/20) - 1
+2. Divisão => 25/20 = 1,25
+3. Subtração => 1,25 - 1 = 0,25
+4. Resposta: A inflação foi = 25%
 
 #### Taxa acumulada de inflação
 * A inflação acumulada é o produto da inflação de cada período somado ao valor total em cada período, menos o valor total final.
@@ -55,12 +55,12 @@ inflação 2022 = 2% a.a
 inflação 2023 = 4% a.a  
 inflação acumulada = ?  
 
-1. montar fórmula => inflação acumulada = (1 + 0,05) . (1 + 0,02) . (1 + 0,04) - 1
-2. soma => (1 + 0,05) = (1,05) | (1 + 0,02) = (1,02) | (1 + 0,04) = (1,04)
-3. multiplicação => 1,05 . 1,02 . 1,04 = 1,11384
-4. subtração => 1,11384 - 1 = 0,11384
-5. forma de porcentagem => 0,11384 . 100 = 11,384%
-6. logo a inflação foi de 11,384%
+1. Montar fórmula => inflação acumulada = (1 + 0,05) . (1 + 0,02) . (1 + 0,04) - 1
+2. Soma => (1 + 0,05) = (1,05) | (1 + 0,02) = (1,02) | (1 + 0,04) = (1,04)
+3. Multiplicação => 1,05 . 1,02 . 1,04 = 1,11384
+4. Subtração => 1,11384 - 1 = 0,11384
+5. Forma de porcentagem => 0,11384 . 100 = 11,384%
+6. Resposta: A inflação foi = 11,384%
 
 #### Desvalorização monetária
 * Determina a diminuição do poder de compra da moeda de acordo com o índice de inflação.
@@ -73,8 +73,8 @@ Dados:
 inflação 2024 = 5% a.a  
 taxa de desvalorização da moeda = ?  
 
-1. montar fórmula => TDM = 0,05/ 1 + 0,05
-2. soma =>  1 + 0,05 = 1,05
-3. divisão => 0,05/ 1,05 = 0,0476190476190476
-4. forma de porcentagem => 0,0476190476190476 . 100 = 4,76190476190476%
-5. logo a desvalorização da moeda foi de aproximadamente 4,8%
+1. Montar fórmula => TDM = 0,05/ 1 + 0,05
+2. Soma =>  1 + 0,05 = 1,05
+3. Divisão => 0,05/ 1,05 = 0,0476190476190476
+4. Forma de porcentagem => 0,0476190476190476 . 100 = 4,76190476190476%
+5. Resposta: A desvalorização da moeda foi aproximadamente = 4,8%

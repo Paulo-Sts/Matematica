@@ -25,13 +25,13 @@ Ex: 2% a.m com capitalização mensal.
 
 Ex: 36% a.a com capitalização mensal
 
-Dados:
+DADOS:
 período = mensal
 taxa = 36% ao ano
 
-1. ano em meses => 1 ano = 12 meses
-2. divisão => 36/12 = 3
-3. logo a taxa efetiva é de 3% ao mês
+1. Ano em meses => 1 ano = 12 meses
+2. Divisão => 36/12 = 3
+3. Resposta: A taxa efetiva é = 3% ao mês
 
 ## TAXAS PROPORCIONAIS
 * Taxas proporcionais, são diferentes taxas que produzem os mesmos juros, em um mesmo prazo a juros simples. As taxas proporcionais são taxas equivalentes em aplicações de regime simples.
@@ -56,17 +56,17 @@ Ex: 12% a.m = 144% a.a = 24% a.b
 
 Ex: Taxa composta anual equivalente a 10% em semestre é?
 
-Dados:  
+DADOS:  
 o que quer? da menor taxa para a maior  
 i<sub>k</sub> = ?  
 i = 10% a.s  
 t = 2 (1 ano = 2 semestres)  
 
-1. montar fórmula => i<sub>k</sub> = (0,1 + 1)<sup>2</sup> - 1
-2. soma => (0,1 + 1) = 1,1
-3. potência => (1,1)<sup>2</sup> = 1,1 . 1,1 = 1,21
-4. subtração => 1,21 - 1 = 0,21
-5. logo a taxa equivalente de 10% a.s é 21% a.a
+1. Montar fórmula => i<sub>k</sub> = (0,1 + 1)<sup>2</sup> - 1
+2. Soma => (0,1 + 1) = 1,1
+3. Potência => (1,1)<sup>2</sup> = 1,1 . 1,1 = 1,21
+4. Subtração => 1,21 - 1 = 0,21
+5. Resposta: A taxa equivalente de 10% a.s é = 21% a.a
 
 ***DICA:*** Ao converter uma taxa menor para uma maior, no regime simples a taxa equivalente  será menor do que no regime composto, já ao converter uma taxa maior para uma taxa menor, no regime simples a taxa equivalente será maior do que no regime composto. Isso pode ajudar a descobrir a resposta do valor da taxa, fazendo sua comparação com a taxa no outro regime, em questões que cobrem o valor da taxa equivalente em determinado regime.
 

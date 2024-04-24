@@ -79,33 +79,38 @@ juros = 2% a.m
 | 5            | 1.272,95            | 1.247,99        | 24,96     | 0                 | 
 
 CÁLCULO VALOR DA PRESTAÇÃO:
-1. montar fórmula => P = 6000 . [(1 + 0,02)<sup>5</sup> . 0,02]/(1 + 0,02)<sup>5</sup> - 1
-2. resolver parênteses => P = 6000 . [(1 + 0,02)<sup>5</sup> . 0,02]/(1 + 0,02)<sup>5</sup> - 1 => P = 6000 . [(1,02)<sup>5</sup> . 0,02]/(1,02)<sup>5</sup> - 1
-3. resolver potências e divisão => P = 6000 . [(1,02)<sup>5</sup> . 0,02]/(1,02)<sup>5</sup> - 1 => 0,022081616064/1,1040808032 - 1 => 0,022081616064/0,1040808032 = 0,2121583941043222
-4. multiplicar => P = 6000 . 0,2121583941043222 => P = 1.272,95
-5. prestação = R$ 1.272,95
+1. Montar fórmula => P = 6000 . [(1 + 0,02)<sup>5</sup> . 0,02]/(1 + 0,02)<sup>5</sup> - 1
+2. Resolver parênteses => P = 6000 . [(1 + 0,02)<sup>5</sup> . 0,02]/(1 + 0,02)<sup>5</sup> - 1 => P = 6000 . [(1,02)<sup>5</sup> . 0,02]/(1,02)<sup>5</sup> - 1
+3. Resolver potências e divisão => P = 6000 . [(1,02)<sup>5</sup> . 0,02]/(1,02)<sup>5</sup> - 1 => 0,022081616064/1,1040808032 - 1 => 0,022081616064/0,1040808032 = 0,2121583941043222
+4. Multiplicar => P = 6000 . 0,2121583941043222 => P = 1.272,95
+5. Resposta: Prestação = R$ 1.272,95
 
 CÁLCULO DA 1º PARCELA:
-1. cálculo do juros da primeira parcela => J = sd . i => J = 6000 . 2/100 = 120 
-2. cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 120 => a = 1.152,95 
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 6000 - 1.152,95 => SDA = 4.847,05
+1. Cálculo do juros da primeira parcela => J = sd . i => J = 6000 . 2/100 = 120 
+2. Cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 120 => a = 1.152,95 
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 6000 - 1.152,95 => SDA = 4.847,05
+4. Resposta: R$ 4.847,05
 
 CÁLCULO DA 2º PARCELA:
-1. cálculo do juros da segunda parcela => J = sd . i => J = 4.847,05 . 2/100 = 96,94 
-2. cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 96,94 => a = 1.176,01
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 4.847,05 - 1.176,01 => SDA = 3.671,04
+1. Cálculo do juros da segunda parcela => J = sd . i => J = 4.847,05 . 2/100 = 96,94 
+2. Cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 96,94 => a = 1.176,01
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 4.847,05 - 1.176,01 => SDA = 3.671,04
+4. Resposta: R$ 3.671,04
 
 CÁLCULO DA 3º PARCELA:
-1. cálculo do juros da terceira parcela => J = sd . i => J = 3.671,04 . 2/100 = 73,42 
-2. cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 73,42 => a = 1.199,52
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 3.671,04 - 1.199,52 => SDA = 2.471,51
+1. Cálculo do juros da terceira parcela => J = sd . i => J = 3.671,04 . 2/100 = 73,42 
+2. Cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 73,42 => a = 1.199,52
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 3.671,04 - 1.199,52 => SDA = 2.471,51
+4. Resposta: R$ 2.471,51
 
 CÁLCULO DA 4º PARCELA:
-1. cálculo do juros da quarta parcela => J = sd . i => J = 2.471,51 . 2/100 = 49,43 
-2. cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 49,43 => a = 1.223,52
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 2.471,51 - 1.223,52 => SDA = 1.247,99
+1. Cálculo do juros da quarta parcela => J = sd . i => J = 2.471,51 . 2/100 = 49,43 
+2. Cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 49,43 => a = 1.223,52
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 2.471,51 - 1.223,52 => SDA = 1.247,99
+4. Resposta: R$ 1.247,99
 
 CÁLCULO DA 5º PARCELA:
-1. cálculo do juros da quinta parcela => J = sd . i => J = 1.247,99 . 2/100 = 24,96 
-2. cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 24,96  => a = 1.247,99
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 1.247,99 - 1.247,99 => SDA = 0
+1. Cálculo do juros da quinta parcela => J = sd . i => J = 1.247,99 . 2/100 = 24,96 
+2. Cálculo da amortização => P = a + j => a = p - j => a = 1.272,95 - 24,96  => a = 1.247,99
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 1.247,99 - 1.247,99 => SDA = 0
+4. Resposta: R$ 0,00

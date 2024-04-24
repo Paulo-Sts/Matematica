@@ -22,21 +22,21 @@ i = 1% a.m
 n = 100  
 
 1ª PRESTAÇÃO SISTEMA PRICE:
-1. montar fórmula => P = 100000 . [(1 + 0,01)<sup>100</sup> . 0,01]/(1 + 0,01)<sup>100</sup> - 1
-2. resultado => P = 1.586,57
-3. Prestação pelo SAF é R$ 1.586,57
+1. Montar fórmula => P = 100000 . [(1 + 0,01)<sup>100</sup> . 0,01]/(1 + 0,01)<sup>100</sup> - 1
+2. Resultado => P = 1.586,57
+3. Resposta: Prestação pelo SAF é = R$ 1.586,57
 
 1ª PRESTAÇÃO SISTEMA SAC:
-1. calcular amortização => A = sd/n => A = 100000/100 => A = 1000
-2. calcular juros => J = sd . i => J = 100000 . 1/100 = 1000
-3. calcular prestação => P = a + j => P = 1000 + 1000 => P = 2000
-4. Prestação pelo SAC é R$ 2.000,00
+1. Calcular amortização => A = sd/n => A = 100000/100 => A = 1000
+2. Calcular juros => J = sd . i => J = 100000 . 1/100 = 1000
+3. Calcular prestação => P = a + j => P = 1000 + 1000 => P = 2000
+4. Resposta: Prestação pelo SAC é = R$ 2.000,00
 
 1ª PRESTAÇÃO SISTEMA SAM:
-1. montar fórmula => P<sub>sam</sub> = (P<sub>saf</sub> + P<sub>sac</sub>)/2 = P<sub>sam</sub> = ( 1.586,57 + 2.000,00)/2
-2. somar => P<sub>sam</sub> = ( 1.586,57 + 2.000,00)/2 => P<sub>sam</sub> = 3.586,57/2
-3. dividir => P<sub>sam</sub> = 3.586,57/2 => P<sub>sam</sub> = 1.793,29
-4. Prestação pelo SAC é R$ 1.793,29
+1. Montar fórmula => P<sub>sam</sub> = (P<sub>saf</sub> + P<sub>sac</sub>)/2 = P<sub>sam</sub> = ( 1.586,57 + 2.000,00)/2
+2. Somar => P<sub>sam</sub> = ( 1.586,57 + 2.000,00)/2 => P<sub>sam</sub> = 3.586,57/2
+3. Dividir => P<sub>sam</sub> = 3.586,57/2 => P<sub>sam</sub> = 1.793,29
+4. Resposta: Prestação pelo SAC é = R$ 1.793,29
 
 #### Vantegens e desvantagens do SAM
 * O montante pago pelo sistema SAM é menor do que o montante pago pelo sistema Price.

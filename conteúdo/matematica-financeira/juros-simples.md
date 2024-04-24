@@ -43,13 +43,13 @@
 
 Ex: Uma aplicação financeira de R$ 1.500,00 foi feita a taxa de juros simples de 3% ao mês pelo período de 5 meses. Determine o valor do montante.
 
-1. montar fórmula => M = 1500 . (1 + 3/100 . 5)
-2. multiplicar taxa e tempo => 3/100 . 5 = 15/100
-3. converter resultado em valor unitário => 15/100 => 0,15 => M = 1500 . (1 + 0,15)
-4. somar 1 + 0,15 = 1,15 => M = 1500 . (1,15)
-5. multiplicar => M = 1500 . 1,15 = 1725
-6. resultado => M = 1725
-7. Logo o montante é R$ 1.725,00
+1. Montar fórmula => M = 1500 . (1 + 3/100 . 5)
+2. Multiplicar taxa e tempo => 3/100 . 5 = 15/100
+3. Converter resultado em valor unitário => 15/100 => 0,15 => M = 1500 . (1 + 0,15)
+4. Somar 1 + 0,15 = 1,15 => M = 1500 . (1,15)
+5. Multiplicar => M = 1500 . 1,15 = 1725
+6. Resultado => M = 1725
+7. Resposta: O montante é = R$ 1.725,00
 
 **Observação:** No regime de juros simples, as taxas de juros são proporcionais, dessa forma é possível converter uma taxa definida em determinado período, para uma taxa proporcional a ela em outro tipo de período.
 

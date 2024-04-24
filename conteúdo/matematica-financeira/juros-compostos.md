@@ -42,10 +42,10 @@
 
 Ex: Qual deve ser o capital inicial para que uma aplicação que renda 20% ao ano em regime de juros compostos resulte em um montante de R$ 1.440,00 em 2 anos ?
 
-1. montar fórmula => 1440 = c . (1 + 0,20)<sup>2</sup>
-2. resolver parêntese => (1 + 0,20)<sup>2</sup> = (1,20)<sup>2</sup> = 1,44
-3. isolar icógnita => 1440 = c . 1,44 = c = 1440/1,44
-4. realizar divisão => c = 1440/1,44 = 1000
-5. Logo o capital é R$ 1.000,00
+1. Montar fórmula => 1440 = c . (1 + 0,20)<sup>2</sup>
+2. Resolver parêntese => (1 + 0,20)<sup>2</sup> = (1,20)<sup>2</sup> = 1,44
+3. Isolar icógnita => 1440 = c . 1,44 = c = 1440/1,44
+4. Realizar divisão => c = 1440/1,44 = 1000
+5. Resposta: O capital é = R$ 1.000,00
 
 **Observação:** No regime de juros compostos, as taxas de juros não podem ser convertidas diretamente, como no caso dos juros simples. É necessário encontrar a taxa equivalente por meio da fórmula, dessa forma é preferível alterar o tempo do que a taxa.

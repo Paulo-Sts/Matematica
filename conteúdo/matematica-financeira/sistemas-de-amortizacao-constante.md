@@ -77,30 +77,35 @@ juros = 1% a.m
 | 5            | 606,00              | 600,00          | 24,96     | 0                 | 
 
 CÁLCULO VALOR DA AMORTIZAÇÃO:
-1. montar fórmula =>  A = sd/n = 3000/5 = 600
-2. amortização = R$ 600,00
+1. Montar fórmula =>  A = sd/n = 3000/5 = 600
+2. Resposta: Amortização = R$ 600,00
 
 CÁLCULO DA 1º PRESTAÇÃO:
-1. cálculo do juros da primeira prestação => J = sd . i => J = 3000 . 1/100 = 30 
-2. cálculo da prestação => P = a + j => P = 600 + 30 => P = 630 
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 3000 - 600 => SDA = 2400
+1. Cálculo do juros da primeira prestação => J = sd . i => J = 3000 . 1/100 = 30 
+2. Cálculo da prestação => P = a + j => P = 600 + 30 => P = 630 
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 3000 - 600 => SDA = 2400
+4. Resposta: R$ 2.400,00
 
 CÁLCULO DA 2º PRESTAÇÃO:
-1. cálculo do juros da segunda prestação => J = sd . i => J = 2400 . 1/100 = 24 
-2. cálculo da prestação => P = a + j => P = 600 + 24 => P = 624 
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 2400 - 600 => SDA = 1800
+1. Cálculo do juros da segunda prestação => J = sd . i => J = 2400 . 1/100 = 24 
+2. Cálculo da prestação => P = a + j => P = 600 + 24 => P = 624 
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 2400 - 600 => SDA = 1800
+4. Resposta: R$ 1.800,00
 
 CÁLCULO DA 3º PRESTAÇÃO:
-1. cálculo do juros da terceira prestação => J = sd . i => J = 1800 . 1/100 = 18 
-2. cálculo da prestação => P = a + j => P = 600 + 18 => P = 618 
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 1800 - 600 => SDA = 1200
+1. Cálculo do juros da terceira prestação => J = sd . i => J = 1800 . 1/100 = 18 
+2. Cálculo da prestação => P = a + j => P = 600 + 18 => P = 618 
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 1800 - 600 => SDA = 1200
+4. Resposta: R$ 1.200,00
   
 CÁLCULO DA 4º PRESTAÇÃO:
-1. cálculo do juros da quarta prestação => J = sd . i => J = 1200 . 1/100 = 12 
-2. cálculo da prestação => P = a + j => P = 600 + 12 => P = 612 
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 1200 - 600 => SDA = 600
+1. Cálculo do juros da quarta prestação => J = sd . i => J = 1200 . 1/100 = 12 
+2. Cálculo da prestação => P = a + j => P = 600 + 12 => P = 612 
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 1200 - 600 => SDA = 600
+4. Resposta: R$ 600,00
 
 CÁLCULO DA 5º PRESTAÇÃO:
-1. cálculo do juros da quinta prestação => J = sd . i => J = 600 . 1/100 = 6 
-2. cálculo da prestação => P = a + j => P = 600 + 6 => P = 606 
-3. cálculo do saldo devedor atual => SDA = sd - a => SDA = 600 - 600 => SDA = 0
+1. Cálculo do juros da quinta prestação => J = sd . i => J = 600 . 1/100 = 6 
+2. Cálculo da prestação => P = a + j => P = 600 + 6 => P = 606 
+3. Cálculo do saldo devedor atual => SDA = sd - a => SDA = 600 - 600 => SDA = 0
+4. Resposta: R$ 0,00
