@@ -133,11 +133,11 @@ Ex: (1, 2, 3, 4, 6) e (36, 18, 12, 9, 6)
   - k = constante de proporcionalidade
 
 Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
-1. total de partes = 10
-2. divisão do valor pelo total de partes => 100/10 = 10
-3. cada parte do valor vale 10
-4. divisão diretamente proporcional => 10 x 1 = 10 | 10 x 5 = 50 | 10 x 4 = 40
-5. resultado = 10, 50 e 40
+1. Total de partes = 10
+2. Divisão do valor pelo total de partes => 100/10 = 10
+3. Cada parte do valor vale 10
+4. Divisão diretamente proporcional => 10 x 1 = 10 | 10 x 5 = 50 | 10 x 4 = 40
+5. Respoata: 10, 50 e 40
 
 #### Divisão inversamente proporcional
 * Na divisão inversamente proporcional a distribuição das partes é inversamente determinada pela proporção que cada parte representa em relação ao todo.
@@ -151,8 +151,8 @@ Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
 
 Ex: divisão de 130 em partes inversamente proporcionais a 2, 5 e 6.
 1. 130/ (1/2 + 1/5 + 1/6)
-2. calculando o valor total do inverso de cada parte => MMC(2, 5, 6) = 30 => (15 + 6 + 5)/30 => 26/30 = 26 (o 30 é descartado)
-3. divisão do valor pelo total de partes => 130/26 = 5
-4. cada parte do valor vale 5
-5. divisão inversamente proporcional => 5 x 15 = 75 | 5 x 6 = 30 | 5 x 5 = 25 (cada parte distribuída pelas quantidades 15, 6 e 5)
-6. resultado = 75, 30 e 25
+2. Calculando o valor total do inverso de cada parte => MMC(2, 5, 6) = 30 => (15 + 6 + 5)/30 => 26/30 = 26 (o 30 é descartado)
+3. Divisão do valor pelo total de partes => 130/26 = 5
+4. Cada parte do valor vale 5
+5. Divisão inversamente proporcional => 5 x 15 = 75 | 5 x 6 = 30 | 5 x 5 = 25 (cada parte distribuída pelas quantidades 15, 6 e 5)
+6. Resposta: 75, 30 e 25

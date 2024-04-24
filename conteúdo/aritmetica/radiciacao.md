@@ -21,23 +21,24 @@
 3. O número que tendo como o resultado de sua potência o radicando é o resultado.
 
 Ex: √16 = 4
-1. multiplica-se o 4 pelo expoente 2, ou seja 2 vezes => 4 . 4 = 16
-2. logo o resultado = 4
+1. Multiplica-se o 4 pelo expoente 2, ou seja 2 vezes => 4 . 4 = 16
+2. Resposta: 4
 
 ***DICA:*** Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
 
 Ex: √16 = 4  
-1. fatora-se o 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
-2. resultado da fatoração (2, 2, 2, 2) 
-3. fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
-4. multiplica-se uma unidade de cada grupo 2 * 2 = 4
+1. Fatorar o 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
+2. Resultado da fatoração (2, 2, 2, 2) 
+3. Fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
+4. Multiplica-se uma unidade de cada grupo 2 * 2 = 4
+5. Resposta: 4
 
 ***DICA:*** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
 
 Ex: 4√3 = √48
-1. calcular a potência => 4<sup>2</sup> = 16
-2. multiplicar pelo radicando => √16 . 3 = √48
-3. logo é igual a raíz de √48
+1. Calcular a potência => 4<sup>2</sup> = 16
+2. Multiplicar pelo radicando => √16 . 3 = √48
+3. Resposta: √48
 
 > ### Propriedades da radiciação
 
@@ -120,7 +121,7 @@ Ex: 3/√6 - √3 = 3/√6 - √3 . √6 + √3/√6 + √3 = 3(√6 + √3)/(�
 Ex: √(5 + √24)  
 1. Encontrar o valor de c => √(5<sup>2</sup>- 24) => √25 - 24 => √1 = 1
 2. Montar a relação => √(5 + √24) = √(5 + 1)/2 + √(5 - 1)/2 => √6/2 + √4/2 => √3 + √2
-3. Logo √(5 + √24) = √3 + √2
+3. Resposta: √(5 + √24) = √3 + √2
 
 ## OPERAÇÕES COM RADICAIS
 
@@ -166,5 +167,6 @@ Ex: <sup>3</sup>√8/√4
 1. MMC(3, 2) = 6  
 2. 6 : 3 = 2 => 2 x 1 = 2 logo <sup>6</sup>√8<sup>2</sup>
 3. 6 : 2 = 3 => 3 x 1 = 3 logo <sup>6</sup>√4<sup>3</sup>
-4. divisão <sup>6</sup>√8<sup>2</sup>/<sup>6</sup>√4<sup>3</sup>
+4. Divisão <sup>6</sup>√8<sup>2</sup>/<sup>6</sup>√4<sup>3</sup>
 5. <sup>6</sup>√64/<sup>6</sup>√64 = √64/64 = √1 = 1
+6. Resposta: 1

@@ -42,9 +42,10 @@ Ex: D(10)= {1, 2, 5, 10}
 ***DICA:*** Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser iguais ao número que se quer saber seus divisores.
 
 Ex: D(16)= {1, 2, 4, 8, 16}
-1. multiplica-se os dois primeiros extremos => 1 . 16 = 16
-2. multiplica-se os segundos extremos => 2 . 8 = 16
-3. para conjuntos com elementos impares, multiplica-se o elemento do meio por si mesmo => 4 . 4 = 16
+1. Multiplica-se os dois primeiros extremos => 1 . 16 = 16
+2. Multiplica-se os segundos extremos => 2 . 8 = 16
+3. Para conjuntos com elementos impares, multiplica-se o elemento do meio por si mesmo => 4 . 4 = 16
+4. Resposta: 16
 
 #### Conjunto dos divisores de um número
 1. Decompoe-se o número em fatores primos.
@@ -56,14 +57,15 @@ Ex: D(16)= {1, 2, 4, 8, 16}
 7. O conjunto do resultado das multiplicações será o conjunto dos divisores do número.
 
 Ex: D(12)= {1, 2, 3, 4, 6, 12}
-1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 => (2, 2, 3)
-2. multiplica-se 2 por 1 => 2 . 1 = 2 => {1}.
-3. adiciona-se o resultado no conjunto => {1, 2}.
-4. multiplica-se o segundo 2 pelos elementos do conjunto => 2 . 1 = 2 | 2 . 2 = 4 
-5. adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4}
-6. multiplica-se o 3 pelos elementos do conjunto => 3 . 1 = 3 | 3 . 2 = 6 | 3 . 2 = 6 | 3 . 4 = 12
-7. adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4, 3, 6, 6, 12}
-8. ordena-se o conjunto, retirando valores repetidos formando o conjunto dos divisores do 12 => {1, 2, 3, 4, 6, 12}
+1. Fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 => (2, 2, 3)
+2. Multiplica-se 2 por 1 => 2 . 1 = 2 => {1}.
+3. Adiciona-se o resultado no conjunto => {1, 2}.
+4. Multiplica-se o segundo 2 pelos elementos do conjunto => 2 . 1 = 2 | 2 . 2 = 4 
+5. Adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4}
+6. Multiplica-se o 3 pelos elementos do conjunto => 3 . 1 = 3 | 3 . 2 = 6 | 3 . 2 = 6 | 3 . 4 = 12
+7. Adiciona-se os resultados da multiplicação no conjunto => {1, 2, 2, 4, 3, 6, 6, 12}
+8. Ordena-se o conjunto, retirando valores repetidos formando o conjunto dos divisores do 12 => {1, 2, 3, 4, 6, 12}
+9. Resposta: O conjunto dos divisores do 12 => {1, 2, 3, 4, 6, 12}
 
 #### Quantidade de divisores de um número
 1. Decompoe-se o número em fatores primos.
@@ -72,11 +74,11 @@ Ex: D(12)= {1, 2, 3, 4, 6, 12}
 4. O produto da desses expoentes terá como resultado a quantidade de divisores do número. 
 
 Ex: D(12)= {1, 2, 3, 4, 6, 12}
-1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
-2. organiza-se na forma de produto dos números primos => 2<sup>2</sup> . 3<sup>1</sup>
-3. pega-se o expoente de cada potência e soma um => 2 + 1 = 3 | 1 + 1 = 2
-4. multiplica-se os novos valores dos expoentes => 3 . 2 = 6
-5. o 12 possui 6 divisores
+1. Fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
+2. Organiza-se na forma de produto dos números primos => 2<sup>2</sup> . 3<sup>1</sup>
+3. Pega-se o expoente de cada potência e soma um => 2 + 1 = 3 | 1 + 1 = 2
+4. Multiplica-se os novos valores dos expoentes => 3 . 2 = 6
+5. Resposta: O 12 possui 6 divisores
 
 #### Soma dos divisores de um número
 1. Decompoe-se o número em fatores primos.
@@ -86,10 +88,11 @@ Ex: D(12)= {1, 2, 3, 4, 6, 12}
 5. Realiza-se o produto dos resultados da soma das combinações dos expoentes possíveis de cada número primo.
 
 Ex: D(12)= {1, 2, 3, 4, 6, 12}
-1. fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
-2. organiza-se na forma de produto dos números primos => 2<sup>2</sup> . 3<sup>1</sup>
-3. soma das combinações de cada número primo => (2<sup>0</sup> + 2<sup>1</sup> + 2<sup>2</sup>) | (3<sup>0</sup> + 3<sup>1</sup>)
-4. produto das somas das combinações de cada número primo será o resultado => (1 + 2 + 4) . (1 + 3) => 7 . 4 = 28
+1. Fatora-se o 12 => 12 : 2 = 6 => : 2 = 3 : 3 => 1 (2, 2, 3)
+2. Organiza-se na forma de produto dos números primos => 2<sup>2</sup> . 3<sup>1</sup>
+3. Soma das combinações de cada número primo => (2<sup>0</sup> + 2<sup>1</sup> + 2<sup>2</sup>) | (3<sup>0</sup> + 3<sup>1</sup>)
+4. Produto das somas das combinações de cada número primo será o resultado => (1 + 2 + 4) . (1 + 3) => 7 . 4 = 28
+5. Resposta: 28
 
 ## DIVISIBILIDADE
 * Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro (divisão exata).
@@ -146,10 +149,11 @@ Ex: 505 (não é divisível)
 * Um número é divisível por onze, quando a diferença entre a soma dos algarismos que o formam de posição ímpar e a soma dos algarismos que o formam de posição par, resultarem em zero, ou em um número divisível por onze.
 
 Ex: 209 (é divisível)  
-1. soma-se os algarismos ímpares => 9 + 2 = 11
-2. soma-se os algarismos pares => 0 = 0
-3. realiza-se a subtração entre os dois resultados => 11 - 0 = 11
-4. o resultado da diferença é divisível por onze => 11 : 11 = 1
+1. Soma-se os algarismos ímpares => 9 + 2 = 11
+2. Soma-se os algarismos pares => 0 = 0
+3. Realiza-se a subtração entre os dois resultados => 11 - 0 = 11
+4. O resultado da diferença é divisível por onze => 11 : 11 = 1
+5. Resposta: Sim
 
 Ex: 411 (não é divisível)  
 
@@ -164,11 +168,12 @@ Ex: 155 (não é divisível)
 * Pode-se verificar a divisibilidade de qualquer número composto identificando quais números multiplicados resultam no número, quais os critérios de divisibilidade desses números e aplicar ao número que se deseja dividir esses critérios.
 
 Ex: 12000 : 24 (é divisível)
-1. verificar os números que formam o 24 e seus critérios de divisibilidade => 24 = 8 . 3
-2. é possível por 24, quando atender aos critérios de divisibilidade de 8 e 3.
-3. (divisibilidade por três) soma dos algarismos ser divisível por três => 1 + 2 + 0 + 0 + 0 = 3 (é divisível)
-4. (divisibilidade por oito) três últimos algarismos iguais a zero ou a sua soma ser divisível por oito => 12'000 = 000 (é divisível)
-5. logo é possível dividir => 12000 : 24 = 500
+1. Verificar os números que formam o 24 e seus critérios de divisibilidade => 24 = 8 . 3
+2. É possível por 24, quando atender aos critérios de divisibilidade de 8 e 3.
+3. (Divisibilidade por três) soma dos algarismos ser divisível por três => 1 + 2 + 0 + 0 + 0 = 3 (é divisível)
+4. (Divisibilidade por oito) três últimos algarismos iguais a zero ou a sua soma ser divisível por oito => 12'000 = 000 (é divisível)
+5. Dividir => 12000 : 24 = 500
+6. Resposta: Sim
 
 ## NÚMEROS PRIMOS
 * Número primo, é todo número divisível apenas por **1** e por ele mesmo.
@@ -197,10 +202,11 @@ Ex: 18 = 11 + 7
   - **n** : **p** = **a** tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e **a** = produto entre os elementos de **p**.
 
 Ex: Decomposição de 30 = 2 . 3 . 5
-1. dividir por 2 => 30 : 2 = 15
-2. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : 3 = 5
-3. divide-se agora por 5 => 5 : 5 = 1
-4. o produto dos quocientes é o resultado = 2 . 3 . 5 
+1. Dividir por 2 => 30 : 2 = 15
+2. Como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : 3 = 5
+3. Divide-se agora por 5 => 5 : 5 = 1
+4. O produto dos quocientes é o resultado = 2 . 3 . 5 
+5. Resposta: 2 . 3 . 5
 
 ## MMC
 * Mínimo múltiplo comum, é o menor número que é múltiplo de dois ou mais números ao mesmo tempo. 
@@ -218,11 +224,12 @@ Ex: Decomposição de 30 = 2 . 3 . 5
 8. O resultado da multiplicação é o MMC.
 
 Ex: MMC de 30 e 14 = 210
-1. dividir por 2 => 30 : ***2*** = 15, 14 : ***2*** = 7
-2. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : ***3*** = 5, 7 : ***3*** não divide, repete-se o 7
-3. divide-se agora por 5 => 5 : ***5*** = 1, 7 : ***5*** não divide, repete-se o 7
-4. divide-se agora por 7 => 1 : ***7*** = repete-se o 1, 7 : ***7*** = 1
-5. o produto dos quocientes é o resultado => 2 . 3 . 5 . 7 = 210
+1. Dividir por 2 => 30 : ***2*** = 15, 14 : ***2*** = 7
+2. Como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : ***3*** = 5, 7 : ***3*** não divide, repete-se o 7
+3. Divide-se agora por 5 => 5 : ***5*** = 1, 7 : ***5*** não divide, repete-se o 7
+4. Divide-se agora por 7 => 1 : ***7*** = repete-se o 1, 7 : ***7*** = 1
+5. O produto dos quocientes é o resultado => 2 . 3 . 5 . 7 = 210
+6. Resposta: 210
 
 > ### Propriedades do MMC
 
@@ -256,11 +263,12 @@ Ex: MMC(6, 3) = 6
 8. O resultado da multiplicação é o MDC.
 
 Ex: MDC de 30 e 12 = 6
-1. dividir por 2 => 30 : **2** = 15, 12 : **2** = 6 (divisor comum)
-2. dividir por 2 => 15 : **2** não divide, repete-se o 15, 6 : **2** = 3
-3. como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : **3** = 5, 3 : **3** = 1 (divisor comum)
-4. divide-se agora por 5 => 5 : **5** = 1, 1 : **5** repete-se o 1
-5. o produto dos divisores comuns é o resultado => 2 . 3 = 6
+1. Dividir por 2 => 30 : **2** = 15, 12 : **2** = 6 (divisor comum)
+2. Dividir por 2 => 15 : **2** não divide, repete-se o 15, 6 : **2** = 3
+3. Como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : **3** = 5, 3 : **3** = 1 (divisor comum)
+4. Divide-se agora por 5 => 5 : **5** = 1, 1 : **5** repete-se o 1
+5. O produto dos divisores comuns => 2 . 3 = 6
+6. Resposta: 6
 
 > ### Propriedades do MDC
 

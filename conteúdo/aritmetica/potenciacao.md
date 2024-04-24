@@ -18,8 +18,8 @@
 3. O resultado da multiplicação é a potência.
 
 Ex: 2<sup>4</sup> = 16
-1. multiplica-se a base 2 4 vezes => 2 . 2 . 2 . 2 = 16
-2. logo o resultado = 16
+1. Multiplica-se a base 2 4 vezes => 2 . 2 . 2 . 2 = 16
+2. Resposta: 16
 
 **Observação:** Para potência em que a base é um número negativo e não há a separação por parênteses, entende-se que a um valor **-1** multiplicando a base o que dará como resultado sempre um valor negativo.
 
@@ -98,7 +98,7 @@ Ex: (16/3)<sup>5</sup> = 16<sup>5</sup>/3<sup>5</sup>
 * Representação:
   - -a<sup>n</sup> = b ou -b
   -  b se n = par
-  -  -b se n = ímpar
+  - -b se n = ímpar
 
 Ex: (-4)<sup>2</sup> =  (-4) . (-4) = 16  
 Ex: (-4)<sup>3</sup> =  (-4) . (-4) . (-4) = -32
@@ -135,10 +135,12 @@ Ex: 8<sup>1/3</sup> =  <sup>3</sup>√8<sup>1</sup> = <sup>3</sup>√8
 * Para comparar duas ou mais potências, elas devem possui a mesma base, ou possuírem expoentes iguais, nesse caso a potência de maior base será a de maior valor.
 
 Ex: 2<sup>75</sup> e 4<sup>37</sup> 
-1. igualar as bases => 4<sup>37</sup> = ( 2<sup>2</sup> )<sup>37</sup> = 2<sup>74</sup>
-2. comparar as bases => 2<sup>75</sup> > 2<sup>74</sup>
+1. Igualar as bases => 4<sup>37</sup> = ( 2<sup>2</sup> )<sup>37</sup> = 2<sup>74</sup>
+2. Comparar as bases => 2<sup>75</sup> > 2<sup>74</sup>
+3. Resposta: 2<sup>75</sup> > 2<sup>74</sup>
 
 Ex: 2<sup>75</sup> e 3<sup>50</sup> 
-1. igualar os expoentes => 2<sup>75</sup> = ( 2<sup>3</sup> )<sup>25</sup> | 3<sup>50</sup> = ( 3<sup>2</sup> )<sup>25</sup>
-2. eliminar o parêntese => ( 2<sup>3</sup> ) = 8<sup>25</sup> | ( 3<sup>2</sup> ) = 9<sup>25</sup>
-3. comparar as bases => 8<sup>25</sup> < 9<sup>25</sup>
+1. Igualar os expoentes => 2<sup>75</sup> = ( 2<sup>3</sup> )<sup>25</sup> | 3<sup>50</sup> = ( 3<sup>2</sup> )<sup>25</sup>
+2. Eliminar o parêntese => ( 2<sup>3</sup> ) = 8<sup>25</sup> | ( 3<sup>2</sup> ) = 9<sup>25</sup>
+3. Comparar as bases => 8<sup>25</sup> < 9<sup>25</sup>
+4. Resposta: 8<sup>25</sup> < 9<sup>25</sup>

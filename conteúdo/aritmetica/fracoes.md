@@ -34,24 +34,23 @@ Ex: 4/5
 * Uma fração é imprópria, quando o seu numerador é maior que o denominador, ou seja, representa um valor maior que um inteiro.
 * A fração imprópria pode ser transformada em fração mista, a partir da divisão dos seus elementos.
 
-#### Cálculo
 Ex: 8/3 = 2 2/3
-1. divide-se o numerador pelo denominador => 8 : 3
-2. encontra-se o número que multiplicado por 3 se aproxima de 8 => 3 . 2 = 6
-3. realiza-se a subtração de 8 por 6 => 6 + 2 = 2
-4. como não é possível mais dividir, finaliza-se a divisão 
-5. o quociente 2 então se torna a parte inteira da fração, resto 2 se torna o numerador e repete-se o denominador original 3 formando a parte fracionária => 2 2/3
-6. logo o resultado => 2 2/3
+1. Dividir o numerador pelo denominador => 8 : 3
+2. Encontrar o número que multiplicado por 3 se aproxima de 8 => 3 . 2 = 6
+3. Subtrair de 8 por 6 => 6 + 2 = 2
+4. Como não é possível mais dividir, finaliza-se a divisão 
+5. O quociente 2 então se torna a parte inteira da fração, resto 2 se torna o numerador e repete-se o denominador original 3 formando a parte fracionária => 2 2/3
+6. Resposta: 2 2/3
 
 > ### Fração mista
 * Uma fração mista, é uma fração formada por uma parte que representa a parte inteira e uma parte que representa a parte fracionária.
 * A fração mista é uma fração derivada de uma fração imprópria.
 
-#### Cálculo
 Ex: 2 2/3 = 8/3
-1. multiplica-se o denominador da parte fracionária pela parte inteira => 2 . 3 = 6
-2. soma-se o resultado com o numerador => 6 + 2 = 8
-3. o 8 é o numerador e repete-se o denominador => 8/3
+1. Multiplicar o denominador da parte fracionária pela parte inteira => 2 . 3 = 6
+2. Somar o resultado com o numerador => 6 + 2 = 8
+3. O 8 é o numerador e repete-se o denominador => 8/3
+4. Resposta: 8/3
          
 > ### Fração equivalente
 * São frações formadas por diferentes valores, mas que representam a mesma parte de um inteiro.
@@ -60,13 +59,12 @@ Ex: 2 2/3 = 8/3
 
 Ex: 1/2 = 2/4
 
-#### Cálculo
 Ex: Qual é maior 5/8 ou 4/7?
 1. Determinar o MMC dos denominadores 8 e 7 => 56
-2. O MMC será o novo denominador.
+2. O MMC será o novo denominador
 3. Deve-se dividir o MMC pelo denominador de cada fração e multiplicar pelo seu numerador => 56 : 8 = 7 => 7 x 5 = 35/56 | 56 : 7 = 8 => 8 x 4 = 32/56
-4. Comparando as frações equivalentes, determina-se qual a maior. 35/56 > 32/56
-5. Logo 5/8 > 4/7.
+4. Comparando as frações equivalentes, determina-se qual a maior => 35/56 > 32/56
+5. Resposta: 5/8 > 4/7
 
 > ### Fração aparente
 * É uma fração que pode ser representada como um número inteiro, pois o seu numerador é divisível pelo seu denominador.

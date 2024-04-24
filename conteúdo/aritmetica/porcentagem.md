@@ -18,9 +18,9 @@ Ex: 5% = 5/100 = 0,05
 3. No caso de se utilizar a porcentagem na forma decimal, basta realizar a multiplicação entre o valor e a porcentagem.
 
 Ex: 15% de 30 = 4.5
-1. multiplica-se 30 x 15/100 = 450/100
-2. divide-se 450/100 = 4,5
-3. logo 15% de 30 = 4,5
+1. Multiplicar 30 x 15/100 = 450/100
+2. Dividir 450/100 = 4,5
+3. Resposta: 15% de 30 = 4,5
 
 ## OPERAÇÕES COM PORCENTAGEM
 
@@ -57,9 +57,10 @@ Ex: Aumento de 10% de 40
   - Aumento de n% de **a** => 100% + n% = m% de **a** = b
 
 Ex: Aumento de 15% de 350
-1. obtendo a taxa acumulada => 100% + 15% = 115% = 115/100 = 1,15 
-2. calculando o valor com a nova taxa => 115/100 . 350 = 40.250/100 = 402,5 (Aumento de 52,5)
-3. calculando na forma decimal => 1,15 . 350 = 402,5
+1. Obtendo a taxa acumulada => 100% + 15% = 115% = 115/100 = 1,15 
+2. Calculando o valor com a nova taxa => 115/100 . 350 = 40.250/100 = 402,5 (Aumento de 52,5)
+3. Calculando na forma decimal => 1,15 . 350 = 402,5
+4. Resposta: 402,5
 
 > ### Desconto ou redução de um valor
 
@@ -82,9 +83,10 @@ Ex: Desconto de 10% de 50
   - Desconto de n% de **a** => 100% - n% = m% de **a** = b
 
 Ex: Desconto de 32% de 500
-1. obtendo a taxa reduzida => 100% - 32% = 68% = 68/100 = 0,68 
-2. calculando o valor com a nova taxa => 68/100 . 500 = 34000/100 = 340 (Desconto de 160)
-3. calculando na forma decimal => 0,68 . 500 = 340 (Desconto de 160)
+1. Obtendo a taxa reduzida => 100% - 32% = 68% = 68/100 = 0,68 
+2. Calculando o valor com a nova taxa => 68/100 . 500 = 34000/100 = 340 (Desconto de 160)
+3. Calculando na forma decimal => 0,68 . 500 = 340 (Desconto de 160)
+4. Resposta: 340
 
 > ### Aumentos e reduções sucessivas
 
@@ -109,9 +111,10 @@ Ex: Desconto de 10% de 100 mais aumento de 25% mais desconto de 5%
   - n% de **a**, m% do resultado (n% de **a**) e p% do resultado das anteriores = **a** . n% . m% . p% = q (q% de **a**)
 
 Ex: Desconto de 10%, com aumento de 20% com desconto de 30%
-1. multiplicação das porcentagens => x . 0,9 (desconto de 10%) . 1,2 (aumento de 20%) . 0,7 (desconto de 30%) = x . 90/100 . 120/100 . 70/100 = 756000x/1000000
-2. resultado da multiplicação => 756000x/1000000 = 756/1000 = 0,756x 
-3. encontrar desconto ou aumento (Valor diminuiu) 1,000x - 0,756x = 0,244x (24,4% de desconto)   
+1. Multiplicação das porcentagens => x . 0,9 (desconto de 10%) . 1,2 (aumento de 20%) . 0,7 (desconto de 30%) = x . 90/100 . 120/100 . 70/100 = 756000x/1000000
+2. Resultado da multiplicação => 756000x/1000000 = 756/1000 = 0,756x 
+3. Encontrar desconto ou aumento (Valor diminuiu) 1,000x - 0,756x = 0,244x (24,4% de desconto)   
+4. Resposta: 24,4%
 **Observação:** Se fosse maior que 1,00 teria sido aumento.
 
 ***DICA:*** Para questões que não definem um valor específico, sobre o qual a porcentagem irá incidir, pode-se utilizar o valor 100 arbitrariamente para facilitar o cálculo.  

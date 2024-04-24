@@ -13,11 +13,11 @@
 4. Soma e subtração na ordem que aparecem, da esquerda para a direita.
 
 Ex: (25 x 2 + 10) : 20 - 1
-1. calcular operação de multiplicação dentreo do parêntese, por ter maior prioridade => 25 x 2 = 50 e repete-se as demais (+10) : 20 - 1
-2. calcular operação de adição dentro do parêntese para elimina-lo => (50 + 10) e repete-se as demais : 20 - 1
-3. calcular operação de divisão => 60 : 20 = 3 e repete-se as demais - 1
-4. calcular operação de subtração => 3 - 1 = 2
-5. logo resultado = 2
+1. Calcular operação de multiplicação dentreo do parêntese, por ter maior prioridade => 25 x 2 = 50 e repete-se as demais (+10) : 20 - 1
+2. Calcular operação de adição dentro do parêntese para elimina-lo => (50 + 10) e repete-se as demais : 20 - 1
+3. Calcular operação de divisão => 60 : 20 = 3 e repete-se as demais - 1
+4. Calcular operação de subtração => 3 - 1 = 2
+5. Resposta: 2
 
 #### Relação entre sinais antes dos parenteses, colchetes ou chaves
 * É como se fosse multiplicado por 1 ou -1.

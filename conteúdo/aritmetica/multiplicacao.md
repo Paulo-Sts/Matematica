@@ -22,16 +22,16 @@
 6. O resultado da adição é o produto.
 
 Ex: 25 x 42 = 1050   
-1. multiplicação do primeiro algarismo do segundo fator na ordem das unidades => 5 x 2 = 10
-2. reagrupa-se o excedente para a ordem das dezenas => fica o 0 e vai 1 
-3. multiplicação do primeiro algarismo do segundo fator na ordem das dezenas e adição do excedente => 2 x 2 = 4 + 1 = 5
-4. resultado da multiplicação do primeiro algarismo do segundo fator => 50
-5. multiplicação do segundo algarismo do segundo fator na ordem das unidades => 5 x 4 = 20
-6. reagrupa-se o excedente para a ordem das dezenas => fica o 0 e vai 2 
-7. multiplicação do segundo algarismo do segundo fator na ordem das dezenas e adição do excedente => 4 x 2 = 8 + 2 = 10
-8. resultado da multiplicação do segundo algarismo do segundo fator => 100
-9. adição do resultado das duas multiplicações (respeitando a ordem das posições dos algarismos da multiplicação) => 50 + 100 = 1050 (050 + 1000)
-10. logo o resultado = 1050
+1. Multiplicação do primeiro algarismo do segundo fator na ordem das unidades => 5 x 2 = 10
+2. Reagrupa-se o excedente para a ordem das dezenas => fica o 0 e vai 1 
+3. Multiplicação do primeiro algarismo do segundo fator na ordem das dezenas e adição do excedente => 2 x 2 = 4 + 1 = 5
+4. Resultado da multiplicação do primeiro algarismo do segundo fator => 50
+5. Multiplicação do segundo algarismo do segundo fator na ordem das unidades => 5 x 4 = 20
+6. Reagrupa-se o excedente para a ordem das dezenas => fica o 0 e vai 2 
+7. Multiplicação do segundo algarismo do segundo fator na ordem das dezenas e adição do excedente => 4 x 2 = 8 + 2 = 10
+8. Resultado da multiplicação do segundo algarismo do segundo fator => 100
+9. Adição do resultado das duas multiplicações (respeitando a ordem das posições dos algarismos da multiplicação) => 50 + 100 = 1050 (050 + 1000)
+10. Resposta: 1050
 
 > ### Propriedades da multiplicação
 

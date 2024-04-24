@@ -22,22 +22,22 @@
 6. Após a retirada de todos os valores de acordo com sua ordem o resultado é a diferença. 
 
 Ex: 78 - 29 = 49   
-1. subtração na ordem das unidades (minuendo é menor) => 8 - 9
-2. pega-se emprestado (ordem das dezenas) => 70 - 10 = 60  
-3. adiciona o valor emprestado (ordem das unidades) => 10 + 8 = 18
-4. realiza-se a subtração (ordem das unidades) => 18 - 9 = 9 
-5. realiza-se a subtração com o novo valor já descontado o valor emprestado (ordem das dezenas) => 60 - 20 = 40 
-6. logo o resultado = 49  
+1. Subtração na ordem das unidades (minuendo é menor) => 8 - 9
+2. Pega-se emprestado (ordem das dezenas) => 70 - 10 = 60  
+3. Adiciona o valor emprestado (ordem das unidades) => 10 + 8 = 18
+4. Realiza-se a subtração (ordem das unidades) => 18 - 9 = 9 
+5. Realiza-se a subtração com o novo valor já descontado o valor emprestado (ordem das dezenas) => 60 - 20 = 40 
+6. Resposta: 49  
 
 ***DICA:*** Quando o algarismo das unidades do minuendo for menor que o algarismo das unidades do subtraendo, basta contar quanto falta para o subtraendo chegar na casa decimal (10, 20, 30, 40, ...) mais próxima, o valor deve ser somado ao minuendo e ao subtraendo, que ficará menor que o minuendo, facilitando o cálculo da subtração.
 
 Ex: 27 - 18 = 9 
-1. calcula a casa decimal mais próxima de 18 => 20
+1. Calcula a casa decimal mais próxima de 18 => 20
 2. Pega-se a diferença => 20 - 18 = 2
-3. soma-se o 2 ao minuendo e ao subtraendo => 27 + 2 | 18 + 2 
-4. estabelece a igualdade entre as expressões => 27 - 18 = 29 - 20
-5. realiza-se a subtração da nova expressão => 29 - 20 = 9  
-6. logo o resultado da expressão original => 9
+3. Soma-se o 2 ao minuendo e ao subtraendo => 27 + 2 | 18 + 2 
+4. Estabelece a igualdade entre as expressões => 27 - 18 = 29 - 20
+5. Realiza-se a subtração da nova expressão => 29 - 20 = 9  
+6. Resposta: 9
 
 > ### Propriedades da subtração
 

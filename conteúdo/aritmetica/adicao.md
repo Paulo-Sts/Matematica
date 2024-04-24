@@ -19,14 +19,14 @@
 4. Após a junção de todos os valores de acordo com sua ordem o resultado é a soma entre as parcelas. 
 
 Ex: 35 + 66 = 101  
-1. adição da ordem das unidades => 5 + 6 = 11
-2. adiciona o último algarismo e reagrupa o outro para a próxima ordem => 1
-3. adição da ordem das dezenas => 3 + 6 = 9  
-4. soma-se o valor reagrupado => 9 + 1 = 10
+1. Adição da ordem das unidades => 5 + 6 = 11
+2. Adiciona o último algarismo e reagrupa o outro para a próxima ordem => 1
+3. Adição da ordem das dezenas => 3 + 6 = 9  
+4. Soma-se o valor reagrupado => 9 + 1 = 10
 5. (opção A1) adiciona o último algarismo e reagrupa o outro para a próxima ordem => 01
 6. (opção A2) repete-se o último algarismo já que não há mais valores a somar => 101
 7. (opção B) como não há mais algarismos pode-se adicionar diretamente os dois da última adição => 101
-8. logo o resultado => 101
+8. Resposta: 101
 
 > ### Propriedades da adição
 
