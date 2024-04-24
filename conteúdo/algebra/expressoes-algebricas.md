@@ -24,11 +24,11 @@ Ex: 2x + 3x + y = 5x + y (2x e 3x são termos semelhantes)
 Ex: 2x + 3 - 1  
 
 x = 2
-1. substituir a variável por 2 => 2x + 3 - 1 =  2.2 + 3 - 1
-2. calcular a expressão numérica => 2.2 + 3 - 1 = 4 + 3 - 1 = 7 - 1 = 6
+1. Substituir a variável por 2 => 2x + 3 - 1 =  2.2 + 3 - 1
+2. Calcular a expressão numérica => 2.2 + 3 - 1 = 4 + 3 - 1 = 7 - 1 = 6
 3. Para x = 2, o resultado da expressão é = 6
 
 x = 10
-1. substituir a variável por 2 => 2x + 3 - 1 =  2.10 + 3 - 1
-2. calcular a expressão numérica => 2.10 + 3 - 1 = 20 + 3 - 1 = 23 - 1 = 22
+1. Substituir a variável por 2 => 2x + 3 - 1 =  2.10 + 3 - 1
+2. Calcular a expressão numérica => 2.10 + 3 - 1 = 20 + 3 - 1 = 23 - 1 = 22
 3. Para x = 10, o resultado da expressão é = 22
