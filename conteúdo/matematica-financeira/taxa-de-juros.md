@@ -2,6 +2,10 @@
 
 <br>
 
+## DEFINIÇÃO
+* A taxa de juros é uma operação em que um capital (valor monetário conhecido hoje) é projetado para uma data posterior. O objetivo é descobrir qual o valor que esse capital irá se transformar.
+* A taxa de juros é expressa como uma porcentagem acompanhada por uma unidade de tempo. Essa expressão pode se apresentar em diferentes formas, sendo fundamental adequar a expressão da taxa a condição apresentada para a realização da operação.
+
 ## TAXA NOMINAL OU APARENTE
 * Taxa nominal, é a taxa em que o período da capitalização e o de tempo da capitalização estão definidas em unidades diferentes.
 * Essa taxa não pode ser utilizada pois, o seu valor real é diferente de como ela está apresentada, sendo necessário a sua transformação em taxa efetiva.

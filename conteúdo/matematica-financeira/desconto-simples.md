@@ -3,7 +3,7 @@
 <br>
 
 ## DEFINIÇÃO
-* Desconto é o abatimento que um título de crédito recebe por ser liquidado antes de seu vencimento. O desconto é o quanto é cobrado de juros para receber no presente um valor a que se tem direito no futuro.
+* Desconto é o abatimento que um título de crédito recebe por ser liquidado antes de seu vencimento, ou seja, é a projeção de um valor futuro para o presente. O desconto é o quanto é cobrado de juros para receber no presente um valor a que se tem direito no futuro.
 * O valor de um título no dia do seu vencimento (pagamento) se chama **valor nominal**, que é o seu valor original.
 * O valor de um título, recebido antes do seu vencimento é um outro valor, menor do que o valor nominal (pois se desconta uma taxa para por receber antecipadamente), sendo chamado de **valor presente ou valor atual**.
 * O valor presente de um título vai depender da taxa cobrada sobre o valor nominal dele.
