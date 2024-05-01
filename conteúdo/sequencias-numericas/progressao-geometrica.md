@@ -59,40 +59,21 @@ Ex: (5, 0, 0, 0) => q = 0
 
 > ### Propriedades das progressões geométricas
 
-#### Igualdade da soma de termos equidistantes e a soma dos termos extremos
-* Em uma P.A finita, a soma dos termos equidistantes dos extremos é igual a soma dos termos extremos.
+#### Relação entre termo médio e termos extremos
+* Em uma P.G (a, b, c) em que a ≠ 0, o quadrado do termo médio da P.G será igual ao produto dos termos extremos da P.G.
 
-Ex: (2, 6, 10, 14, 18, 22, 26)  
-1. Soma dos extremos => 2 + 26 = 28
-2. Soma do 2º e 6º termo => 6 + 22 = 28
-3. Soma do 3º e 5° termo => 10 + 18 = 28
+Ex: (3, 6, 12)
+1. Quadrado do termo do meio => 6<sup>2</sup> = 36
+2. Produto dos extremos => 3 . 12 = 36
+3. Igualdade => 36 = 36
 
-***DICA:*** Essa propriedade é útil em questões que se pede para encontrar o valor de um determinado termo, a partir dos termos dados, por exemplo tem se os 1º, 2º e 6º termos e se pede o valor do 5º termo. 
+#### Igualdade do produto de termos equidistantes e termos extremos
+* A multiplicação de termos equidistantes de uma P.G será igual ao produto dos termos extremos da P.G.
 
-#### Relação entre três termos consecutivos
-* Considerando três termos consecutivos de uma P.A, o termo do meio será igual a média aritmética dos termos dos extremos.
-
-Ex: (2, 6, 10, 14, 18, 22, 26)  
-1. Selecionando três termos consecutivos => 10, 14, 18
-2. Média dos termos extremos => 10 + 18 = 28/2 = 14
-3. Igualdade com o termo do meio => 14 = 14
-
-#### Igualdade entre o valor central e a média dos termos equidistantes de uma P.A de tamanho ímpar
-* Em uma P.A finita com número ímpar de termos, o termo central é igual à média aritmética dos termos equidistantes do termo central da P.A.
-
-Ex: (2, 6, 10, 14, 18, 22, 26)  
-1. Termo central => 14
-2. Média dos termos equidistantes => 10 + 18 = 28/2 = 14 | 6 + 22 = 28/2 = 14 | 2 + 26 = 28/2 = 14
-3. Igualdade com o termo central => 14 = 14
-
-#### Igualdade entre três termos consecutivos somados e o triplo do termo central
-* Em uma P.A, selecionando três termos consecutivos, a soma destes termos, será igual ao triplo do termo do central deste subconjunto.
-
-Ex: (2, 6, 10, 14, 18, 22, 26)  
-1. Selecionando três termos consecutivos => 10, 14, 18
-2. Soma dos três termos => 10 + 14 + 18 = 42
-3. Triplo do termo do meio => 14 . 3 = 42
-4. Igualdade com o termo do meio => 42 = 42
+Ex: (4, 8, 16, 32, 64)
+1. Produto entre o segundo e quarto termo => 8 . 32 = 256
+2. Produto dos extremos => 4 . 64 = 256
+3. Igualdade => 256 = 256
 
 ## FÓRMULA DO TERMO GERAL DE UMA P.G
 * Essa fórmula é utilizada para encontrar o valor de termos desconhecidos em uma progressão geométrica.
@@ -112,8 +93,32 @@ Ex: (1, 2, 4, 8, _, _, _, _, ...) qual o 15º termo?
 5. Potência => a<sub>15</sub> = 2<sup>14</sup> => a<sub>15</sub> = 16.384
 6. Resposta: O a<sub>15</sub> = 16.384
 
-## SOMA DOS TERMOS DE UMA P.A
-* É a fórmula usada para calcular a soma dos termos de uma Progressão aritmética.
+## FÓRMULA DO PRODUTO DOS TERMOS DE UMA P.G
+* Essa fórmula é utilizada para encontrar o valor do produto dos termos de em uma progressão geométrica.
+* Fórmula:
+  - P<sub>n</sub> = ±√(a<sub>1</sub> . a<sub>n</sub>)<sup>n</sup>
+  - P<sub>n</sub> = produto dos termos de uma P.G
+  - a<sub>1</sub> = primeiro termo
+  - n = total de termos da P.G
+  - q = razão da P.G
+* Definição do sinal:
+  - Positivo se todos os termos forem positivos, ou se o número de termos negativos for par.
+  - Negativo se o número de termos negativos for ímpar.
+
+Ex: (2, -4, 8, ...) Produto dos 7 primeiros termos da P.G
+
+1. Razão => -4/2 = -2
+2. Montar fórmula => P<sub>7</sub> = ±√(2 . a<sub>7</sub>)<sup>7</sup>
+3. Encontrar a<sub>7</sub> => a<sub>7</sub> = 2 . -2<sup>6</sup> = 2<sup>7</sup>
+4. Resolver parentese => P<sub>7</sub> = ±√(2 . 2<sup>7</sup>)<sup>7</sup> => P<sub>7</sub> = ±√(2<sup>8</sup>)<sup>7</sup>
+5. Potência de Potência => P<sub>7</sub> = ±√(2<sup>8</sup>)<sup>7</sup> => P<sub>7</sub> = ±√2<sup>56</sup>
+6. Inverter raíz => P<sub>7</sub> = ±√2<sup>56</sup> => P<sub>7</sub> = ±2<sup>56/2</sup>
+7. Dividir => P<sub>7</sub> = ±2<sup>28</sup>
+8. Definir final => P<sub>7</sub> = -2<sup>28</sup> (número de termos negativos é ímpar)
+9. Resposta: Soma dos 7 primeiros termos é = -2<sup>28</sup>
+
+## SOMA DOS TERMOS DE UMA P.G FINITA
+* É a fórmula usada para calcular a soma dos termos de uma Progressão geométrica finita.
 * Fórmula:
   - S<sub>n</sub> = [a<sub>1</sub> . (q<sup>n</sup> - 1)]/q - 1
   - S<sub>n</sub> = soma
@@ -128,3 +133,19 @@ Ex: (1, 3, 9, ...) Soma dos 5 primeiros termos
 3. Subtração e Multiplicação => S<sub>5</sub> = [1 . (243 - 1)]/3 - 1 => S<sub>5</sub> = [1 . 242]/2 => S<sub>5</sub> = 242/2
 4. Divisão => S<sub>5</sub> = 242/2 => S<sub>5</sub> = 121
 5. Resposta: O S<sub>5</sub> = 121
+
+## SOMA DOS TERMOS DE UMA P.G INFINITA
+* É a fórmula usada para calcular a soma dos termos de uma progressão geométrica infinita quando o valor da razão for menor do que 1.
+* Fórmula:
+  - S<sub>∞</sub> = a<sub>1</sub>/1 - q
+  - S<sub>∞</sub> = soma
+  - a<sub>1</sub> = primeiro termo
+  - q = razão
+
+Ex: (4, 2, 1, ...) Soma dos termos da P.G
+
+1. Razão => 2/4 = 1/2 (q < 1)
+2. Montar fórmula => S<sub>∞</sub> = 4/1 - 1/2
+3. Resolver fração => S<sub>∞</sub> = 4/1 - 1/2 => S<sub>∞</sub> = 4/1/2
+4. Divisão => S<sub>∞</sub> = 4/1/2 => S<sub>∞</sub> = 4 . 2/1 = 8/1
+5. Resposta: S<sub>∞</sub> = 8
