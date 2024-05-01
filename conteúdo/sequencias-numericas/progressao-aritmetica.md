@@ -4,20 +4,15 @@
 
 ## DEFINIÇÃO
 * Progressão aritmética é uma sequência de números em que cada termo a partir do segundo, se da pela soma do termo anterior com uma constante **r**. Essa constante é chamada de razão da P.A.
-* As progressões aritméticas podem ser formadas por uma determinada quantidade de termos (P.A finita), ou por termos infinitos (P.A infinita).
-* Cada termo da sequência possui uma posição definida, sendo a sua posição em relação aos outros termos determinante para estabelecimento dos próximos termos da P.A.
-* Representação da P.A finita:
+* Representação:
   - (a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, a<sub>5</sub>, a<sub>n-1</sub>, a<sub>n</sub>)
   - a<sub>1</sub> = primeiro termo
   - a<sub>n</sub> = enésimo termo
-* Representação da P.A infinita:
-  - (a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, a<sub>4</sub>, a<sub>5</sub>, ...)
-  - a<sub>1</sub> = primeiro termo
 
 Ex: (2, 5, 8, 11)  
 Ex: (20, 10, 0, -10, ...)
 
-> ### Cálculo da razão da P.A
+> ### Razão da P.A
 * A razão de uma P.A é determinada a partir da subtração de um termo pelo seu antecessor, se para todos os termos da sequência essa operação tiver uma mesmo resultado, trata-se de uma P.A e o resultado é a razão da P.A.
 * Para determinar o próximo termo da P.A, basta somar o termo anterior com o valor da razão.
 * Fórmula da razão de uma P.A:
@@ -37,7 +32,7 @@ Ex: (2, 5, 8, 11) => r = 3
 3. 4º termo = 11 e 3º termo = 8 => 11 - 8 = 3
 4. Resposta: O r = 3
 
-> ### Classificação das P.A
+> ### Classificação das P.As
 * As progressões aritméticas são definidas, a partir do valor das razões que a definem.
 
 #### Constante
