@@ -21,7 +21,7 @@ etapa 3 => 2 (sapato)
 
 ***DICA:*** Eventos formados por etapas, são independentes e o total de possibilidades será formado pela multiplicação das possibilidades de cada etapa do evento.
 
-> ### Casos de uso
+> ### Tipos de cálculo PFC
 
 #### Questões que pedem a condição "pelo menos um"
 1. Calcular o total de possibilidades.
