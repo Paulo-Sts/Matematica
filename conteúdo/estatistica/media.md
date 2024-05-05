@@ -1,8 +1,8 @@
-# Medidas de Tendência Central
+# Média
 
 <br>
 
-## MÉDIA
+## DEFINIÇÃO
 * A média é o valor que demonstra a concentração dos dados de uma distribuição. Também pode ser considerado o valor médio do conjunto dos dados da distribuição.
 * Existem quatro tipos de média: aritmética (simples e ponderada), geométrica e harmônica.
 * Para um conjunto de dados existe uma relação de valores entre os diferentes tipos de média.
