@@ -60,5 +60,20 @@ Ex: patente
 > ### Dados brutos
 * O conjunto de dados sem nenhum tipo de organização.
 
+Ex: {1, 4, 1, 5, 2, 10, 9, 4, 6, 7}  
+
 > ### Rol
 * É a organização do conjunto de dados brutos em ordem crescente ou decrescente.
+
+Ex: {1, 1, 2, 4, 4, 5, 6, 7, 9, 10}  
+
+| VALOR | FREQUÊNCIA |
+| ----- | ---------- |
+| 1     | 2          |
+| 2     | 1          |
+| 4     | 2          |
+| 5     | 1          |
+| 6     | 1          |
+| 7     | 1          |
+| 9     | 1          |
+| 10    | 1          |
