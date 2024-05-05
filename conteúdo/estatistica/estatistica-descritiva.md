@@ -67,6 +67,7 @@ Ex: {1, 4, 1, 5, 2, 10, 9, 4, 6, 7}
 
 Ex: {1, 1, 2, 4, 4, 5, 6, 7, 9, 10}  
 
+Ex:
 | VALOR | FREQUÊNCIA |
 | ----- | ---------- |
 | 1     | 2          |
@@ -77,3 +78,18 @@ Ex: {1, 1, 2, 4, 4, 5, 6, 7, 9, 10}
 | 7     | 1          |
 | 9     | 1          |
 | 10    | 1          |
+
+> ### Distribuição de frequência
+* Representam os dados em classes de intervalos a partir da frequência dos dados existente no conjunto. 
+* Os dados pertencerão a classe da qual ele estiver entre os intervalos da classe.
+* Os intervalos da classe são os seus limites e podem ou não fazer parte da classe.
+* O tamanho da classe é definido pela sua amplitude.
+
+Ex:  
+| CLASSES      | FREQUÊNCIA |
+| ------------ | ---------- |
+| 0  \|- 10    | 2          |
+| 10 \|- 20    | 5          |
+| 20 \|- 30    | 2          |
+| 30 \|- 40    | 4          |
+| 40 \|-\| 50  | 1          |
