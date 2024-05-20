@@ -3,7 +3,7 @@ Estudo da matemática.
 
 ## SUMÁRIO
 
-#### Parte 1 - Aritmética
+> ### Parte 1 - Aritmética
   - Sistemas de numeração
   - Sistema de Numeração Decimal
   - Conjuntos Numéricos (naturais, inteiros, racionais, irracionais e reais)
@@ -25,12 +25,12 @@ Estudo da matemática.
   - Porcentagem
   - Escalas
 
-#### Parte 2 - Teoria dos Conjuntos
+> ### Parte 2 - Estudo dos Conjuntos
   - Relações entre Conjuntos
   - Operações entre Conjuntos
   - Diagrama de Venn
 
-#### Parte 3 - Álgebra
+> ### Parte 3 - Álgebra
 - Monômios
 - Polinômios
 - Produtos Notáveis
@@ -42,16 +42,16 @@ Estudo da matemática.
 - Inequações
 - Logarítimo
 
-#### Parte 4 - Funções
+> ### Parte 4 - Funções
   - Função do 1º grau
   - Função do 2º grau
   - Função exponencial
 
-#### Parte 5 - Sequências Numéricas
+> ### Parte 5 - Sequências Numéricas
   - Progressão Aritmética
   - Progressão Geométrica
 
-#### Parte 6 - Matemática Financeira
+> ### Parte 6 - Matemática Financeira
   - Juros simples
   - Juros compostos
   - Descontos
@@ -60,14 +60,14 @@ Estudo da matemática.
   - Cálculo financeiro
   - Taxas de retorno
 
-#### Parte 7 - Análise combinatória 
+> ### Parte 7 - Análise combinatória 
   - PFC
   - arranjo
   - Permutação
   - Combinação
   - Binômio de Newton
 
-#### Parte 8 - Probabilidade 
+> ### Parte 8 - Probabilidade 
   - Conceitos gerais
   - Cálculo de probabilidade
   - Laplace 
@@ -75,7 +75,7 @@ Estudo da matemática.
   - Probabilidadde de eventos independentes
   - Distribuição binomial 
 
-#### Parte 9 - Estatística 
+> ### Parte 9 - Estatística 
   - Média aritmética
   - Média geométrica
   - Média ponderada
@@ -84,7 +84,7 @@ Estudo da matemática.
   - Medidas de posição 
   - Medidas de dispersão 
 
-#### Parte 10 - Geometria
+> ### Parte 10 - Geometria
   - Geometria plana
   - Geometria espacial
   - Geometria analítica
