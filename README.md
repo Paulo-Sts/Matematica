@@ -31,6 +31,8 @@ Estudo da matemática.
   - Diagrama de Venn
 
 > ### Parte 3 - Álgebra
+- [Relações de Igualdade](./conteúdo/algebra/relacoes-de-igualdade.md)
+- [Expressões Algébricas](./conteúdo/algebra/expressoes-algebricas.md)
 - Monômios
 - Polinômios
 - Produtos Notáveis
@@ -84,7 +86,7 @@ Estudo da matemática.
   - Medidas de posição 
   - Medidas de dispersão 
 
-> ### Parte 10 - Geometria
+> ### Parte 10 - Geometria (Estudar a partir da parte de geometria do 6º ano)
   - Geometria plana
   - Geometria espacial
   - Geometria analítica
