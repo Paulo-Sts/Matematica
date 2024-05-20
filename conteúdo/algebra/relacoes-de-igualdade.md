@@ -28,7 +28,7 @@ Ex: 2 + 5 = 3 + 4
 Ex: 3 + 4 = 2 + 5  
 
 #### Igualdade transitiva
-* Se um número **a** é igual a um número **b** e o número **b** é igual a **c**, então número **a** é igual ao número **c**.
+* Se um número **a** é igual a um número **b** e o número **b** é igual a um número **c**, então o número **a** é igual ao número **c**.
 * Representação:
   - **a = b** *e* **b = c** *então* **a = c**
 
