@@ -1,6 +1,11 @@
 # Matemática
 Estudo da matemática.
 
+6ºano falta vídeo 36 à 47 (geometria)
+7ºano falta vídeo 90 à 98 (geometria)
+8ºano falta vídeo 134 à 158 (geometria)
+9ºano falta vídeo 183 à 203 (geometria)
+
 ## SUMÁRIO
 
 > ### Parte 1 - Aritmética
@@ -86,7 +91,7 @@ Estudo da matemática.
   - Medidas de posição 
   - Medidas de dispersão 
 
-> ### Parte 10 - Geometria (Estudar a partir da parte de geometria do 6º ano)
+> ### Parte 10 - Geometria
   - Geometria plana
   - Geometria espacial
   - Geometria analítica
