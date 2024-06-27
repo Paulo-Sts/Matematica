@@ -1,7 +1,7 @@
 # Matemática
 Estudo da matemática.
 
-PAREI NO VÍDEO 65
+PAREI NO VÍDEO 70
 6ºano falta vídeo 36 à 47 (geometria)
 7ºano falta vídeo 90 à 98 (geometria)
 8ºano falta vídeo 134 à 158 (geometria)
