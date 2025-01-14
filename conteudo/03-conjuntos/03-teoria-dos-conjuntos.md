@@ -110,6 +110,8 @@ Ex: A = {1, 2, 3, 4} e B = {1, 2, 3, 4}
 Ex: A = {3, 4} e B = {1, 2, 3, 4} 
 1. A<sup>C</sup> = {1, 2}
 
+***DICA:*** A expressão *ou* indica união entre conjuntos e a expressão *e* indica interseção.
+
 > ### Propriendades da união e interseção entre conjuntos
 
 #### Comutativa
