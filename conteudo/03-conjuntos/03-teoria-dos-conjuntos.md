@@ -62,7 +62,7 @@ Ex: A = {1, 2}; B = {1, 2, 3, 4} e C = {11, r}
   - P = Partes do conjunto
   - n = número de elementos do conjunto
 
-> ### Operações com Conjuntos
+> ### Operações com conjuntos
 
 #### União entre conjuntos
 * Se trata da união de todos os elementos de dois conjuntos em um terceiro conjunto.
@@ -112,7 +112,7 @@ Ex: A = {3, 4} e B = {1, 2, 3, 4}
 
 ***DICA:*** A expressão *ou* indica união entre conjuntos e a expressão *e* indica interseção.
 
-> ### Propriendades da união e interseção entre conjuntos
+> ### Propriedades da união e interseção entre conjuntos
 
 #### Comutativa
 * A ∪ B = B ∪ A

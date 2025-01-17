@@ -1,4 +1,4 @@
-# Diagrama de Venn
+# Diagrama de Venn-Euler
 
 <br>
 
