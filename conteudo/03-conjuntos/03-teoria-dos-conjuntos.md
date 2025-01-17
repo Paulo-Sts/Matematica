@@ -69,6 +69,8 @@ Ex: A = {1, 2}; B = {1, 2, 3, 4} e C = {11, r}
 * Elementos repetidos só aparecem uma única vez.
 * Representação:
   - A ∪ B = AB
+* Representação por propriedade:
+  - A ∪ B = { x / x ∈ A ou x ∈ B}
 
 Ex: A = {1, 2} e B = {3, 4} 
 1. A ∪ B => AB = {1, 2, 3, 4}
@@ -78,6 +80,8 @@ Ex: A = {1, 2} e B = {3, 4}
 * Quando dois conjuntos não possuem elementos em comum, a interseção entre eles é um conjunto vazio.
 * Representação:
   - A ∩ B = C
+* Representação por propriedade:
+  - A ∩ B = { x / x ∈ A e x ∈ B}
 
 Ex: A = {1, 2} e B = {1, 2, 3, 4} 
 1. A ∩ B => C = {1, 2}
@@ -89,6 +93,8 @@ Ex: A = {1, 2} e B = {3, 4}
 * Se trata do conjunto de elementos  que estão no primeiro conjunto, e não estão no segundo conjunto.
 * Representação:
   - A - B = C
+* Representação por propriedade:
+  - A - B = { x / x ∈ A e x ∉ B}
 
 Ex: A = {1, 2, 10, 15} e B = {1, 2, 3, 4} 
 1. A - B => C = {10, 15}
@@ -142,3 +148,21 @@ Ex: A = {3, 4} e B = {1, 2, 3, 4}
 * O complementar da interseção é igual a união dos complementares.
 * Representação:
   - (A ∩ B)<sup>C</sup> = A<sup>C</sup> ∪ B<sup>C</sup>
+
+> ### Número de elementos de um conjunto
+
+#### Para união de 2 conjuntos
+* Representação:
+  - n(A ∪ B) = n(A) + n(B) - n(A ∩ B)
+
+Ex: A = {1, 2, 3, 4} e B = {1, 2, 3, 4, 10, 20 , 30} quantos elementos tem (A ∪ B) ?
+1. n(A ∪ B) = 4 + 7 - 4
+2. n(A ∪ B) = 7
+
+#### Para união de 3 conjuntos
+* Representação:
+  - n(A ∪ B ∪ C) = n(A) + n(B) + n(C) - n(A ∩ B) - n(A ∩ C) - n(B ∩ C) + n(A ∩ B ∩ C)
+
+Ex: A = {1, 2, 3, 4}, B = {0, 1, 2, 4, 10, 20} e B = {2, 4, 9} quantos elementos tem (A ∪ B ∪ C) ?
+1. n(A ∪ B ∪ C) = 4 + 6 + 3 - 2 - 2 - 2 + 2
+2. n(A ∪ B ∪ C) = 9
