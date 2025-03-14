@@ -18,7 +18,7 @@
 
 #### Coordenadas de um ponto no Plano Cartesiano
 - As coordenadas de um ponto no plano cartesiano, definem sua posição no plano cartesiano sendo definidas por pares ordenados.
-- O primeiro valor representa a posição no eixo ***x**** e o segundo valor representa a posição no eixo ***y***.
+- O primeiro valor representa a posição no eixo **x** e o segundo valor representa a posição no eixo **y**.
 - Representação:
   - A (xA, yA)
 
@@ -54,3 +54,5 @@ Ex: Determinar a distância entre os pontos A (2, 1) e B (3, -4).
   - d2 = 12 + 52
   - d2 = 26
   - d = √26
+
+**OBSERVAÇÃO:** O plano cartesiano é muito utilizado na construção de gráficos de funções.
