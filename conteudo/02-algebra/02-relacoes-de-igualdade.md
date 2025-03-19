@@ -1,8 +1,6 @@
 # Relações de Igualdade
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A igualdade é uma representação matemática utilizada entre sentenças. A igualdade entre dois valores **a** e **b** é uma representação das diferentes expressões de um mesmo número.
 * De modo geral uma igualdade indica que duas ou mais expressões possuem uma relação entre sí, pois representam o mesmo valor.
 * Representação:
@@ -67,4 +65,4 @@ Ex: 2 + 8 = 5 + 5 => (2 + 8) . 10 = (5 + 5) . 10
 
 Ex: 2 + 8 = 5 + 5 => (2 + 8) : 10 = (5 + 5) : 10  
 
-**Observação:** Em equações, o uso dos princípios de equivalência da igualdade, auxiliam na resolução das expressões pois, por meio da manipulação dos elementos de cada membro da igualdade é possível descobrir o valor da icógnita.
+**OBSERVAÇÃO:** Em equações, o uso dos princípios de equivalência da igualdade, auxiliam na resolução das expressões pois, por meio da manipulação dos elementos de cada membro da igualdade é possível descobrir o valor da icógnita.

@@ -1,8 +1,6 @@
 # Expressões Algébricas
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * Expressões algébricas são expressões matemáticas formadas por números, letras e operações entre elas.
 * Toda expressão algébrica, possui partes numéricas (números) e partes literais (letras com números). A parte literal indica um valor desconhecido, esse valor desconhecido é composto por um **coeficiente** (número) e uma ou mais **variáveis** (letra).
 * A quantidade de termos ou elementos de uma expressão algébrica define que tipo de expressão ela é. Cada termo é separado pelas operações de adição e/ou subtração que formam a expressão.

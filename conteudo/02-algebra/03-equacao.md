@@ -1,8 +1,6 @@
 # Equação
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * Equação é toda expressão matemática formada por expressões algébricas e uma igualdade.
 * A resolução de uma equação envolve encontrar as **raízes da equação**.
 * O grau de uma equação é determinado pelo maior expoente das variáveis que a formam.

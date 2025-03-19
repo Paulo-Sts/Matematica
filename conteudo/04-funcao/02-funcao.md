@@ -15,7 +15,7 @@ Ex: Um cabeleireiro cobra R$ 12,00 pelo corte com hora marcada e R$ 10,00 sem ho
   - Q(x) = y
   - Q(x) = 10x + 72
 
-> ### Função de A em B
+> ### Elementos da função de A em B
 - Uma variável **y** é função de uma variável **x** se, e somente se, existe uma lei que associa, a cada valor de **x**, um único valor de **y**. Em outras palavras, dados os conjuntos X e Y, uma função f: A → B (lê-se: uma função de A em B) é uma regra que determina como associar a cada elemento x que ∈ A um único elemento y = f(x) ∈ B.
 
 <br>
