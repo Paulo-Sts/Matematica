@@ -1,12 +1,12 @@
 # Sistemas de Equação do 1º Grau
 
 ## Definição
-* É um conjunto de duas ou mais equações, em que o valor dos termos que as formam, tem para as respectivas equações as mesmas raízes.
+- É um conjunto de duas ou mais equações, em que o valor dos termos que as formam, tem para as respectivas equações as mesmas raízes.
 
 > ### Propriedades de resolução de sistemas de equação do 1º grau 
 
 #### Método da substituição
-* Consiste em isolar um dos termos de uma das equações, encontrando a sua igualdade a partir da relação com o outro termo e então substituindo esse termo pela sua equivalência, tornando assim a equação com um único termo.
+- Consiste em isolar um dos termos de uma das equações, encontrando a sua igualdade a partir da relação com o outro termo e então substituindo esse termo pela sua equivalência, tornando assim a equação com um único termo.
 
 Ex:   
 2x + y = 19  
@@ -22,7 +22,7 @@ x + y = 11
 **DICA:** Escolher isolar o termo que possuir coeficiente igual a 1.
 
 #### Método da adição
-* Consiste em somar as equações que formam o sistema, criando uma situação em que um dos termos é eliminado ao realizar o cálculo, restando assim apenas um termo, a partir do qual é possível encontrar o seu valor correspondente.
+- Consiste em somar as equações que formam o sistema, criando uma situação em que um dos termos é eliminado ao realizar o cálculo, restando assim apenas um termo, a partir do qual é possível encontrar o seu valor correspondente.
 
 Ex:   
 x + 2y = 17  
@@ -36,7 +36,7 @@ x - 2y = -11
 4. Logo o resultado é S:{(3, 7)}
 
 ##### Método da comparação
-* Se trata de isolar o mesmo termo das duas equações, igualar as equivalência dos termos isolados e comparar seus valores, encontrando o valor correspondente a um dos termos das equações.
+- Se trata de isolar o mesmo termo das duas equações, igualar as equivalência dos termos isolados e comparar seus valores, encontrando o valor correspondente a um dos termos das equações.
 
 Ex:  
 x + y = 6  
