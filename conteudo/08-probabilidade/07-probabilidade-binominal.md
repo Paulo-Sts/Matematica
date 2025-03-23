@@ -1,12 +1,10 @@
 # Probabilidade Binominal
 
-<br>
-
-## DEFINIÇÃO
-* A probabilidade binominal calcula a chance de um evento **S** acontecer dado um número **n** de repetições dos eventos possíveis, em que pode acontecer ou o evento **S** ou o evento **F**.
-* Um evento binominal é formado por um experimento binominal que só admite dois resultados possíveis e mutualmente excludentes.
-* Em um evento binominal os resultados favoráveis são chamados de **sucesso** enquanto o seu complementar é chamado de **fracasso**.
-* Representação:
+## Definição
+- A probabilidade binominal calcula a chance de um evento **S** acontecer dado um número **n** de repetições dos eventos possíveis, em que pode acontecer ou o evento **S** ou o evento **F**.
+- Um evento binominal é formado por um experimento binominal que só admite dois resultados possíveis e mutualmente excludentes.
+- Em um evento binominal os resultados favoráveis são chamados de **sucesso** enquanto o seu complementar é chamado de **fracasso**.
+- Representação:
   - P(n, s) = C<sub>n, s</sub> . [p(s)]<sup>s</sup> . [p(f)]<sup>f</sup>
   - P(n, s) = probabilidade do evento **S** acontecer
   - C<sub>n, s</sub> = números de combinações possíveis do evento **S** dada **n** repetições

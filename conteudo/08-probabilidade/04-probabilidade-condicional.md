@@ -1,10 +1,8 @@
 # Probabilidade Condicional
 
-<br>
-
-## DEFINIÇÃO
-* A probabilidade de um evento **A** acontecer visto que um evento **B** já aconteceu se dá pela razão entre a probabilidade dos eventos **A** e **B** (interseção) acontecerem ao mesmo tempo, pela probabilidade do evento **B** acontecer. 
-* Representação:
+## Definição
+- A probabilidade de um evento **A** acontecer visto que um evento **B** já aconteceu se dá pela razão entre a probabilidade dos eventos **A** e **B** (interseção) acontecerem ao mesmo tempo, pela probabilidade do evento **B** acontecer. 
+- Representação:
   - P(A/B) = P(A ∩ B)/ P(B) 
   - P(A/B) = probabilidade evento **A** acontecer, se o evento **B** acontecer
   - P(A ∩ B) = probabilidade do evento **A** e o evento **B** acontecerem ao mesmo tempo 

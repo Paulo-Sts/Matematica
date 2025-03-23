@@ -1,10 +1,8 @@
 # Arranjo Simples
 
-<br>
-
-## DEFINIÇÃO
-* É o cálculo do número de agrupamentos possíveis dos **n** elementos de um conjunto **A**, em que o tamanho do agrupamento é igual ou menor a quantidade de elementos do conjunto e a ordem dos elementos no agrupamento importa. A característica dos elementos também importa.
-* Fórmula: 
+## Definição
+- É o cálculo do número de agrupamentos possíveis dos **n** elementos de um conjunto **A**, em que o tamanho do agrupamento é igual ou menor a quantidade de elementos do conjunto e a ordem dos elementos no agrupamento importa. A característica dos elementos também importa.
+- Fórmula: 
   - A<sub>n,p</sub>= n!/(n - p!)
   - n = total de elementos do conjunto
   - p = tamanho do agrupamento

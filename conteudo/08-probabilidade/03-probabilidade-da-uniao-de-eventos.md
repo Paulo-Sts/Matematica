@@ -1,11 +1,9 @@
 # Probabilidade da União de Dois Eventos
 
-<br>
-
-## DEFINIÇÃO
-* A probabilidade da união de dois eventos se dá pela soma da probabilidade do evento **A** acontecer com a probabilidade do evento **B** acontecer, subtraindo a probabilidade dos eventos **A** e **B** acontecerem ao mesmo tempo (interseção). 
-* Se não existir interseção entre os eventos a interseção será igual a zero.
-* Representação:
+## Definição
+- A probabilidade da união de dois eventos se dá pela soma da probabilidade do evento **A** acontecer com a probabilidade do evento **B** acontecer, subtraindo a probabilidade dos eventos **A** e **B** acontecerem ao mesmo tempo (interseção). 
+- Se não existir interseção entre os eventos a interseção será igual a zero.
+- Representação:
   - P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
   - P(A) = probabilidade de ocorrer o evento **A**
   - P(B) = probabilidade de ocorrer o evento **A**
@@ -21,7 +19,7 @@ Ex: Em um conjunto de 1 a 20, qual a probabilidade de se retirar um número que 
 6. Resposta: 1/2
 
 
-***DICA:*** Questões que envolvem a palavra **ou** tratam da união entre eventos.
+**DICA:** Questões que envolvem a palavra **ou** tratam da união entre eventos.
   
 
 

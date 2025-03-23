@@ -1,15 +1,13 @@
 # Cálculo das Probabilidades 
 
-<br>
-
-## DEFINIÇÃO
-* A probabilidade é o cálculo da chance de um evento acontecer em um determinado espaço amostral. 
-* A probabildade pode ser representada por um valor entre **0** e **1**, por uma fração ou na forma de porcentagem.
+## Definição
+- A probabilidade é o cálculo da chance de um evento acontecer em um determinado espaço amostral. 
+- A probabildade pode ser representada por um valor entre **0** e **1**, por uma fração ou na forma de porcentagem.
 
 > ### Conceitos gerais
 
 #### Espaço amostral
-* É o conjunto de eventos possíveis de acontecer em um experimento aleatório.
+- É o conjunto de eventos possíveis de acontecer em um experimento aleatório.
 
 Ex: Quais os resultados possíveis ao jogar um dado?
 
@@ -17,7 +15,7 @@ Ex: Quais os resultados possíveis ao jogar um dado?
 2. Resultados possíveis a partir do espaço amostral => 6 resultados possíveis
 
 #### Evento
-* É qualquer subconjunto do espaço amostral de um experimento aleatório, ou seja, é a ocorrência de um determinado resultado em um conjunto de resultados possíveis.
+- É qualquer subconjunto do espaço amostral de um experimento aleatório, ou seja, é a ocorrência de um determinado resultado em um conjunto de resultados possíveis.
 
 Ex: Quais a chance sortear 1 ao jogar um dado?
 
@@ -26,7 +24,7 @@ Ex: Quais a chance sortear 1 ao jogar um dado?
 3. Resultados do evento => 1 resultado favorável
 
 #### Resultados mutualmente excludentes
-* Evento em que a ocorrência de uma do total de possibilidades, exclui automaticamente as demais.
+- Evento em que a ocorrência de uma do total de possibilidades, exclui automaticamente as demais.
 
 Ex: Em um conjunto de 1 a 10 qual a probabilidade de sortear um número par?
 
@@ -35,10 +33,10 @@ Ex: Em um conjunto de 1 a 10 qual a probabilidade de sortear um número par?
 3. Razão => P(par) = 5/10 = 0,50 = 50%
 4. Resposta: Chance de sortear número par = 50%
 
-**Observação:** Por o evento ser par, o evento ser ímpar está automativamente excluído.
+**OBSERVAÇÃO:** Por o evento ser par, o evento ser ímpar está automativamente excluído.
 
 #### Evento certo
-* Evento que coincide com o espaço amostral, ou seja, sua chance de acontecer é de 100%.
+- Evento que coincide com o espaço amostral, ou seja, sua chance de acontecer é de 100%.
 
 Ex: Ao jogar um dado qual a chance de sair um número menor que 7?
 
@@ -47,7 +45,7 @@ Ex: Ao jogar um dado qual a chance de sair um número menor que 7?
 3. Resposta: 100%
 
 #### Evento impossivel
-* Quando um evento é vazio ele é chamado de evento impossível.
+- Quando um evento é vazio ele é chamado de evento impossível.
 
 Ex: Ao jogar um dado qual a chance de sair o número 7?
 

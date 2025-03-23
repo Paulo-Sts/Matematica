@@ -1,10 +1,8 @@
 # Probabilidade de Eventos Independentes
 
-<br>
-
-## DEFINIÇÃO
-* O cálculo da probabilidade da ocorrência de eventos ao mesmo tempo que não são relacionados se dá pelo produto da probabilidade de ocorrência de cada evento.
-* Representação:
+## Definição
+- O cálculo da probabilidade da ocorrência de eventos ao mesmo tempo que não são relacionados se dá pelo produto da probabilidade de ocorrência de cada evento.
+- Representação:
   - P(A ∩ B) = P(A) . P(B) 
   - P(A ∩ B) = probabilidade de ocorrer o evento **A** e o evento **B**
   - P(A) = probabilidade de ocorrer o evento **A**
@@ -26,4 +24,4 @@ EVENTO A **E** EVENTO B:
 1. Fórmula => P(ímpar e coroa) = 1/2 . 1/2 = 1/4
 2. Resposta: 1/4
 
-***DICA:*** Questões que envolvem a palavra **e** tratam de eventos independentes.
+**DICA:** Questões que envolvem a palavra **e** tratam de eventos independentes.

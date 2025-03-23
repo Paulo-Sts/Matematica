@@ -1,24 +1,11 @@
 # Diagrama de Venn-Euler
 
-<br>
-
-## DEFINIÇÃO
-* É uma representação gráfica dos elementos de um conjunto.
+## Definição
+- É uma representação gráfica dos elementos de um conjunto.
 
 <div style="display:inline_block">
     <img align="left" height="200" width="400" alt="TypeScript" src="https://static.todamateria.com.br/upload/di/ag/diagrama1.jpg">
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</div><br><br><br><br><br><br><br><br><br><br>
 
 Ex: Foi feita uma pesquisa entre 100 estudantes de uma escola sobre o consumo de três marcas de refrigerantes: A, B e C. O resultado obtido foi: 
 - 38 estudantes consomem a marca A;
@@ -42,14 +29,3 @@ Considerando os dados da pesquisa, quantos estudantes consomem apenas uma dessas
 <div style="display:inline_block">
     <img align="left" height="200" width="400" alt="TypeScript" src="https://static.todamateria.com.br/upload/co/nj/conjunto1.gif?auto_optimize=low">
 </div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>

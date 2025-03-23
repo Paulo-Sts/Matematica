@@ -1,12 +1,10 @@
 # Princípio Fundamental da Contagem
 
-<br>
-
-## DEFINIÇÃO
-* O princípio fundamental da contagem, ou princípio multiplicativo é um método para calcular o número de possibilidades de um evento de acordo com as condições que o forma (análise combinatória).
-* O cálculo das possibilidades de um evento com **n** etapas, em que para cada etapa exista uma quantidade de opções de resultados (elementos), o número total de possibilidades que formam o evento, será o produto do número das opções de cada etapa do evento.
-* O PFC também é chamado de médoto do tracinho, em que o tracinho representa o número de etapas ou escolhas de um evento.
-* As formas mais comuns de se cobrar análise combinatória são: de quantas maneiras, de quantos modos, quantas são as possibilidades.
+## Definição
+- O princípio fundamental da contagem, ou princípio multiplicativo é um método para calcular o número de possibilidades de um evento de acordo com as condições que o forma (análise combinatória).
+- O cálculo das possibilidades de um evento com **n** etapas, em que para cada etapa exista uma quantidade de opções de resultados (elementos), o número total de possibilidades que formam o evento, será o produto do número das opções de cada etapa do evento.
+- O PFC também é chamado de médoto do tracinho, em que o tracinho representa o número de etapas ou escolhas de um evento.
+- As formas mais comuns de se cobrar análise combinatória são: de quantas maneiras, de quantos modos, quantas são as possibilidades.
 
 Ex: Quais as possibilidades de formar uma roupa com 5 camisas, 3 calças e 2 sapatos?
 
@@ -17,9 +15,9 @@ etapa 3 => 2 (sapato)
 
 1. número de possibilidades = 5 . 3 . 2 = 30 
 
-***DICA:*** Eventos em que se deve fazer uma escolha, entre um ou outro possível, geralmente usam a palavra **ou**. Para esses eventos em que existem hipóteses, o total de possibilidades será a soma das possibilidades de cada hipótese.
+**DICA:** Eventos em que se deve fazer uma escolha, entre um ou outro possível, geralmente usam a palavra **ou**. Para esses eventos em que existem hipóteses, o total de possibilidades será a soma das possibilidades de cada hipótese.
 
-***DICA:*** Eventos formados por etapas, são independentes e o total de possibilidades será formado pela multiplicação das possibilidades de cada etapa do evento.
+**DICA:** Eventos formados por etapas, são independentes e o total de possibilidades será formado pela multiplicação das possibilidades de cada etapa do evento.
 
 > ### Tipos de cálculo PFC
 
