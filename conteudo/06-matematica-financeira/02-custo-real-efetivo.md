@@ -1,17 +1,15 @@
 # Custo Real Efetivo
 
-<br>
-
-## DEFINIÇÃO
-* O custo real efetivo ou taxa de juros real, calcula o ganho real em operações financeiras de financiamento, empréstimo e investimo. 
-* O cálculo é feito para retirar o efeito da taxa de inflação sobre o juros, encontrando assim a taxa real de juros.
-* Fórmula da taxa real:
+## Definição
+- O custo real efetivo ou taxa de juros real, calcula o ganho real em operações financeiras de financiamento, empréstimo e investimo. 
+- O cálculo é feito para retirar o efeito da taxa de inflação sobre o juros, encontrando assim a taxa real de juros.
+- Fórmula da taxa real:
   - (1 + i) = (1 + r) . (1 + if)
   - i = taxa aparente
   - r = taxa real
   - if = taxa de inflação
-* A taxa nominal é sempre maior do que a taxa real somada a inflação do período da operação.
-* Representação:
+- A taxa nominal é sempre maior do que a taxa real somada a inflação do período da operação.
+- Representação:
   - i > r + if
 
 Ex: Investimento de 10% a.m com inflação de 5% a.m, qual a taxa real de rendimento?
@@ -29,4 +27,4 @@ r = ?
 6. Converter para taxa percentual => 0,047619047619048 . 100 = 4,76
 7. Resposta: A taxa real é = 4,76%
 
-***DICA:*** Verificando a diferença entre a taxa de aparente e a inflação, pode-se eliminar alternativas em que o valor da taxa real somado a inflação for ou maior do que a taxa nominal, ou igual, pois a taxa nominal sempre é maior do que a taxa real somada a inflação.
+**DICA:** Verificando a diferença entre a taxa de aparente e a inflação, pode-se eliminar alternativas em que o valor da taxa real somado a inflação for ou maior do que a taxa nominal, ou igual, pois a taxa nominal sempre é maior do que a taxa real somada a inflação.
