@@ -1,17 +1,15 @@
 # Equivalência de Capitais
 
-<br>
-
-## DEFINIÇÃO
-* A equivalência de capitais envolve operações de antecipação ou prorrogação de valores. Trata-se portanto do deslocamento dos juros de um valor futuro para um valor presente, ou de um valor presente para um valor futuro.
-* Esse processo transforma o valor dos juros a pagar ou receber originalmente em diferentes períodos e valores por juros equivalentes em um novo período definido comum a todos.
-* A equivalência de capitais se dá em regime simples e em regime composto.
+## Definição
+- A equivalência de capitais envolve operações de antecipação ou prorrogação de valores. Trata-se portanto do deslocamento dos juros de um valor futuro para um valor presente, ou de um valor presente para um valor futuro.
+- Esse processo transforma o valor dos juros a pagar ou receber originalmente em diferentes períodos e valores por juros equivalentes em um novo período definido comum a todos.
+- A equivalência de capitais se dá em regime simples e em regime composto.
 
 > ### Equivalência de capitais em regime simples
 
 #### Postergação do valor
-* Para avançar um valor para o futuro, o novo valor é será o produto do valor presente pela taxa equivalente.
-* Fórmula:
+- Para avançar um valor para o futuro, o novo valor é será o produto do valor presente pela taxa equivalente.
+- Fórmula:
   - x = c.(1 + i.t)
   - x = capital equivalente
   - c = capital presente
@@ -19,8 +17,8 @@
   - t = prazo
 
 #### Antecipação do valor
-* Para antecipar um valor futuro para o presente, o novo valor é a razão do valor presente pela taxa equivalente.
-* Fórmula:
+- Para antecipar um valor futuro para o presente, o novo valor é a razão do valor presente pela taxa equivalente.
+- Fórmula:
   - x = c/(1 + i.t)
   - x = capital equivalente
   - c = capital presente
@@ -49,8 +47,8 @@ i = 5% a.m
 > ### Equivalência de capitais em regime composto
 
 #### Postergação do valor
-* Para avançar um valor para o futuro, o novo valor é será o produto do valor presente pela taxa equivalente.
-* Fórmula:
+- Para avançar um valor para o futuro, o novo valor é será o produto do valor presente pela taxa equivalente.
+- Fórmula:
   - x = c.(1 + i)<sup>t</sup>
   - x = capital equivalente
   - c = capital presente
@@ -58,8 +56,8 @@ i = 5% a.m
   - t = prazo
 
 #### Antecipação do valor
-* Para antecipar um valor futuro para o presente, o novo valor é a razão do valor presente pela taxa equivalente.
-* Fórmula:
+- Para antecipar um valor futuro para o presente, o novo valor é a razão do valor presente pela taxa equivalente.
+- Fórmula:
   - x = c/(1 + i)<sup>t</sup>
   - x = capital equivalente
   - c = capital presente
@@ -85,4 +83,4 @@ i = 2% a.m
 4. Somar => x = 2.080,8 + 1960,78
 5. Resposta: x = 4041,58
 
-***DICA:*** Construir o diagrama de fluxo de caixa auxilia a visualizar o novo prazo comum.
+**DICA:** Construir o diagrama de fluxo de caixa auxilia a visualizar o novo prazo comum.

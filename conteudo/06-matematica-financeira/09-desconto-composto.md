@@ -1,23 +1,21 @@
 # Desconto Composto
 
-<br>
-
-## DEFINIÇÃO
-* Desconto composto é uma dedução do valor nominal de um título quando este é pago/recebido de forma antecipada. Possue mesma lógica do desconto simples.
-* Representação desconto:
+## Definição
+- Desconto composto é uma dedução do valor nominal de um título quando este é pago/recebido de forma antecipada. Possue mesma lógica do desconto simples.
+- Representação desconto:
   - D = n - a
   - D = desconto
   - n = valor nominal
   - a = valor atual
-* Tipos de desconto composto:
+- Tipos de desconto composto:
   - Desconto comercial (bancário ou por fora);
   - Desconto racional (ou por dentro).
 
 > ### Desconto comercial
-* É o tipo de desconto utilizado pelos bancos e comércio em geral. A base do cálculo do desconto é o valor nominal.
+- É o tipo de desconto utilizado pelos bancos e comércio em geral. A base do cálculo do desconto é o valor nominal.
 
 #### Fórmula do valor atual
-* Fórmula:
+- Fórmula:
   - A = n . (1 - i)<sup>t</sup>
   - A = valor atual
   - n = valor nominal
@@ -25,17 +23,17 @@
   - t = tempo
 
 > ### Desconto racional
-* É o tipo de desconto tendo como base o valor atual. Também é chamado de desconto verdadeiro.
+- É o tipo de desconto tendo como base o valor atual. Também é chamado de desconto verdadeiro.
 
 #### Fórmula valor atual
-* Fórmula:
+- Fórmula:
   - A = n/(1 + i)<sup>t</sup>
   - A = valor atual
   - n = valor nominal
   - i = taxa de juros
   - t = tempo
 
-**Observação:** O desconto racional é sempre menor do que o desconto comercial.
+**OBSERVAÇÃO:** O desconto racional é sempre menor do que o desconto comercial.
 
 Ex: Título de 10 mil descontado 60 dias antes do vencimento com desconto simples de 10% ao mês. Qual o valor com o desconto comercial e o desconto racional?
 
@@ -58,8 +56,8 @@ Desconto racional:
 4. Resposta: O valor atual é = 8264,46 (desconto de 1735,53)
 
 > ### Equivalência entre taxas de desconto comercial e desconto racional
-* Duas taxas de desconto (comercial e racional) são equivalentes se produzirem o mesmo desconto em um mesmo prazo de antecipação de um título.
-* Fórmula:
+- Duas taxas de desconto (comercial e racional) são equivalentes se produzirem o mesmo desconto em um mesmo prazo de antecipação de um título.
+- Fórmula:
   - (1 - ic) . (1 + ir) = 1
   - ic = taxa de desconto comercial
   - ir = taxa de desconto racional

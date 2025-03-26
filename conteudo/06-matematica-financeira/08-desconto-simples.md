@@ -1,16 +1,14 @@
 # Desconto Simples
 
-<br>
-
-## DEFINIÇÃO
-* Desconto é o abatimento que um título de crédito recebe por ser liquidado antes de seu vencimento, ou seja, é a projeção de um valor futuro para o presente. O desconto é o quanto é cobrado de juros para receber no presente um valor a que se tem direito no futuro.
-* O valor de um título no dia do seu vencimento (pagamento) se chama **valor nominal**, que é o seu valor original.
-* O valor de um título, recebido antes do seu vencimento é um outro valor, menor do que o valor nominal (pois se desconta uma taxa para por receber antecipadamente), sendo chamado de **valor presente ou valor atual**.
-* O valor presente de um título vai depender da taxa cobrada sobre o valor nominal dele.
-* Tipos de desconto simples:
+## Definição
+- Desconto é o abatimento que um título de crédito recebe por ser liquidado antes de seu vencimento, ou seja, é a projeção de um valor futuro para o presente. O desconto é o quanto é cobrado de juros para receber no presente um valor a que se tem direito no futuro.
+- O valor de um título no dia do seu vencimento (pagamento) se chama **valor nominal**, que é o seu valor original.
+- O valor de um título, recebido antes do seu vencimento é um outro valor, menor do que o valor nominal (pois se desconta uma taxa para por receber antecipadamente), sendo chamado de **valor presente ou valor atual**.
+- O valor presente de um título vai depender da taxa cobrada sobre o valor nominal dele.
+- Tipos de desconto simples:
   - Desconto comercial (bancário ou por fora);
   - Desconto racional (ou por dentro).
-* Representação desconto:
+- Representação desconto:
   - D = n - a
   - D = desconto
   - n = valor nominal
@@ -23,10 +21,10 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
 3. Resposta: O cheque vale = R$ 900,00
 
 > ### Desconto comercial
-* É o tipo de desconto utilizado pelos bancos e comércio em geral. A base do cálculo do desconto é o valor nominal.
+- É o tipo de desconto utilizado pelos bancos e comércio em geral. A base do cálculo do desconto é o valor nominal.
 
 #### Fórmula do valor de desconto
-* Fórmula:
+- Fórmula:
   - D<sub>c</sub> = n . i . t
   - D = desconto comercial
   - n = valor nominal
@@ -34,7 +32,7 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
   - t = tempo
 
 #### Fórmula valor atual
-* Fórmula:
+- Fórmula:
   - A = n . (1 - i . t)
   - A = valor atual
   - n = valor nominal
@@ -42,10 +40,10 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
   - t = tempo
 
 > ### Desconto racional
-* É o tipo de desconto tendo como base o valor atual. Também é chamado de desconto verdadeiro.
+- É o tipo de desconto tendo como base o valor atual. Também é chamado de desconto verdadeiro.
 
 #### Fórmula do valor de desconto
-* Fórmula:
+- Fórmula:
   - D<sub>r</sub> = a . i . t
   - D = desconto comercial
   - a = valor atual
@@ -53,14 +51,14 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
   - t = tempo
 
 #### Fórmula valor atual
-* Fórmula:
+- Fórmula:
   - A = n/(1 + i . t)
   - A = valor atual
   - n = valor nominal
   - i = taxa de juros
   - t = tempo
 
-**Observação:** O desconto racional é sempre menor do que o desconto comercial.
+**OBSERVAÇÃO:** O desconto racional é sempre menor do que o desconto comercial.
 
 Ex: Título de 7 mil descontado 60 dias antes do vencimento com desconto simples de 10% ao mês. Qual o valor com o desconto comercial e o desconto racional?
 

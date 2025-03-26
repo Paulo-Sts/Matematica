@@ -1,12 +1,10 @@
 # Convenção Linear e Exponencial
 
-<br>
-
-## DEFINIÇÃO
-* A convenção linear é a aplicação de diferentes cálculos da taxa de juros sobre o capital em situações onde o prazo da aplicação não for correspondente a um período inteiro a qual a taxa é referenciada. 
-* Esse cálculo consiste em aplicar juros compostos a parte inteira do período de aplicação e aplicar juros simples a parte fracionária correspondente ao período de aplicação.
-* A convenção exponencial calcula tendo como base para todo período o juros compostos, ou seja, é o mesmo cálculo utilizado em aplicações de juros compostos com período de aplicação inteiro em relação a referência da taxa.
-* Fórmula convenção linear:
+## Definição
+- A convenção linear é a aplicação de diferentes cálculos da taxa de juros sobre o capital em situações onde o prazo da aplicação não for correspondente a um período inteiro a qual a taxa é referenciada. 
+- Esse cálculo consiste em aplicar juros compostos a parte inteira do período de aplicação e aplicar juros simples a parte fracionária correspondente ao período de aplicação.
+- A convenção exponencial calcula tendo como base para todo período o juros compostos, ou seja, é o mesmo cálculo utilizado em aplicações de juros compostos com período de aplicação inteiro em relação a referência da taxa.
+- Fórmula convenção linear:
   - M = c . (1 + i)<sup>t</sup> . (1 + i . t)
   - M = montante
   - c = capital inicial

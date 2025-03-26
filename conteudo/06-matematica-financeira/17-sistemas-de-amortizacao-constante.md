@@ -1,47 +1,45 @@
 # Sistemas de Amortização Constante
 
-<br>
-
-## DEFINIÇÃO
-* Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
-* Representação:
+## Definição
+- Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
+- Representação:
   - Prestação = amortização + juros
-* O Sistema de Amortização Constante (SAC) é um sistema de amortização utilizado em geral para financiamentos imobiliários. 
-* O cálculo da amortização de uma dívida é feito utilizando uma tabela que relaciona as prestações, a amortização, o saldo devedor e os juros.
+- O Sistema de Amortização Constante (SAC) é um sistema de amortização utilizado em geral para financiamentos imobiliários. 
+- O cálculo da amortização de uma dívida é feito utilizando uma tabela que relaciona as prestações, a amortização, o saldo devedor e os juros.
 
 #### Características
-* As amortizações são iguais ao longo do tempo.
-* O valor da prestação é variável ao longo do tempo.
-* Os juros incidem sobre o saldo devedor que por decrescerem ao longo do tempo, geram juros cada vez menores, ou seja, os juros são decrescentes.
-* Como as amortizações são fixas e os juros decrescentes, a prestação é decrescente.
+- As amortizações são iguais ao longo do tempo.
+- O valor da prestação é variável ao longo do tempo.
+- Os juros incidem sobre o saldo devedor que por decrescerem ao longo do tempo, geram juros cada vez menores, ou seja, os juros são decrescentes.
+- Como as amortizações são fixas e os juros decrescentes, a prestação é decrescente.
 
 > ### Fórmula da amortização
-* Fórmula para calcular o valor da amortização para o sistema de amortização constante.
-* Representação:
+- Fórmula para calcular o valor da amortização para o sistema de amortização constante.
+- Representação:
   - A = sd/n
   - A = amortização
   - sd = saldo devedor
   - n = quantidade de parcelas
 
 > ### Fórmula dos juros calculados
-* É o cálculo dos juros após o pagamento de cada prestação.
-* Representação:
+- É o cálculo dos juros após o pagamento de cada prestação.
+- Representação:
   - J = sd . i
   - J = juros
   - sd = saldo devedor
   - i = taxa de juros
 
 > ### Fórmula do saldo devedor atual
-* É o cálculo do saldo devedor após o pagamento de cada prestação.
-* Representação:
+- É o cálculo do saldo devedor após o pagamento de cada prestação.
+- Representação:
   - SDA = sd - a
   - SDA = saldo devedor atual
   - sd = saldo devedor anterior
   - a = amortização
 
 > ### Fórmula dos juros de prestação futura
-* Essa fórmula determina o valor dos juros de uma prestação futura.
-* Representação:
+- Essa fórmula determina o valor dos juros de uma prestação futura.
+- Representação:
   - J = i . m . {1 - [(t - 1)/n]}
   - J = juros da prestação futura
   - i = taxa de juros
@@ -50,8 +48,8 @@
   - n = quantidade de prestações
 
 > ### Fórmula da saldo devedor futuro
-* Essa fórmula determina o valor do saldo devedor de uma prestação futura.
-* Representação:
+- Essa fórmula determina o valor do saldo devedor de uma prestação futura.
+- Representação:
   - SD = m . (1 - t/n)
   - SD = saldo devedor futuro
   - m = montante

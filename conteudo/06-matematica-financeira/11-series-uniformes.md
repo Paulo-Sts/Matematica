@@ -1,43 +1,41 @@
 # Séries Uniformes
 
-<br>
-
-## DEFINIÇÃO
-* Séries uniformes são pagamentos ou recebimentos constantes que ocorrem em intervalos iguais.
+## Definição
+- Séries uniformes são pagamentos ou recebimentos constantes que ocorrem em intervalos iguais.
 
 > ### Classificação das séries uniformes
 
 #### De acordo com o prazo
-* A perspectiva é o número de prestações.
-* Tipos:
+- A perspectiva é o número de prestações.
+- Tipos:
   - Temporária ou Finita (prestações ocorrem em determinado período);
   - Perpétua ou Infinita (prestações não tem prazo para fim).
 
 #### De acordo com o valor 
-* A perspectiva é o valor dos recebimentos ou pagamentos.
-* Tipos:
+- A perspectiva é o valor dos recebimentos ou pagamentos.
+- Tipos:
   - Constante ou Uniforme (os valores são sempre iguais);
   - Variável ou Não uniforme (os valores não são iguais).
 
 #### De acordo com a forma
-* A perspectiva a forma de realização do pagamento ou recebimento.
-* Tipos:
+- A perspectiva a forma de realização do pagamento ou recebimento.
+- Tipos:
   - Antecipadas (pagamento realizado no início de cada período, no ato do negócio);
   - Postecipadas ou Imediatas (pagamento realizado no fim da cada período, um período após o ato do negócio);
   - Diferida (quando houver carência para pagamento da primeira prestação);
 
 #### De acordo com a periodicidade
-* A perspectiva do ato de realização do pagamento ou recebimento.
-* Tipos:
+- A perspectiva do ato de realização do pagamento ou recebimento.
+- Tipos:
   - Periódica (intervalos entre prestações é igual);
   - Não periódica (intervalos entre prestações é diferente).
 
-**Observação:** É preciso atenção em relação às séries classificadas por suas formas, pois influenciam na maneira que se calcula.
+**OBSERVAÇÃO:** É preciso atenção em relação às séries classificadas por suas formas, pois influenciam na maneira que se calcula.
 
 > ### Fórmulas Séries uniformes
 
 #### Pagamentos antecipados
-* Fórmula:
+- Fórmula:
   - V = p . [(1 + i)<sup>t</sup> - 1]/(1 + i)<sup>t - 1</sup>. i
   - V = valor financiado ou investido
   - p = prestação ou parcela
@@ -45,7 +43,7 @@
   - t = prazo
 
 #### Pagamentos postecipados ou imediatos
-* Fórmula:
+- Fórmula:
   - V = p . [(1 + i)<sup>t</sup> - 1]/(1 + i)<sup>t</sup>. i
   - V = valor financiado ou investido
   - p = prestação ou parcela
@@ -53,7 +51,7 @@
   - t = prazo
 
 #### Pagamentos diferidos
-* Fórmula:
+- Fórmula:
   - V = p . [(1 + i)<sup>t</sup> - 1]/(1 + i)<sup>t + m</sup>. i
   - V = valor financiado ou investido
   - p = prestação ou parcela
