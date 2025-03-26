@@ -8,12 +8,12 @@
 Ex: Um cabeleireiro cobra R$ 12,00 pelo corte com hora marcada e R$ 10,00 sem hora marcada. Ele tem por dia um número fixo de 6 clientes com hora marcada e um número variável X de clientes sem hora marcada.
 
 1. O que é dado em função de que?
-  - valor do dia = número de clientes . valor do corte 
-  - O valor que o cabeleireiro recebe por dia, ou seja, sua receita, depende do número de clientes. Assim, a quantia recebida está em função do número de clientes atendidos.
+    - valor do dia = número de clientes . valor do corte 
+    - O valor que o cabeleireiro recebe por dia, ou seja, sua receita, depende do número de clientes. Assim, a quantia recebida está em função do número de clientes atendidos.
 2. Qual a fórmula que representa a quantia **Q** recebida por dia em função do número **x** de clientes?
-  - y = x . 10 + 72
-  - Q(x) = y
-  - Q(x) = 10x + 72
+    - y = x . 10 + 72
+    - Q(x) = y
+    - Q(x) = 10x + 72
 
 > ### Elementos da função de A em B
 - Uma variável **y** é função de uma variável **x** se, e somente se, existe uma lei que associa, a cada valor de **x**, um único valor de **y**. Em outras palavras, dados os conjuntos X e Y, uma função f: A → B (lê-se: uma função de A em B) é uma regra que determina como associar a cada elemento x que ∈ A um único elemento y = f(x) ∈ B.
@@ -32,16 +32,16 @@ Ex: Um cabeleireiro cobra R$ 12,00 pelo corte com hora marcada e R$ 10,00 sem ho
 Ex: É dada a função real f: {-2,0,1,2} → R, definida pela lei y = f(x) = x 2 + x – 3. Determinar suas imagens e posição no plano cartesiano.
 
 1. Imagens:
-  - Para o primeiro valor do domínio, x = -2, ao substituir na fórmula, tem-se: f(-2) = (-2)2 + (-2) - 3 = -1
-  - Portanto, o par ordenado correspondente é (-2, -1). Quando x vale -2, a imagem é -1.
-  - Em seguida, para x = 0: f(0) = (0)2 + 0 - 3 = -3
-  - O par ordenado resultante é (0, -3). Quando x vale 0, a imagem é -3.
-  - Agora, para x = 1: f(1) = (1)2 + 1 - 3 = -1
-  - O par ordenado é (1, -1). Quando x vale 1, a imagem é -1.
-  - Finalmente, para x = 2: f(2) = (2)2 + 2 - 3 = 3
-  - O par ordenado correspondente é (2,3). Quando x vale 2, a imagem é 3.
+    - Para o primeiro valor do domínio, x = -2, ao substituir na fórmula, tem-se: f(-2) = (-2)2 + (-2) - 3 = -1
+    - Portanto, o par ordenado correspondente é (-2, -1). Quando x vale -2, a imagem é -1.
+    - Em seguida, para x = 0: f(0) = (0)2 + 0 - 3 = -3
+    - O par ordenado resultante é (0, -3). Quando x vale 0, a imagem é -3.
+    - Agora, para x = 1: f(1) = (1)2 + 1 - 3 = -1
+    - O par ordenado é (1, -1). Quando x vale 1, a imagem é -1.
+    - Finalmente, para x = 2: f(2) = (2)2 + 2 - 3 = 3
+    - O par ordenado correspondente é (2,3). Quando x vale 2, a imagem é 3.
 2. Posição no plano cartesiano:  
-  - As posições no plano cartesiano são: (-2, -1), (0, -3), (1, -1) e (2,3).
+    - As posições no plano cartesiano são: (-2, -1), (0, -3), (1, -1) e (2,3).
 
 **DICA:** A imagem consiste nos elementos que receberam uma associação, enquanto o contradomínio abrange todas as opções disponíveis. 
 
