@@ -46,6 +46,31 @@ a concavidade está para baixo; por essa razão, na segunda linha, os gráficos 
 
 **OBSERVAÇÃO:** Quando ∆ for maior do que zero, encontram-se duas raízes reais e distintas; por essa razão, a parábola toca o eixo x duas vezes. Quando ∆ for igual a zero, encontra-se somente uma raiz dupla; por essa razão, a parábola toca apenas uma vez no eixo x. Quando ∆ for menor do que zero, não existem raízes reais; por essa razão, a parábola não toca o eixo x. 
 
+Ex: Considere a função quadrática de R em R, dada por y = f(x) = x2 -6x + 8
+
+A) Encontre seu vértice, seu mínimo (ou máximo) e seu conjunto imagem.
+1. O vértice tem o Xv = - b/2ª = -(-6)/2.1 = 6/2 = 3
+2. O Yv = -∆/4a ou f(3) = 32 - 6 . 3 + 8
+3. f(3) = 9 - 18 + 8
+4. f(3) = -1
+5. O vértice é 3 em x e -1 em y v(3,-1)
+6. O mínimo dessa função é -1
+7. A imagem da função vai de -1 até o + infinito ou y E/R/y ≥-1
+
+B) Encontre suas raízes
+1. A raiz é onde o y = 0
+2. x2 – 6x + 8 = 0
+3. ∆ = b2 – 4ac
+4. ∆ = 6 . 6 - 4 . 1 . 8
+5. ∆ = 36 - 32 = 4
+6. x = -b ± √∆/2a
+7. x = -(-6) ± √4/2 . 1
+8. x = 6 ± √4/2
+9. x = 6 ± 2/2
+10. x1 = 6 + 2/2 = 8/2 = 4
+11. x2 6 - 2/2 = 4/2 = 2
+12. Raízes = (4, 2) 
+
 > ### Forma fatorada da função
 - A lei de uma função quadrática definida por f(x) = ax2 + bx + c também pode ser escrita na forma fatorada.
 - Representação:
