@@ -92,58 +92,58 @@ Ex: D(12)= {1, 2, 3, 4, 6, 12}
 4. Produto das somas das combinações de cada número primo será o resultado => (1 + 2 + 4) . (1 + 3) => 7 . 4 = 28
 5. Resposta: 28
 
-## Divisibilidades
+> ### Divisibilidades
 * Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro (divisão exata).
 
-> ### Divisibilidade por dois
+#### Divisibilidade por dois
 * Um número é divisível por dois, quando o número for par, ou seja, quando o número terminar em: zero, dois, quatro, seis ou oito.
 
 Ex: 22 (é divisível)  
 Ex: 31 (não é divisível)  
 
-> ### Divisibilidade por três
+#### Divisibilidade por três
 * Um número é divisível por três, quando a soma dos algarismos que o formam, for um número divisível por três.
 
 Ex: 234 (é divisível)  
 Ex: 34 (não é divisível)  
 
-> ### Divisibilidade por quatro
+#### Divisibilidade por quatro
 * Um número é divisível por quatro, quando os seus dois últimos algarismos forem zero, ou quando os dois últimos algarismos formarem um número divisível por quatro.
 
 Ex: 1500 (é divisível)  
 Ex: 1031 (não é divisível)  
 
-> ### Divisibilidade por cinco
+#### Divisibilidade por cinco
 * Um número é divisível por cinco, quando terminar em zero ou cinco.
 
 Ex: 50 (é divisível)  
 Ex: 11 (não é divisível)  
 
-> ### Divisibilidade por seis
+#### Divisibilidade por seis
 * Um número é divisível por seis, quando ele for divisível por dois e por três ao mesmo tempo.
 
 Ex: 132 (é divisível)  
 Ex: 44 (não é divisível)  
 
-> ### Divisibilidade por oito
+#### Divisibilidade por oito
 * Um número é divisível por oito, quando seus três últimos algarismos forem zero, ou ainda quando a soma dos três últimos algarismos formarem um número divisível por oito.
 
 Ex: 28000 (é divisível)  
 Ex: 244 (não é divisível)  
 
-> ### Divisibilidade por nove
+#### Divisibilidade por nove
 * Um número é divisível por nove, quando a soma dos algarismos que o formam, for um número divisível por nove.
 
 Ex: 819 (é divisível)  
 Ex: 37 (não é divisível)  
 
-> ### Divisibilidade por dez
+#### Divisibilidade por dez
 * Um número é divisível por dez, quando ele terminar em zero.
 
 Ex: 1260 (é divisível)  
 Ex: 505 (não é divisível)  
 
-> ### Divisibilidade por onze
+#### Divisibilidade por onze
 * Um número é divisível por onze, quando a diferença entre a soma dos algarismos que o formam de posição ímpar e a soma dos algarismos que o formam de posição par, resultarem em zero, ou em um número divisível por onze.
 
 Ex: 209 (é divisível)  
@@ -155,7 +155,7 @@ Ex: 209 (é divisível)
 
 Ex: 411 (não é divisível)  
 
-> ### Divisibilidade por quize
+#### Divisibilidade por quize
 * Um número é divisível por quinze, quanto ele for divisível por três e por cinco ao mesmo tempo.
 
 Ex: 900 (é divisível)  
@@ -172,121 +172,3 @@ Ex: 12000 : 24 (é divisível)
 4. (Divisibilidade por oito) três últimos algarismos iguais a zero ou a sua soma ser divisível por oito => 12'000 = 000 (é divisível)
 5. Dividir => 12000 : 24 = 500
 6. Resposta: Sim
-
-## Números primos
-* Número primo, é todo número divisível apenas por **1** e por ele mesmo.
-* O conjunto dos números primos é um conjunto infinito.
-* O número **1** não é considerado um número primo.
-* O número **2**, é o único número primo par.
-* O teorema fundamental da aritmética define que, todo número natural maior que **1** ou é primo ou pode ser representado como o produto de números primos.
-* Os números primos são fundamentais no entendimento da aritmética. O processo de transformar qualquer número em produto de fatores primos é chamado de decomposição em fatores primos.
-* A conjectura de Goldbach determina que, todo número par maior que **2** pode ser representado como a soma de dois números primos.
-* Representação do conjunto de números primos:
-  - P = {2, 3, 5, 7, 11, ...}
-
-Ex: 4 = 2 + 2  
-Ex: 18 = 11 + 7 
-
-**DICA:** Para descobrir se um número é primo, basta dividi-lo pelos números primos antecedentes ao número primo que possui raíz quadrada maior que o número que se quer descobrir se é primo ou composto, se a divisão for exata ele não é primo.
-
-## Números compostos
-* Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
-* Todo número maior que **1** que não primo é um número composto, assim como todo número composto pode ser representado a partir do produto dos números primos que o forma.
-
-## DECOMPOSIÇÃO EM NÚMEROS PRIMOS OU FATORAÇÃO NUMÉRICA
-* É o processo de representar um número composto qualquer, em forma de multiplicação, em que os elementos da multiplicação são todos números primos.
-* O processo de decomposição, também chamado de fatoração é a divisão sucessiva de um número por números primos, até sua redução ao número **1**.
-* Representação da decomposição:
-  - **n** : **p** = **a** tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e **a** = produto entre os elementos de **p**.
-
-Ex: Decomposição de 30 = 2 . 3 . 5
-1. Dividir por 2 => 30 : 2 = 15
-2. Como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : 3 = 5
-3. Divide-se agora por 5 => 5 : 5 = 1
-4. O produto dos quocientes é o resultado = 2 . 3 . 5 
-5. Resposta: 2 . 3 . 5
-
-## MMC
-* Mínimo múltiplo comum, é o menor número que é múltiplo de dois ou mais números ao mesmo tempo. 
-* O MMC de dois números **a** e **b**, também representa o menor valor que pode ser dividido por **a** e **b** ao mesmo tempo.
-* O MMC é determinado a partir da decomposição dos valores em fatores primos.
-
-#### Cálculo
-1. Organiza-se os números a esquerda lado a lado.
-2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números, colocando o quociente a direita.
-3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
-4. O quociente da divisão (número primo) também é ordenado um abaixo do outro para cada divisão.
-5. Quando não for possível dividir mais pelo número primo, passa-se para o próximo número primo em que é possível realizar a divisão.
-6. Quando todos os números forem reduzidos a um, termina-se a decomposição.
-7. Multiplica-se os quocientes da decomposição (números primos).
-8. O resultado da multiplicação é o MMC.
-
-Ex: MMC de 30 e 14 = 210
-1. Dividir por 2 => 30 : ***2*** = 15, 14 : ***2*** = 7
-2. Como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : ***3*** = 5, 7 : ***3*** não divide, repete-se o 7
-3. Divide-se agora por 5 => 5 : ***5*** = 1, 7 : ***5*** não divide, repete-se o 7
-4. Divide-se agora por 7 => 1 : ***7*** = repete-se o 1, 7 : ***7*** = 1
-5. O produto dos quocientes é o resultado => 2 . 3 . 5 . 7 = 210
-6. Resposta: 210
-
-> ### Propriedades do MMC
-
-#### MMC entre números primos
-* O MMC de dois ou mais números primos, será o produto entre esses números.
-
-Ex: MMC(2, 11) = 22  
-Ex: MMC(2, 5) = 10  
-
-#### MMC entre múltiplos
-* O MMC entre dois números, em que o maior é múltiplo do menor, será o número maior.
-
-Ex: MMC(10, 2) = 10    
-Ex: MMC(6, 3) = 6    
-
-**DICA:** Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
-
-## MDC
-* Máximo divisor comum, é o produto dos divisores comuns de dois ou mais números.
-* O MDC de dois números **a** e **b**, é o maior valor que divide **a** e **b** ao mesmo tempo.
-* O MDC é determinado a partir da decomposição dos valores em fatores primos.
-
-#### Cálculo
-1. Organiza-se os números a esquerda lado a lado.
-2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números.
-3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
-4. O quociente da divisão (número primo) também é ordenado um abaixo do outro para cada divisão.
-5. Quando não for possível dividir mais pelo número primo, passa-se para o próximo número primo em que é possível realizar a divisão.
-6. Quando todos os números forem reduzidos a um, termina-se a decomposição.
-7. Multiplica-se os quocientes da decomposição (números primos) em que foi possível dividir todos os números ao mesmo tempo.
-8. O resultado da multiplicação é o MDC.
-
-Ex: MDC de 30 e 12 = 6
-1. Dividir por 2 => 30 : **2** = 15, 12 : **2** = 6 (divisor comum)
-2. Dividir por 2 => 15 : **2** não divide, repete-se o 15, 6 : **2** = 3
-3. Como não é possível dividir por 2, dividi-se pelo próximo número primo o 3 => 15 : **3** = 5, 3 : **3** = 1 (divisor comum)
-4. Divide-se agora por 5 => 5 : **5** = 1, 1 : **5** repete-se o 1
-5. O produto dos divisores comuns => 2 . 3 = 6
-6. Resposta: 6
-
-> ### Propriedades do MDC
-
-#### MDC entre números consecutivos
-* Entre dois números consecutivos o MDC entre eles sempre será 1, pois eles são primos entre si.
-
-Ex: MDC(11, 10) = 1  
-
-#### MDC entre divisores
-* O MDC entre dois ou mais números em que um deles é divisor dos demais, o MDC será esse número.
-
-Ex: MDC(5, 10, 20) = 5  
-
-#### Relação MDC e MMC
-* O produto entre o MDC e o MMC de dois números é igual ao produto desses dois números. 
-* Representação da relação:
-  - MDC(a, b) x MMC(a, b) = a x b
-
-Ex: MDC(10, 2) = 10 e MMC(10, 2) = 2 => 10 x 2 = 10 x 2  
-
-**DICA:** Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
-
-**DICA:** Ao se fatorar números para encontrar o MDC, pode-se optar por usar como divisor apenas números que dividam todos os valores ao mesmo tempo (fator comum), quando não for possível mais dividir, o produto dos divisores será o MDC, e o resto da divisão de cada valor, indicará o número de vezes que o MDC corresponde ao valor. Na lógica da divisão em partes iguais o MDC será o tamanho (comprimento) de cada pedaço e o resto da divisão de cada valor será a quantidade de pedaços iguais do tamanho do MDC em que cada valor será dividido.

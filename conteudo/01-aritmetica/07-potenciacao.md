@@ -108,7 +108,7 @@ Ex: -4<sup>2</sup> = - (4) . (4) = -16
 #### Potência de expoente negativo
 * Quando o expoente da potência for negativo, inverte-se a base e o expoente passa a ser positivo.
 * Representação:
-  - a<sup>-n</sup> =  (b/a)<sup>2</sup>
+  - a<sup>-n</sup> =  (b/a)<sup>n</sup>
 
 Ex: 2<sup>-3</sup> =  (1/2)<sup>3</sup> = 1<sup>3</sup>/2<sup>3</sup> = 1/8  
 Ex: (1/3)<sup>-2</sup> =  3<sup>2</sup> = 9  
