@@ -1,8 +1,6 @@
 # Adição
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A adição é a junção (acréscimo) de dois ou mais elementos (números) através de uma operação matemática.
 * O simbolo **+** representa a operação de adição.
 * Cada termo da adição é chamado de **parcela**.

@@ -1,8 +1,6 @@
 # Divisão
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A divisão é a operação matemática que faz a separação de um valor em partes, de acordo com um outro valor, sendo a operação inversa a multiplicação.
 * Ela mensura quantas vezes um valor (segundo valor), cabe dentro de outro valor (primeiro valor), ou seja, quantos grupos com a quantidade do segundo valor podem ser formados com a quantidade do primeiro valor.
 * Os simbolos **÷**, **/** e **:** (dividido) representam a operação de divisão.
@@ -95,7 +93,7 @@ Ex: -4 : (-2) = 2
 Ex: -20 : 4 = -5  
 Ex: 10 : (-5) = -2  
 
-***DICA:*** Para divisões em que o dividendo é menor que o divisor, adiciona-se um zero ao dividendo e um zero e vírgula ao quociente, se ainda não for possível dividir, adiciona-se zero ao dividendo e zero no quociente. Esse procedimento pode ser feito até que o dividendo possa ser dividido pelo divisor.
+**DICA:** Para divisões em que o dividendo é menor que o divisor, adiciona-se um zero ao dividendo e um zero e vírgula ao quociente, se ainda não for possível dividir, adiciona-se zero ao dividendo e zero no quociente. Esse procedimento pode ser feito até que o dividendo possa ser dividido pelo divisor.
 
 Ex: 20 : 500 = 0,04
 1. Adiciona-se um zero ao dividendo e ao quociente um zero e vírgula => 200 : 500 | 0, (quociente)
@@ -103,7 +101,7 @@ Ex: 20 : 500 = 0,04
 3. Multiplica-se o divisor por quatro => 2000 : 500 => 500 . 4 = 2000 => 2000 - 2000 = 0 | 0,04 (quociente)
 4. Resposta: 0,04
 
-***DICA:*** Quando ao descer um número na divisão e ele for menor que o divisor, multiplica-se o divisor por zero e adiciona zero ao quociente e subtrai o valor do dividendo por zero, para que ele se transforme em resto e seja possível adicionar zero a ele. 
+**DICA:** Quando ao descer um número na divisão e ele for menor que o divisor, multiplica-se o divisor por zero e adiciona zero ao quociente e subtrai o valor do dividendo por zero, para que ele se transforme em resto e seja possível adicionar zero a ele. 
 
 Ex: 618 : 60 = 10,3
 1. Separa o 61 para ser dividido => 61'8 : 60 => 61 : 60 => 60 . 1 = 60 => 61 - 60 = 1 | 1 (quociente)

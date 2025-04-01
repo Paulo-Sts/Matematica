@@ -1,8 +1,6 @@
 # Radiciação
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A radiciação é a operação matemática que procura determinar qual o número elevado a certa potência (multiplicado por si mesmo um determinado número de vezes) é igual a um outro número, ou seja, a sua raíz (origem).
 * A radiciação é a operação inversa da potenciação, dessa forma pode-se encontrar o resultado de uma raiz, procurando a potenciação que tem como resultado a raiz que se deseja encontrar.
 * Os termos da radiciação são o **índice** que define o expoente, o radical **√** que representa a operação e o **radicando** que representa o resultado da potência de um determinado número.
@@ -24,7 +22,7 @@ Ex: √16 = 4
 1. Multiplica-se o 4 pelo expoente 2, ou seja 2 vezes => 4 . 4 = 16
 2. Resposta: 4
 
-***DICA:*** Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
+**DICA:** Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
 
 Ex: √16 = 4  
 1. Fatorar o 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
@@ -33,7 +31,7 @@ Ex: √16 = 4
 4. Multiplica-se uma unidade de cada grupo 2 * 2 = 4
 5. Resposta: 4
 
-***DICA:*** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
+**DICA:** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
 
 Ex: 4√3 = √48
 1. Calcular a potência => 4<sup>2</sup> = 16

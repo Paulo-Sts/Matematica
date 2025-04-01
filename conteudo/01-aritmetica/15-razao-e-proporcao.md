@@ -1,11 +1,9 @@
 # Razão e Proporção
 
-<br>
-
-## RAZÃO
+## Razão
 * Razão é a divisão entre dois números seguindo sua ordem de apresentação. A razão representa uma relação entre grandezas.
 * Uma razão pode ser definida de três formas: forma fracionária, forma decimal e na forma percentual.
-* A razão pode ser representada nas formas: **a/b**, **a:b** ou **a** *está para* **b**.
+* A razão pode ser representada nas formas: **a/b**, **a:b** ou **a** ***está para*** **b**.
 * Representação:
   - a/b = r
   - a = antecedente (numerador)
@@ -14,9 +12,9 @@
 
 Ex: 1/2 = 0.5 = 50%  
 
-## PROPORÇÃO
+## Proporção
 * Proporção é a igualdade entre duas ou mais razões.
-* Uma proporção pode ser representada nas formas: **a/b = c/d**, **a:b = c:d** ou **a** *está para* **b**, *assim como* **c** *está para* **d**.
+* Uma proporção pode ser representada nas formas: **a/b = c/d**, **a:b = c:d** ou **a** ***está para*** **b**, ***assim como*** **c** ***está para*** **d**.
 * Representação:
   - a/b = c/d = k (Proporção)
   - a/b (primeira razão)
@@ -121,7 +119,7 @@ Ex: (1, 2, 3, 4, 6) e (36, 18, 12, 9, 6)
 * A divisão proporcional descreve a distribuição equitativa de uma quantidade entre diferentes partes, a partir da proporção estabelecida entre essas partes. 
 * Existem divisões diretamente proporcionais e divisões inversamente proporcionais.
 
-***DICA:*** Quando a questão não especificar o tipo de divisão, considera-se que a divisão é diretamente proporcional.
+**DICA:** Quando a questão não especificar o tipo de divisão, considera-se que a divisão é diretamente proporcional.
 
 #### Divisão diretamente proporcional
 * Na divisão diretamente proporcional a distribuição das partes é diretamente determinada pela proporção que cada parte representa em relação ao todo.

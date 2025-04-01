@@ -1,8 +1,6 @@
 # Números Decimais
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * São números racionais não inteiros, expressos por vírgula e que possuem casas decimais.
 * São formadas por duas partes: a parte inteira (antes da vírgula) e a parte fracionária (após a vírgula). A parte fracionária é formada por casas decimais.
 
@@ -44,7 +42,7 @@ Ex: 2,88... = 2 + 8/9 = MMC(1, 9) = 9 => [(9 : 1) x 2 + (9 : 9) x 8]/9 = (18 + 8
 
 Ex: 0,45555... = (45 - 4)/90 = 41/90
 
-## OPERAÇÕES COM NÚMEROS DECIMAIS
+## Operações com números decimais
 
 > ### Adição
 * Na adição de números decimais, deve-se igualar as parcelas em ordens iguais, posicionando vírgula embaixo de vírgula.

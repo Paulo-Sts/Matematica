@@ -1,8 +1,6 @@
 # Porcentagem
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * Porcentagem ou percentagem, é uma razão com denominador igual a 100, e é utilizada como uma representação de uma parte do total de um valor.
 * Representação:
   - n% = n/100 = 0,n
@@ -22,7 +20,7 @@ Ex: 15% de 30 = 4.5
 2. Dividir 450/100 = 4,5
 3. Resposta: 15% de 30 = 4,5
 
-## OPERAÇÕES COM PORCENTAGEM
+## Operações com porcentagem
 
 > ### Transformação de taxas
 
@@ -115,7 +113,7 @@ Ex: Desconto de 10%, com aumento de 20% com desconto de 30%
 2. Resultado da multiplicação => 756000x/1000000 = 756/1000 = 0,756x 
 3. Encontrar desconto ou aumento (Valor diminuiu) 1,000x - 0,756x = 0,244x (24,4% de desconto)   
 4. Resposta: 24,4%
-**Observação:** Se fosse maior que 1,00 teria sido aumento.
+**OBSERVAÇÃO:** Se fosse maior que 1,00 teria sido aumento.
 
-***DICA:*** Para questões que não definem um valor específico, sobre o qual a porcentagem irá incidir, pode-se utilizar o valor 100 arbitrariamente para facilitar o cálculo.  
-***DICA:*** Prestar atenção se a questão solicita o valor com aumento ou desconto, ou de quanto foi o aumento ou desconto em relação ao valor original.
+**DICA:** Para questões que não definem um valor específico, sobre o qual a porcentagem irá incidir, pode-se utilizar o valor 100 arbitrariamente para facilitar o cálculo.  
+**DICA:** Prestar atenção se a questão solicita o valor com aumento ou desconto, ou de quanto foi o aumento ou desconto em relação ao valor original.

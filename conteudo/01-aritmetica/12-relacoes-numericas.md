@@ -1,8 +1,6 @@
 # Relações Numéricas
 
-<br>
-
-## MÚLTIPLOS DE UM NÚMERO
+## Múltiplos de um número
 * Os múltiplos de um número, é o conjunto formado pelos resultados da multiplicação desse número, por cada um dos elementos que formam o conjunto dos números naturais.
 * O conjunto dos múltiplos de um número, é um conjunto infinito, que se inicia sempre pelo número zero.
 * Para verificar se um número **b** é múltiplo de **a** basta, dividir **b** por **a**, se o resultado for um número exato, então **b** é múltiplo de **a**.
@@ -18,7 +16,7 @@ Ex: M(2)= {0, 2, 4, 6, 8, 10, ...}
 2 . 4 = 8    
 2 . 5 = 10    
 
-## DIVISORES DE UM NÚMERO
+## Divisores de um número
 * Os divisores de um número, são o conjunto formado pelos números por quem ele pode ser dividido e que ao dividi-lo tem um resultado exato.
 * O conjunto dos divisores de um número é finito, se inicia pelo número um e termina no próprio número, ou seja, o maior divisor de um número é ele mesmo.
 * O divisor que multiplicado por si mesmo é igual ao dividendo, é o elemento do meio do conjunto dos divisores desse dividendo, sendo os demais elementos divisores à sua direita, os números que multiplicados pelos elementos divisores à sua esquerda, a partir dos extremos, tem como resultado também o dividendo.
@@ -39,7 +37,7 @@ Ex: D(10)= {1, 2, 5, 10}
 10 : 9 = 1 com resto 1 (não divisível) 
 10 : 10 = 1  
 
-***DICA:*** Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser iguais ao número que se quer saber seus divisores.
+**DICA:** Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser iguais ao número que se quer saber seus divisores.
 
 Ex: D(16)= {1, 2, 4, 8, 16}
 1. Multiplica-se os dois primeiros extremos => 1 . 16 = 16
@@ -94,7 +92,7 @@ Ex: D(12)= {1, 2, 3, 4, 6, 12}
 4. Produto das somas das combinações de cada número primo será o resultado => (1 + 2 + 4) . (1 + 3) => 7 . 4 = 28
 5. Resposta: 28
 
-## DIVISIBILIDADE
+## Divisibilidades
 * Os critérios de divisibilidade, determinam regras que possibilitam verificar sem precisar realizar um cálculo, se um número é divisível por outro (divisão exata).
 
 > ### Divisibilidade por dois
@@ -175,7 +173,7 @@ Ex: 12000 : 24 (é divisível)
 5. Dividir => 12000 : 24 = 500
 6. Resposta: Sim
 
-## NÚMEROS PRIMOS
+## Números primos
 * Número primo, é todo número divisível apenas por **1** e por ele mesmo.
 * O conjunto dos números primos é um conjunto infinito.
 * O número **1** não é considerado um número primo.
@@ -189,9 +187,9 @@ Ex: 12000 : 24 (é divisível)
 Ex: 4 = 2 + 2  
 Ex: 18 = 11 + 7 
 
-***DICA:*** Para descobrir se um número é primo, basta dividi-lo pelos números primos antecedentes ao número primo que possui raíz quadrada maior que o número que se quer descobrir se é primo ou composto, se a divisão for exata ele não é primo.
+**DICA:** Para descobrir se um número é primo, basta dividi-lo pelos números primos antecedentes ao número primo que possui raíz quadrada maior que o número que se quer descobrir se é primo ou composto, se a divisão for exata ele não é primo.
 
-## NÚMEROS COMPOSTOS
+## Números compostos
 * Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
 * Todo número maior que **1** que não primo é um número composto, assim como todo número composto pode ser representado a partir do produto dos números primos que o forma.
 
@@ -245,7 +243,7 @@ Ex: MMC(2, 5) = 10
 Ex: MMC(10, 2) = 10    
 Ex: MMC(6, 3) = 6    
 
-***DICA:*** Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
+**DICA:** Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
 
 ## MDC
 * Máximo divisor comum, é o produto dos divisores comuns de dois ou mais números.
@@ -289,6 +287,6 @@ Ex: MDC(5, 10, 20) = 5
 
 Ex: MDC(10, 2) = 10 e MMC(10, 2) = 2 => 10 x 2 = 10 x 2  
 
-***DICA:*** Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
+**DICA:** Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
 
-***DICA:*** Ao se fatorar números para encontrar o MDC, pode-se optar por usar como divisor apenas números que dividam todos os valores ao mesmo tempo (fator comum), quando não for possível mais dividir, o produto dos divisores será o MDC, e o resto da divisão de cada valor, indicará o número de vezes que o MDC corresponde ao valor. Na lógica da divisão em partes iguais o MDC será o tamanho (comprimento) de cada pedaço e o resto da divisão de cada valor será a quantidade de pedaços iguais do tamanho do MDC em que cada valor será dividido.
+**DICA:** Ao se fatorar números para encontrar o MDC, pode-se optar por usar como divisor apenas números que dividam todos os valores ao mesmo tempo (fator comum), quando não for possível mais dividir, o produto dos divisores será o MDC, e o resto da divisão de cada valor, indicará o número de vezes que o MDC corresponde ao valor. Na lógica da divisão em partes iguais o MDC será o tamanho (comprimento) de cada pedaço e o resto da divisão de cada valor será a quantidade de pedaços iguais do tamanho do MDC em que cada valor será dividido.

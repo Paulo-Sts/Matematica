@@ -1,8 +1,6 @@
 # Frações
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * Fração é a representação da retirada de partes de um valor inteiro que foi dividido em porções iguais.
 * As frações representam também uma divisão, ou seja, a separação de um determinado valor a partir de um determinado número fragmentado em partes iguais.
 * O termos que formam a fração são o **numerador** que é o número de partes do todo que foram tomadas e o **denominador** que representa o número total de partes iguais que o valor inteiro foi dividido.
@@ -16,14 +14,14 @@
   - a = numerador
   - n = denominador
 
-***DICA:*** Uma forma de montar uma fração é representa-la de forma geométrica, por exemplo um retângulo dividido em partes iguais, com algumas partes rachuradas. Isso ajuda a visualizar frações a partir do enunciado das questões.
+**DICA:** Uma forma de montar uma fração é representa-la de forma geométrica, por exemplo um retângulo dividido em partes iguais, com algumas partes rachuradas. Isso ajuda a visualizar frações a partir do enunciado das questões.
 
-***DICA:*** Frações em que o numerador ou o denominador são negativos, tem como resultado um valor negativo. Frações em que o numerador e o denominador são negativos tem como resultado um valor positivo.
+**DICA:** Frações em que o numerador ou o denominador são negativos, tem como resultado um valor negativo. Frações em que o numerador e o denominador são negativos tem como resultado um valor positivo.
 
 Ex: -1/2 = 1/-2 = -(1/2)  
 Ex: 1/2 = -1/-2  
 
-## TIPOS DE FRAÇÃO
+## Tipos de fração
 
 > ### Fração própria
 * Uma fração é própria, quando o seu numerador é menor que o denominador, ou seja, representa um valor menor que um inteiro.
@@ -77,7 +75,7 @@ Ex: 6/3 = 2
 
 Ex: 3/9 = 0,333...
 
-## OPERAÇÕES COM FRAÇÕES
+## Operações com frações
 
 > ### Adição de frações
 * Para frações com diferentes denominadores é preciso realizar a transformação de seus denominadores em denominadores iguais.
@@ -126,7 +124,7 @@ Ex: 3/9 = 0,333...
 
 Ex: 1/2 . 3/4 = 1 . 2/3 . 4 = 2/12 - 1/6  
 
-***DICA:*** As expressões 'de', 'do' e 'da' indicam na matemática a ideia de multiplicação. Por exemplo: 2/3 de 300 é? ou seja 2 * 300/3 = 200.
+**DICA:** As expressões 'de', 'do' e 'da' indicam na matemática a ideia de multiplicação. Por exemplo: 2/3 de 300 é? ou seja 2 * 300/3 = 200.
 
 > ### Divisão de frações
 * Para dividir, basta inverter a segunda fração e realizar a multiplicação entre numeradores e denominadores.

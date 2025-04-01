@@ -1,8 +1,6 @@
 # Potenciação
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A potenciação ou exponenciação é a operação matemática que representa de forma simplificada a multiplicação de fatores iguais, ou seja, a multiplicação de um número por ele mesmo, repetivas vezes.
 * O fator a ser multiplicado é chamado de **base** e o fator que define a quantidade de vezes que a base deve ser multiplicada é chamado de **expoente**.
 * O resultado da potenciação é chamado de **potência**.
@@ -21,7 +19,7 @@ Ex: 2<sup>4</sup> = 16
 1. Multiplica-se a base 2 4 vezes => 2 . 2 . 2 . 2 = 16
 2. Resposta: 16
 
-**Observação:** Para potência em que a base é um número negativo e não há a separação por parênteses, entende-se que a um valor **-1** multiplicando a base o que dará como resultado sempre um valor negativo.
+**OBSERVAÇÃO:** Para potência em que a base é um número negativo e não há a separação por parênteses, entende-se que a um valor **-1** multiplicando a base o que dará como resultado sempre um valor negativo.
 
 Ex: -2<sup>2</sup> = -1.2<sup>2</sup> = -1.4 = -4
 
@@ -72,7 +70,7 @@ Ex: 1<sup>6</sup> : 1<sup>5</sup> = 1<sup>1</sup>
 Ex: ( 4<sup>2</sup> )<sup>2</sup> = 4<sup>4</sup>  
 Ex: ( 16<sup>3</sup> )<sup>2</sup> = 16<sup>6</sup>
 
-**Observação:** Para potência de potência em que não há a separação por parênteses, deve-se elevar a potência pela potência.
+**OBSERVAÇÃO:** Para potência de potência em que não há a separação por parênteses, deve-se elevar a potência pela potência.
 
 Ex: 2<sup>4<sup>2</sup></sup> = 2<sup>16</sup>
 
@@ -103,7 +101,7 @@ Ex: (16/3)<sup>5</sup> = 16<sup>5</sup>/3<sup>5</sup>
 Ex: (-4)<sup>2</sup> =  (-4) . (-4) = 16  
 Ex: (-4)<sup>3</sup> =  (-4) . (-4) . (-4) = -32
 
-**Observação:** Quando o expoente elevar todo o valor do parêntese sempre será positivo para expoente par, mas se não existir parêntese a potência é apenas sobre a base e o sinal negativo permanece.
+**OBSERVAÇÃO:** Quando o expoente elevar todo o valor do parêntese sempre será positivo para expoente par, mas se não existir parêntese a potência é apenas sobre a base e o sinal negativo permanece.
 
 Ex: -4<sup>2</sup> = - (4) . (4) = -16  
 
