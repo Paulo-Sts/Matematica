@@ -112,8 +112,7 @@ Ex: Desconto de 10%, com aumento de 20% com desconto de 30%
 1. Multiplicação das porcentagens => x . 0,9 (desconto de 10%) . 1,2 (aumento de 20%) . 0,7 (desconto de 30%) = x . 90/100 . 120/100 . 70/100 = 756000x/1000000
 2. Resultado da multiplicação => 756000x/1000000 = 756/1000 = 0,756x 
 3. Encontrar desconto ou aumento (Valor diminuiu) 1,000x - 0,756x = 0,244x (24,4% de desconto)   
-4. Resposta: 24,4%
-**OBSERVAÇÃO:** Se fosse maior que 1,00 teria sido aumento.
+4. Resposta: 24,4%  (Se fosse maior que 1,00 teria sido aumento).
 
 **DICA:** Para questões que não definem um valor específico, sobre o qual a porcentagem irá incidir, pode-se utilizar o valor 100 arbitrariamente para facilitar o cálculo.  
 **DICA:** Prestar atenção se a questão solicita o valor com aumento ou desconto, ou de quanto foi o aumento ou desconto em relação ao valor original.

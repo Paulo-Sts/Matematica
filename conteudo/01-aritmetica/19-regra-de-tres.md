@@ -21,7 +21,7 @@ Ex: Um carro percorre 10 metros em 30 segundos, em quanto tempo percorrerá 200 
 Ex: 5 máquinas cortam a grama em 120 minutos, 12 máquinas cortaram em quanto?  
 1. Montar a proporção => 5/12 = 120/x 
 2. Identificar a relação das grandezas => relação inversa (se aumenta a quantidade de máquinas, diminui o tempo para cortar)
-3. Multiplicar na horizontal => 5 . 120 = 12 . x => 12x = 10 
+3. Multiplicar na horizontal => 5 . 120 = 12 . x => 12x = 600 
 4. Isolar a icógnita => x = 600/12 => x = 50
 5. Resposta: As 12 máquinas vão cortar a grama em 50 minutos
 
