@@ -1,6 +1,7 @@
 # Equivalência de Capitais
 
 ## Definição
+- Dois (ou mais) capitais, com datas de vencimento diferentes, são ditos capitais equivalentes quando, transportados para uma mesma data, a mesma taxa, produzirem, nessa data, valores iguais. A data para a qual os capitais serão transportados é chamada data focal.
 - A equivalência de capitais envolve operações de antecipação ou prorrogação de valores. Trata-se portanto do deslocamento dos juros de um valor futuro para um valor presente, ou de um valor presente para um valor futuro.
 - Esse processo transforma o valor dos juros a pagar ou receber originalmente em diferentes períodos e valores por juros equivalentes em um novo período definido comum a todos.
 - A equivalência de capitais se dá em regime simples e em regime composto.

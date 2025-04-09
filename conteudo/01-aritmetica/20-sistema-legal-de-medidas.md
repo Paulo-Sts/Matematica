@@ -42,7 +42,7 @@
 - A unidade de medida padrão para o tempo é o segundo.
 
 <div style="display:inline_block">
-    <img align="left" height="100" width="500" alt="TypeScript" src="./../../img/conversao-tempo.png">
+    <img align="left" height="80" width="420" alt="TypeScript" src="./../../img/conversao-tempo.png">
 </div><br><br><br><br><br><br>
 
 **DICA:** Para memorizar a ordem das unidades na escala, pode-se usar a frase: "**K**amila **H**oje **D**ançou **M**uito **D**epois **C**omeu **MM**" onde cada inicial corresponde a: Kilo, Hecto, Deca, Metro, Deci, Centi, Mili. A diferença será apenas o tipo de grandeza que vai mudar de acordo com a unidade padrão ou base.
