@@ -1,7 +1,10 @@
 # Séries Uniformes
 
 ## Definição
-- Séries uniformes são pagamentos ou recebimentos constantes que ocorrem em intervalos iguais.
+- Séries uniformes são pagamentos ou recebimentos constantes que ocorrem em intervalos iguais. 
+- Também são chamadas de rendas certas, séries financeiras ou anuidades.
+
+**OBSERVAÇÃO:** A diferença entre capitalização e séries uniformes é que a capitalização tem a aplicação/pagamento de um único valor e sua retirada após um período, já as rendas certas são duas ou mais aplicações/pagamentos em um determinado intervalo de tempo.
 
 > ### Classificação das séries uniformes
 
