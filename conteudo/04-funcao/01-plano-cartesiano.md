@@ -1,7 +1,28 @@
 # Plano Cartesiano
 
-## Aplicação
-- O plano cartesiano é muito utilizado na construção de gráficos de funções.
+## Definição
+- O plano cartesiano é formado por duas retas reais perpendiculares, ou seja, o ângulo entre elas é de 90°, que se cruzam em um único ponto chamado origem.
+- Essas retas determinam um único plano, que é denominado com sistema ortogonal de coordenadas cartesianas ou somente plano cartesiano.
+- A origem do plano cartesiano é o zero. O plano possui esse nome em homenagem ao matemático René Descartes que sistematizou esse conhecimento.
+- Sobre os eixos:
+  - Eixo x (eixo horizontal chamado de eixo das abscissas).
+  - Eixo y (eixo vertical chamado de eixo das ordenadas).
+- Duas retas que se cruzam irão dividir o plano em 4 quadrantes. A marcação dos quadrantes ocorre no sentido anti-horário.
+
+#### Par ordenado
+- Par ordenado é um par de números na forma (x, y). Um par ordenado é a representação de um ponto no plano cartesiano, por meio das coordenadas (x, y).
+- No par ordenado o primeiro valor, correspondente a **x**, sempre se refere ao eixo das abiscissas (eixo horizontal) no plano cartesiano e o segundo valor, correspondente a **y**, sempre se refere ao eixo das ordenadas (eixo vertical) no plano cartesiano.
+- Representação:
+  - P(x, y) ou P(x; y)
+
+Ex: A(-3, 2)
+
+#### Representação do plano cartesiano
+
+<br>
+<div style="display:inline_block">
+    <img align="left" height="250" width="420" src="../../img/plano-cartesiano.png">
+</div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 > ### Distância entre 2 pontos
 - Dados dois pontos quaisquer, A e B, de coordenadas (xA, yA) e (xB, yB), respectivamente, a distância entre os pontos A e B pode ser obtida da aplicação do teorema de Pitágoras.
