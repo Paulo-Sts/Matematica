@@ -1,30 +1,9 @@
 # Plano Cartesiano
 
-## Definição
-- O plano cartesiano é formado por duas retas reais perpendiculares, ou seja, o ângulo entre elas é de 90°.
-- Essas retas determinam um único plano, que é denominado com sistema ortogonal de coordenadas cartesianas ou somente plano cartesiano.
-- A origem do plano cartesiano é o zero. O plano possui esse nome em homenagem ao matemático René Descartes que sistematizou esse conhecimento.
-- Sobre os eixos:
-  - Eixo x (eixo horizontal chamado de eixo das abscissas).
-  - Eixo y (eixo vertical chamado de eixo das ordenadas).
-- Duas retas que se cruzam, formando 90°, irão dividir o plano em 4 quadrantes. A marcação dos quadrantes ocorre no sentido anti-horário.
+## Aplicação
+- O plano cartesiano é muito utilizado na construção de gráficos de funções.
 
-#### Representação do Plano Cartesiano
-
-<br>
-<div style="display:inline_block">
-    <img align="left" height="250" width="420" src="../../img/plano-cartesiano.png">
-</div><br><br><br><br><br><br><br><br><br><br><br>
-
-#### Coordenadas de um ponto no Plano Cartesiano
-- As coordenadas de um ponto no plano cartesiano, definem sua posição no plano cartesiano sendo definidas por pares ordenados.
-- O primeiro valor representa a posição no eixo **x** e o segundo valor representa a posição no eixo **y**.
-- Representação:
-  - A (xA, yA)
-
-Ex: A (2, 4) e B (-1, 3)  
-
-#### Distância entre 2 pontos
+> ### Distância entre 2 pontos
 - Dados dois pontos quaisquer, A e B, de coordenadas (xA, yA) e (xB, yB), respectivamente, a distância entre os pontos A e B pode ser obtida da aplicação do teorema de Pitágoras.
 
 <br>
@@ -55,4 +34,30 @@ Ex: Determinar a distância entre os pontos A (2, 1) e B (3, -4).
   - d2 = 26
   - d = √26
 
-**OBSERVAÇÃO:** O plano cartesiano é muito utilizado na construção de gráficos de funções.
+> ### Relação entre plano cartesiano e gráficos de funções
+- O plano cartesiano é a ferramenta essencial para representar funções matematicas graficamente. Toda função f: A → B que associa valores de (x) a (y \) pode ser visualizada por meio de pontos (x, f(x)) no plano.  
+
+#### Representação da função no plano  
+- Eixo x (abscissas): Representa os valores de entrada (domínio da função).  
+- Eixo y (ordenadas): Representa os valores de saída (imagem da função).  
+- Ponto (x, y): Cada par ordenado indica que (y = f(x)).  
+
+Exemplo: 
+Para a função f(x) = 2x + 1:  
+1. Se (x = 1), então (y = 2(1) + 1 = 3) → Ponto (1, 3).  
+2. Se (x = 0), então (y = 1) → Ponto (0, 1).  
+
+#### Tipos de funções e seus gráficos  
+
+| TIPO               | FORMA ALGÉBRICA      | GRÁFICO                     | EXEMPLO          |  
+|--------------------|----------------------|-----------------------------|------------------|  
+| Função Afim        | f(x) = ax + b        | Reta inclinada              | f(x) = 2x - 1    |  
+| Função Quadrática  | f(x) = ax^2 + bx + c | Parábola                    | f(x) = x^2       |  
+| Função Exponencial | f(x) = a^x           | Curva crescente/decrescente | f(x) = 2^x       |  
+| Função Modular     | f(x) = \|x\|         | Formato de "V"              | f(x) = \|x + 2\| |  
+
+#### Análise de gráficos  
+- Raízes (Zeros): Pontos onde f(x) = 0 (gráfico corta o eixo x).  
+- Intersecção com **y**: Onde x = 0 → Ponto (0, f(0)).  
+- Se f(x) aumenta com **x** , a função é crescente.  
+- Se f(x) diminui com **x**, a função é decrescente.  
