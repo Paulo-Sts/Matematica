@@ -115,4 +115,8 @@ Ex: Desconto de 10%, com aumento de 20% com desconto de 30%
 4. Resposta: 24,4%  (Se fosse maior que 1,00 teria sido aumento).
 
 **DICA:** Para questões que não definem um valor específico, sobre o qual a porcentagem irá incidir, pode-se utilizar o valor 100 arbitrariamente para facilitar o cálculo.  
-**DICA:** Prestar atenção se a questão solicita o valor com aumento ou desconto, ou de quanto foi o aumento ou desconto em relação ao valor original.
+**DICA:** Prestar atenção se a questão solicita o valor com aumento ou desconto, ou de quanto foi o aumento ou desconto em relação ao valor original.  
+**DICA:** Para que o valor unitário represente uma porcentagem ele precisa ser formado por duas casas decimais. No caso de uma fração com apenas um algarismo, adiciona-se um zero antes do algarismo para ele na forma unitária possuir duas casas decimais. Se o valor unitário tiver mais de duas casas, a sua forma percentual terá uma parte inteira formada pelos dois primeiros algarismos do decimal e os demais serão a parte decimal da percentagem.
+
+Ex: 9/100 = 0,09 = 9%    
+Ex: 0.125 = 12,5% = 125/100  
