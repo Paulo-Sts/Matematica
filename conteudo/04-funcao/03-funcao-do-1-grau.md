@@ -1,4 +1,4 @@
-# Função do 1º grau ou função afim
+# Função do 1º grau ou Função Afim
 
 ## Definição
 - Chama-se função polinomial do 1º grau, ou função afim, a qualquer função f de IR em IR dada por uma lei de formação f(x) = y = ax + b, onde a e b são números reais dados e a ≠ 0. No caso, o expoente do x em ax é = 1.
