@@ -9,7 +9,7 @@
 
 <br>
 <div style="display:inline_block">
-    <img align="left" height="200" width="300" src="../../img/funcao-1-grau-1.png">
+    <img align="left" height="180" width="300" src="../../img/funcao-1-grau-1.png">
 </div><br><br><br><br><br><br><br><br><br>
 
 #### Pode-se afirmar que:
