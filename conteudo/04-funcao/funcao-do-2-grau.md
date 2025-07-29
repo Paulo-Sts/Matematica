@@ -92,105 +92,168 @@ do valor de Δ, há diferentes tipos de raízes
     <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-4.png">
 </div><br><br><br><br><br><br><br><br>
 
+#### Estudo das posições do gráfico da função do 2° grau
+- Quando **a** é maior do que zero, a concavidade está para cima; por essa razão, na primeira linha estão os gráficos todos voltados para cima. Quando **a** é menor do que zero,
+a concavidade está para baixo; por essa razão, na segunda linha, os gráficos estão todos voltados para baixo.
+- Quando ∆ for maior do que zero, encontram-se duas raízes reais e distintas; por essa razão, a parábola toca o eixo x duas vezes. Quando ∆ for igual a zero, encontra-se somente uma raiz dupla; por essa razão, a parábola toca apenas uma vez no eixo x. Quando ∆ for menor do que zero, não existem raízes reais; por essa razão, a parábola não toca o eixo x. 
+
+<br>
+<div style="display:inline_block">
+    <img align="left" height="200" width="280" src="../../img/posicoes-grafico-funcao-2-grau.png">
+</div><br><br><br><br><br><br><br><br><br><br>
+
 #### Estudo dos coeficientes b e c
 - Os coeficientes da equação são elementos que interferem na construção do gráfico. O coeficiente **a**, determina a concavidade da parábola. Enquanto o coeficiente **c** indica onde a parábola corta o eixo **Y**.
 - Esses coeficientes estabelecem as seguintes relações:
   - Se c > 0, a parábola irá cortar o eixo Y acima da origem.
-  <br><br>
+  
+  <br>
   <div style="display:inline_block">
       <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-5.png">
   </div><br><br><br><br><br><br><br><br>
+  
   - Se c < 0, a parábola irá cortar o eixo Y abaixo da origem. Sendo menor do que 0 irá ser cortado abaixo da origem.
-  <br><br>
+  
+  <br>
   <div style="display:inline_block">
       <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-6.png">
   </div><br><br><br><br><br><br><br><br>
+
   - Se c = 0, a parábola irá cortar o eixo Y na origem, ou seja, ponto (0,0). Sendo igual a 0, a parábola será cortada justamente na origem.
-  <br><br>
+  
+  <br>
   <div style="display:inline_block">
       <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-7.png">
   </div><br><br><br><br><br><br><br><br>
+
 - Já o coeficiente **b** determina a inclinação da parábola após passar o eixo y, estabelecendo as seguintes relações:
   - Se b > 0, a parábola intercepta o eixo Y no ramo crescente. Sendo positivo, o eixo será interceptado no ramo crescente.
-  <br><br>
+
+  <br>
   <div style="display:inline_block">
       <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-8.png">
   </div><br><br><br><br><br><br><br><br>
+  
   - Se b < 0, a parábola intercepta o eixo Y no ramo decrescente.
-  <br><br>
+  
+  <br>
   <div style="display:inline_block">
       <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-9.png">
   </div><br><br><br><br><br><br><br><br>
+
 - Da mesma forma, pode-se traçar o vértice que marca o momento que o crescimento é alterado pelo ramo decrescente:
   - Se b = 0, a parábola intercepta o eixo Y no vértice.
-  <br><br>
+  
+  <br>
   <div style="display:inline_block">
       <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-10.png">
   </div><br><br><br><br><br><br><br><br>
 
-> ### Elementos do gráfico da função do 2° grau
-- O gráfico de uma função quadrática é uma parábola que será côncava para cima, se a for positivo (a > 0) ou côncava para baixo, se a for negativo (a < 0).
-- O valor de **a** ajuda a definir algo importante: 
-- **c** é o ponto onde a parábola intercepta o eixo y. A interseção é dada pelo ponto (0; f(0)); O valor de c é o mesmo ponto de b na função do 1º grau. Se for cortado em 10, o c valerá 10; se cortar em 20, o c valerá 20. A interseção é dada por (0; f(0)).
+#### Ponto máximo e ponto mínimo de uma função do 2º grau.
+- No estudo da função do 2º grau, percebemos que seu gráfico é uma parábola e que esse gráfico apresenta pontos notáveis e de bastante aplicação na vida cotidiana e no
+estudo de outras ciências. Esses pontos são: as raízes da função e o vértice da parábola.
+- As raízes determinam quais os pontos onde o gráfico intercepta o eixo das abscissas (eixo x); o vértice pode ser o ponto de máximo absoluto ou de mínimo absoluto da função, ou
+seja, o maior ou o menor valor que a função pode assumir em todo o seu domínio.
+- O ponto de máximo e o ponto de mínimo de uma função do 2º grau são definidos pela concavidade da parábola, se está voltada para baixo ou para cima.
+- Quando o coeficiente **a** for negativo, a concavidade da parábola estará para baixo. Nesse caso, o vértice será o máximo valor atingido pela função. O maior valor assumido é o ponto do vértice. O gráfico com a boca para baixo apresenta esse valor máximo.
+  <br><br>
+  <div style="display:inline_block">
+      <img align="left" height="200" width="250" src="../../img/grafico-funcao-2-grau-11.png">
+  </div><br><br><br><br><br><br><br><br><br><br>
 
-- O vértice cujas coordenadas são: xv = -b/2a e yv = -∆/4a
-- Esta é a fórmula para se encontrar o x do vértice. O x do vértice (Xv) também pode ser a média aritmética das raízes. O vértice é o ponto mais baixo de uma parábola ou, por vezes,
-pode ser o ponto mais alto de uma parábola. Se a concavidade estiver para cima, o vértice é o ponto mais baixo; se a concavidade estiver para baixo, o vértice é o ponto mais alto.
-- O vértice será muito cobrado nas questões de concurso público, pois, quando o examinador perguntar "qual é o lucro máximo?", aplica-se o vértice; para calcular a altura máxima da
-bola, também aplica-se o vértice. O eixo de simetria deixa a parábola simétrica em relação ao vértice. Para encontrar o x do vértice, pode-se utilizar a fórmula ou então calcular a média.
-- O Xv  é a média aritmética das raízes.
-- Yv é o valor máximo, se a < 0.
-- Yv é o valor mínimo, se a > 0.
+- Quando o coeficiente **a** for positivo, a concavidade estará voltada para cima, e o vértice representará o mínimo valor da função. No caso do coeficiente positivo, a concavidade é voltada para cima e o vértice é oposto ao caso anterior, apresentando o menor valor que a função assumirá.
+  <br><br>
+  <div style="display:inline_block">
+      <img align="left" height="200" width="250" src="../../img/grafico-funcao-2-grau-12.png">
+  </div><br><br><br><br><br><br><br><br><br><br>
 
-#### Concavidade do gráfico da função do 2° grau
+- Para determinar o ponto máximo e o ponto mínimo de uma função do 2º grau, basta calcular o vértice da parábola. As coordenadas de Vértice são:
+  <br><br>
+  <div style="display:inline_block">
+      <img align="left" height="200" width="400" src="../../img/grafico-funcao-2-grau-13.png">
+  </div><br><br><br><br><br><br><br><br><br><br>
+
+- O vértice é um ponto pertencente à parábola e, por ser um ponto especial, possui uma abscissa chamada de "x do vértice", bem como o eixo y é chamado de "y do vértice".
+- Esse ponto do vértice apresenta uma coordenada x e uma coordenada y, sendo que qualquer ponto dentro do plano cartesiano será definido por um par ordenado.
+- Em especial, o vértice tem como calcular tais pontos através de fórmulas, que estão sendo apresentadas no plano acima. 
+
+Exemplo: Encontre as coordenadas do vértice da função f(x) = - x² + 4x - 2.
+1. Definindo os coeficientes:a = -1, b = 4, c = -2
+2. Aplicando a fórmula:
+3. Xv = (-b)/2a = (-4)/[2(-1)] = (- 4)/(- 2) = 2
+4. Yv = (-∆)/4a
+5. No caso do Y do vértice, é preciso encontrar o valor do delta:
+6. ∆ =b² - 4ac
+7. ∆ =4² - 4(-1)(-2)
+8. ∆ = 16 - 8
+9.  = 8
+10. Sabendo o valor de delta, pode-se prosseguir para encontrar o valor do Y do vértice:
+11. Yv = (-∆)/4a = (- 8)/[4(-1)] = (- 8)/(- 4) = 2
+12. Dessa forma, as coordenadas do vértice, neste caso, são: 2/Xv e 2/Yv
+
+Exemplo: O lucro de uma fábrica na venda de determinado produto é dado pela função L(x) = – 5x² + 100x – 80, onde x representa o número de produtos vendidos e L(x) é o lucro em
+reais. Determine:
+
+A) O lucro máximo obtido pela fábrica na venda desses produtos.  
+1. L(x) = -5x² + 100x - 80
+2. Só de observar, nota-se que o coeficiente **a** é negativo. Logo, a boca da parábola será voltada para baixo e o **c** cortará abaixo do eixo x. O coeficiente **b**, sendo positivo, cortará em um ângulo crescente.
+
 <br>
 <div style="display:inline_block">
-    <img align="left" height="220" width="280" src="../../img/concavidade-grafico-funcao-2-grau.png">
-</div><br><br><br><br><br><br><br><br><br><br><br>
+    <img align="left" height="200" width="300" src="../../img/grafico-funcao-2-grau-14.png">
+</div><br><br><br><br><br><br><br><br><br><br>
 
-#### Gráfico da função do 2° grau
+3. Se o objetivo é saber o lucro, deve-se colocar em lugar do **x** as quantidades dos produtos vendidos. A venda de 10 produtos, por exemplo, pode substituir o **x** do coeficiente **a** para calcular o lucro. No caso do maior lucro possível, deve-se reconhecer o valor do vértice. Em outras palavras, faz-se necessário o cálculo do Y do vértice.
+4. Yv = (-∆)/4a
+5. Encontrando o valor de delta:
+6. ∆ = b² - 4ac
+7.  = (100)² - 4(-5)(-80)
+8. ∆ = 8400
+9.  Yv = (-8400)/[4(-5)] = 420
+
+B) Quantos produtos precisam ser vendidos para obtenção do lucro máximo.  
+1. Xv = (-b)/2a
+2. y = -5x² + 100x - 80
+3. Xv = -100/[2(-5)] = -100/(-10) = 10
+4. Dessa forma, fazem-se necessários 10 produtos para obter o maior lucro possível.
+
+#### Imagem da função
+- Como o vértice representa o ponto máximo ou mínimo da função do 2º grau, ele é usado para definir o conjunto imagem dessa função, ou seja, os valores de y que pertencem à função.
+- Dessa forma, existem duas possibilidades para o conjunto imagem da função quadrática:
+  - Para a > 0, o conjunto imagem será:
+  <br><br>
+  <div style="display:inline_block">
+      <img align="left" height="250" width="200" src="../../img/grafico-funcao-2-grau-15.png">
+  </div><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+  - Perceba que a imagem é a reflexão. Analisando o eixo Y, percebe-se que a imagem começa no vértice e vai subindo.
+  - No caso da concavidade voltada para cima, tem-se:Imagem = {y Є R / y ≥ Yv}
+  - Para a < 0, o conjunto imagem será:
+  <br><br>
+  <div style="display:inline_block">
+      <img align="left" height="250" width="200" src="../../img/grafico-funcao-2-grau-16.png">
+  </div><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+  - Nesse caso, a imagem está com a concavidade voltada para baixo.
+  - Com isso, o conjunto imagem é definido da seguinte forma: Imagem = {Y Є R / y ≤ Yv).
+  - Lembrando que, nesse caso, o vértice corresponde ao ponto máximo da função.
+
+Exemplo: Definir a imagem da função f(x) = x2 + 2 x – 3.
+1. Nos dois casos anteriores, necessitou-se do Y do vértice. Portanto, define-se o mesmo como: Yv = (-∆)/4a
+2. Encontrando o delta:
+3. ∆ = b² - 4ac
+4. ∆ = 2² - 4(1)(-3)
+5. ∆ = 4 + 12
+6. ∆ = 16
+7. Outro detalhe é que o gráfico terá a boca voltada para cima, pois **a** é positivo.
 
 <br>
 <div style="display:inline_block">
-    <img align="left" height="220" width="280" src="../../img/grafico-funcao-2-grau.png">
-</div><br><br><br><br><br><br><br><br><br><br><br>
+    <img align="left" height="200" width="350" src="../../img/grafico-funcao-2-grau-17.png">
+</div><br><br><br><br><br><br><br><br><br><br>
 
-#### Posições do gráfico da função do 2° grau
-
-<br>
-<div style="display:inline_block">
-    <img align="left" height="220" width="280" src="../../img/posicoes-grafico-funcao-2-grau.png">
-</div><br><br><br><br><br><br><br><br><br><br><br>
-
-**OBSERVAÇÃO:** Quando a é maior do que zero, a concavidade está para cima; por essa razão, na primeira linha estão os gráficos todos voltados para cima. Quando a é menor do que zero,
-a concavidade está para baixo; por essa razão, na segunda linha, os gráficos estão todos voltados para baixo.
-
-**OBSERVAÇÃO:** Quando ∆ for maior do que zero, encontram-se duas raízes reais e distintas; por essa razão, a parábola toca o eixo x duas vezes. Quando ∆ for igual a zero, encontra-se somente uma raiz dupla; por essa razão, a parábola toca apenas uma vez no eixo x. Quando ∆ for menor do que zero, não existem raízes reais; por essa razão, a parábola não toca o eixo x. 
-
-Ex: Considere a função quadrática de R em R, dada por y = f(x) = x2 -6x + 8
-
-A) Encontre seu vértice, seu mínimo (ou máximo) e seu conjunto imagem.
-1. O vértice tem o Xv = - b/2ª = -(-6)/2.1 = 6/2 = 3
-2. O Yv = -∆/4a ou f(3) = 32 - 6 . 3 + 8
-3. f(3) = 9 - 18 + 8
-4. f(3) = -1
-5. O vértice é 3 em x e -1 em y v(3,-1)
-6. O mínimo dessa função é -1
-7. A imagem da função vai de -1 até o + infinito ou y E/R/y ≥-1
-
-B) Encontre suas raízes
-1. A raiz é onde o y = 0
-2. x2 – 6x + 8 = 0
-3. ∆ = b2 – 4ac
-4. ∆ = 6 . 6 - 4 . 1 . 8
-5. ∆ = 36 - 32 = 4
-6. x = -b ± √∆/2aq
-7. x = -(-6) ± √4/2 . 1
-8. x = 6 ± √4/2
-9. x = 6 ± 2/2
-10. x1 = 6 + 2/2 = 8/2 = 4
-11. x2 6 - 2/2 = 4/2 = 2
-12. Raízes = (4, 2) 
+8. A representação será próxima ao exemplo acima. Tudo o que estiver acima do valor Yv = - 4 será considerado como imagem.
+9. Logo, o conjunto imagem será: Im = {y ∊ R/≥ - 4}.
 
 > ### Forma fatorada da função
 - A lei de uma função quadrática definida por f(x) = ax2 + bx + c também pode ser escrita na forma fatorada.
