@@ -1,4 +1,4 @@
-# Função do 2° Grau
+# Função do Exponencial
 
 ## Definição
 - Função Exponencial é aquela que a variável está no expoente e cuja base é sempre maior que zero e diferente de um. Tal função, é explicitada da seguinte forma: f: R -> R
