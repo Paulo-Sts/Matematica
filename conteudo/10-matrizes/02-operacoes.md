@@ -59,7 +59,11 @@ Ex: A = [9 4; 0 -1] 2A ?
   - Na multiplicação de matrizes não vale a lei do anulamento do produto, isto é, podemos ter AB = 0, mesmo com A≠0 e B≠0.
   - Não vale também a lei do cancelamento, isto é, podemos ter AB = AC, mesmo com ≠0 e B≠0.
 
-Exemplo: Dada as matrizes A e B a seguir, vamos calcular A. B  
+Exemplo: A<sub>3 x 4</sub> . B<sub>3 x 4</sub>
+
+1. Não existe o produto, pois o número de colunas de A é diferente do número de linhas de B.
+
+Exemplo 2: Dada as matrizes A e B a seguir, vamos calcular A. B  
 
 | 1 | 2 |
 |---|---|
@@ -77,7 +81,7 @@ Exemplo: Dada as matrizes A e B a seguir, vamos calcular A. B
 6. A segunda linha vezes a segunda coluna é igual a 3 x 3 + 4 x 2 = 17
 7. Resultado: C =  [7 7; 13 17]
 
-Exemplo 2: Dada as matrizes A e B a seguir, vamos calcular A. B  
+Exemplo 3: Dada as matrizes A e B a seguir, vamos calcular A. B  
 
 | 3 | 2 |
 |---|---|
