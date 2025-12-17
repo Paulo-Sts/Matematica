@@ -61,6 +61,10 @@ Exemplo 2: ~p ∧ q
 | F | V | F     |
 | F | F | F     |
 
+**OBSERVAÇÃO:** Proposições compostas que possuirem uma vírgula, se expressarem a ideia de "mas" e puderem ser substituidas por "e", são conjunções. Exemplo: Não basta à mulher de César ser honesta, ela precisa parecer honesta. Não basta à mulher de César ser honesta, mas ela precisa parecer honesta.
+
+**OBSERVAÇÃO:** Proposições compostas que possuirem um "nem", podem ser substituídas por "e não" e são conjunções. Exemplo: Não estudo nem trabalho. Não estudo e não trabalho.
+
 #### Tabela Verdade da Disjunção 
 - Formada pelo conectivo **ou**.
 - Será falsa somente quando todas proposições forem falsas.
@@ -86,6 +90,8 @@ Exemplo 2: ~p ∧ q
 | V | F | F      |
 | F | V | V      |
 | F | F | V      |
+
+**OBSERVAÇÃO:** Proposições compostas que possuirem as expressões "implica", "consequentemente" ou "logo" são condicionais. Exemplo: Penso, logo, existo.
 
 #### Tabela Verdade da Bicondicional
 - Formada pelo conectivo **Se, e somente se...**.
