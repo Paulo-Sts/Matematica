@@ -106,6 +106,8 @@ Exemplo 2: ~p ∧ q
 | F | V | F      |
 | F | F | V      |
 
+**OBSERVAÇÃO:** Questões que apresentem as expressões "condição necessária e suficiente" são bicondicionais.
+
 #### Tabela Verdade da Disjunção Exclusiva
 - Formada pelo conectivo **ou...ou...**.
 - Será verdadeira somente quando ambas as proposições tiverem valor lógico diferente.
