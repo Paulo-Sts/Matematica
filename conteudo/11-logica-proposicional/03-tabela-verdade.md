@@ -93,6 +93,15 @@ Exemplo 2: ~p ∧ q
 
 **OBSERVAÇÃO:** Proposições compostas que possuirem as expressões "implica", "consequentemente" ou "logo" são condicionais. Exemplo: Penso, logo, existo.
 
+**DICA:** 
+- Consiste em definir a cada proposição simples que forme a condicional um adjetivo que a qualifica a partir da sua posição. Isso permite identificar a proposição invertida, mas mantendo o mesmo valor lógico que a utilizada com a expressão "se... então..".
+- Usar o termo "Sem Noção", sendo que S é para Suficiente (na posição de p) e N para Necessário (na posição de q). 
+- Sendo assim, o que vai definir se é Suficiente ou Necessário será a sua posição, pois se q estiver em p, ainda assim será considerado Suficiente, e vice-versa.
+- Exemplo: "SE estudo com Waguinho ENTÃO aprendo Matemática". Em outras palavras, a mesma proposição pode apresentar formas de dizer diferentes:
+  - "Estudar com Waguinho é condição SUFICIENTE para aprender Matemática" (p → q)
+  - "Aprender Matemática é condição NECESSÁRIA para estudar com Waguinho" (q → p)
+  - "Estudo com Waguinho SOMENTE SE aprendo Matemática" (→)
+
 #### Tabela Verdade da Bicondicional
 - Formada pelo conectivo **Se, e somente se...**.
 - Será verdadeira quando ambas as proposições tiverem o mesmo valor lógico.
@@ -106,7 +115,7 @@ Exemplo 2: ~p ∧ q
 | F | V | F      |
 | F | F | V      |
 
-**OBSERVAÇÃO:** Questões que apresentem as expressões "condição necessária e suficiente" são bicondicionais.
+**OBSERVAÇÃO:** Proposições que apresentem as expressões "condição necessária e suficiente" são bicondicionais. Exemplo: Você lavar o carro é condição necessária e suficiente para eu o emprestar a você. ou: Você lava o carro se somente se eu o emprestar a você.
 
 #### Tabela Verdade da Disjunção Exclusiva
 - Formada pelo conectivo **ou...ou...**.
