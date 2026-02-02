@@ -1,7 +1,14 @@
-# Resumo: Polígonos
+# Polígonos
 
 ## 1. Definição e Classificação
-Polígono: figura plana formada por segmentos de reta consecutivos não colineares, fechada, sem cruzamentos.
+- Polígono: figura plana formada por segmentos de reta consecutivos não colineares, fechada, sem cruzamentos.
+
+<div style="display:inline_block">
+    <img align="left" height="220" width="600" alt="TypeScript" src="./../../img/poligonos.png">
+</div><br><br><br><br><br><br><br><br><br><br><br><br>
+
+**Observação:**  figura 1 é um polígono simples convexo, e a figura 2 é um polígono simples não
+convexo, são formadas por linhas poligonais que não se cruzam. A figura 3 não é um polígono, uma vez que há um cruzamento na linha. 
 
 #### Classificação quanto à convexidade
 1. Polígono convexo: qualquer segmento ligando dois pontos internos permanece dentro do polígono.
@@ -18,84 +25,39 @@ Polígono: figura plana formada por segmentos de reta consecutivos não colinear
 - 10: decágono
 - 12: dodecágono
 
----
+<div style="display:inline_block">
+    <img align="left" height="250" width="600" alt="TypeScript" src="./../../img/tipos-de-poligonos.png">
+</div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2. Ângulos em Polígonos Convexos
 
 #### Soma dos ângulos internos (Si)
-Si = 180° × (n − 2)
+- Si = 180° × (n − 2)
 
 #### Soma dos ângulos externos (Se)
-Se = 360° (para qualquer polígono convexo)
-
----
+- Se = 360° (para qualquer polígono convexo)
 
 ## 3. Polígonos Regulares
-Polígono regular: todos os lados e todos os ângulos são congruentes.
+- Polígono regular: todos os lados e todos os ângulos são congruentes.
+- Exemplos:
+
+<div style="display:inline_block">
+    <img align="left" height="150" width="500" alt="TypeScript" src="./../../img/poligonos-regulares.png">
+</div><br><br><br><br><br><br><br>
 
 #### Medida do ângulo interno (ai)
-ai = 180° × (n − 2) / n
+- ai = 180° × (n − 2) / n
 
 #### Medida do ângulo externo (ae)
-ae = 360° / n
+- ae = 360° / n
 
 #### Relação entre ai e ae
-ai + ae = 180°
-
----
+- ai + ae = 180°
 
 ## 4. Número de Diagonais (d)
-Diagonal: segmento que liga dois vértices não consecutivos.
-
-Fórmula:
-d = n × (n − 3) / 2
-
----
-
-## 5. Exercícios Resolvidos
-
-### 5.1 (Mosaico com polígonos regulares)
-Maior polígono: dodecágono (n = 12)  
-ai = 180° × (12 − 2) / 12 = 180° × 10 / 12 = 150°
-
-### 5.2 (Pentágonos regulares apoiados em reta)
-Pentágono: n = 5  
-ai = 180° × (5 − 2) / 5 = 108°  
-ae = 180° − 108° = 72°  
-Ângulo α no triângulo: α + 72° + 72° = 180° → α = 36°
-
-### 5.3 (Pentágono regular ABCDE – ângulo ACE)
-ai = 108°  
-Triângulo ABC é isósceles com ângulo do vértice B = 108°  
-Base do triângulo: x + x + 108° = 180° → 2x = 72° → x = 36°  
-No vértice C: 36° + a + 36° = 108° → a = 36°
-
-### 5.4 (Polígono com 9 diagonais)
-d = n(n − 3)/2 = 9  
-n² − 3n − 18 = 0  
-(n − 6)(n + 3) = 0 → n = 6 (hexágono)
-
-### 5.5 (Polígono regular de 50 lados)
-ai = 180° × (50 − 2) / 50 = 180° × 48 / 50 = 172,8°  
-Falta para 180°: 180° − 172,8° = 7,2° = 7° 12′
-
-### 5.6 (Triângulo e quadrilátero com vértice comum)
-α no triângulo: α + 73° + 69° = 180° → α = 38°  
-Soma dos ângulos do quadrilátero: 360°  
-38° + β + β + 90° = 360° → 2β = 232° → β = 116°  
-α + β = 38° + 116° = 154°
-
-### 5.7 (Retângulo com segmentos internos)
-Triângulo retângulo: 39° + β + 28° + 90° = 180° → β = 23°
-
-### 5.8 (Polígono regular com ai − ae = 150°)
-ai − ae = 150°  
-[180(n−2)/n] − [360/n] = 150  
-(180n − 360 − 360)/n = 150  
-180n − 720 = 150n → 30n = 720 → n = 24  
-d = 24 × (24 − 3) / 2 = 24 × 21 / 2 = 252
-
----
+- Diagonal: segmento que liga dois vértices não consecutivos.
+- Fórmula:
+  - d = n × (n − 3) / 2
 
 ## 6. Dicas para Resolução
 1. Identifique se o polígono é regular (lados e ângulos iguais).
@@ -104,7 +66,3 @@ d = 24 × (24 − 3) / 2 = 24 × 21 / 2 = 252
 4. Em polígonos regulares: ai = 180°×(n−2)/n e ae = 360°/n.
 5. Sempre que possível, desenhe e divida a figura em triângulos para análise.
 6. Para conversão grau-minuto: 1° = 60′.
-
----
-
-Material baseado na aula do Prof. Wagner Ribeiro Aguiar (Gran Concursos).
