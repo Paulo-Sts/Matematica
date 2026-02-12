@@ -2,7 +2,7 @@
 
 ## 1. Conceito de Equivalência Lógica
 - Duas proposições são logicamente equivalentes quando suas tabelas-verdade são idênticas.  
-- Notação: p ⇔ q ou p = q. 
+- Notação: p ⇔ q ou p = q ou p ≡ q
 - Exemplo:
   - p ⟶ q é equivalente a ~p ∨ q
 
