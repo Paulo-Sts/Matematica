@@ -68,3 +68,18 @@ membros da classe de sujeito.
    Ex.: "Todo cientista não é estudioso" ⇔ "Nenhum cientista é estudioso"
 2. **Nenhum A é não‑B** ⇔ **Todo A é B**  
    Ex.: "Nenhum pedreiro não é operário" ⇔ "Todo pedreiro é operário"
+
+#### Macete para Encontrar Negação
+- Deve-se pegar o quantificador e encontrar o seu equivalente que realiza a negação a partir da tabela a seguir.
+
+| PREPOSIÇÃO | NEGAÇÃO | EXPLICAÇÃO      |
+|------------|---------|-----------------|
+| E          | T       | Existe → Todo   |
+| N          | E       | Nenhum → Existe |
+| E          | N       | Existe → Nenhum |
+| T          | E       | Todo → Existe   |
+
+- Exemplos:
+  - "Todo concurseiro adora lógica." (T → E) = "Algum concurseiro não adora lógica."
+  - "Nenhuma laranja está madura." (N → E) = "Alguma laranja está madura."
+  - "Existe caneta preta." (E → T) ou (E → N) = "Toda caneta não é preta." ou "Nenhuma caneta é preta".
