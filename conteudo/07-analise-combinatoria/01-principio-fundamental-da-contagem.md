@@ -48,3 +48,9 @@ Hipótese 2: (De A para B de para C)
 Total:
 1. Somar possiblidades das hipóteses => 4 + 6 = 10 
 2. Resposta: 10 possibilidades
+
+> ### Quando usar Permutação, Arranjo e Combinação
+
+<div style="display:inline_block">
+    <img align="left" height="250" width="550" alt="TypeScript" src="./../../img/analise-combinatoria.png">
+</div><br><br><br><br><br><br><br>
