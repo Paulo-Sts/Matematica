@@ -23,3 +23,17 @@ Ex: Uma moeda é lançada 8 vezes, qual a chance de sair exatamente 5 caras?
 8. Multiplicação => P(8 repetições, 5 cara) = 56 . 1/32 . 1/8 = 56/256
 9. Divisão => P(8 repetições, 5 cara) = 56/256 : 8 = 7/32
 10. Resposta: 7/32
+
+#### Outra Forma de Resolver
+- A probabilidade binomial envolve a probabilidade de eventos independentes em que não é definida uma ordem específica de ocorrência, nesse caso é necessário multiplicar o resultado pelo número de combinações possíveis de o evento acontecer.
+- Representação:
+  - P(A ∩ B) = P(A) . P(B) . C<sub>n, p</sub>
+  - n = total de combinações possíveis envolvendo os eventos independentes (total de eventos independentes)
+  - p = total de resultados possíveis para cada evento
+
+Ex: Probabilidade de jogar 4 moedas e sair 2 caras e 2 coroas?
+
+1. Resultados possíveis => Ω = {cara, coroa} => n(Ω) = 2 (eventos possíveis)
+2. Resultados favoráveis (sucesso) => S = {cara} => n(S) = 1 = 1/2
+3. Combinações possíveis => C<sub>4, 2</sub> = 4 . 3/2 . 1 = 6 (É as combinações possíveis das posições dos resultados q se quer: cckk, ckck, kkcc, kckc, kcck, ckkc)
+4. Cálculo da probabilidade => 6 . 1/2 . 1/2 . 1/2 . 1/2 = 6/16 = 3/8 = 37,5%
