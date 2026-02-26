@@ -52,3 +52,9 @@ Ex: Ao jogar um dado qual a chance de sair o número 7?
 1. Espaço amostral => {1, 2, 3, 4, 5, 6}
 2. Evento => {7}
 3. Resposta: 0%
+
+#### Casos de Problemas Envolvendo Probabilidade
+
+<div style="display:inline_block">
+    <img align="left" height="400" width="700" alt="TypeScript" src="./../../img/casos-probabilidade.png">
+</div><br><br><br><br><br><br>
