@@ -70,3 +70,9 @@
 - p ⟷ ~p = F
 - p ∨ (p ∧ q) = p (Lei da Absorção)
 - p ∧ (p ∨ q) = p (Lei da Absorção)
+
+## Dica
+
+<div style="display:inline_block">
+    <img align="left" height="300" width="400" alt="TypeScript" src="./../../img/regras-logica-proposicional-3.png">
+</div><br><br><br><br><br><br>

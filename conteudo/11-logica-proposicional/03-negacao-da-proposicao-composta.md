@@ -53,3 +53,9 @@
 #### 6.3 Exemplo
 - Proposição: Ou Carlos é Paulista ou Lucas é carioca.
 - Negação: Carlos é paulista se, e somente se Lucas é carioca.
+
+## Dica
+
+<div style="display:inline_block">
+    <img align="left" height="300" width="400" alt="TypeScript" src="./../../img/regras-logica-proposicional-2.png">
+</div><br><br><br><br><br><br>

@@ -132,3 +132,8 @@ Exemplo 2: ~p ∧ q
 | F | V | V       |
 | F | F | F       |
 
+## Dica
+
+<div style="display:inline_block">
+    <img align="left" height="300" width="400" alt="TypeScript" src="./../../img/regras-logica-proposicional.png">
+</div><br><br><br><br><br><br>
