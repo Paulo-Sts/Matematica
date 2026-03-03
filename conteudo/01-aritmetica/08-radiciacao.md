@@ -1,170 +1,204 @@
 # Radiciação
 
-## Definição
-* A radiciação é a operação matemática que procura determinar qual o número elevado a certa potência (multiplicado por si mesmo um determinado número de vezes) é igual a um outro número, ou seja, a sua raíz (origem).
-* A radiciação é a operação inversa da potenciação, dessa forma pode-se encontrar o resultado de uma raiz, procurando a potenciação que tem como resultado a raiz que se deseja encontrar.
-* Os termos da radiciação são o **índice** que define o expoente, o radical **√** que representa a operação e o **radicando** que representa o resultado da potência de um determinado número.
-* O resultado da radiciação é chamado de **raiz** ou **radical**.
-* Representação da radiciação:
-  - <sup>n</sup>√a = b
+> ## 1. Definição
+- A radiciação é a operação matemática que procura determinar qual o número elevado a certa potência (multiplicado por si mesmo um determinado número de vezes) é igual a um outro número, ou seja, a sua raíz (origem).
+- A radiciação é a operação inversa da potenciação, dessa forma pode-se encontrar o resultado de uma raiz, procurando a potenciação que tem como resultado a raiz que se deseja encontrar.
+- Os termos da radiciação são o **índice** que define o expoente, o radical **√** que representa a operação e o **radicando** que representa o resultado da potência de um determinado número.
+- O resultado da radiciação é chamado de **raiz** ou **radical**.
+- Representação da radiciação:
+  - <sup>n</sup>√a = b ou n^√a = b
   - n = índice (expoente)
   - a = radicando
   - b = raiz 
-* Prova real da radiciação:
+- Prova real da radiciação:
   - <sup>n</sup>√a = b onde b<sup>n</sup> = a
 
-#### Cálculo
+> #### Cálculo
 1. Identifica-se o índice (expoente) e o radicando.
 2. Procura-se determinar que número multiplicado por si mesmo o número de vezes correspondente ao índice (expoente) seja igual ao radicando.
 3. O número que tendo como o resultado de sua potência o radicando é o resultado.
 
+```
 Ex: √16 = 4
 1. Multiplica-se o 4 pelo expoente 2, ou seja 2 vezes => 4 . 4 = 16
 2. Resposta: 4
+```
 
-**DICA:** Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
+> [!TIP] DICA: Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
 
+```
 Ex: √16 = 4  
 1. Fatorar o 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
 2. Resultado da fatoração (2, 2, 2, 2) 
 3. Fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
 4. Multiplica-se uma unidade de cada grupo 2 * 2 = 4
 5. Resposta: 4
+```
 
-**DICA:** Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
+> [!TIP] DICA: Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
 
+```
 Ex: 4√3 = √48
-1. Calcular a potência => 4<sup>2</sup> = 16
-2. Multiplicar pelo radicando => √16 . 3 = √48
+1. Calcular a potência: 4<sup>2</sup> = 16
+2. Multiplicar pelo radicando: √16 . 3 = √48
 3. Resposta: √48
+```
 
-> ### Propriedades da radiciação
+> ### 1.1 Propriedades da Radiciação
 
-#### Raíz de potência com expoente igual 
-* A raíz de uma potência em que o expoente da base é igual ao índice do radicando, tem como resultado o próprio radicando a partir do seu módulo, dessa forma o resultado sempre será o módulo do radicando.
-* Representação:
+> #### Raíz de Potência com Expoente Igual 
+- A raíz de uma potência em que o expoente da base é igual ao índice do radicando, tem como resultado o próprio radicando a partir do seu módulo, dessa forma o resultado sempre será o módulo do radicando.
+- Representação:
   - <sup>n</sup>√a<sup>n</sup> = a
 
-Ex: <sup>2</sup>√2<sup>2</sup> = 2  
-Ex: <sup>3</sup>√3<sup>3</sup> = 3  
+```
+Ex: 2^√2^2 = 2  
+Ex: 3^√3^3 = 3  
+```
 
-#### Raíz do produto do radicando
-* Se o radicando de uma raíz for correspondente ao produto de dois fatores, pode-se separar a raíz, como o produto das raízes enésimas de cada fator.
-* Pode-se descobrir os fatores que formam a raíz a partir da fatoração do radicando.
-* Representação:
+> #### Raíz do Produto do Radicando
+- Se o radicando de uma raíz for correspondente ao produto de dois fatores, pode-se separar a raíz, como o produto das raízes enésimas de cada fator.
+- Pode-se descobrir os fatores que formam a raíz a partir da fatoração do radicando.
+- Representação:
   - <sup>n</sup>√a = <sup>n</sup>√b . c = <sup>n</sup>√b . <sup>n</sup>√c
 
+```
 Ex: √400 = √ 4 . 100 = √4 . √100  
 Ex: √16 = √ 4 . 4 = √4 . √4
+```
 
-#### Operações entre índice e expoente em uma raíz
-* Pode-se multiplicar ou dividir o índice da raíz, se o mesmo for feito com o expoente do radicando, que não ocorrerá mudança no resultado.
-* Representação:
+> #### Operações entre Índice e Expoente em uma Raíz
+- Pode-se multiplicar ou dividir o índice da raíz, se o mesmo for feito com o expoente do radicando, que não ocorrerá mudança no resultado.
+- Representação:
   - <sup>n</sup>√a<sup>m</sup> = <sup>n . k</sup>√a<sup>m . k</sup>
 
-Ex: √16 = √ 2<sup>4</sup> = <sup>2 . 4</sup>√ 2<sup>4 . 4</sup> = <sup>8</sup>√ 2<sup>16</sup> = <sup>8</sup>√ 2<sup>65536</sup> = 4
+```
+Ex: √16 = √2^4 = 2 . 4^√2^4 . 4 = 8^√2^16 = 8^√2^65536 = 4
+```
 
-#### Conversão de radical em potência
-* Um radical poder ser escrito na forma de uma potência, onde o radical é igual ao radicando elevado ao expoente do radicando, dividido pelo índice do radical.
-* Representação:
+> #### Conversão de Radical em Potência
+- Um radical poder ser escrito na forma de uma potência, onde o radical é igual ao radicando elevado ao expoente do radicando, dividido pelo índice do radical.
+- Representação:
   - <sup>n</sup>√a<sup>m</sup> = a<sup>m/n</sup>
 
-Ex: <sup>2</sup>√9<sup>2</sup> = 9<sup>2/2</sup>  
-Ex: <sup>5</sup>√4<sup>3</sup> = 4<sup>3/5</sup>  
+```
+Ex: 2^√9^2 = 9^2/2  
+Ex: 5^√4^3 = 4^3/5  
+```
 
-#### Raíz de raíz
-* Para uma raíz de uma raíz, repete-se o radicando e multiplica-se os índices dos radicais.
-* Representação:
+> #### Raíz de Raíz
+- Para uma raíz de uma raíz, repete-se o radicando e multiplica-se os índices dos radicais.
+- Representação:
   - <sup>n</sup>√<sup>m</sup>√a = <sup>n . m</sup>√a
 
-Ex: √<sup>3</sup>√64 = <sup>2 . 3</sup>√64 = <sup>6</sup>√64 = 2
+```
+Ex: √3^√64 = 2 . 3^√64 = 6^√64 = 2
+```
 
-#### Simplificação de radicais
-* Para uma raíz desconhecida ou com resultado diferente de um número inteiro, pode-se simplificar o radical.
-* Fatora-se o radicando, após isso o escreve em forma de potência, igualando o índice do radical ao expoente do radicando e os dividindo por um mesmo valor, para eliminar o radical.
+> #### Simplificação de Radicais
+- Para uma raíz desconhecida ou com resultado diferente de um número inteiro, pode-se simplificar o radical.
+- Fatora-se o radicando, após isso o escreve em forma de potência, igualando o índice do radical ao expoente do radicando e os dividindo por um mesmo valor, para eliminar o radical.
 
-Ex: <sup>5</sup>√242 = <sup>5</sup>√3<sup>5</sup> = 3
+Ex: 5^√242 = 5^√3^5 = 3
 
-> ### Racionalização de denominadores
-* A racionalização de denominadores, é a transformação de uma fração de denominador irracional, em uma fração equivalente com denominador racional, ou seja, é a transformação de um número em número racional.
+> ### 1.2 Racionalização de Denominadores
+- A racionalização de denominadores, é a transformação de uma fração de denominador irracional, em uma fração equivalente com denominador racional, ou seja, é a transformação de um número em número racional.
 
-#### Denominador com raíz quadrada
-* Multiplica-se o numerador e o denominador da fração, pelo valor do denominador da fração.
+> #### Denominador com Raíz Quadrada
+- Multiplica-se o numerador e o denominador da fração, pelo valor do denominador da fração.
 
-Ex: 3/√5 = 3/√5 . √5/√5 = 3√5/√5.5 = 3√5/√5<sup>2</sup> = 3√5/5
+```
+Ex: 3/√5 = 3/√5 . √5/√5 = 3√5/√5.5 = 3√5/√5^2 = 3√5/5
+```
 
-#### Denominador com raíz de expoente maior que dois
-* Deve-se encontrar um valor em que a multiplicação das potências, resulte em um expoente igual ao do radical do denominador, possibilitando a sua eliminação.
+> #### Denominador com Raíz de Expoente Maior que Dois
+- Deve-se encontrar um valor em que a multiplicação das potências, resulte em um expoente igual ao do radical do denominador, possibilitando a sua eliminação.
 
-Ex: 2/<sup>5</sup>√9 = 2/<sup>5</sup>√3<sup>2</sup> . <sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>3</sup> = 2<sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>3</sup>.3<sup>2</sup> = 2<sup>5</sup>√3<sup>3</sup>/<sup>5</sup>√3<sup>5</sup> = 2<sup>5</sup>√27/3
+```
+Ex: 2/5^√9 = 2/5^√3^2 . 5^√3^3/5^√3^3 = 2^5√3^3/5^√3^3 . 3^2 = 2^5√3^3/5^√3^5 = 2^5√27/3
+```
 
-#### Denominador com adição ou subtração de radicais
-* Quando o denominador for uma adição ou subtração de radicais, multiplica-se o numerador e o denominador pela expressão com valor inverso ao do denominador, que se traduz em um produto notável em que o resultado é o quadrado do radicando de cada valor que forma o denominador.
+> #### Denominador com adição ou subtração de radicais
+- Quando o denominador for uma adição ou subtração de radicais, multiplica-se o numerador e o denominador pela expressão com valor inverso ao do denominador, que se traduz em um produto notável em que o resultado é o quadrado do radicando de cada valor que forma o denominador.
 
-Ex: 3/√6 - √3 = 3/√6 - √3 . √6 + √3/√6 + √3 = 3(√6 + √3)/(√6 - √3).(√6 + √3) = 3(√6 + √3)/(√6)<sup>2</sup> - (√3)<sup>2</sup> = 3(√6 + √3)/6 - 3 = 3(√6 + √3)/3 = √6 + √3
+```
+Ex: 3/√6 - √3 = 3/√6 - √3 . √6 + √3/√6 + √3 = 3(√6 + √3)/(√6 - √3).(√6 + √3) = 3(√6 + √3)/(√6)^2 - (√3)^2 = 3(√6 + √3)/6 - 3 = 3(√6 + √3)/3 = √6 + √3
+```
 
-> ### Radical duplo ou biquadrático
-* Radical duplo ou biquadrático é toda expressão irracional na forma **√a ± b** em que **a** e **b** são racionais positivos, sendo **a<sup>2</sup>** > **b** e **b** não seja um quadrado perfeito.
-* O radical duplo só existe quando há uma soma ou diferença entre os radicais.
-* O objetivo é transformar o radical duplo em uma soma ou subtração de radicais simples, isso é feito por meio de uma relação entre radicais.
-* Relação de transformação de radicais duplos:
+> ### 1.3 Radical Duplo ou Biquadrático
+- Radical duplo ou biquadrático é toda expressão irracional na forma **√a ± b** em que **a** e **b** são racionais positivos, sendo **a<sup>2</sup>** > **b** e **b** não seja um quadrado perfeito.
+- O radical duplo só existe quando há uma soma ou diferença entre os radicais.
+- O objetivo é transformar o radical duplo em uma soma ou subtração de radicais simples, isso é feito por meio de uma relação entre radicais.
+- Relação de transformação de radicais duplos:
   - √(a ± √b) = √(a + c)/2 ± √(a - c)/2
   - c = √(a<sup>2</sup>- b)
 
-#### Cálculo
+> #### Cálculo
 1. Encontrar o valor de **c**.
 2. Montar os valores da relação.
 3. Encontrar os radicais simples.
 
+```
 Ex: √(5 + √24)  
-1. Encontrar o valor de c => √(5<sup>2</sup>- 24) => √25 - 24 => √1 = 1
-2. Montar a relação => √(5 + √24) = √(5 + 1)/2 + √(5 - 1)/2 => √6/2 + √4/2 => √3 + √2
+1. Encontrar o valor de c: √(5^2- 24) ⟶ √25 - 24 ⟶ √1 = 1
+2. Montar a relação: √(5 + √24) = √(5 + 1)/2 + √(5 - 1)/2 ⟶ √6/2 + √4/2 ⟶ √3 + √2
 3. Resposta: √(5 + √24) = √3 + √2
+```
 
-## OPERAÇÕES COM RADICAIS
+## 2. Operações com Radicais
 
-> ### Adição
-* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e soma-se os coeficientes.
-* Para radicais não semelhantes, antes da soma é preciso simplificar o radical. 
-* Quando não é possível a simplificação, calcula-se o valor dos radicais e soma-se o resultado.
+> ### 2.1 Adição
+- Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e soma-se os coeficientes.
+- Para radicais não semelhantes, antes da soma é preciso simplificar o radical. 
+- Quando não é possível a simplificação, calcula-se o valor dos radicais e soma-se o resultado.
 
-Ex: 10<sup>6</sup>√3 + 5<sup>6</sup>√3 = 15<sup>6</sup>√3  
-Ex: 8√6 + 9√24 = 8√6 + 9√2<sup>2</sup>.2.3 = 8√6 + (9.2)√2.3 = 8√6 + 18√6 = 26√6  
+```
+Ex: 10^6√3 + 5^6√3 = 15^6√3  
+Ex: 8√6 + 9√24 = 8√6 + 9√2^2 . 2 . 3 = 8√6 + (9.2)√2.3 = 8√6 + 18√6 = 26√6  
 Ex: √81 + √25 = 9 + 5 = 14  
+```
 
-> ### Subtração
-* Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e se subtrair os coeficientes.
-* Para radicais não semelhantes, antes da subtração é preciso simplificar o radical.
-Quando não é possível a simplificação, calcula-se o valor dos radicais e subtraí-se o resultado.
+> ### 2.2 Subtração
+- Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e se subtrair os coeficientes.
+- Para radicais não semelhantes, antes da subtração é preciso simplificar o radical.
+- Quando não é possível a simplificação, calcula-se o valor dos radicais e subtraí-se o resultado.
 
-Ex: 9<sup>5</sup>√2 - 5<sup>5</sup>√2 = 4<sup>5</sup>√2  
-Ex: 5<sup>3</sup>√81 - 4<sup>3</sup>√3 = 5<sup>3</sup>√3<sup>3</sup>.3 - 4<sup>3</sup>√3 = (5.3)<sup>3</sup>√3 - 4<sup>3</sup>√3 = 15<sup>3</sup>√3 - 4<sup>3</sup>√3 = 11<sup>3</sup>√3  
+```
+Ex: 9^5√2 - 5^5√2 = 4^5√2  
+Ex: 5^3√81 - 4^3√3 = 5^3√3^3 . 3 - 4^3√3 = (5.3)^3√3 - 4^3√3 = 15^3√3 - 4^3√3 = 11^3√3  
 Ex: √5 + √2 = 2.24 - 1,41 = 0.82  
+```
 
-> ### Multiplicação
-* Na multiplicação de radicais de mesmo índice, repete-se o índice do radical e multiplica-se os radicandos.
-* Para radicais com índices diferentes, primeiro é preciso reduzir os radicais ao mesmo índice para poder multiplicar os radicandos.
-* Representação:
+> ### 2.3 Multiplicação
+- Na multiplicação de radicais de mesmo índice, repete-se o índice do radical e multiplica-se os radicandos.
+- Para radicais com índices diferentes, primeiro é preciso reduzir os radicais ao mesmo índice para poder multiplicar os radicandos.
+- Representação:
   - <sup>n</sup>√a . <sup>n</sup>√b = √a . b
 
-Ex: <sup>3</sup>√9 . <sup>3</sup>√3 = <sup>3</sup>√9 . 3 = <sup>3</sup>√27 = 3  
+```
+Ex: 3^√9 . 3^√3 = 3^√9 . 3 = 3^√27 = 3  
+```
 
-> ### Divisão
-* Na divisão de radicais de mesmo índice, repete-se o índice do radical e divide-se os radicandos.
-* Para radicais com índices diferentes, índices primeiro é preciso reduzir os radicais ao mesmo índice para poder dividir os radicandos.
-* Representação:
+> ### 2.4 Divisão
+- Na divisão de radicais de mesmo índice, repete-se o índice do radical e divide-se os radicandos.
+- Para radicais com índices diferentes, índices primeiro é preciso reduzir os radicais ao mesmo índice para poder dividir os radicandos.
+- Representação:
   - <sup>n</sup>√a / <sup>n</sup>√b = <sup>n</sup>√a/b
 
+```
 Ex: √27/√3 = √27/3 = √9 = 3
+```
 
-#### Redução de radicais a um mesmo índice
+> #### Redução de radicais a um mesmo índice
 1. Encontrar o MMC entre os dois índices, o resultado será o novo índice. 
 2. Transformar os radicandos, isso é feito dividindo o novo índice pelo índice anterior e o multiplicando pelo expoente do radicando, esse será o novo expoente do radicando.
 
-Ex: <sup>3</sup>√8/√4  
+```
+Ex: 3^√8/√4  
 1. MMC(3, 2) = 6  
-2. 6 : 3 = 2 => 2 x 1 = 2 logo <sup>6</sup>√8<sup>2</sup>
-3. 6 : 2 = 3 => 3 x 1 = 3 logo <sup>6</sup>√4<sup>3</sup>
-4. Divisão <sup>6</sup>√8<sup>2</sup>/<sup>6</sup>√4<sup>3</sup>
-5. <sup>6</sup>√64/<sup>6</sup>√64 = √64/64 = √1 = 1
+2. 6 : 3 = 2 ⟶ 2 x 1 = 2 logo 6^√8^2
+3. 6 : 2 = 3 ⟶ 3 x 1 = 3 logo 6^√4^3
+4. Divisão 6^√8^2/6^√4^3
+5. 6^√64/6^√64 = √64/64 = √1 = 1
 6. Resposta: 1
+```
