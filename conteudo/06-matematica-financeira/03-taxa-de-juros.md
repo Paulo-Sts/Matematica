@@ -1,23 +1,23 @@
 # Taxa de Juros
 
-## Definição
+> ## 1. Definição
 - A taxa de juros é uma operação em que um capital (valor monetário conhecido hoje) é projetado para uma data posterior. O objetivo é descobrir qual o valor que esse capital irá se transformar.
 - A taxa de juros é expressa como uma porcentagem acompanhada por uma unidade de tempo. Essa expressão pode se apresentar em diferentes formas, sendo fundamental adequar a expressão da taxa a condição apresentada para a realização da operação.
 
-> ### Taxa nominal ou aparente
+> ### 1.1 Taxa Nominal ou Aparente
 - Taxa nominal, é a taxa em que o período da capitalização e o de tempo da capitalização estão definidas em unidades diferentes.
 - Essa taxa não pode ser utilizada pois, o seu valor real é diferente de como ela está apresentada, sendo necessário a sua transformação em taxa efetiva.
 - A taxa nominal é definida pelo regime de juros compostos.
 
 Ex: 13% a.a, capitalizado mensalmente. (a taxa é anual, equanto a capitalização ocorre a cada mês)
 
-> ### Taxa efetiva
+> ### 1.2 Taxa Efetiva
 - É a taxa de juros expressa na mesma unidade de tempo em que é capitalizada. É a real taxa aplicada a uma operação. 
 - Taxas nominais devem ser transformadas em taxa efetiva para poder ser aplicada a operação.
 
 Ex: 2% a.m com capitalização mensal.
 
-#### Conversão da taxa nominal em taxa efetiva
+> ### 1.3 Conversão da Taxa Nominal em Taxa Efetiva
 - A conversão de uma taxa nominal para taxa efetiva se dá pelo uso de taxas proposcionais. 
 - Deve-se identificar o tipo de capitalização, pois é o que determina em que unidade de período a taxa de juros deve ser expressa.
 
@@ -27,17 +27,17 @@ DADOS:
 período = mensal
 taxa = 36% ao ano
 
-1. Ano em meses => 1 ano = 12 meses
-2. Divisão => 36/12 = 3
+1. Ano em meses ⟶ 1 ano = 12 meses
+2. Divisão ⟶ 36/12 = 3
 3. Resposta: A taxa efetiva é = 3% ao mês
 
-## Taxas proporcionais
+> ## 2. Taxas Proporcionais
 - Taxas proporcionais, são diferentes taxas que produzem os mesmos juros, em um mesmo prazo a juros simples. As taxas proporcionais são taxas equivalentes em aplicações de regime simples.
 - A conversão entre taxas aplicadas a juros simples é feita a partir da relação do seu período de capitalização com o período da aplicação.
 
 Ex: 12% a.m = 144% a.a = 24% a.b
 
-## Taxas equivalentes
+> ## 3. Taxas Equivalentes
 - São diferentes taxas que aplicadas, no regime composto, a um mesmo prazo produzem o mesmo montante.
 - A conversão em taxas equivalentes no regime composto se dá a partir da conversão de uma taxa de menor período para uma taxa de maior período, ou o contrário.
 - O período de capitalização determina o período de cálculo da taxa equivalente em outra unidade de tempo. Por exemplo se a capitalização for mensal, para uma taxa equivalente anual o período será de 12 meses.
@@ -60,13 +60,13 @@ i<sub>k</sub> = ?
 i = 10% a.s  
 t = 2 (1 ano = 2 semestres)  
 
-1. Montar fórmula => i<sub>k</sub> = (0,1 + 1)<sup>2</sup> - 1
-2. Soma => (0,1 + 1) = 1,1
-3. Potência => (1,1)<sup>2</sup> = 1,1 . 1,1 = 1,21
-4. Subtração => 1,21 - 1 = 0,21
+1. Montar fórmula ⟶ i<sub>k</sub> = (0,1 + 1)<sup>2</sup> - 1
+2. Soma ⟶ (0,1 + 1) = 1,1
+3. Potência ⟶ (1,1)<sup>2</sup> = 1,1 . 1,1 = 1,21
+4. Subtração ⟶ 1,21 - 1 = 0,21
 5. Resposta: A taxa equivalente de 10% a.s é = 21% a.a
 
-**DICA:** Ao converter uma taxa menor para uma maior, no regime simples a taxa equivalente  será menor do que no regime composto, já ao converter uma taxa maior para uma taxa menor, no regime simples a taxa equivalente será maior do que no regime composto. Isso pode ajudar a descobrir a resposta do valor da taxa, fazendo sua comparação com a taxa no outro regime, em questões que cobrem o valor da taxa equivalente em determinado regime.
+> [!TIP] DICA: Ao converter uma taxa menor para uma maior, no regime simples a taxa equivalente  será menor do que no regime composto, já ao converter uma taxa maior para uma taxa menor, no regime simples a taxa equivalente será maior do que no regime composto. Isso pode ajudar a descobrir a resposta do valor da taxa, fazendo sua comparação com a taxa no outro regime, em questões que cobrem o valor da taxa equivalente em determinado regime.
 
 |                  | JUROS SIMPLES    | JUROS COMPOSTOS     | RELAÇÃO                        |
 | ---------------- |----------------- | ------------------- | ------------------------------ |

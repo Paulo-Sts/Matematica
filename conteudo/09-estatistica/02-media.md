@@ -1,6 +1,6 @@
 # Média
 
-## Definição
+> ## 1. Definição
 - A média é o valor que demonstra a concentração dos dados de uma distribuição. Também pode ser considerado o valor médio do conjunto dos dados da distribuição.
 - Existem quatro tipos de média: aritmética (simples e ponderada), geométrica e harmônica.
 - Para um conjunto de dados existe uma relação de valores entre os diferentes tipos de média.
@@ -10,7 +10,7 @@
   - MG = média geométrica
   - MH = média harmônica
 
-> ### Média Aritmética Simples
+> ### 1.1 Média Aritmética Simples
 - É a soma de todos os valores de uma amostra, dividido pela quantidade de valores da amostra.
 - Representação:
    - MA = x1 + x2 + x3 ... xn/n
@@ -18,11 +18,12 @@
    - n = quantidade de valores da amostra
 
 Ex: MA de (2, 4, 10, 20) = 12
-1. Soma dos valores => (2 + 4 + 10 + 20)/4
-2. Divisão dos valores => 36/4 => 12
+
+1. Soma dos valores ⟶ (2 + 4 + 10 + 20)/4
+2. Divisão dos valores ⟶ 36/4 ⟶ 12
 3. Resposta: MA = 12
 
-> ### Média Aritmética Ponderada
+> ### 1.2 Média Aritmética Ponderada
 - É a multiplicação de cada valor pela sua frequência, somados e divididos pela soma das frequências.
 - Uma outra forma é interpretar a frequência como o número de ocorrências de um determinado valor na amostra.
 - Representação:
@@ -31,12 +32,13 @@ Ex: MA de (2, 4, 10, 20) = 12
    - f = frequência ou peso
 
 Ex: MP de (2, 2, 4, 10, 10, 10, 10, 10, 20, 20) = 9.8
-1. Multiplicação dos valores pelos frequências => (2 . 2 + 4 . 1 + 10 . 5 + 20 . 2)/(2 + 1 + 5 + 2) = (4 + 4 + 50 + 40)/10 
-2. Soma dos valores => (4 + 4 + 50 + 40)/10 = 98/10 
-3. Divisão => 9.8
+
+1. Multiplicação dos valores pelos frequências ⟶ (2 . 2 + 4 . 1 + 10 . 5 + 20 . 2)/(2 + 1 + 5 + 2) = (4 + 4 + 50 + 40)/10 
+2. Soma dos valores ⟶ (4 + 4 + 50 + 40)/10 = 98/10 
+3. Divisão ⟶ 9.8
 4. Resposta: MP = 9.8
 
-> ### Média Geométrica
+> ### 1.3 Média Geométrica
 - A média geométrica é a n-ésima raíz (definida pela quantidade de valores da amostra) da multiplicação de uma amostra.
 - Representação:
    - MG = <sup>n</sup>√x1 . x2 . x3 ... xn
@@ -44,11 +46,12 @@ Ex: MP de (2, 2, 4, 10, 10, 10, 10, 10, 20, 20) = 9.8
    - n = quantidade de valores da amostra
 
 Ex: MG de (2, 8)
-1. Produto => <sup>2</sup>√2 . 8 = √16
-2. Encontrar a raíz => √16 = 4
+
+1. Produto ⟶ <sup>2</sup>√2 . 8 = √16
+2. Encontrar a raíz ⟶ √16 = 4
 3. Resposta: MG = 4
 
-> ### Média Harmônica
+> ### 1.4 Média Harmônica
 - A média harmônica de uma amostra em que todos os valores são maiores que zero, é a quantidade de valores da amostra, dividido pelo soma do inverso dos valores da amostra.
 - Representação:
   - MH = n/(1/x1 + 1/x2 + ... 1/xn)
@@ -56,7 +59,8 @@ Ex: MG de (2, 8)
   - x = valor
 
 Ex: MH de (2, 8)
-1. Montar a razão => 2/(1/2 + 1/8)
-2. Soma dos denominadores => MMC(2, 8) = 8 | 1/2 + 1/8 = (4 + 1)/8 = 5/8
-3. Divisão => 2/(5/8) = 2/1 x 8/5 = (2 . 8)/(1 . 5) = 16/5 = 3,2
+
+1. Montar a razão ⟶ 2/(1/2 + 1/8)
+2. Soma dos denominadores ⟶ MMC(2, 8) = 8 | 1/2 + 1/8 = (4 + 1)/8 = 5/8
+3. Divisão ⟶ 2/(5/8) = 2/1 x 8/5 = (2 . 8)/(1 . 5) = 16/5 = 3,2
 4. Resposta: MH = 3,2

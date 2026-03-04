@@ -1,65 +1,64 @@
 # Estatística Descritiva
 
-## Definição
+> ## 1. Definição
 - A estatística descritiva trata da coleta, organização e interpretação de conjuntos de dados.
 
-#### População
+> #### População
 - É o conjunto universo de todos os elementos a partir do qual se pretende conhecer informações.
 
-#### Amostra
+> #### Amostra
 - É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população.
 
-
-## Variável Estatística
+> ## 2. Variável Estatística
 - É o tipo de informação sobre a população que se está pesquisando e se deseja conhecer.
 - Tipos de variáveis:
   - Variáveis quantitativas;
   - Variáveis qualitativas.
 
-> ### Variáveis Quantitativas
+> ### 2.1 Variáveis Quantitativas
 - São variáveis que expressam uma quantidade ou um valor.
 - Tipos de variáveis quantitativas:
   - Discretas;
   - Contínuas.
 
-#### Quantitativas Discretas
+> #### Quantitativas Discretas
 - Variáveis quantitativas discretas representam valores em que há descontinuidade entre os resultados possíveis.
 
 Ex: Quantidade de pessoas por casa  
 Ex: Anos de vida
 
-#### Quantitativas Contínuas
+> #### Quantitativas Contínuas
 - Variáveis quantitativas contínuas representam valores que podem assumir qualquer valor dentro de uma reta de resultados possíveis.
 
 Ex: Peso da pessoa  
 Ex: altura da pessoa  
 
-> ### Variáveis Qualitativas
+> ### 2.2 Variáveis Qualitativas
 - São variáveis que expressam uma característica ou qualidade.
 - Tipos de variáveis quantitativas:
   - Nominais;
   - Ordinais.
 
-#### Qualitativas Nominais
+> #### Qualitativas Nominais
 - Variáveis qualitativas nominais representam características que não possuem ordem.
 
 Ex: Religião  
 Ex: Cor preferida  
 
-#### Qualitativas Ordinais
+> #### Qualitativas Ordinais
 - Variáveis qualitativas nominais representam características que possuem uma ordem ou hierarquia.
 
 Ex: escolaridade      
 Ex: patente      
 
-## Formas de Apresentação dos Dados
+## 3. Formas de Apresentação dos Dados
 
-> ### Dados Brutos
+> ### 3.1 Dados Brutos
 - O conjunto de dados sem nenhum tipo de organização.
 
 Ex: {1, 4, 1, 5, 2, 10, 9, 4, 6, 7}  
 
-> ### Rol
+> ### 3.2 Rol
 - É a organização do conjunto de dados brutos em ordem crescente ou decrescente.
 
 Ex: {1, 1, 2, 4, 4, 5, 6, 7, 9, 10}  
@@ -77,7 +76,7 @@ Ex:
 | 9     | 1          |
 | 10    | 1          |
 
-> ### Distribuição de Frequência
+> ### 3.3 Distribuição de Frequência
 - Representam os dados em classes de intervalos a partir da frequência dos dados existente no conjunto. 
 - Os dados pertencerão a classe da qual ele estiver entre os intervalos da classe.
 - Os intervalos da classe são os seus limites e podem ou não fazer parte da classe.

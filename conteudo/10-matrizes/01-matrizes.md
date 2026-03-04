@@ -1,6 +1,6 @@
 # Matrizes
 
-## Definição
+> ## 1. Definição
 - É uma tabela de elementos dispostos, ordenadamente, em linhas e colunas. Ou, denominase matriz m X n (lê-se m por n) uma tabela retangular formada por m.n números reais, dispostos em **m** linhas e **n** colunas.
 - Uma matriz é um conjunto de números organizados em forma tabela, ou seja, em linhas e colunas que se relacionam. 
 - Cada número em uma matriz é chamado de elemento da matriz ou simplesmente elemento.
@@ -15,7 +15,7 @@
 |---|---|---|
 | 4 | 5 | 6 |
 
-> ### Representação Algébrica de uma Matriz ou Matriz Genérica
+> ### 1.1 Representação Algébrica de uma Matriz ou Matriz Genérica
 - Uma matriz genérica é aquela que não possui números específicos. Sendo representada por elementos de forma simbólica. Essa é a representação algébrica de uma matriz
 - Sua representação é definida por uma letra maiúscula que representa a matriz e cada elemento é representado pela mesma letra em forma minúscula acompanhada da sua posição na matriz seguida de **i** e **j**. O **i** representa a linha que o elemento pertence e o **j** representa a coluna que o elemento pertence.
 - Representação:
@@ -26,13 +26,14 @@
 | a21 | a22 | a2n |
 | am1 | am2 | amn |
 
-> ### Lei de Formação de uma Matriz
+> ### 1.2 Lei de Formação de uma Matriz
 - A lei de formação define o valor de cada elemento a<sub>ij</sub> em função dos seus índices **i** e **j**.
 - Para calcular o elemento a<sub>ij</sub>, basta substituir os valores de i e j na lei de formação.
 - É uma ferramenta útil para encontrar os elementos de uma matriz, especialmente quando se trata de matrizes com grande número de elementos. 
 - É importante lembrar que a lei de formação deve ser específica para a matriz em questão.
 
 Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> = 3i-j.
+
 1. A = [ a11 a12; a21 a22; a31 a32]
 2. a11 = 3.1 - 1 = 3 - 1 = 2
 3. a12 = 3.1 - 2 = 3 - 2 = 1
@@ -48,9 +49,9 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 | 5 | 4 |
 | 8 | 7 |
 
-> ### Tipos de Matrizes
+> ### 1.3 Tipos de Matrizes
 
-#### Matriz Quadrada
+> #### Matriz Quadrada
 - Possui o mesmo número de linhas e colunas, formando um quadrado.
 - Os elementos a<sub>ij</sub> de uma matriz quadrada, em que i = j, formam uma diagonal denominada diagonal principal. A outra diagonal é chamada diagonal secundária.
 - Por exemplo, uma matriz 3x3 é uma matriz quadrada de ordem 3.
@@ -64,7 +65,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
     <img align="left" height="120" width="220" alt="TypeScript" src="./../../img/matriz-quadrada.png">
 </div><br><br><br><br><br><br>
 
-#### Matriz Retangular
+> #### Matriz Retangular
 - O número de linhas é diferente do número de colunas. 
 - Por exemplo, uma matriz 2x3 tem duas linhas e três colunas.
 
@@ -72,14 +73,14 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 |---|---|---|
 | 5 | 4 | 0 |
 
-#### Matriz Linha
+> #### Matriz Linha
 - Tem apenas uma linha e múltiplas colunas. 
 - Por exemplo, uma matriz 1x3 possui uma linha e três colunas.
 
 | 2 | 1 | 3 |
 |---|---|---|
 
-#### Matriz Coluna
+> #### Matriz Coluna
 - Possui apenas uma coluna e múltiplas linhas. 
 - Por exemplo, uma matriz 3x1 tem três linhas e uma coluna.
 
@@ -88,7 +89,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 | 5 |
 | 8 |
 
-#### Matriz Diagonal
+> #### Matriz Diagonal
 - Todos os elementos fora da diagonal principal são iguais a zero. 
 - É importante observar os elementos fora dessa diagonal para determinar se uma matriz é diagonal.
 
@@ -97,7 +98,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 | 0 | 4 | 0 |
 | 0 | 0 | 9 |
 
-#### Matriz Transposta
+> #### Matriz Transposta
 - É a matriz, obtida de **A** transformando suas **m** linhas em colunas ou de modo equivalente, suas **n** colunas em linhas.
 - Representação:
 - A<sup>t</sup>
@@ -111,7 +112,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 | 3 | 8 |
 | 4 | 9 |
 
-#### Matriz Ortogonal
+> #### Matriz Ortogonal
 - Uma matriz quadrada é ortogonal quando a sua transposta coincide com a sua inversa.
 - Representação:
 - A = A<sup>-1</sup>
@@ -120,7 +121,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 |---|---|
 | 0 | -1|
 
-#### Matriz Simétrica
+> #### Matriz Simétrica
 - Uma matriz é simétrica se coincidir com a sua transposta.
 - Representação:
 - A = A<sup>t</sup>
@@ -129,7 +130,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 |---|---|
 | 7 | 4 |
 
-#### Matriz Unidade ou Identidade
+> #### Matriz Unidade ou Identidade
 - É uma matriz diagonal, com os elementos da diagonal principal iguais a 1.
 
 | 1 | 0 | 0 |
@@ -137,7 +138,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 | 0 | 1 | 0 |
 | 0 | 0 | 1 |
 
-#### Matriz Triangular Superior
+> #### Matriz Triangular Superior
 - Possui todos os elementos acima da diagonal principal iguais a zero.
 
 | 4 | 0 | 0 |
@@ -145,7 +146,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 | 5 | 7 | 0 |
 | 3 | 1 | 2 |
 
-#### Matriz Triangular Inferior
+> #### Matriz Triangular Inferior
 - Tem todos os elementos abaixo da diagonal principal iguais a zero.
 
 | 3 | 9 | 1 |
@@ -153,14 +154,14 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 | 0 | 6 | 2 |
 | 0 | 0 | 5 |
 
-#### Matriz Nula
+> #### Matriz Nula
 - Possui todos os elementos iguais a zero.
 
 | 0 | 0 |
 |---|---|
 | 0 | 0 |
 
-#### Matriz Oposta
+> #### Matriz Oposta
 - A matriz oposta a matriz **A** é aquela que possui elementos correspondentes opostos aos da matriz **A**. 
 
 | 6 | 5 |
@@ -171,7 +172,7 @@ Ex: Achar os elementos da matriz A = (a<sub>ij</sub>)3x2, em que a<sub>ij</sub> 
 |---|---|
 |-2 | -9|
 
-> ### Igualdade de Matrizes
+> ### 1.4 Igualdade de Matrizes
 - Para que duas ou mais matrizes sejam consideradas iguais elas devem obedecer a
 algumas regras:
   - 1ª)Devem ter a mesma ordem, ou seja, o mesmo número de linhas e o mesmo número de colunas.
@@ -191,7 +192,7 @@ B:
 |---|---|
 | 8 | 4 |
 
-> ### Traço de uma Matriz
+> ### 1.5 Traço de uma Matriz
 - O traço de uma matriz é a soma dos elementos de sua diagonal principal. 
 - Esse conceito é relevante em questões que envolvem matrizes. O traço só pode ser calculado em matrizes quadradas, pois apenas elas possuem diagonal principal. 
 - Para calcular o traço, basta somar os elementos dessa diagonal. 

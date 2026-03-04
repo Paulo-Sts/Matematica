@@ -1,12 +1,12 @@
 # Sistemas de Amortização Americano
 
-## Definição
+> ## 1. Definição
 - Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
 - Representação:
   - Prestação = amortização + juros
 - No Sistema de Amortização Americano o principal é restituído por meio de uma parcela única ao fim da operação, já os juros são pagos periodicamente.
 
-> ### Fórmula dos juros calculados
+> ### 1.1 Fórmula dos Juros Calculados
 - É o cálculo dos juros após o pagamento de cada prestação.
 - Representação:
   - J = sd . i
@@ -29,6 +29,6 @@ juros = 18% a.m
 | 3            | 180,00              | -               | 180,00    | 1.000,00          |
 | 4            | 1.180,00            | 1.000,00        | 180,00    | 0                 | 
 
-1. Montar fórmula => J = sd .1 => J = 1000 . 18/100 = 180
-2. Multiplicar e dividir => J = 1000 . 18/100 => J = 18000/100 => J = 180
+1. Montar fórmula ⟶ J = sd .1 ⟶ J = 1000 . 18/100 = 180
+2. Multiplicar e dividir ⟶ J = 1000 . 18/100 ⟶ J = 18000/100 ⟶ J = 180
 3. Resposta: Serão pagos juros = R$ 180,00

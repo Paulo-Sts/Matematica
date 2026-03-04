@@ -1,6 +1,6 @@
 # Moda e Mediana
 
-### Moda
+> ## 1. Moda
 - É o valor mais frequente em um conjunto de dados.
 - Quando existem dois valores com frequências iguais, os dois são a moda, logo o conjunto é bimodal.
 - Conjunto trimodal é o conjunto que apresenta três modas. Também pode ser chamado de conjunto multimodal.
@@ -13,7 +13,7 @@ Exemplo: Existe algum elemento dentro deste rol que aparece mais vezes que os de
 1. O elemento 3 aparece mais vezes no conjunto.
 2. Mo = 3
 
-## Mediana
+> ## 2. Mediana
 - A Mediana é o elemento que está no meio do conjunto, dividindo-o em duas partes iguais.
 - Para conjuntos com um número par de elementos, a mediana é a média entre os dois valores do meio.
 - Representação:

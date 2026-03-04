@@ -1,6 +1,6 @@
 # Operações com Matrizes
 
-## Adição e Subtração de Matrizes
+> ## 1. Adição e Subtração de Matrizes
 - A adição ou a subtração de duas matrizes, A e B, do mesmo tipo é efetuada somando-se ou subtraindo-se os seus elementos correspondentes.
 - Representação:
   - C = A + B → cij = aij + bij
@@ -20,7 +20,7 @@ Ex: A = [1 2; 2 4; 5 6], B = [4 5; 3 7; 0 -1] A - B ?
 3. 5 6 - 0 -1 = 5 7
 4. C = [-3 -3; -1 -3; 5 7]
 
-#### Propriedades
+> #### Propriedades
 
 | PROPRIEDADE     | FÓRMULA                   |
 |:----------------|:--------------------------|
@@ -29,7 +29,7 @@ Ex: A = [1 2; 2 4; 5 6], B = [4 5; 3 7; 0 -1] A - B ?
 | Elemento Neutro | A + 0 = A                 |
 | Elemento Oposto | A + (-A) = 0              |
 
-## Multiplicação Escalar
+> ## 2. Multiplicação Escalar
 - Multiplicação escalar refere-se ao produto de um número real com uma matriz. Ao se trabalhar com matrizes os números reais são chamados de escalares.
 - Em multiplicações escalares, cada elemento da matriz é multiplicado pelo escalar determinado.
 
@@ -41,7 +41,7 @@ Ex: A = [9 4; 0 -1] 2A ?
 4. -2 . 2 = -2
 5. Resultado: A = [18 8; 0 -2]
 
-## Multiplicação de Matrizes
+> ## 3. Multiplicação de Matrizes
 - A multiplicação de matrizes corresponde ao produto entre duas matrizes. 
 - Na multiplicação de duas matrizes, **A** e **B**, o número de colunas de **A** deve ser igual ao número de linhas de **B**, se não forem iguais não é possível multiplicar as matrizes. O produto **AB** terá o mesmo número de linhas de A e o mesmo número de colunas de B.
 - Representação:

@@ -1,11 +1,11 @@
 # Inflação
 
-## Definição
+> ## 1. Definição
 - A inflação é o aumento do preço de produtos e serviços. É uma taxa calculada a partir de índices de preços, que mensuram o nível geral dos preços ao longo do tempo.
 - A inflação também pode ser entendida, como a perda de valor da moeda ao longo do tempo, sendo o seu aumento inversamente proporcional ao valor de compra da moeda.
 - O processo inverso a inflação, chama-se deflação e é entendida como a baixa generalizada dos preços de produtos e serviços, ou seja, é um processo de desaceleração econômica.
 
-> ### Índices de preços
+> ### 1.1 Índices de Preços
 - Índices de preços são análises estatísticas com base em variáveis, que determina uma média geral das variações dos preços em um conjunto de bens de acordo com suas quantidades. Os índides de preços são utilizados como referência para o cálculo inflacionário.
 - O índice de preços oficial é o IPCA, porém existem outros índices de inflação.
 - Índices de inflação:
@@ -18,9 +18,9 @@
   - IGP-M (variação dos preços do mercado, utilizado como referência em contratos de aluguel, seguro saúde e reajustes de tarifas públicas);
   - IPC-FIPE (variação de preços na cidade de São Paulo).
 
-> ### Cálculo da inflação
+> ### 1.2 Cálculo da Inflação
 
-#### Inflação de um período
+> #### Inflação de um Período
 - Cálcula a inflação de um determinado período.
 - Fórmula:
   - Inflação no período = (índice final/índice inicial) - 1  
@@ -32,12 +32,12 @@ Dados:
 índice inicial = 20  
 inflação no período = ?  
 
-1. Montar fórmula => (25/20) - 1
-2. Divisão => 25/20 = 1,25
-3. Subtração => 1,25 - 1 = 0,25
+1. Montar fórmula ⟶ (25/20) - 1
+2. Divisão ⟶ 25/20 = 1,25
+3. Subtração ⟶ 1,25 - 1 = 0,25
 4. Resposta: A inflação foi = 25%
 
-#### Taxa acumulada de inflação
+> #### Taxa Acumulada de Inflação
 - A inflação acumulada é o produto da inflação de cada período somado ao valor total em cada período, menos o valor total final.
 - Fórmula:
   - inflação acumulada = (1 + i1) . (1 + i2) ... (1 + in) - 1
@@ -53,14 +53,14 @@ inflação 2022 = 2% a.a
 inflação 2023 = 4% a.a  
 inflação acumulada = ?  
 
-1. Montar fórmula => inflação acumulada = (1 + 0,05) . (1 + 0,02) . (1 + 0,04) - 1
-2. Soma => (1 + 0,05) = (1,05) | (1 + 0,02) = (1,02) | (1 + 0,04) = (1,04)
-3. Multiplicação => 1,05 . 1,02 . 1,04 = 1,11384
-4. Subtração => 1,11384 - 1 = 0,11384
-5. Forma de porcentagem => 0,11384 . 100 = 11,384%
+1. Montar fórmula ⟶ inflação acumulada = (1 + 0,05) . (1 + 0,02) . (1 + 0,04) - 1
+2. Soma ⟶ (1 + 0,05) = (1,05) | (1 + 0,02) = (1,02) | (1 + 0,04) = (1,04)
+3. Multiplicação ⟶ 1,05 . 1,02 . 1,04 = 1,11384
+4. Subtração ⟶ 1,11384 - 1 = 0,11384
+5. Forma de porcentagem ⟶ 0,11384 . 100 = 11,384%
 6. Resposta: A inflação foi = 11,384%
 
-#### Desvalorização monetária
+> #### Desvalorização Monetária
 - Determina a diminuição do poder de compra da moeda de acordo com o índice de inflação.
 - Fórmula:
   - TDM = taxa inflacionária/(1 + taxa inflacionária)
@@ -71,8 +71,8 @@ Dados:
 inflação 2024 = 5% a.a  
 taxa de desvalorização da moeda = ?  
 
-1. Montar fórmula => TDM = 0,05/ 1 + 0,05
-2. Soma =>  1 + 0,05 = 1,05
-3. Divisão => 0,05/ 1,05 = 0,0476190476190476
-4. Forma de porcentagem => 0,0476190476190476 . 100 = 4,76190476190476%
+1. Montar fórmula ⟶ TDM = 0,05/ 1 + 0,05
+2. Soma ⟶ 1 + 0,05 = 1,05
+3. Divisão ⟶ 0,05/ 1,05 = 0,0476190476190476
+4. Forma de porcentagem ⟶ 0,0476190476190476 . 100 = 4,76190476190476%
 5. Resposta: A desvalorização da moeda foi aproximadamente = 4,8%

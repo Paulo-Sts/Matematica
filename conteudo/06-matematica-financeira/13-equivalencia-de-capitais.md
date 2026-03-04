@@ -1,14 +1,14 @@
 # Equivalência de Capitais
 
-## Definição
+> ## 1. Definição
 - Dois (ou mais) capitais, com datas de vencimento diferentes, são ditos capitais equivalentes quando, transportados para uma mesma data, a mesma taxa, produzirem, nessa data, valores iguais. A data para a qual os capitais serão transportados é chamada data focal.
 - A equivalência de capitais envolve operações de antecipação ou prorrogação de valores. Trata-se portanto do deslocamento dos juros de um valor futuro para um valor presente, ou de um valor presente para um valor futuro.
 - Esse processo transforma o valor dos juros a pagar ou receber originalmente em diferentes períodos e valores por juros equivalentes em um novo período definido comum a todos.
 - A equivalência de capitais se dá em regime simples e em regime composto.
 
-> ### Equivalência de capitais em regime simples
+> ### 1.1 Equivalência de Capitais em Regime Simples
 
-#### Postergação do valor
+> #### Postergação do Valor
 - Para avançar um valor para o futuro, o novo valor é será o produto do valor presente pela taxa equivalente.
 - Fórmula:
   - x = c.(1 + i.t)
@@ -17,7 +17,7 @@
   - i = taxa de juros
   - t = prazo
 
-#### Antecipação do valor
+> #### Antecipação do Valor
 - Para antecipar um valor futuro para o presente, o novo valor é a razão do valor presente pela taxa equivalente.
 - Fórmula:
   - x = c/(1 + i.t)
@@ -39,15 +39,15 @@ valor a antecipar de 9 para 6 meses (3 meses) = 4.600,00
 t = 6 meses  
 i = 5% a.m  
 
-1. Montar fórmula => x = 3000 . (1 + 0,05 . 2) + 4600/(1 + 0,05 . 3)
-2. Resolver parêntese => x = 3000 . (1 + 0,05 . 2) + 4600/(1 + 0,05 . 3) => x = 3000 . (1,1) + 4600/(1,15)
-3. Multiplicar e dividir => x = 3000 . (1,1) + 4600/(1,15) => x = 3300 + 4000
-4. Somar => x = 3300 + 4000 = 7300
+1. Montar fórmula ⟶ x = 3000 . (1 + 0,05 . 2) + 4600/(1 + 0,05 . 3)
+2. Resolver parêntese ⟶ x = 3000 . (1 + 0,05 . 2) + 4600/(1 + 0,05 . 3) ⟶ x = 3000 . (1,1) + 4600/(1,15)
+3. Multiplicar e dividir ⟶ x = 3000 . (1,1) + 4600/(1,15) ⟶ x = 3300 + 4000
+4. Somar ⟶ x = 3300 + 4000 = 7300
 5. Resposta: x = 7300
 
-> ### Equivalência de capitais em regime composto
+> ### 1.2 Equivalência de Capitais em Regime Composto
 
-#### Postergação do valor
+> #### Postergação do Valor
 - Para avançar um valor para o futuro, o novo valor é será o produto do valor presente pela taxa equivalente.
 - Fórmula:
   - x = c.(1 + i)<sup>t</sup>
@@ -56,7 +56,7 @@ i = 5% a.m
   - i = taxa de juros
   - t = prazo
 
-#### Antecipação do valor
+> #### Antecipação do Valor
 - Para antecipar um valor futuro para o presente, o novo valor é a razão do valor presente pela taxa equivalente.
 - Fórmula:
   - x = c/(1 + i)<sup>t</sup>
@@ -78,10 +78,10 @@ valor a antecipar de 4 para 3 meses (1 mês) = 2.000,00
 t = 3 meses  
 i = 2% a.m  
 
-1. Montar fórmula => x = 2000 . (1 + 0,02)<sup>2</sup> + 2000/(1 + 0,02)<sup>1</sup>
-2. Resolver potência e parêntese => x = 2000 . (1 + 0,02)<sup>2</sup> + 2000/(1 + 0,02)<sup>1</sup> => x = 2000 . (1,02)<sup>2</sup> + 2000/(1,02) => x = 2000 . 1,0404 + 2000/1,02
-3. Multiplicar e dividir => x = 2000 . 1,0404 + 2000/1,02 => x = 2.080,8 + 1960,78
-4. Somar => x = 2.080,8 + 1960,78
+1. Montar fórmula ⟶ x = 2000 . (1 + 0,02)<sup>2</sup> + 2000/(1 + 0,02)<sup>1</sup>
+2. Resolver potência e parêntese ⟶ x = 2000 . (1 + 0,02)<sup>2</sup> + 2000/(1 + 0,02)<sup>1</sup> ⟶ x = 2000 . (1,02)<sup>2</sup> + 2000/(1,02) ⟶ x = 2000 . 1,0404 + 2000/1,02
+3. Multiplicar e dividir ⟶ x = 2000 . 1,0404 + 2000/1,02 ⟶ x = 2.080,8 + 1960,78
+4. Somar ⟶ x = 2.080,8 + 1960,78
 5. Resposta: x = 4041,58
 
-**DICA:** Construir o diagrama de fluxo de caixa auxilia a visualizar o novo prazo comum.
+> [!TIP] DICA: Construir o diagrama de fluxo de caixa auxilia a visualizar o novo prazo comum.
