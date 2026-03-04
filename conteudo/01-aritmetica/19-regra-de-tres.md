@@ -11,7 +11,6 @@
 4. Para regra de três inversa, multiplica-se de forma horizontal.
 5. Isola-se a icógnita dividindo os outros valores, para encontrar o seu valor.
 
-```
 Ex: Um carro percorre 10 metros em 30 segundos, em quanto tempo percorrerá 200 metros?  
 
 1. Montar a proporção: 10/200 = 30/x 
@@ -27,7 +26,6 @@ Ex: 5 máquinas cortam a grama em 120 minutos, 12 máquinas cortaram em quanto?
 3. Multiplicar na horizontal: 5 . 120 = 12 . x ⟶ 12x = 600 
 4. Isolar a icógnita: x = 600/12 ⟶ x = 50
 5. Resposta: As 12 máquinas vão cortar a grama em 50 minutos
-```
 
 > ## 2. Regra de Três Composta
 - É um processo para resolução de problemas envolvendo três ou mais grandezas, em que a proporção que as forma possui um dos valores desconhecido.
@@ -41,7 +39,6 @@ Ex: 5 máquinas cortam a grama em 120 minutos, 12 máquinas cortaram em quanto?
 5. Igualar as duas multiplicações.
 6. Isolar a icógnita dividindo os outros valores, para encontrar o seu valor.
 
-```
 Ex: Numa fábrica 3 impressoras imprimem 240 mil folhas em 4 dias, trabalhando 10 horas por dia. 
 Com uma impressoa a menos quantas horas por dias de trabalho serão necessários para se imprimir 480 mil folhas em 6 dias?
 
@@ -54,15 +51,12 @@ Com uma impressoa a menos quantas horas por dias de trabalho serão necessários
 | 2          | 6         | x         | 480.000 |
 
 2. Identificar com a reta em x as grandezas
-```
 <br>
 
 <div style="display:inline_block">
     <img align="left" height="150" width="405" src="../../img/regra-de-tres-composta.png">
 </div>
 
-```
 1. Multiplicar as grandezas em seus respectivos membros: 3 . 4 . 10 . 480000 = 2 . 6 . x . 240000 ⟶ 57.600.000 = 2.880.000x
 2. Isolar a icógnita e encontrar o seu valor: x = 57.600.000/2.880.000 ⟶ x = 20
 3. Resposta: Serão necessárias 20 horas por dia de trabalho das impressoras 
-```

@@ -8,9 +8,7 @@
 - Representação do sistema decimal:
   - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
-```
 Ex: 1111 ⟶ 1 unidade, ⟶ 1 dezena, ⟶ 1 centena, ⟶ 1 milhar
-```
 
 > ### 1.1 Classes e Ordens
 - Todo número inteiro é subdivivido em classes e cada classe possui três ordens.
@@ -24,6 +22,4 @@ Ex: 1111 ⟶ 1 unidade, ⟶ 1 dezena, ⟶ 1 centena, ⟶ 1 milhar
   - Dezena;
   - Centena.
 
-```
 Ex: 84.506
-```

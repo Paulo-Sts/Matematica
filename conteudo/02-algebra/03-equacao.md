@@ -8,18 +8,15 @@
 > #### Raízes da equação
 - A raíz de uma equação é o valor que ao substituir as variáveis da equação a tornam verdadeira, formando o seu conjunto solução.
 
-```
 Ex: 2x = 10
 
 1. x = 10/2
 2. x = 5
 3. Resposta: A raíz da equação é S = {5}
-```
 
 #### Equações Equivalentes
 - São equações que possuem o mesmo conjunto solução.
 
-```
 Ex: 2x = 8
 
 1. x = 8/2
@@ -33,4 +30,3 @@ Ex: 3x + 4 = 16
 3. x = 12/3
 4. x = 4
 5. Resposta: A raíz da equação é S = {4}
-```

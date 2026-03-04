@@ -15,7 +15,6 @@
 7. Multiplica-se os quocientes da decomposição (números primos) em que foi possível dividir todos os números ao mesmo tempo.
 8. O resultado da multiplicação é o MDC.
 
-```
 Ex: MDC de 30 e 12 = 6
 
 1. Dividir por 2: 30 : 2 = 15, 12 : 2 = 6 (divisor comum)
@@ -24,32 +23,25 @@ Ex: MDC de 30 e 12 = 6
 4. Divide-se agora por 5: 5 : 5 = 1, 1 : 5 repete-se o 1
 5. O produto dos divisores comuns: 2 . 3 = 6
 6. Resposta: 6
-```
 
 > ### 1.1 Propriedades do MDC
 
 > #### MDC entre Números Consecutivos
 - Entre dois números consecutivos o MDC entre eles sempre será 1, pois eles são primos entre si.
 
-```
 Ex: MDC(11, 10) = 1  
-```
 
 > #### MDC entre Divisores
 - O MDC entre dois ou mais números em que um deles é divisor dos demais, o MDC será esse número.
 
-```
 Ex: MDC(5, 10, 20) = 5  
-```
 
 > #### Relação MDC e MMC
 - O produto entre o MDC e o MMC de dois números é igual ao produto desses dois números. 
 - Representação da relação:
   - MDC(a, b) x MMC(a, b) = a x b
 
-```
 Ex: MDC(10, 2) = 10 e MMC(10, 2) = 2 ⟶ 10 x 2 = 10 x 2  
-```
 
 > [!TIP] DICA: Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
 

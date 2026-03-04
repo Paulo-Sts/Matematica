@@ -41,10 +41,8 @@
 - Representação:
   - |Z| = x
 
-```
 Ex: |3| = 3  
 Ex: |-10| = 10
-```
 
 > ## 3. Números Racionais
 - O conjunto dos números racionais, é formado por todos os números que podem ser escritos em forma de fração, tanto positivos como negativos.
@@ -59,14 +57,12 @@ Ex: |-10| = 10
 - Um número racional é a representação de uma parte do todo.
 - O inverso de um número racional **a/b** é o número racional **b/a**. Sendo o produto entre ele e o seu inverso igual a um.
 
-```
 Ex: 4 = 8/2  
 Ex: 0 = 0/3  
 Ex: 25% = 25/100  
 Ex: 0,5 = 5/10 = 1/2  
 Ex: -6 = -12/2  
 Ex: -4/3 é o inverso de -3/4  
-```
 
 > ## 4. Números Irracionais
 - O conjunto dos números irracionais, é formado por números decimais não exatos que possuem representação infinita e não periódica (sem período de repetição), não podendo ser representados por meio de frações irredutíveis.
@@ -77,10 +73,8 @@ Ex: -4/3 é o inverso de -3/4
 > #### Propriedades
 - Os números irracionais podem ser algébricos ou transcendentes. Algébrico é aquele que satisfaz uma equação algébrica, todo que não satisfazer é um irracional transcendente.
 
-```
 Ex: 1,41413...  
 Ex: 3,141592...
-```
 
 > ## 5. Números Reais
 - O conjunto dos números reais é formado pelo conjunto dos números racionais e irracionais.
@@ -108,7 +102,6 @@ Ex: 3,141592...
 - ]a,+∞[ ou (a,+∞) = {x ∈ R | x > a}
 - ]-∞,+∞[ ou (-∞,+∞) = R
 
-```
 Ex: S = {x ∈ R | 10 < x < 25}  
 
 1. ]10, 25[
@@ -116,7 +109,6 @@ Ex: S = {x ∈ R | 10 < x < 25}
 Ex: S = {x ∈ R | -4 ≤ x < 16}  
 
 1. [-4, 16[
-```
 
 > #### Representação Geométrica
 

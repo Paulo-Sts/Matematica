@@ -30,10 +30,8 @@
 - Representação:
   - (a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3
 
-```
 Ex: Qual a solução adequada ao produto notável (x – 3)^2.
 
 1. (x – 3)^2 = (x – 3) . (x – 3)
 2. x^2 - 3x - 3x + 3^2
 3. x^2 - 6x + 3^2
-```

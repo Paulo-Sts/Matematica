@@ -11,10 +11,8 @@
 - Representação do conjunto de números primos:
   - P = {2, 3, 5, 7, 11, ...}
 
-```
 Ex: 4 = 2 + 2  
 Ex: 18 = 11 + 7 
-```
 
 > [!TIP] DICA: Para descobrir se um número é primo, basta dividi-lo pelos números primos antecedentes ao número primo que possui raíz quadrada maior que o número que se quer descobrir se é primo ou composto, se a divisão for exata ele não é primo.
 
@@ -28,7 +26,6 @@ Ex: 18 = 11 + 7
 - Representação da decomposição:
   - **n** : **p** = **a** tal que reste 1, onde p = {2, 3, 5, 7, 11, ...} e **a** = produto entre os elementos de **p**.
 
-```
 Ex: Decomposição de 30 = 2 . 3 . 5
 
 1. Dividir por 2: 30 : 2 = 15
@@ -36,4 +33,3 @@ Ex: Decomposição de 30 = 2 . 3 . 5
 3. Divide-se agora por 5: 5 : 5 = 1
 4. O produto dos quocientes é o resultado = 2 . 3 . 5 
 5. Resposta: 2 . 3 . 5
-```

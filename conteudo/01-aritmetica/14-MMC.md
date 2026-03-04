@@ -15,7 +15,6 @@
 7. Multiplica-se os quocientes da decomposição (números primos).
 8. O resultado da multiplicação é o MMC.
 
-```
 Ex: MMC de 30 e 14 = 210
 
 1. Dividir por 2: 30 : 2 = 15, 14 : 2 = 7
@@ -24,25 +23,20 @@ Ex: MMC de 30 e 14 = 210
 4. Divide-se agora por 7: 1 : 7 = repete-se o 1, 7 : 7 = 1
 5. O produto dos quocientes é o resultado: 2 . 3 . 5 . 7 = 210
 6. Resposta: 210
-```
 
 > ### 1.1 Propriedades do MMC
 
 > #### MMC entre números primos
 - O MMC de dois ou mais números primos, será o produto entre esses números.
 
-```
 Ex: MMC(2, 11) = 22  
 Ex: MMC(2, 5) = 10  
-```
 
 > #### MMC entre múltiplos
 - O MMC entre dois números, em que o maior é múltiplo do menor, será o número maior.
 
-```
 Ex: MMC(10, 2) = 10    
 Ex: MMC(6, 3) = 6    
-```
 
 > [!TIP] DICA: Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
 
@@ -51,6 +45,4 @@ Ex: MMC(6, 3) = 6
 - Representação da relação:
   - MDC(a, b) x MMC(a, b) = a x b
 
-```
 Ex: MDC(10, 2) = 10 e MMC(10, 2) = 2 ⟶ 10 x 2 = 10 x 2  
-```

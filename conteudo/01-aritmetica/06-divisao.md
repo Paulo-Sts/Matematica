@@ -23,7 +23,6 @@
 8. Se o valor for igual ao dividendo e não houver mais algarismos a serem divididos, finaliza-se a operação. Se existir um ou mais algarismos 0 no dividendo adiciona-se esses zeros ao quociente e finaliza-se a divisão.
 9.  O valor encontrado no quociente, será o resultado.
 
-```
 Ex: 232 : 8 = 29
 
 1. Divisão do dividendo, o separando em uma parte menor: 23'2
@@ -36,7 +35,6 @@ Ex: 232 : 8 = 29
 8. Subtração do dividendo pelo resultado da multiplicação: 72 - 72 = 0
 9. Como não há mais algarismos a dividir, finaliza-se a divisão
 10. Resposta: 29
-```
 
 > ### 1.1 Propriedades da Divisão
 
@@ -45,30 +43,24 @@ Ex: 232 : 8 = 29
 - Representação:
   - a : b ≠ b : a
 
-```
 Ex: 10 : 5 = 2   
 Ex: 5 : 10 = 0.5
-```
 
 > #### Não Associativa
 - A associação (divisão parcial) entre diferentes elementos de uma divisão para simplificar o cálculo, geram resultados diferentes.
 - Representação:
   - (a : b) : c ≠ a : (b : c)
 
-```
 Ex: (12 : 2) : 2 = 3     
 Ex: 12 : (2 : 2) =  12     
-```
 
 > #### Igualdade de Múltiplos
 - O quociente da divisão é o mesmo para os múltiplos comuns do dividendo e do divisor.
 - Representação:
   - a : b = (a x c) : (b x c)
 
-```
 Ex: 4 : 2 = 2  
 Ex: 4 x 3 : 2 x 3 = 2   
-```
 
 > #### Elemento Neutro
 - Em um divisão o quociente de uma divisão por 1 é sempre o valor do dividendo. E quando o dividendo e o divisor forem iguais o quociente sempre será 1.
@@ -76,10 +68,8 @@ Ex: 4 x 3 : 2 x 3 = 2
   - a : 1 = a
   - a : a = 1
 
-```
 Ex: 35 : 1 = 35  
 Ex: 69 : 69 = 1  
-```
 
 > #### Elemento Zero
 - Quando o zero for o dividendo de uma divisão o resultado sempre será zero. Quando se trata da divisão de um valor por zero, essa divisão não existe (indeterminado).
@@ -87,43 +77,34 @@ Ex: 69 : 69 = 1
   - 0 : a = 0
   - a : 0 = ? (não existe)
 
-```
 Ex: 0 : 4 = 0  
 Ex: 3 : 0 = ?  
-```
 
 > ### 1.2 Regra dos Sinais na Divisão
 
 > #### Sinais Iguais
 - A divisão de dois números com o mesmo sinal, sempre resulta em um número positivo.
 
-```
 Ex: 10 : 2 = 5  
 Ex: -4 : (-2) = 2
-```
 
 > #### Sinais Diferentes
 - A divisão de dois números com o sinais diferentes, sempre resulta em um número negativo.
 
-```
 Ex: -20 : 4 = -5  
 Ex: 10 : (-5) = -2  
-```
 
 > [!TIP] DICA: Para divisões em que o dividendo é menor que o divisor, adiciona-se um zero ao dividendo e um zero e vírgula ao quociente, se ainda não for possível dividir, adiciona-se zero ao dividendo e zero no quociente. Esse procedimento pode ser feito até que o dividendo possa ser dividido pelo divisor.
 
-```
 Ex: 20 : 500 = 0,04
 
 1. Adiciona-se um zero ao dividendo e ao quociente um zero e vírgula: 200 : 500 | 0, (quociente)
 2. Adiciona-se um zero ao dividendo e ao quociente: 2000 : 500 | 0,0 (quociente)
 3. Multiplica-se o divisor por quatro: 2000 : 500 ⟶ 500 . 4 = 2000 ⟶ 2000 - 2000 = 0 | 0,04 (quociente)
 4. Resposta: 0,04
-```
 
 > [!TIP] DICA: Quando ao descer um número na divisão e ele for menor que o divisor, multiplica-se o divisor por zero e adiciona zero ao quociente e subtrai o valor do dividendo por zero, para que ele se transforme em resto e seja possível adicionar zero a ele. 
 
-```
 Ex: 618 : 60 = 10,3
 
 1. Separa o 61 para ser dividido: 61'8 : 60 ⟶ 61 : 60 ⟶ 60 . 1 = 60 ⟶ 61 - 60 = 1 | 1 (quociente)
@@ -132,4 +113,3 @@ Ex: 618 : 60 = 10,3
 4. Adiciona zero ao resto e vírgula ao quociente: 180 : 60 | 10, (quociente)
 5. Multiplica o divisor por 3: 60 . 3 = 180 ⟶ 180 - 180 = 0 | 10,3 (quociente)
 6. Resposta: 10,3
-```

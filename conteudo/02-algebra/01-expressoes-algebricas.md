@@ -13,15 +13,12 @@
 > #### Termos Semelhantes
 - Termos ou elementos semelhantes, são aqueles que possuem a mesma variável, independente do seu coeficiente.
 
-```
 Ex: 2x + 3x + y = 5x + y (2x e 3x são termos semelhantes)  
-```
 
 > #### Valor Numérico da Expressão Algébrica
 - O valor numérico de uma expressão algébrica, é o valor resultante, dado a atribuição de um valor específico para a variável da expressão. 
 - Quando se atribui um valor a variável, a expressão algébrica se transforma em uma expressão numérica.
 
-```
 Ex: 2x + 3 - 1  
 
 x = 2
@@ -33,4 +30,3 @@ x = 10
 1. Substituir a variável por 2: 2x + 3 - 1 =  2.10 + 3 - 1
 2. Calcular a expressão numérica: 2.10 + 3 - 1 = 20 + 3 - 1 = 23 - 1 = 22
 3. Resposta: Para x = 10, o valor numérico da expressão é = 22
-```

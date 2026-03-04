@@ -10,7 +10,6 @@
 3. Multiplicação e divisão na ordem que aparecem, da esquerda para a direita;
 4. Soma e subtração na ordem que aparecem, da esquerda para a direita.
 
-```
 Ex: (25 x 2 + 10) : 20 - 1
 
 1. Calcular operação de multiplicação dentreo do parêntese, por ter maior prioridade: 25 x 2 = 50 e repete-se as demais (+10) : 20 - 1
@@ -18,16 +17,13 @@ Ex: (25 x 2 + 10) : 20 - 1
 3. Calcular operação de divisão: 60 : 20 = 3 e repete-se as demais - 1
 4. Calcular operação de subtração: 3 - 1 = 2
 5. Resposta: 2
-```
 
 > #### Relação entre sinais antes dos Parenteses, Colchetes ou Chaves
 - É como se fosse multiplicado por 1 ou -1.
 - Para sinal positivo, mantém-se os sinais.
 - Para sinal negativo, inverte-se os sinais.
 
-```
 Ex: 2 - (2 + 3) = -3 
 
 1. 2 -1 . (2 + 3) ⟶ -1 . 2 = -2 e -1 . 3 = -3  
 2. 2 - 2 - 3 = -3
-```

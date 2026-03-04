@@ -22,7 +22,6 @@
 > #### Equivalência de Equações
 - Duas equações, são equivalentes quando possuem o mesmo conjunto solução.
 
-```
 Ex: 2x = 8 
 
 1. x = 8/2 
@@ -36,7 +35,6 @@ Ex: 3x + 4 = 16
 3. x = 12/3 
 4. x = 4  
 5. conjunto solução: S = {4}
-```
 
 > #### Regras de Transição dos Termos entre Membros
 - Se o termo está somando, ao trocar de membro passa a subtrair.
@@ -47,10 +45,8 @@ Ex: 3x + 4 = 16
 > #### Conjunto Verdade não Correspondente
 - Para determinado conjunto universo em que se expressa o conjunto verdade da equação, caso não se tenha solução correspondente o cojunto solução da equação é o conjunto vazio.
 
-```
 Ex: 2x + 5 = x + 2  em que x ∈ U = N  
 
 1. 2x - x = 2 - 5  
 2. x = -3
 3. S = {} ou ∅
-```

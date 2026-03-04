@@ -19,7 +19,6 @@
 5. Após multiplicar todos os algarismos do segundo fator, pelos algarismos do primeiro fator realiza-se a adição dos resultados.
 6. O resultado da adição é o produto.
 
-```
 Ex: 25 x 42 = 1050   
 
 1. Multiplicação do primeiro algarismo do segundo fator na ordem das unidades: 5 x 2 = 10
@@ -32,7 +31,6 @@ Ex: 25 x 42 = 1050
 8. Resultado da multiplicação do segundo algarismo do segundo fator: 100
 9. Adição do resultado das duas multiplicações (respeitando a ordem das posições dos algarismos da multiplicação): 50 + 100 = 1050 (050 + 1000)
 10. Resposta: 1050
-```
 
 > ### 1.1 Propriedades da Multiplicação
 
@@ -41,73 +39,57 @@ Ex: 25 x 42 = 1050
 - Representação:
   - a x (b + c) = a x b + a x c
 
-```
 Ex: 2 x (4 + 5) = 2 x 4 + 2 x 5 
-```
 
 > #### Comutativa
 - A ordenação dos elementos de uma multiplicação não altera o seu resultado.
 - Representação:
   - a x b = b x a
 
-```
 Ex: 2 x 4 = 8  
 Ex: 4 x 2 = 8  
-```
 
 > #### Associativa
 - A associação (multiplicação parcial) entre diferentes fatores de uma multiplicação para simplificar o cálculo, não interferem no resultado.
 - Representação:
   - (a x b) x c = a x (b x c)
 
-```
 Ex: (2 x 5) x 4  =  2 x (4 x 5)   
-```
 
 > #### Elemento Neutro
 - O um é o elemento neutro de uma multiplicação, dessa forma todo número multiplicado por um é igual ao próprio número.
 - Representação:
   - a x 1 = a
 
-```
 Ex: 10 x 1 = 10  
 Ex: 1 x 4 = 4  
-```
 
 > #### Elemento Zero
 - Em uma multiplicação, todo número multiplicado por zero é igual a zero.
 - Representação:
   - a x 0 = 0
 
-```
 Ex: 10 x 0 = 0  
 Ex: 0 x 7 = 0  
-```
 
 > #### Elemento Inverso
 - O inverso de um número é o número que por ele multiplicado resulta em um.
 - Representação:
   - a x 1/a = a/a = 1
 
-```
 Ex: 10 x 1/10 = 10/10 = 1    
 Ex: 3 x 1/3 = 3/3 = 1    
-```
 
 > ### 1.2 Regra dos Sinais na Multiplicação
 
 > #### Sinais Iguais
 - A multiplicação de dois números com o mesmo sinal, sempre resulta em um número positivo.
 
-```
 Ex: 10 x 7 = 70  
 Ex: -4 x (-5) = 20
-```
 
 > #### Sinais Diferentes
 - A multiplicação de dois números com o sinais diferentes, sempre resulta em um número negativo.
 
-```
 Ex: -2 x 7 = -14  
 Ex: 1 x (-25) = -25
-```
