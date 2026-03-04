@@ -12,10 +12,11 @@
 
 ```
 Ex: (25 x 2 + 10) : 20 - 1
-1. Calcular operação de multiplicação dentreo do parêntese, por ter maior prioridade => 25 x 2 = 50 e repete-se as demais (+10) : 20 - 1
-2. Calcular operação de adição dentro do parêntese para elimina-lo => (50 + 10) e repete-se as demais : 20 - 1
-3. Calcular operação de divisão => 60 : 20 = 3 e repete-se as demais - 1
-4. Calcular operação de subtração => 3 - 1 = 2
+
+1. Calcular operação de multiplicação dentreo do parêntese, por ter maior prioridade: 25 x 2 = 50 e repete-se as demais (+10) : 20 - 1
+2. Calcular operação de adição dentro do parêntese para elimina-lo: (50 + 10) e repete-se as demais : 20 - 1
+3. Calcular operação de divisão: 60 : 20 = 3 e repete-se as demais - 1
+4. Calcular operação de subtração: 3 - 1 = 2
 5. Resposta: 2
 ```
 
@@ -25,7 +26,8 @@ Ex: (25 x 2 + 10) : 20 - 1
 - Para sinal negativo, inverte-se os sinais.
 
 ```
-Ex: 2 - (2 + 3) = -3  
-2 -1 . (2 + 3) => -1 . 2 = -2 e -1 . 3 = -3  
-2 - 2 - 3 = -3
+Ex: 2 - (2 + 3) = -3 
+
+1. 2 -1 . (2 + 3) ⟶ -1 . 2 = -2 e -1 . 3 = -3  
+2. 2 - 2 - 3 = -3
 ```

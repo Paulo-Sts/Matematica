@@ -1,6 +1,6 @@
 # Subtração
 
-## 1. Definição
+> ## 1. Definição
 - A subtração é a retirada (descréscimo) de uma parte (um menor valor) de algo (um todo, um maior valor), sendo a operação matemática inversa a adição.
 - O simbolo **-** (menos) representa a operação de subtração.
 - Os termos da subtração são o **minuendo** (a quantidade original) e o **subtraendo** (a parte a ser retirada).
@@ -20,7 +20,8 @@
 6. Após a retirada de todos os valores de acordo com sua ordem o resultado é a diferença. 
 
 ```
-Ex: 78 - 29 = 49   
+Ex: 78 - 29 = 49  
+
 1. Subtração na ordem das unidades (minuendo é menor): 8 - 9
 2. Pega-se emprestado (ordem das dezenas): 70 - 10 = 60  
 3. Adiciona o valor emprestado (ordem das unidades): 10 + 8 = 18
@@ -33,6 +34,7 @@ Ex: 78 - 29 = 49
 
 ```
 Ex: 27 - 18 = 9 
+
 1. Calcula a casa decimal mais próxima de 18: 20
 2. Pega-se a diferença: 20 - 18 = 2
 3. Soma-se o 2 ao minuendo e ao subtraendo: 27 + 2 | 18 + 2 

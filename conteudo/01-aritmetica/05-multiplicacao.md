@@ -1,6 +1,6 @@
 # Multiplicação
 
-## 1. Definição
+> ## 1. Definição
 - A multiplicação é a expressão do aumento das quantidades de um determinado valor, sendo uma forma simplificada de calcular a adição.
 - Os simbolos **x**, **\*** e **.** (vezes) representa a operação de multiplicação.
 - Cada termo da multiplicação é chamado de **fator**
@@ -21,6 +21,7 @@
 
 ```
 Ex: 25 x 42 = 1050   
+
 1. Multiplicação do primeiro algarismo do segundo fator na ordem das unidades: 5 x 2 = 10
 2. Reagrupa-se o excedente para a ordem das dezenas: fica o 0 e vai 1 
 3. Multiplicação do primeiro algarismo do segundo fator na ordem das dezenas e adição do excedente: 2 x 2 = 4 + 1 = 5

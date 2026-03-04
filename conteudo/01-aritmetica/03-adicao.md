@@ -18,6 +18,7 @@
 
 ```
 Ex: 35 + 66 = 101  
+
 1. Adição da ordem das unidades: 5 + 6 = 11
 2. Adiciona o último algarismo e reagrupa o outro para a próxima ordem: 1
 3. Adição da ordem das dezenas: 3 + 6 = 9  

@@ -20,7 +20,8 @@
 
 ```
 Ex: √16 = 4
-1. Multiplica-se o 4 pelo expoente 2, ou seja 2 vezes => 4 . 4 = 16
+
+1. Multiplica-se o 4 pelo expoente 2, ou seja 2 vezes: 4 . 4 = 16
 2. Resposta: 4
 ```
 
@@ -28,7 +29,8 @@ Ex: √16 = 4
 
 ```
 Ex: √16 = 4  
-1. Fatorar o 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
+
+1. Fatorar o 16: 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
 2. Resultado da fatoração (2, 2, 2, 2) 
 3. Fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
 4. Multiplica-se uma unidade de cada grupo 2 * 2 = 4
@@ -39,7 +41,8 @@ Ex: √16 = 4
 
 ```
 Ex: 4√3 = √48
-1. Calcular a potência: 4<sup>2</sup> = 16
+
+1. Calcular a potência: 4^2 = 16
 2. Multiplicar pelo radicando: √16 . 3 = √48
 3. Resposta: √48
 ```
@@ -140,12 +143,13 @@ Ex: 3/√6 - √3 = 3/√6 - √3 . √6 + √3/√6 + √3 = 3(√6 + √3)/(�
 
 ```
 Ex: √(5 + √24)  
+
 1. Encontrar o valor de c: √(5^2- 24) ⟶ √25 - 24 ⟶ √1 = 1
 2. Montar a relação: √(5 + √24) = √(5 + 1)/2 + √(5 - 1)/2 ⟶ √6/2 + √4/2 ⟶ √3 + √2
 3. Resposta: √(5 + √24) = √3 + √2
 ```
 
-## 2. Operações com Radicais
+> ## 2. Operações com Radicais
 
 > ### 2.1 Adição
 - Para radicais semelhantes (mesmo índice e radicando), repete-se o radical e soma-se os coeficientes.
@@ -195,6 +199,7 @@ Ex: √27/√3 = √27/3 = √9 = 3
 
 ```
 Ex: 3^√8/√4  
+
 1. MMC(3, 2) = 6  
 2. 6 : 3 = 2 ⟶ 2 x 1 = 2 logo 6^√8^2
 3. 6 : 2 = 3 ⟶ 3 x 1 = 3 logo 6^√4^3

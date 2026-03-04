@@ -18,6 +18,7 @@
 
 ```
 Ex: 2^4 = 16
+
 1. Multiplica-se a base 2 4 vezes: 2 . 2 . 2 . 2 = 16
 2. Resposta: 16
 ```
@@ -58,17 +59,17 @@ Ex: 0^2 = 0
 > #### Multiplicação de Potência de Mesma Base
 - No produto de potências de mesma base, sempre se repete a base e realiza-se a adição dos expoentes.
 - Representação:
-  - a^m. a^n = a^m + n
+  - a^m. a^n = a^(m + n)
 
 ```
 Ex: 3^2 . 3^5 = 3^7    
-Ex: 10^5 . 10^9 = 10^19    
+Ex: 10^5 . 10^9 = 10^14    
 ```
 
 > #### Divisão de Potência de Mesma Base
 - Na divisão de potências de mesma base, sempre se repete a base e realiza-se a subtração entre os expoentes.
 - Representação:
-  - a^m : a^n = a^m - n
+  - a^m : a^n = a^(m - n)
 
 ```
 Ex: 50^9 : 50^5 = 50^4    
@@ -78,7 +79,7 @@ Ex: 1^6 : 1^5 = 1^1
 > #### Potência de uma Potência
 - Na potenciação de potências, repete-se a base e realiza-se a multiplicação dos expoentes.
 - Representação:
-  - (a^m)^n = a^m . n
+  - (a^m)^n = a^(m . n)
 
 ```
 Ex: (4^2)^2 = 4^4  
@@ -164,12 +165,14 @@ Ex: 8^1/3 =  3^√8^1 = 3^√8
 - Para comparar duas ou mais potências, elas devem possui a mesma base, ou possuírem expoentes iguais, nesse caso a potência de maior base será a de maior valor.
 
 ```
-Ex: 2^75 e 4^37 
+Ex: 2^75 e 4^37
+
 1. Igualar as bases: 4^37 = (2^2)^37 = 2^74
 2. Comparar as bases: 2^75 > 2^74
 3. Resposta: 2^75 > 2^74
 
-Ex: 2^75 e 3^50 
+Ex: 2^75 e 3^50
+ 
 1. Igualar os expoentes: 2^75 = (2^3)^25 | 3^50 = (3^2)^25
 2. Eliminar o parêntese: (2^3) = 8^25 | (3^2) = 9^25
 3. Comparar as bases: 8^25 < 9^25
