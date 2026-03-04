@@ -1,36 +1,39 @@
 # Produtos Notáveis
 
-## Definição
+> ## 1. Definição
 - São expressões algébricas que envolvem a multiplicação de polinômios, a partir de padrões que determinam seu resultado. São úteis na simplificação do produto de polinômios.
 
-> ### Tipos
+> ### 1.1 Tipos
 
-#### Quadrado da soma de dois termos
+> #### Quadrado da Soma de Dois Termos
 - O quadrado do primeiro termo mais duas vezes o primeiro vezes o segundo mais o quadrado do segundo termo.
 - Representação:
-  - (a + b)<sup>2</sup> = a<sup>2</sup> + 2.a.b + b<sup>2</sup>
+  - (a + b)^2 = a^2 + 2.a.b + b^2
 
-#### Quadrado da diferença de dois termos
+> #### Quadrado da Diferença de Dois Termos
 - O quadrado do primeiro termo menos duas vezes o primeiro vezes o segundo mais o quadrado do segundo termo.
 - Representação:
-  - (a - b)<sup>2</sup> = a<sup>2</sup> - 2.a.b + b<sup>2</sup>
+  - (a - b)^2 = a^2 - 2.a.b + b^2
 
-#### Produto da soma pela diferença de dois termos
+> #### Produto da Soma pela Diferença de Dois Termos
 - O quadrado do primeiro menos o quadrado do segundo.
 - Representação:
-  - (a + b) . (a – b) = a<sup>2</sup> - b<sup>2</sup>
+  - (a + b) . (a – b) = a^2 - b^2
 
-#### Cubo da soma de dois termos
+> #### Cubo da Soma de Dois Termos
 - O cubo do primeiro termo mais o triplo do produto do quadrado do primeiro termo pelo segundo termo mais o triplo do produto do primeiro termo pelo quadrado do segundo termo mais o cubo do segundo termo.
 - Representação:
-  - (a + b)<sup>3</sup> = a<sup>3</sup> + 3a<sup>2</sup>b + 3ab<sup>2</sup> + b<sup>3</sup>
+  - (a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3
 
-#### Cubo da diferença de dois termos
+> #### Cubo da Diferença de Dois Termos
 - O cubo do primeiro termo menos o triplo do produto do quadrado do primeiro termo pelo segundo termo mais o triplo do produto do primeiro termo pelo quadrado do segundo termo menos o cubo do segundo termo.
 - Representação:
-  - (a - b)<sup>3</sup> = a<sup>3</sup> - 3a<sup>2</sup>b + 3ab<sup>2</sup> - b<sup>3</sup>
+  - (a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3
 
-Ex: Qual a solução adequada ao produto notável (x – 3)<sup>2</sup>.
-1. (x – 3)<sup>2</sup> = (x – 3) . (x – 3)
-2. x<sup>2</sup> - 3x - 3x + 3<sup>2</sup>
-3. x<sup>2</sup> - 6x + 3<sup>2</sup>
+```
+Ex: Qual a solução adequada ao produto notável (x – 3)^2.
+
+1. (x – 3)^2 = (x – 3) . (x – 3)
+2. x^2 - 3x - 3x + 3^2
+3. x^2 - 6x + 3^2
+```
