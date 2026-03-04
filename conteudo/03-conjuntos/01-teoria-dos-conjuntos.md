@@ -14,12 +14,10 @@
   - Elemento ∈ conjunto (pertence)
   - Elemento ∉ conjunto (não pertence)
 
-```
 Ex: B = {1, 2, 3, 4}  
 
 1. 2 ∈ B  
 2. 10 ∉ B  
-```
 
 > #### Inclusão
 - Indica se um conjunto é um sujconjunto de outro ou não.
@@ -29,14 +27,12 @@ Ex: B = {1, 2, 3, 4}
   - **B** ⊃ **A** (**B** contém **A**)
   - **B** ⊅ **A** (**B** não contém **A**)
 
-```
 Ex: A = {1, 2}; B = {1, 2, 3, 4} e C = {11, r}
 
 1. A ⊂ B  
 2. C ⊄ B
 3. B ⊃ A
 4. B ⊅ C
-```
 
 > ### 1.2 Tipos de Conjuntos
 

@@ -1,6 +1,6 @@
 # Função do 1º grau ou Função Afim
 
-## Definição
+> ## 1. Definição
 - Chama-se função polinomial do 1º grau, ou função afim, a qualquer função f de IR em IR dada por uma lei de formação f(x) = y = ax + b, onde a e b são números reais dados e a ≠ 0. No caso, o expoente do x em ax é = 1.
 - Representação:
   - f(x) = ax + b
@@ -12,7 +12,7 @@
     <img align="left" height="180" width="300" src="../../img/funcao-1-grau-1.png">
 </div><br><br><br><br><br><br><br><br><br>
 
-#### Pode-se afirmar que:
+> #### Pode-se afirmar que:
 1. a: é o coeficiente angular da reta; e b: é o coeficiente linear.
 2. Se a for positivo (a > 0), a função será crescente (Exemplo de função crescente: y = 2x + 5).
 3. Se a for negativo (a < 0), a função será decrescente (Exemplo de função decrescente: y = -3 + 7).
@@ -35,7 +35,7 @@ C) Calcule a distância percorrida por um passageiro que pagou R$ 29,00 pela cor
 3. 24 = 2,4x
 4. x = 10 km
 
-> ### Valor numérico de uma função
+> ### 1.1 Valor Numérico de uma Função
 - Para encontrar o valor numérico de qualquer função, conhecendo a sua lei de formação, basta realizarmos a substituição do valor de x para encontrar a imagem f(x).
 
 Exemplo: Dada a função f(x) = x + 5, calcule:  
@@ -55,7 +55,7 @@ C) f(-2)
 2. f(-2) = -2 + 5  
 3. f(-2) = 3  
 
-> ### Inclinação e coeficiente angular de uma reta
+> ### 1.2 Inclinação e Coeficiente Angular de uma Reta
 - O eixo x é o eixo das abscissas e o eixo y é o eixo das ordenadas.
 - A reta r está formando com o eixo Ox um ângulo θ. A medida desse ângulo é feita em sentido anti-horário a partir de um ponto pertencente ao eixo Ox. 
 - Assim, podemos dizer que a reta r tem inclinação θ e o seu coeficiente angular (a) igual a:
@@ -115,7 +115,7 @@ Exemplo 4:
 3. Lei de formação da reta r: y = ax + b  
 4. y = b  
 
-> ### Função constante
+> ### 1.3 Função Constante
 - A função constante é quando uma função é constituída por um só número que é racional. 
 - A forma canônica desta função é igual: f(x) = b.
 - Se o valor de b for positivo, ele estará acima do eixo x; se for igual a 0, estará sobre o eixo x; e se for menor que 0, estará abaixo do eixo x.
@@ -125,7 +125,7 @@ Exemplo 4:
     <img align="left" height="180" width="480" src="../../img/funcao-1-grau-8.png">
 </div><br><br><br><br><br><br><br><br><br>
 
-> ### Função linear e função identidade
+> ### 1.4 Função Linear e Função Identidade
 - A função linear é uma função f: ℝ→ℝ definida como f(x) = a.x, sendo a um número real e diferente de zero. 
 - Esta função é um caso particular da função afim f(x) = a.x + b, quando b = 0.
 - Quando o valor de a for igual a 1, a função linear será também chamada de função identidade. A função identidade é também nomeada de função inclusão.
@@ -142,7 +142,7 @@ Exemplo 4:
 
 1. O gráfico é chamado de bissetriz dos quadrantes ímpares (1º e 3º), uma vez que a reta separa o ângulo em dois de mesmo tamanho (45º).
 
-> ### Representação gráfica da reta
+> ### 1.5 Representação Gráfica da Reta
 - Para construir o gráfico da reta conhecendo a sua equação, encontramos dois pontos pertencentes a essa reta e traçamos a reta que passa por esses dois pontos.
 
 Exemplo:   

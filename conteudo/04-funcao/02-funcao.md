@@ -1,19 +1,19 @@
 # Função
 
-## Definição
+> ## 1. Definição
 - Função é uma relação entre variáveis, em que o valor de uma variável **y** vai depender do valor resultante da interação de uma variável **x** com a lei de formação da função (lei de que determina a relação entre as variáveis).
 
-Ex: Um cabeleireiro cobra R$ 12,00 pelo corte com hora marcada e R$ 10,00 sem hora marcada. Ele tem por dia um número fixo de 6 clientes com hora marcada e um número variável X de clientes sem hora marcada.
+Ex: Um cabeleireiro cobra R$ 12,00 pelo corte com hora marcada e R$ 10,00 sem hora marcada. Ele tem por dia um número fixo de 6 clientes com hora marcada e um número variável "x" de clientes sem hora marcada.
 
 1. O que é dado em função de que?
     - valor do dia = número de clientes . valor do corte 
     - O valor que o cabeleireiro recebe por dia, ou seja, sua receita, depende do número de clientes. Assim, a quantia recebida está em função do número de clientes atendidos.
-2. Qual a fórmula que representa a quantia **Q** recebida por dia em função do número **x** de clientes?
+2. Qual a fórmula que representa a quantia "Q" recebida por dia em função do número "x" de clientes?
     - y = x . 10 + 72
     - Q(x) = y
     - Q(x) = 10x + 72
 
-> ### Representação das funções
+> ### 1.1 Representação das Funções
 - Dados dois conjuntos não vazios **A** e **B**, uma função f de A em B (escreve-se f: A → B) é uma relação que associa cada elemento **x** ∈ **A** a um único elemento **y** ∈ **B**.
 - Representação:
   - f(x) = y
@@ -47,7 +47,7 @@ Ex: Dados os conjuntos A = {1, 2, 3, 4} e B = {5, 7, 8, 9, 10, 11, 12, 13, 14, 1
    - f(4) = 11
 5. Im(f) = {5, 7, 9, 11}
 
-**OBSERVAÇÃO:** Para que uma relação seja considerada uma função, é necessário que cada elemento do conjunto **x** esteja associado a um único elemento do conjunto **y**. Há uma forma práticade visualizar esse conceito, utilizando uma analogia entre filhos e pais. O conjunto à esquerda é denominado "filhos", e o conjunto à direita, "pais". Mesmo que dois filhos estejam associados ao mesmo pai, isso não configura um problema, pois a condição essencial é que cada filho tenha, no máximo, um pai.
+> [!CAUTION] OBSERVAÇÃO: Para que uma relação seja considerada uma função, é necessário que cada elemento do conjunto "x" esteja associado a um único elemento do conjunto "y". Há uma forma práticade visualizar esse conceito, utilizando uma analogia entre filhos e pais. O conjunto à esquerda é denominado "filhos", e o conjunto à direita, "pais". Mesmo que dois filhos estejam associados ao mesmo pai, isso não configura um problema, pois a condição essencial é que cada filho tenha, no máximo, um pai.
 
 Ex: É função.  
 
@@ -61,40 +61,42 @@ Ex: Não é função.
     <img align="left" height="160" width="200" src="../../img/nao-e-funcao.png">
 </div><br><br><br><br><br><br><br><br><br>
 
-## Tipos de função
+## 2. Tipos de Função
 
-> ### Função sobrejetora
+> ### 2.1 Função Sobrejetora
 - Na função sobrejetora o contradomínio é igual ao conjunto imagem. Portanto, todo elemento de **B** é imagem de pelo menos um elemento de **A**.
 - Representação: 
   - f: A → B, ocorre a Im(f) = B
 
-> ### Função injetora
+> ### 2.2 Função Injetora
 - Na função injetora todos os elementos de **A** possuem correspondentes distintos em **B** e nenhum dos elementos de **A** compartilham de uma mesma imagem em **B**. Entretanto, podem existir elementos em **B** que não estejam relacionados a nenhum elemento de **A**.
 
-> ### Função bijetora
+> ### 2.3 Função Bijetora
 - Na função bijetora os conjuntos apresentam o mesmo número de elementos relacionados. 
 - Essa função recebe esse nome por ser ao mesmo tempo injetora e sobrejetora.
 
-> ### Função inversa
+> ### 2.4 Função Inversa
 - Se uma função **f** leva os elementos de seu domínio **A** ao seu contradomínio **B**, a função inversa f<sup>-1</sup> faz o caminho de volta, retornando os elementos de **B** para **A**.
 - A função inversa f<sup>-1</sup> é um tipo de função bijetora, ou seja, ela é sobrejetora e injetora em simultâneo.
 - Representação: 
   - Dada f: A → B, ocorre f<sup>-1</sup>: B → A 
 
-#### Método para escrever a função inversa
+> #### Método para Escrever a Função Inversa
 1. Para escrever a fórmula da função inversa de uma função bijetora, precisamos lembrar que f(x) = y.
 2. Na função bijetora, substituir f(x) por "y".
 3. Onde tem "x" troca-se por "y" e, onde tem "y" troca-se por "x".
 4. Isola-se o "y" de um lado da igualdade.
 5. Reescreve-se a função, substituindo y por f-1(x).
 
+
 Ex: Escrever a função inversa da função bijetora f(x) = 2x + 3.
+
 1. y = 2x + 3
 2. x = 2y + 3
 3. x – 3 = 2y => y = (x – 3)/2.
 4. f-1(x) = (x – 3)/2.
 
-> ### Função par
+> ### 2.5 Função Par
 - Uma função é par quando f(-x) = f(x). Isto significa que o valor assumido pela função nos pontos **x** e **-x** são iguais. Desta forma, a função assume valores iguais para valores de **x** simétricos.
 
 Exemplo: Função f: R → R definida por f(x) = x.
@@ -105,9 +107,9 @@ Exemplo: Função f: R → R definida por f(x) = x.
 | 0  | f(0) = \| 0 \|   | 0 |
 | 3  | f(3) = \| 3 \|   | 3 |
 
-**OBSERVAÇÃO:** Na função par o seu gráfico é simétrico em relação ao eixo **y**.
+> [!CAUTION] OBSERVAÇÃO: Na função par o seu gráfico é simétrico em relação ao eixo "y".
 
-> ### Função ímpar
+> ### 2.6 Função Ímpar
 - Uma função é ímpar quando f(-x) = -f(x). Isto significa que os valores assumidos pela função serão simétricos tanto em relação ao eixo **x**, quanto em relação ao eixo **y**.
 
 Exemplo: Função f: R → R definida por f(x) = x<sup>3</sup>
@@ -119,11 +121,11 @@ Exemplo: Função f: R → R definida por f(x) = x<sup>3</sup>
 | 0  | f(0) = 0<sup>3</sup>     | 0  |
 | 1  | f(1) = 1<sup>3</sup>     | 1  |
 
-**OBSERVAÇÃO:** Na função é ímpar e seu gráfico é simétrico em relação à origem.
+> [!CAUTION] OBSERVAÇÃO: Na função é ímpar e seu gráfico é simétrico em relação à origem.
 
-**OBSERVAÇÃO:** Existem funções que não são nem pares nem ímpares. Existe apenas uma função que é simultaneamente função par e ímpar que é f(x) = 0.
+> [!CAUTION] OBSERVAÇÃO: Existem funções que não são nem pares nem ímpares. Existe apenas uma função que é simultaneamente função par e ímpar que é f(x) = 0.
 
-> ### Função composta
+> ### 2.7 Função composta
 - A função composta, também chamada de função de função, é um tipo de função matemática que combina duas ou mais variáveis.
 - Dada uma função f (f: A → B) e uma função g (g: B → C), a função composta de **g** com **f** é representada por **gof**. Já a função composta de **f** com **g** é representada por **fog**.
 - A função **f** vai do domínio A ao contradomínio B.
@@ -134,7 +136,7 @@ Exemplo: Função f: R → R definida por f(x) = x<sup>3</sup>
 - Realizando o caminho inverso e saindo de C para A, temos: **gof (x) = g(f(x))**
 - Nas funções compostas as operações entre as funções não são comutativas. Ou seja, **fog ≠ gof**
 
-#### Como determinar função composta
+> #### Como determinar função composta
 - Para determinar uma função composta, aplica-se uma função no domínio da outra, substituindo a variável **x** pela lei da outra função.
 
 Exemplo: Determine as funções compostas gof(x) e fog(x) das funções: f

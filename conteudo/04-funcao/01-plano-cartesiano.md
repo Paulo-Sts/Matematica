@@ -1,6 +1,6 @@
 # Plano Cartesiano
 
-## Definição
+> ## 1. Definição
 - O plano cartesiano é formado por duas retas reais perpendiculares, ou seja, o ângulo entre elas é de 90°, que se cruzam em um único ponto chamado origem.
 - Essas retas determinam um único plano, que é denominado com sistema ortogonal de coordenadas cartesianas ou somente plano cartesiano.
 - A origem do plano cartesiano é o zero. O plano possui esse nome em homenagem ao matemático René Descartes que sistematizou esse conhecimento.
@@ -9,7 +9,7 @@
   - Eixo y (eixo vertical chamado de eixo das ordenadas).
 - Duas retas que se cruzam irão dividir o plano em 4 quadrantes. A marcação dos quadrantes ocorre no sentido anti-horário.
 
-#### Par ordenado
+> #### Par ordenado
 - Par ordenado é um par de números na forma (x, y). Um par ordenado é a representação de um ponto no plano cartesiano, por meio das coordenadas (x, y).
 - No par ordenado o primeiro valor, correspondente a **x**, sempre se refere ao eixo das abiscissas (eixo horizontal) no plano cartesiano e o segundo valor, correspondente a **y**, sempre se refere ao eixo das ordenadas (eixo vertical) no plano cartesiano.
 - Representação:
@@ -17,14 +17,14 @@
 
 Ex: A(-3, 2)
 
-#### Representação do plano cartesiano
+> #### Representação do Plano Cartesiano
 
 <br>
 <div style="display:inline_block">
     <img align="left" height="250" width="420" src="../../img/plano-cartesiano.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
-> ### Distância entre 2 pontos
+> ### 1.1 Distância entre 2 Pontos
 - Dados dois pontos quaisquer, A e B, de coordenadas (xA, yA) e (xB, yB), respectivamente, a distância entre os pontos A e B pode ser obtida da aplicação do teorema de Pitágoras.
 
 <br>
@@ -36,7 +36,6 @@ d² = (XB - XA)² + (YB - YA)²
 d = √[(XB - XA)² + (YB - YA)²]  
 d = dAB = √[(XB - XA)² + (YB - YA)²]  
 
-##### Explicação:
 1. O ponto d marca a distância entre A e B. 
 2. É formado um triângulo retângulo com o fechamento da linha A. 
 3. Será, então, aplicado o teorema de Pitágoras, que provou que a hipotenusa ao quadrado é igual a soma dos quadrados dos catetos. 
@@ -55,20 +54,20 @@ Ex: Determinar a distância entre os pontos A (2, 1) e B (3, -4).
   - d2 = 26
   - d = √26
 
-> ### Relação entre plano cartesiano e gráficos de funções
+> ### 1.2 Relação entre Plano Cartesiano e Gráficos de Funções
 - O plano cartesiano é a ferramenta essencial para representar funções matematicas graficamente. Toda função f: A → B que associa valores de (x) a (y \) pode ser visualizada por meio de pontos (x, f(x)) no plano.  
 
-#### Representação da função no plano  
+> #### Representação da Função no Plano  
 - Eixo x (abscissas): Representa os valores de entrada (domínio da função).  
 - Eixo y (ordenadas): Representa os valores de saída (imagem da função).  
 - Ponto (x, y): Cada par ordenado indica que (y = f(x)).  
 
-Exemplo: 
-Para a função f(x) = 2x + 1:  
+Exemplo: Para a função f(x) = 2x + 1
+
 1. Se (x = 1), então (y = 2(1) + 1 = 3) → Ponto (1, 3).  
 2. Se (x = 0), então (y = 1) → Ponto (0, 1).  
 
-#### Tipos de funções e seus gráficos  
+> #### Tipos de Funções e seus Gráficos  
 
 | TIPO               | FORMA ALGÉBRICA      | GRÁFICO                     | EXEMPLO          |  
 |--------------------|----------------------|-----------------------------|------------------|  
@@ -77,7 +76,7 @@ Para a função f(x) = 2x + 1:
 | Função Exponencial | f(x) = a^x           | Curva crescente/decrescente | f(x) = 2^x       |  
 | Função Modular     | f(x) = \|x\|         | Formato de "V"              | f(x) = \|x + 2\| |  
 
-#### Análise de gráficos  
+> #### Análise de Gráficos  
 - Raízes (Zeros): Pontos onde f(x) = 0 (gráfico corta o eixo x).  
 - Intersecção com **y**: Onde x = 0 → Ponto (0, f(0)).  
 - Se f(x) aumenta com **x** , a função é crescente.  

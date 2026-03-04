@@ -8,33 +8,27 @@
 - Representação por propriedade:
   - A ∪ B = { x / x ∈ A ou x ∈ B}
 
-```
 Ex: A = {1, 2} e B = {3, 4} 
 
 1. A ∪ B: AB = {1, 2, 3, 4}
-```
 
 > #### Quantidade de Elementos da União de 2 Conjuntos
 - Representação:
   - n(A ∪ B) = n(A) + n(B) - n(A ∩ B)
 
-```
 Ex: A = {1, 2, 3, 4} e B = {1, 2, 3, 4, 10, 20 , 30} quantos elementos tem (A ∪ B) ?
 
 1. n(A ∪ B) = 4 + 7 - 4
 2. n(A ∪ B) = 7
-```
 
 > #### Quantidade de Elementos da União de 3 Conjuntos
 - Representação:
   - n(A ∪ B ∪ C) = n(A) + n(B) + n(C) - n(A ∩ B) - n(A ∩ C) - n(B ∩ C) + n(A ∩ B ∩ C)
 
-```
 Ex: A = {1, 2, 3, 4}, B = {0, 1, 2, 4, 10, 20} e B = {2, 4, 9} quantos elementos tem (A ∪ B ∪ C) ?
 
 1. n(A ∪ B ∪ C) = 4 + 6 + 3 - 2 - 2 - 2 + 2
 2. n(A ∪ B ∪ C) = 9
-```
 
 > ### 1.1 Propriedades da União entre Conjuntos
 
@@ -60,13 +54,11 @@ Ex: A = {1, 2, 3, 4}, B = {0, 1, 2, 4, 10, 20} e B = {2, 4, 9} quantos elementos
 - Representação por propriedade:
   - A ∩ B = { x / x ∈ A e x ∈ B}
 
-```
 Ex: A = {1, 2} e B = {1, 2, 3, 4} 
 1. A ∩ B: C = {1, 2}
 
 Ex: A = {1, 2} e B = {3, 4} 
 1. A ∩ B = {}
-```
 
 > ### 2.1 Propriedades da Interseção entre Conjuntos
 
@@ -93,22 +85,18 @@ Ex: A = {1, 2} e B = {3, 4}
 - Representação por propriedade:
   - A - B = { x / x ∈ A e x ∉ B}
 
-```
 Ex: A = {1, 2, 10, 15} e B = {1, 2, 3, 4} 
 
 1. A - B: C = {10, 15}
-```
 
 ## 4. Igualdade entre Conjuntos
 - É quando todos os elementos dos conjuntos são iguais.
 - Representação:
   - A = B 
 
-```
 Ex: A = {1, 2, 3, 4} e B = {1, 2, 3, 4} 
 
 1. A = B 
-```
 
 ## 5. Conjunto Complementar
 - O conjunto complementar de **A** é o conjunto do qual **A** faz parte (o conjunto universo) formado pelos elementos que não pertençam a **A**
@@ -116,11 +104,9 @@ Ex: A = {1, 2, 3, 4} e B = {1, 2, 3, 4}
   - A<sup>C</sup> ou C<sup>A</sup>
   - Se B ⊂ A então A - B = B<sup>C</sup>
 
-```
 Ex: A = {3, 4} e B = {1, 2, 3, 4} 
 
 1. A^C = {1, 2}
-```
 
 > ## 6. Leis de Morgan
 

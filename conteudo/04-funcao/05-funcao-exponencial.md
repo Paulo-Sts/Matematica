@@ -1,6 +1,6 @@
 # Função do Exponencial
 
-## Definição
+> ## 1. Definição
 - Função Exponencial é aquela que a variável está no expoente e cuja base é sempre maior que zero e diferente de um. Tal função, é explicitada da seguinte forma: f: R -> R
 tal que y = ax, sendo que a > 0 e a ≠ 1.
 - Representação: 
@@ -12,7 +12,7 @@ A) f(x) = 4<sup>x</sup>
 B) f(x) = (0,1)<sup>x</sup>  
 C) f(x) = (⅔)<sup>x</sup>  
 
-> ### Gráfico da função exponencial
+> ### 1.1 Gráfico da Função Exponencial
 - O gráfico desta função passa pelo ponto (0,1), pois todo número elevado a zero é igual a 1. 
 - Além disso, a curva exponencial não toca no eixo x.
 - Na função exponencial, a base é sempre maior que zero, portanto, a função terá sempre imagem positiva. Assim sendo, não apresenta pontos nos quadrantes III e IV
