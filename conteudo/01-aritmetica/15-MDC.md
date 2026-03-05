@@ -43,6 +43,8 @@ Ex: MDC(5, 10, 20) = 5
 
 Ex: MDC(10, 2) = 10 e MMC(10, 2) = 2 ⟶ 10 x 2 = 10 x 2  
 
-> [!TIP] DICA: Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
+> [!TIP] DICA: 
+> - Para identificar a utilização do MDC na resolução de um problema, basta verificar se a questão pede que seja feita a separação de diferentes elementos em quantidades iguais ao mesmo tempo, sendo cada parte o maior tamanho possível.
 
-> [!TIP] DICA: Ao se fatorar números para encontrar o MDC, pode-se optar por usar como divisor apenas números que dividam todos os valores ao mesmo tempo (fator comum), quando não for possível mais dividir, o produto dos divisores será o MDC, e o resto da divisão de cada valor, indicará o número de vezes que o MDC corresponde ao valor. Na lógica da divisão em partes iguais o MDC será o tamanho (comprimento) de cada pedaço e o resto da divisão de cada valor será a quantidade de pedaços iguais do tamanho do MDC em que cada valor será dividido.
+> [!TIP] DICA: 
+> - Ao se fatorar números para encontrar o MDC, pode-se optar por usar como divisor apenas números que dividam todos os valores ao mesmo tempo (fator comum), quando não for possível mais dividir, o produto dos divisores será o MDC, e o resto da divisão de cada valor, indicará o número de vezes que o MDC corresponde ao valor. Na lógica da divisão em partes iguais o MDC será o tamanho (comprimento) de cada pedaço e o resto da divisão de cada valor será a quantidade de pedaços iguais do tamanho do MDC em que cada valor será dividido.

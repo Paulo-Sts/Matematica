@@ -15,9 +15,11 @@ etapa 3 ⟶ 2 (sapato)
 
 1. número de possibilidades = 5 . 3 . 2 = 30 
 
-> [!TIP] DICA: Eventos em que se deve fazer uma escolha, entre um ou outro possível, geralmente usam a palavra "ou". Para esses eventos em que existem hipóteses, o total de possibilidades será a soma das possibilidades de cada hipótese.
+> [!TIP] DICA: 
+> - Eventos em que se deve fazer uma escolha, entre um ou outro possível, geralmente usam a palavra "ou". Para esses eventos em que existem hipóteses, o total de possibilidades será a soma das possibilidades de cada hipótese.
 
-> [!TIP] DICA: Eventos formados por etapas, são independentes e o total de possibilidades será formado pela multiplicação das possibilidades de cada etapa do evento.
+> [!TIP] DICA: 
+> - Eventos formados por etapas, são independentes e o total de possibilidades será formado pela multiplicação das possibilidades de cada etapa do evento.
 
 > ### 1.1 Tipos de Cálculo PFC
 

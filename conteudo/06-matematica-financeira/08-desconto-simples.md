@@ -58,28 +58,29 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
   - i = taxa de juros
   - t = tempo
 
-> [!CAUTION] OBSERVAÇÃO: O desconto racional é sempre menor do que o desconto comercial.
-
-Ex: Título de 7 mil descontado 60 dias antes do vencimento com desconto simples de 10% ao mês. Qual o valor com o desconto comercial e o desconto racional?
-
-Dados:  
-n = 7000  
-t = 60 dias = 2 meses  
-i = 10% a.m  
-D = ?  
-
-Desconto comercial:
-1. Montar a fórmula do desconto ⟶ D = 7000 . 10/100 . 2
-2. Multiplicar ⟶ 7000 . 10/100 = 7000/100 . 2
-3. Dividir ⟶ 7000/100 = 700 . 2
-4. Multiplicar ⟶ 700 . 2 = 1400
-5. Resposta: O desconto comercial é = 1400 (valor atual 5600)
-
-Desconto racional:
-1. Montar a fórmula do valor atual ⟶ A = 7000/(1 + 0,1 . 2)
-2. Resolver parêntese ⟶ (1 + 0,1 . 2) = (1 + 0,2) = 1,2
-3. Dividir ⟶ 7000/1,2 = 5.833,33
-4. Valor atual = 5.833,33
-5. Montar fórmula do desconto racional ⟶ D = 5.833,33 . 10/100 . 2
-6. Multiplicar ⟶ 5.833,33 . 10/100 = 58.333,3/100 = 583,333 . 2 = 1.166,66
-7. Resposta: O desconto racional é = 1.166,66 (valor atual 5833,33)
+> [!CAUTION] OBSERVAÇÃO: 
+> - O desconto racional é sempre menor do que o desconto comercial.
+>
+> Ex: Título de 7 mil descontado 60 dias antes do vencimento com desconto simples de 10% ao mês. Qual o valor com o desconto comercial e o desconto racional?
+>
+> Dados:  
+> n = 7000  
+> t = 60 dias = 2 meses  
+> i = 10% a.m  
+> D = ?  
+>
+> Desconto comercial:
+> 1. Montar a fórmula do desconto ⟶ D = 7000 . 10/100 . 2
+> 2. Multiplicar ⟶ 7000 . 10/100 = 7000/100 . 2
+> 3. Dividir ⟶ 7000/100 = 700 . 2
+> 4. Multiplicar ⟶ 700 . 2 = 1400
+> 5. Resposta: O desconto comercial é = 1400 (valor atual 5600)
+>
+> Desconto racional:
+> 1. Montar a fórmula do valor atual ⟶ A = 7000/(1 + 0,1 . 2)
+> 2. Resolver parêntese ⟶ (1 + 0,1 . 2) = (1 + 0,2) = 1,2
+> 3. Dividir ⟶ 7000/1,2 = 5.833,33
+> 4. Valor atual = 5.833,33
+> 5. Montar fórmula do desconto racional ⟶ D = 5.833,33 . 10/100 . 2
+> 6. Multiplicar ⟶ 5.833,33 . 10/100 = 58.333,3/100 = 583,333 . 2 = 1.166,66
+> 7. Resposta: O desconto racional é = 1.166,66 (valor atual 5833,33)

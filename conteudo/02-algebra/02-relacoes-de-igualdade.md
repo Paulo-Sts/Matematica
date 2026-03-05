@@ -65,4 +65,5 @@ Ex: 2 + 8 = 5 + 5 ⟶ (2 + 8) . 10 = (5 + 5) . 10
 
 Ex: 2 + 8 = 5 + 5 ⟶ (2 + 8) : 10 = (5 + 5) : 10  
 
-> [!CAUTION] OBSERVAÇÃO: Em equações, o uso dos princípios de equivalência da igualdade, auxiliam na resolução das expressões pois, por meio da manipulação dos elementos de cada membro da igualdade é possível descobrir o valor da icógnita.
+> [!CAUTION] OBSERVAÇÃO: 
+> - Em equações, o uso dos princípios de equivalência da igualdade, auxiliam na resolução das expressões pois, por meio da manipulação dos elementos de cada membro da igualdade é possível descobrir o valor da icógnita.

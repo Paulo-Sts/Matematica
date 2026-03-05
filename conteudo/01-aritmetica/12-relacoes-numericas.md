@@ -37,14 +37,15 @@ Ex: D(10)= {1, 2, 5, 10}
 10 : 9 = 1 com resto 1 (não divisível) 
 10 : 10 = 1  
 
-> [!TIP] DICA: Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser iguais ao número que se quer saber seus divisores.
-
-Ex: D(16)= {1, 2, 4, 8, 16}
-
-1. Multiplica-se os dois primeiros extremos: 1 . 16 = 16
-2. Multiplica-se os segundos extremos: 2 . 8 = 16
-3. Para conjuntos com elementos impares, multiplica-se o elemento do meio por si mesmo: 4 . 4 = 16
-4. Resposta: 16
+> [!TIP] DICA: 
+> - Para verificar se o conjunto dos divisores de um número está correto, basta multiplicar os elementos extremos entre si. Todos os produtos devem ser iguais ao número que se quer saber seus divisores.
+> 
+> Ex: D(16)= {1, 2, 4, 8, 16}
+> 
+> 1. Multiplica-se os dois primeiros extremos: 1 . 16 = 16
+> 2. Multiplica-se os segundos extremos: 2 . 8 = 16
+> 3. Para conjuntos com elementos impares, multiplica-se o elemento do meio por si mesmo: 4 . 4 = 16
+> 4. Resposta: 16
 
 > #### Conjunto dos Divisores de um Número
 1. Decompoe-se o número em fatores primos.

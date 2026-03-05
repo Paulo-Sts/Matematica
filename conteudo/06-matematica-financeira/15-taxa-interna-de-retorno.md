@@ -28,4 +28,5 @@ VPL = - p + r1/(1 + i)<sup>1</sup>
 9. Converter em taxa percentual ⟶ 0,75 . 100 = 75%
 10. Resposta: A TIP é = 75%
 
-> [!TIP] DICA: O cálculo para encontrar a TIR pode ser feito com a fórmula do VPL para descobrir a taxa em que o VPL é igual a zero, ou por meio de um regra de três para descobrir qual taxa de juros resulta no valor presente previsto da operação.
+> [!TIP] DICA: 
+> - O cálculo para encontrar a TIR pode ser feito com a fórmula do VPL para descobrir a taxa em que o VPL é igual a zero, ou por meio de um regra de três para descobrir qual taxa de juros resulta no valor presente previsto da operação.

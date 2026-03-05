@@ -60,7 +60,8 @@ Ex: (2, 6, 10, 14, 18, 22, 26)
 2. Soma do 2º e 6º termo ⟶ 6 + 22 = 28
 3. Soma do 3º e 5° termo ⟶ 10 + 18 = 28
 
-> [!TIP] DICA: Essa propriedade é útil em questões que se pede para encontrar o valor de um determinado termo, a partir dos termos dados, por exemplo tem se os 1º, 2º e 6º termos e se pede o valor do 5º termo. 
+> [!TIP] DICA: 
+> - Essa propriedade é útil em questões que se pede para encontrar o valor de um determinado termo, a partir dos termos dados, por exemplo tem se os 1º, 2º e 6º termos e se pede o valor do 5º termo. 
 
 > #### Relação entre Três Termos Consecutivos
 - Considerando três termos consecutivos de uma P.A, o termo do meio será igual a média aritmética dos termos dos extremos.

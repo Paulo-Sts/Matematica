@@ -47,7 +47,8 @@ Ex: Dados os conjuntos A = {1, 2, 3, 4} e B = {5, 7, 8, 9, 10, 11, 12, 13, 14, 1
    - f(4) = 11
 5. Im(f) = {5, 7, 9, 11}
 
-> [!CAUTION] OBSERVAÇÃO: Para que uma relação seja considerada uma função, é necessário que cada elemento do conjunto "x" esteja associado a um único elemento do conjunto "y". Há uma forma práticade visualizar esse conceito, utilizando uma analogia entre filhos e pais. O conjunto à esquerda é denominado "filhos", e o conjunto à direita, "pais". Mesmo que dois filhos estejam associados ao mesmo pai, isso não configura um problema, pois a condição essencial é que cada filho tenha, no máximo, um pai.
+> [!CAUTION] OBSERVAÇÃO: 
+> - Para que uma relação seja considerada uma função, é necessário que cada elemento do conjunto "x" esteja associado a um único elemento do conjunto "y". Há uma forma práticade visualizar esse conceito, utilizando uma analogia entre filhos e pais. O conjunto à esquerda é denominado "filhos", e o conjunto à direita, "pais". Mesmo que dois filhos estejam associados ao mesmo pai, isso não configura um problema, pois a condição essencial é que cada filho tenha, no máximo, um pai.
 
 Ex: É função.  
 
@@ -107,7 +108,8 @@ Exemplo: Função f: R → R definida por f(x) = x.
 | 0  | f(0) = \| 0 \|   | 0 |
 | 3  | f(3) = \| 3 \|   | 3 |
 
-> [!CAUTION] OBSERVAÇÃO: Na função par o seu gráfico é simétrico em relação ao eixo "y".
+> [!CAUTION] OBSERVAÇÃO: 
+> - Na função par o seu gráfico é simétrico em relação ao eixo "y".
 
 > ### 2.6 Função Ímpar
 - Uma função é ímpar quando f(-x) = -f(x). Isto significa que os valores assumidos pela função serão simétricos tanto em relação ao eixo **x**, quanto em relação ao eixo **y**.
@@ -121,9 +123,11 @@ Exemplo: Função f: R → R definida por f(x) = x<sup>3</sup>
 | 0  | f(0) = 0<sup>3</sup>     | 0  |
 | 1  | f(1) = 1<sup>3</sup>     | 1  |
 
-> [!CAUTION] OBSERVAÇÃO: Na função é ímpar e seu gráfico é simétrico em relação à origem.
+> [!CAUTION] OBSERVAÇÃO: 
+> - Na função é ímpar e seu gráfico é simétrico em relação à origem.
 
-> [!CAUTION] OBSERVAÇÃO: Existem funções que não são nem pares nem ímpares. Existe apenas uma função que é simultaneamente função par e ímpar que é f(x) = 0.
+> [!CAUTION] OBSERVAÇÃO: 
+> - Existem funções que não são nem pares nem ímpares. Existe apenas uma função que é simultaneamente função par e ímpar que é f(x) = 0.
 
 > ### 2.7 Função composta
 - A função composta, também chamada de função de função, é um tipo de função matemática que combina duas ou mais variáveis.

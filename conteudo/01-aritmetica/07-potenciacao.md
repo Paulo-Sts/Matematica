@@ -21,9 +21,10 @@ Ex: 2^4 = 16
 1. Multiplica-se a base 2 4 vezes: 2 . 2 . 2 . 2 = 16
 2. Resposta: 16
 
-> [!CAUTION] OBSERVAÇÃO: Para potência em que a base é um número negativo e não há a separação por parênteses, entende-se que a um valor -1 multiplicando a base o que dará como resultado sempre um valor negativo.
-
-Ex: -2^2 = -1.2^2 = -1.4 = -4
+> [!CAUTION] OBSERVAÇÃO: 
+> - Para potência em que a base é um número negativo e não há a separação por parênteses, entende-se que a um valor -1 multiplicando a base o que dará como resultado sempre um valor negativo.
+> 
+> Ex: -2^2 = -1.2^2 = -1.4 = -4
 
 > ### 2.1 Propriedades da Potenciação
 
@@ -72,9 +73,10 @@ Ex: 1^6 : 1^5 = 1^1
 Ex: (4^2)^2 = 4^4  
 Ex: (16^3)^2 = 16^6
 
-> [!CAUTION] OBSERVAÇÃO: Para potência de potência em que não há a separação por parênteses, deve-se elevar a potência pela potência.
-
-Ex: 2^4^2 = 2^16
+> [!CAUTION] OBSERVAÇÃO: 
+> - Para potência de potência em que não há a separação por parênteses, deve-se elevar a potência pela potência.
+> 
+> Ex: 2^4^2 = 2^16
 
 > #### Potência de um Produto
 - A potência de um produto, é igual a potencia de cada fator do produto. O inverso também é verdadeiro.
@@ -103,9 +105,10 @@ Ex: (16/3)^5 = 16^5/3^5
 Ex: (-4)^2 =  (-4) . (-4) = 16  
 Ex: (-4)^3 =  (-4) . (-4) . (-4) = -32
 
-> [!CAUTION] OBSERVAÇÃO: Quando o expoente elevar todo o valor do parêntese sempre será positivo para expoente par, mas se não existir parêntese a potência é apenas sobre a base e o sinal negativo permanece.
-
-Ex: -4^2 = - (4) . (4) = -16  
+> [!CAUTION] OBSERVAÇÃO: 
+> - Quando o expoente elevar todo o valor do parêntese sempre será positivo para expoente par, mas se não existir parêntese a potência é apenas sobre a base e o sinal negativo permanece.
+> 
+> Ex: -4^2 = - (4) . (4) = -16  
 
 > #### Potência de Expoente Negativo
 - Quando o expoente da potência for negativo, inverte-se a base e o expoente passa a ser positivo.

@@ -18,7 +18,8 @@ Ex: Em um conjunto de 1 a 20, qual a probabilidade de se retirar um número que 
 5. Fórmula ⟶ P(múltiplo de 3 ou múltiplo de 4) = 6/20 + 5/20 - 1/20 = 10/20 = 1/2
 6. Resposta: 1/2
 
-> [!TIP] DICA: Questões que envolvem a palavra "ou" tratam da união entre eventos.
+> [!TIP] DICA: 
+> - Questões que envolvem a palavra "ou" tratam da união entre eventos.
   
 
 

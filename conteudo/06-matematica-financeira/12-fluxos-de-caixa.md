@@ -12,7 +12,8 @@
     <img align="left" height="220" width="420" src="../../img/grafico-fluxo.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
-> [!CAUTION] OBSERVAÇÃO: As entradas de recursos são representadas por setas orientadas para cima, perpendiculares ao eixo horizontal. Já as saídas de recursos são representadas da mesma forma, porém as setas serão colocadas para baixo. O eixo horizontal é o tempo. A flecha para baixo significa que saída de valor. A flecha para cima significa que entrada de valor.
+> [!CAUTION] OBSERVAÇÃO: 
+> - As entradas de recursos são representadas por setas orientadas para cima, perpendiculares ao eixo horizontal. Já as saídas de recursos são representadas da mesma forma, porém as setas serão colocadas para baixo. O eixo horizontal é o tempo. A flecha para baixo significa que saída de valor. A flecha para cima significa que entrada de valor.
 
 > #### Tabela
 
@@ -26,4 +27,5 @@
 | 5   | Resgate   | R$ 650,00    |
 | 6   | Resgate   | R$ 650,00    |
 
-> [!CAUTION] OBSERVAÇÃO: Os valores negativos são as saídas, já os positivos as entradas. Os valores de saída também podem ser expressos entre parênteses.
+> [!CAUTION] OBSERVAÇÃO: 
+> - Os valores negativos são as saídas, já os positivos as entradas. Os valores de saída também podem ser expressos entre parênteses.

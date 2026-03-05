@@ -24,4 +24,5 @@ EVENTO A **E** EVENTO B:
 1. Fórmula ⟶ P(ímpar e coroa) = 1/2 . 1/2 = 1/4
 2. Resposta: 1/4
 
-> [!TIP] DICA: Questões que envolvem a palavra "e" tratam de eventos independentes.
+> [!TIP] DICA: 
+> - Questões que envolvem a palavra "e" tratam de eventos independentes.

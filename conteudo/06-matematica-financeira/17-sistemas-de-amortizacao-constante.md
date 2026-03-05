@@ -56,7 +56,8 @@
   - t = número da prestação futura
   - n = quantidade de prestações
 
-> [!TIP] DICA: Sempre iniciar com a realização da dívida, ou seja, pelo início da operação que é realizada no tempo 0.
+> [!TIP] DICA: 
+> - Sempre iniciar com a realização da dívida, ou seja, pelo início da operação que é realizada no tempo 0.
 
 Ex: Dívida no valor de R$ 3.000,00 que é amortizada pelo SAC em 5 prestações mensais, com juros de 1% ao mês. Monte a tabela.
 

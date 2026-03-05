@@ -18,7 +18,8 @@
   - a3 = terceiro termo
   - an = n-ésimo termo
 
-> [!CAUTION] OBSERVAÇÃO: O primeiro termo da sequência também pode ser definido como a0.
+> [!CAUTION] OBSERVAÇÃO: 
+> - O primeiro termo da sequência também pode ser definido como a0.
 
 > ### 2.1 Tipos de Sequências
 

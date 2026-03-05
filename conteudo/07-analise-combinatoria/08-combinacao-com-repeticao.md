@@ -9,7 +9,6 @@
 
 Ex: Um posto de combustível comprou 6 bombas (idênticas) de abastecimento, que serão pintadas, antes de sua instalação, com uma única cor, de acordo com o combustível a ser vendido em cada uma. O posto poderá vender etanol (cor verde), gasolina (cor amarela) e diesel (cor preta). De quantas maneiras as bombas podem ser pintadas, considerando a não obrigatoriedade de venda de qualquer tipo de combustível?
 
-
 1. Total de elementos ⟶ verde, amarela e preta (3 elementos) 
 2. Grupo ⟶ 6 bombas (agrupamento com 6 elementos)
 3. Fórmula ⟶ CR<sub>3,6</sub> = C<sub>3 + 6 - 1, 6</sub>

@@ -23,23 +23,25 @@ Ex: √16 = 4
 1. Multiplica-se o 4 pelo expoente 2, ou seja 2 vezes: 4 . 4 = 16
 2. Resposta: 4
 
-> [!TIP] DICA: Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
+> [!TIP] DICA: 
+> - Para descobrir a raíz de um número basta fatora-lo. Após isso forma-se grupos de números iguais com tamanho iguais ao valor do índice da raíz que passa a valer uma unidade do número do grupo, após isso basta multiplicar as unidades de grupo formadas e encontrar a raíz. No caso de ficar um ou mais valores fora de um grupo, a multiplicação dos que formarem grupo ficam fora da raíz e os que não formarem ficam dentro da raíz.
+> 
+> Ex: √16 = 4  
+> 
+> 1. Fatorar o 16: 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
+> 2. Resultado da fatoração (2, 2, 2, 2) 
+> 3. Fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
+> 4. Multiplica-se uma unidade de cada grupo 2 * 2 = 4
+> 5. Resposta: 4
 
-Ex: √16 = 4  
-
-1. Fatorar o 16: 16 : 2 = 8 : 2 = 4 : 2 = 2 : 2 = 1 
-2. Resultado da fatoração (2, 2, 2, 2) 
-3. Fomar-se os grupos de 2 de acordo com o índice do raíz = (2, 2) e (2, 2) 
-4. Multiplica-se uma unidade de cada grupo 2 * 2 = 4
-5. Resposta: 4
-
-> [!TIP] DICA: Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
-
-Ex: 4√3 = √48
-
-1. Calcular a potência: 4^2 = 16
-2. Multiplicar pelo radicando: √16 . 3 = √48
-3. Resposta: √48
+> [!TIP] DICA: 
+> - Para radicais sem raíz exata (que possuírem um número fora do radical), para encontrar o radicando original, basta elevar o número fora da raíz pelo índice da raíz e o multiplicar pelo radicando.
+> 
+> Ex: 4√3 = √48
+> 
+> 1. Calcular a potência: 4^2 = 16
+> 2. Multiplicar pelo radicando: √16 . 3 = √48
+> 3. Resposta: √48
 
 > ### 1.1 Propriedades da Radiciação
 

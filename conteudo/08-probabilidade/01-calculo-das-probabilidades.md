@@ -33,7 +33,8 @@ Ex: Em um conjunto de 1 a 10 qual a probabilidade de sortear um número par?
 3. Razão ⟶ P(par) = 5/10 = 0,50 = 50%
 4. Resposta: Chance de sortear número par = 50%
 
-> [!CAUTION] OBSERVAÇÃO: Por o evento ser par, o evento ser ímpar está automativamente excluído.
+> [!CAUTION] OBSERVAÇÃO: 
+> - Por o evento ser par, o evento ser ímpar está automativamente excluído.
 
 > #### Evento Certo
 - Evento que coincide com o espaço amostral, ou seja, sua chance de acontecer é de 100%.

@@ -76,7 +76,8 @@ Ex: A = {1, 2} e B = {3, 4}
 - (A ∪ C) ⊂ (B ∪ C)
 - (A ∩ C) ⊂ (B ∩ C)
 
-> [!TIP] DICA: A expressão "ou" indica união entre conjuntos e a expressão "e" indica interseção.
+> [!TIP] DICA: 
+> - A expressão "ou" indica união entre conjuntos e a expressão "e" indica interseção.
 
 ## 3. Diferença entre Conjuntos
 - Se trata do conjunto de elementos  que estão no primeiro conjunto, e não estão no segundo conjunto.

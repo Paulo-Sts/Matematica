@@ -20,11 +20,12 @@ Ex: Número de anagramas da palavra pato?
 3. P<sub>5</sub> = 4 . 3 . 2 . 1 = 24
 4. Resposta: 24 possibilidades
 
-> [!TIP] DICA: Questões em que se pede os agrupamentos possíveis onde duas ou mais letras devem estar juntas, considera-se as duas ou mais letras como uma só.
-
-Ex: Agrupamentos com a palavra **alberto** em que a as letras **abl** aparecem juntas?
-
-1. Número de elementos ⟶ e, r, t, o = 4 + abl = 1 ⟶ 5 elementos
-2. P<sub>5</sub> = 5 . 4 . 3 . 2 . 1 = 120 
-3. Resposta: 120 possibilidades
+> [!TIP] DICA: 
+> - Questões em que se pede os agrupamentos possíveis onde duas ou mais letras devem estar juntas, considera-se as duas ou mais letras como uma só.
+> 
+> Ex: Agrupamentos com a palavra **alberto** em que a as letras **abl** aparecem juntas?
+>
+> 1. Número de elementos ⟶ e, r, t, o = 4 + abl = 1 ⟶ 5 elementos
+> 2. P<sub>5</sub> = 5 . 4 . 3 . 2 . 1 = 120 
+> 3. Resposta: 120 possibilidades
 

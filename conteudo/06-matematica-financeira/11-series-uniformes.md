@@ -32,7 +32,8 @@
   - Periódica (intervalos entre prestações é igual);
   - Não periódica (intervalos entre prestações é diferente).
 
-> [!CAUTION] OBSERVAÇÃO: É preciso atenção em relação às séries classificadas por suas formas, pois influenciam na maneira que se calcula.
+> [!CAUTION] OBSERVAÇÃO: 
+> - É preciso atenção em relação às séries classificadas por suas formas, pois influenciam na maneira que se calcula.
 
 > ### 1.2 Fórmulas Séries Uniformes
 

@@ -33,27 +33,28 @@
   - i = taxa de juros
   - t = tempo
 
-> [!CAUTION] OBSERVAÇÃO: O desconto racional é sempre menor do que o desconto comercial.
-
-Ex: Título de 10 mil descontado 60 dias antes do vencimento com desconto simples de 10% ao mês. Qual o valor com o desconto comercial e o desconto racional?
-
-Dados:  
-n = 10000  
-t = 60 dias = 2 meses  
-i = 10% a.m  
-D = ?  
-
-Desconto comercial:
-1. Montar a fórmula do valor atual ⟶ A = 10000 . (1 - 0,1)<sup>2</sup>
-2. Calcular parêntese ⟶ (1 - 0,1)<sup>2</sup> = (0,9)<sup>2</sup> = 0,81
-3. Multiplicar ⟶ 10000 . 0,81 = 8100
-4. Resposta: O valor atual é = 8100 (desconto de 1900)
-
-Desconto racional:
-1. Montar a fórmula do valor atual ⟶ A = 1000/(1 + 0,10)<sup>2</sup>
-2. Calcular parêntese ⟶ (1 + 0,1)<sup>2</sup> = (1,1)<sup>2</sup> = 1,21
-3. Dividir ⟶ 10000/1,1
-4. Resposta: O valor atual é = 8264,46 (desconto de 1735,53)
+> [!CAUTION] OBSERVAÇÃO: 
+> - O desconto racional é sempre menor do que o desconto comercial.
+>
+> Ex: Título de 10 mil descontado 60 dias antes do vencimento com desconto simples de 10% ao mês. Qual o valor com o desconto comercial e o desconto racional?
+>
+> Dados:  
+> n = 10000  
+> t = 60 dias = 2 meses  
+> i = 10% a.m  
+> D = ?  
+> 
+> Desconto comercial:
+> 1. Montar a fórmula do valor atual ⟶ A = 10000 . (1 - 0,1)<sup>2</sup>
+> 2. Calcular parêntese ⟶ (1 - 0,1)<sup>2</sup> = (0,9)<sup>2</sup> = 0,81
+> 3. Multiplicar ⟶ 10000 . 0,81 = 8100
+> 4. Resposta: O valor atual é = 8100 (desconto de 1900)
+> 
+> Desconto racional:
+> 1. Montar a fórmula do valor atual ⟶ A = 1000/(1 + 0,10)<sup>2</sup>
+> 2. Calcular parêntese ⟶ (1 + 0,1)<sup>2</sup> = (1,1)<sup>2</sup> = 1,21
+> 3. Dividir ⟶ 10000/1,1
+> 4. Resposta: O valor atual é = 8264,46 (desconto de 1735,53)
 
 > ### 1.3 Equivalência entre Taxas de Desconto Comercial e Desconto Racional
 - Duas taxas de desconto (comercial e racional) são equivalentes se produzirem o mesmo desconto em um mesmo prazo de antecipação de um título.

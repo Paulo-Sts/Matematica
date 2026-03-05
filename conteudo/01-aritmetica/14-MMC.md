@@ -38,7 +38,8 @@ Ex: MMC(2, 5) = 10
 Ex: MMC(10, 2) = 10    
 Ex: MMC(6, 3) = 6    
 
-> [!TIP] DICA: Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
+> [!TIP] DICA: 
+> - Para identificar a utilização do MMC na resolução de um problema, basta verificar se na questão existem eventos simultâneos, ou seja, se a questão pede para que se calcule em quanto tempo dois ou mais eventos que já ocorreram ao mesmo tempo irão ocorrer novamente ao mesmo tempo.
 
 > #### Relação MDC e MMC
 - O produto entre o MDC e o MMC de dois números é igual ao produto desses dois números. 

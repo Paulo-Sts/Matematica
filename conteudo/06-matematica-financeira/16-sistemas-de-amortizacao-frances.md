@@ -58,7 +58,8 @@
   - t = número da prestação futura
   - n = quantidade de prestações
 
-> [!TIP] DICA: Sempre iniciar com a realização da dívida, ou seja, pelo início da operação que é realizada no tempo 0.
+> [!TIP] DICA: 
+> - Sempre iniciar com a realização da dívida, ou seja, pelo início da operação que é realizada no tempo 0.
 
 Ex: Dívida no valor de R$ 6.000,00 que é amortizada pela tabela price em 5 prestações mensais, com juros de 2% ao mês. Monte a tabela.
 

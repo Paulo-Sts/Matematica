@@ -9,7 +9,8 @@
   - Tempo (Quantidade de tempo a partir do qual o juros vai ser acrescido ao capital)
 - A aplicação do juros simples pode ser sobre o juro exato, que utiliza como referência, as diferentes quantidades de dias de cada mês, assim como nos anos, ou no juros comercial que considera 30 dias para todos os meses e 360 dias o ano.
 
-> [!CAUTION] OBSERVAÇÃO: A taxa de juros e o tempo devem ser sempre expressos na mesma unidade.
+> [!CAUTION] OBSERVAÇÃO: 
+> - A taxa de juros e o tempo devem ser sempre expressos na mesma unidade.
 
 > ### 1.1 Fórmulas do Cálculo dos Juros Simples
 
@@ -49,8 +50,10 @@ Ex: Uma aplicação financeira de R$ 1.500,00 foi feita a taxa de juros simples 
 6. Resultado ⟶ M = 1725
 7. Resposta: O montante é = R$ 1.725,00
 
-> [!CAUTION] OBSERVAÇÃO: No regime de juros simples, as taxas de juros são proporcionais, dessa forma é possível converter uma taxa definida em determinado período, para uma taxa proporcional a ela em outro tipo de período.
+> [!CAUTION] OBSERVAÇÃO: 
+> - No regime de juros simples, as taxas de juros são proporcionais, dessa forma é possível converter uma taxa definida em determinado período, para uma taxa proporcional a ela em outro tipo de período.
+> 
+> Ex: 12% a.a = 1% a.m = 6% a.s
 
-Ex: 12% a.a = 1% a.m = 6% a.s
-
-> [!TIP] DICA: Usa-se a fórmula do valor do juros, quando apenas uma variável é desconhecida, já a fórmula do montante é mais indicada quando mais de uma variável for desconhecida.
+> [!TIP] DICA: 
+> - Usa-se a fórmula do valor do juros, quando apenas uma variável é desconhecida, já a fórmula do montante é mais indicada quando mais de uma variável for desconhecida.

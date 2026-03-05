@@ -53,5 +53,6 @@
     <img align="left" height="80" width="420" alt="TypeScript" src="./../../img/conversao-tempo.png">
 </div><br><br><br><br><br><br>
 
-> [!TIP] DICA: Para memorizar a ordem das unidades na escala, pode-se usar a frase: "Kamila Hoje Dançou Muito Depois Comeu MM" onde cada inicial corresponde a: Kilo, Hecto, Deca, Metro, Deci, Centi, Mili. A diferença será apenas o tipo de grandeza que vai mudar de acordo com a unidade padrão ou base.
+> [!TIP] DICA: 
+> - Para memorizar a ordem das unidades na escala, pode-se usar a frase: "Kamila Hoje Dançou Muito Depois Comeu MM" onde cada inicial corresponde a: Kilo, Hecto, Deca, Metro, Deci, Centi, Mili. A diferença será apenas o tipo de grandeza que vai mudar de acordo com a unidade padrão ou base.
 

@@ -27,4 +27,5 @@ r = ?
 6. Converter para taxa percentual => 0,047619047619048 . 100 = 4,76
 7. Resposta: A taxa real é = 4,76%
 
-> [!TIP] DICA: Verificando a diferença entre a taxa de aparente e a inflação, pode-se eliminar alternativas em que o valor da taxa real somado a inflação for ou maior do que a taxa nominal, ou igual, pois a taxa nominal sempre é maior do que a taxa real somada a inflação.
+> [!TIP] DICA: 
+> - Verificando a diferença entre a taxa de aparente e a inflação, pode-se eliminar alternativas em que o valor da taxa real somado a inflação for ou maior do que a taxa nominal, ou igual, pois a taxa nominal sempre é maior do que a taxa real somada a inflação.

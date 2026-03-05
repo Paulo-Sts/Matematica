@@ -12,6 +12,7 @@ Ex: 2! = 2 . 1 = 2
 Ex: 3! = 3 . 2 . 1 = 6  
 Ex: 4! = 4 . 3 . 2 . 1 = 24  
 
-> [!TIP] DICA: Em uma razão, o fatorial pode ser eliminado, igualando-se o numerador ao denominador.
-
-Ex: 4!/3! = 4 . 3!/3! = 4  
+> [!TIP] DICA: 
+> - Em uma razão, o fatorial pode ser eliminado, igualando-se o numerador ao denominador.
+>
+> Ex: 4!/3! = 4 . 3!/3! = 4  

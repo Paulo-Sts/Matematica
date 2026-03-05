@@ -19,10 +19,11 @@ Ex: Quais as alternativas ao se convidar 3 amigos entre os amigos A, B, C, D e E
 8. Dividir ⟶ C<sub>5,3</sub>= 20/2 = 10
 9. Resposta: 10 possibilidades
 
-> [!TIP] DICA: Para simplificar o cálculo, após identificar o total de elementos e o tamanho do agrupamento, fatora-se o "n" o número de vezes o valor de "p" e divide-se por "p" fatorado.
-
-Ex: Escolher 3 de 5 amigos.  
-
-1. n = 5, p = 3
-2. C<sub>5,3</sub>= 5 . 4 . 3/3 . 2 . 1
-3. Simplifica ⟶ 5 . 4/2 . 1 = 20/2 = 10
+> [!TIP] DICA: 
+> - Para simplificar o cálculo, após identificar o total de elementos e o tamanho do agrupamento, fatora-se o "n" o número de vezes o valor de "p" e divide-se por "p" fatorado.
+> 
+> Ex: Escolher 3 de 5 amigos.  
+>
+> 1. n = 5, p = 3
+> 2. C<sub>5,3</sub>= 5 . 4 . 3/3 . 2 . 1
+> 3. Simplifica ⟶ 5 . 4/2 . 1 = 20/2 = 10

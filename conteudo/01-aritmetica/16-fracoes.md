@@ -14,12 +14,14 @@
   - a = numerador
   - n = denominador
 
-> [!TIP] DICA: Uma forma de montar uma fração é representa-la de forma geométrica, por exemplo um retângulo dividido em partes iguais, com algumas partes rachuradas. Isso ajuda a visualizar frações a partir do enunciado das questões.
+> [!TIP] DICA: 
+> - Uma forma de montar uma fração é representa-la de forma geométrica, por exemplo um retângulo dividido em partes iguais, com algumas partes rachuradas. Isso ajuda a visualizar frações a partir do enunciado das questões.
 
-> [!TIP] DICA: Frações em que o numerador ou o denominador são negativos, tem como resultado um valor negativo. Frações em que o numerador e o denominador são negativos tem como resultado um valor positivo.
-
-Ex: -1/2 = 1/-2 = -(1/2)  
-Ex: 1/2 = -1/-2  
+> [!TIP] DICA: 
+> - Frações em que o numerador ou o denominador são negativos, tem como resultado um valor negativo. Frações em que o numerador e o denominador são negativos tem como resultado um valor positivo.
+> 
+> Ex: -1/2 = 1/-2 = -(1/2)  
+> Ex: 1/2 = -1/-2  
 
 > ## 2. Tipos de Fração
 
@@ -126,7 +128,8 @@ Ex: 3/9 = 0,333...
  
 Ex: 1/2 . 3/4 = 1 . 2/3 . 4 = 2/12 - 1/6   
 
-> [!TIP] DICA: As expressões 'de', 'do' e 'da' indicam na matemática a ideia de multiplicação. Por exemplo: 2/3 de 300 é? ou seja 2 * 300/3 = 200.
+> [!TIP] DICA: 
+> - As expressões 'de', 'do' e 'da' indicam na matemática a ideia de multiplicação. Por exemplo: 2/3 de 300 é? ou seja 2 * 300/3 = 200.
 
 > ### 3.4 Divisão de Frações
 - Para dividir, basta inverter a segunda fração e realizar a multiplicação entre numeradores e denominadores.

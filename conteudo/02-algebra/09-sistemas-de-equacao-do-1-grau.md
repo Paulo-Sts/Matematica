@@ -19,7 +19,8 @@ x + y = 11
 5. Encontrar valor de x: x + 8 = 11 ⟶ x = 11 - 8 ⟶ x = 3 
 6. Logo o resultado é S:{(3, 8)}
 
-> [!TIP] DICA: Escolher isolar o termo que possuir coeficiente igual a 1.
+> [!TIP] DICA: 
+> - Escolher isolar o termo que possuir coeficiente igual a 1.
 
 > #### Método da Adição
 - Consiste em somar as equações que formam o sistema, criando uma situação em que um dos termos é eliminado ao realizar o cálculo, restando assim apenas um termo, a partir do qual é possível encontrar o seu valor correspondente.
@@ -33,7 +34,8 @@ x - 2y = -11
 3. Encontrar valor do y: 3 + 2y = 17 ⟶ 2y = 17 - 3 ⟶ 2y = 14 ⟶ y = 14/2 ⟶ y = 7
 4. Logo o resultado é S:{(3, 7)}
 
-> [!TIP] DICA: Quando os valores das equações não forem simétricos, multiplicar uma das equações por um número negativo, para igualar o coeficiente de um dos termos da equação e assim eliminar o termo, deixando apenas um termo a partir do resultado da adição das equações. Para descobrir o valor a ser multiplicado, basta verificar se o maior coeficiente de um dos termos de uma das equações é múltiplo do seu correspondente da outra equação.
+> [!TIP] DICA: 
+> - Quando os valores das equações não forem simétricos, multiplicar uma das equações por um número negativo, para igualar o coeficiente de um dos termos da equação e assim eliminar o termo, deixando apenas um termo a partir do resultado da adição das equações. Para descobrir o valor a ser multiplicado, basta verificar se o maior coeficiente de um dos termos de uma das equações é múltiplo do seu correspondente da outra equação.
 
 > #### Método da Comparação
 - Se trata de isolar o mesmo termo das duas equações, igualar as equivalência dos termos isolados e comparar seus valores, encontrando o valor correspondente a um dos termos das equações.

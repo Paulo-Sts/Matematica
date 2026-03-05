@@ -66,9 +66,10 @@ t = 2 (1 ano = 2 semestres)
 4. Subtração ⟶ 1,21 - 1 = 0,21
 5. Resposta: A taxa equivalente de 10% a.s é = 21% a.a
 
-> [!TIP] DICA: Ao converter uma taxa menor para uma maior, no regime simples a taxa equivalente  será menor do que no regime composto, já ao converter uma taxa maior para uma taxa menor, no regime simples a taxa equivalente será maior do que no regime composto. Isso pode ajudar a descobrir a resposta do valor da taxa, fazendo sua comparação com a taxa no outro regime, em questões que cobrem o valor da taxa equivalente em determinado regime.
-
-|                  | JUROS SIMPLES    | JUROS COMPOSTOS     | RELAÇÃO                        |
-| ---------------- |----------------- | ------------------- | ------------------------------ |
-| MENOR PARA MAIOR | 1% a.m = 12% a.a | 1% a.m = 12,68% a.a | juros simples < juros compostos|
-| MAIOR PARA MENOR | 12% a.a = 1% a.m | 12% a.a = 0,96% a.m | juros simples > juros compostos|
+> [!TIP] DICA: 
+> - Ao converter uma taxa menor para uma maior, no regime simples a taxa equivalente  será menor do que no regime composto, já ao converter uma taxa maior para uma taxa menor, no regime simples a taxa equivalente será maior do que no regime composto. Isso pode ajudar a descobrir a resposta do valor da taxa, fazendo sua comparação com a taxa no outro regime, em questões que cobrem o valor da taxa equivalente em determinado regime.
+> 
+> |                  | JUROS SIMPLES    | JUROS COMPOSTOS     | RELAÇÃO                        |
+> | ---------------- |----------------- | ------------------- | ------------------------------ |
+> | MENOR PARA MAIOR | 1% a.m = 12% a.a | 1% a.m = 12,68% a.a | juros simples < juros compostos|
+> | MAIOR PARA MENOR | 12% a.a = 1% a.m | 12% a.a = 0,96% a.m | juros simples > juros compostos|

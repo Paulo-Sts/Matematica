@@ -84,4 +84,5 @@ i = 2% a.m
 4. Somar ⟶ x = 2.080,8 + 1960,78
 5. Resposta: x = 4041,58
 
-> [!TIP] DICA: Construir o diagrama de fluxo de caixa auxilia a visualizar o novo prazo comum.
+> [!TIP] DICA: 
+> - Construir o diagrama de fluxo de caixa auxilia a visualizar o novo prazo comum.
