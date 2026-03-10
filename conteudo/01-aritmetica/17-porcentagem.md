@@ -132,3 +132,9 @@ Ex: Desconto de 10%, com aumento de 20% com desconto de 30%
 > 
 > Ex: 9/100 = 0,09 = 9%    
 > Ex: 0.125 = 12,5% = 125/100  
+
+> [!TIP] DICA: 
+> - Para achar o valor em porcentagem em uma fração com denominador diferente de 100, basta transformar essa fração em uma fração equivalente que possua denominador igual a 100. Isso é feito multiplicando o numerador e o denominador da fração por um mesmo número que resulte em denominador 100, esse valor será o valor correspondente a fração na forma de porcentagem.
+>
+> Ex: 1/40 ⟶ 1/40 . 2.5 = 2.5/100 ou 2.5%   
+> Ex: 4/50 ⟶ 4/50 . 2 = 8/100 ou 8%   
