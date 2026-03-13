@@ -1,3 +1,0 @@
-# Fatoração Algébrica
-
-## Definição
