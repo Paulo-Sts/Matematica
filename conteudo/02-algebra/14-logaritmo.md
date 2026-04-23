@@ -128,6 +128,54 @@ Exemplo: Colog<sub>2</sub> 4
 
 1. Colog<sub>2</sub> 4 = -1 log<sub>2</sub> 4
 
----
 ## 5. Propriedades das Operações entre Logaritmos
----
+
+#### Logaritmo do Produto
+- O logaritmo de um produto é igual à soma de seus logaritmos.
+- Representação:
+  - log<sub>a</sub> (x * y) = log<sub>a</sub> x + log<sub>a</sub> y
+
+Exemplo: Log<sub>2</sub> (4 * 3) 
+
+1. Log<sub>2</sub> (4 * 3) = log<sub>2</sub> 4 + log<sub>2</sub> 3
+
+Exemplo: Log<sub>3</sub> 7 + log<sub>3</sub> 2
+
+1. Log<sub>3</sub> 7 + log<sub>3</sub> 2 = log<sub>3</sub> (7 * 2) = log<sub>3</sub> 14.
+
+#### Logaritmo do Quociente
+- O logaritmo de um quociente é igual à diferença dos logaritmos.
+- Representação:
+  - log<sub>a</sub> (x/y) = log<sub>a</sub> x - log<sub>a</sub> y
+
+Exemplo: Log<sub>2</sub> (5/3) 
+
+1. Log<sub>2</sub> (5/3) = log<sub>2</sub> 5 - log<sub>2</sub> 3
+
+Exemplo: Log<sub>2</sub> 8 - log<sub>2</sub> 4
+
+1. Log<sub>2</sub> 8 - log<sub>2</sub> 4 = log<sub>2</sub> (8/4) = log<sub>2</sub> 2 = 1
+
+#### Logaritmo da Potência
+- O logaritmo de uma potência é igual ao produto dessa potência pelo logaritmo. Tem-se um expoente no logaritmando como se ele pudesse, sendo conveniente ou não, jogar ele para trás e ele voltar multiplicando. É uma manipulação que é utilizada nessa propriedade.
+- Representação:
+  - log<sub>a</sub> x<sup>m</sup> = m * log<sub>a</sub> x
+
+Exemplo: Log<sub>2</sub> 4<sup>2</sup>
+
+1. Log<sub>2</sub> 4<sup>2</sup> = 2 * Log<sub>2</sub> 4
+
+#### Mudança de Base do Logaritmo
+- A mudança de base tem como consequência que o que era logaritmando continua sendo logaritmando, porém agora do numerador da razão, e o que era a base que foi modificada passa a ser o logaritmando do denominador (parte de baixo da fração), essa é a consequência de mudar-se a base. 
+- Importante lembrar que a base deve ser um valor positivo e não pode sumir o valor 1.
+- Representação:
+  - log<sub>a</sub> x = log<sub>b</sub> x/log<sub>b</sub> a
+
+Exemplo: Log<sub>2</sub> 5
+
+1. Log<sub>2</sub> 5 = log<sub>3</sub> 5/log<sub>3</sub> 2
+
+
+Exemplo: Log<sub>4</sub> 7
+
+1. Log<sub>4</sub> 7 = log<sub>5</sub> 7/log<sub>5</sub> 4
