@@ -1,6 +1,6 @@
 # Função do Exponencial
 
-> ## 1. Definição
+## 1. Definição
 - Função Exponencial é aquela que a variável está no expoente e cuja base é sempre maior que zero e diferente de um. Tal função, é explicitada da seguinte forma: f: R -> R
 tal que y = ax, sendo que a > 0 e a ≠ 1.
 - Representação: 

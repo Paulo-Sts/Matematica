@@ -1,10 +1,10 @@
 # Regra de Três
 
-> ## 1. Regra de Três Simples
+## 1. Regra de Três Simples
 - É um processo para resolução de problemas envolvendo duas grandezas, em que a proporção que as forma possui um dos valores desconhecido.
 - A regra de três pode ser diretamente ou inversamente proporcional.
 
-> #### Cálculo
+#### Cálculo
 1. Identificar as grandezas dadas e ordena-las em uma proporção, deixando a icógnita sempre como consequente.
 2. Identificar se é a relação entre as grandezas é direta ou inversamente proporcional.
 3. Para regra de três direta, multiplica-se de forma cruzada.
@@ -27,11 +27,11 @@ Ex: 5 máquinas cortam a grama em 120 minutos, 12 máquinas cortaram em quanto?
 4. Isolar a icógnita: x = 600/12 ⟶ x = 50
 5. Resposta: As 12 máquinas vão cortar a grama em 50 minutos
 
-> ## 2. Regra de Três Composta
+## 2. Regra de Três Composta
 - É um processo para resolução de problemas envolvendo três ou mais grandezas, em que a proporção que as forma possui um dos valores desconhecido.
 - A regra de três pode ser diretamente ou inversamente proporcional.
 
-> #### Cálculo
+#### Cálculo
 1. Identificar as grandezas dadas e ordena-las entre processos (ações) e produto (resultado das ações) na reta em x.
 2. Identificar as novas grandezas com a grandeza que se quer obter (icógnita) e ordenar abaixo das anteriores na reta em x.
 3. Multiplicar as grandezas dadas seguindo os elementos da linha superior da reta em x.

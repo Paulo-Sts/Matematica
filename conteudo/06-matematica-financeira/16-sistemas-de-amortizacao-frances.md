@@ -1,13 +1,13 @@
 # Sistemas de Amortização Francês
 
-> ## 1. Definição
+## 1. Definição
 - Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
 - Representação:
   - Prestação = amortização + juros
 - O sistema de amortização francês ou tabela price é o mais aplicado pelas instituições financeiras nos financiamentos imobiliários e pelo comércio em geral. 
 - O cálculo da amortização de uma dívida é feito utilizando uma tabela que relaciona as prestações, a amortização, o saldo devedor e os juros.
 
-> #### Características
+#### Características
 - As prestações são iguais ao longo do tempo.
 - O valor da amortização é variável ao longo do tempo.
 - Os juros incidem sobre o saldo devedor que por decrescerem ao longo do tempo, geram juros cada vez menores, ou seja, os juros são decrescentes.

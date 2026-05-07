@@ -24,7 +24,7 @@ Ex: Uma moeda é lançada 8 vezes, qual a chance de sair exatamente 5 caras?
 9. Divisão ⟶ P(8 repetições, 5 cara) = 56/256 : 8 = 7/32
 10. Resposta: 7/32
 
-> #### Outra Forma de Resolver
+#### Outra Forma de Resolver
 - A probabilidade binomial envolve a probabilidade de eventos independentes em que não é definida uma ordem específica de ocorrência, nesse caso é necessário multiplicar o resultado pelo número de combinações possíveis de o evento acontecer.
 - Representação:
   - P(A ∩ B) = P(A) . P(B) . C<sub>n, p</sub>

@@ -1,6 +1,6 @@
 # Equação do 1º Grau
 
-> ## 1. Definição
+## 1. Definição
 - Equação é toda expressão matemática que apresenta uma expressao algébrica (possui icógnita) e uma igualdade.
 - Uma equação do 1º grau é uma expressão matemática com relação de igualdade entre termos conhecidos e desconhecidos em que o expoente dos termos desconhecidos é sempre 1.
 - Uma equação pode ter um ou mais termos desconhecidos.
@@ -11,7 +11,7 @@
   - ax + b (1º membro)
   - 0 (2º membro)
 
-> #### Cálculo
+#### Cálculo
 - Isolar termos com icógnita no primero membro.
 - Isolar termos numéricos no segundo membro.
 - Realizar operações entre os lados da igualdade.
@@ -19,7 +19,7 @@
 
 > ### 1.1 Propriedades
 
-> #### Equivalência de Equações
+#### Equivalência de Equações
 - Duas equações, são equivalentes quando possuem o mesmo conjunto solução.
 
 Ex: 2x = 8 
@@ -36,13 +36,13 @@ Ex: 3x + 4 = 16
 4. x = 4  
 5. conjunto solução: S = {4}
 
-> #### Regras de Transição dos Termos entre Membros
+#### Regras de Transição dos Termos entre Membros
 - Se o termo está somando, ao trocar de membro passa a subtrair.
 - Se o termo está subtraindo, ao trocar de membro passa a somar.
 - Se o termo está multiplicando, ao trocar de membro passa a dividir.
 - Se o termo está dividindo, ao trocar de membro passa a multiplicar.
 
-> #### Conjunto Verdade não Correspondente
+#### Conjunto Verdade não Correspondente
 - Para determinado conjunto universo em que se expressa o conjunto verdade da equação, caso não se tenha solução correspondente o cojunto solução da equação é o conjunto vazio.
 
 Ex: 2x + 5 = x + 2  em que x ∈ U = N  

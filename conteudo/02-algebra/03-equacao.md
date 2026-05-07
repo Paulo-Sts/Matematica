@@ -1,11 +1,11 @@
 # Equação
 
-> ## 1. Definição
+## 1. Definição
 - Equação é toda expressão matemática formada por expressões algébricas e uma igualdade.
 - A resolução de uma equação envolve encontrar as **raízes da equação**.
 - O grau de uma equação é determinado pelo maior expoente das variáveis que a formam.
 
-> #### Raízes da equação
+#### Raízes da equação
 - A raíz de uma equação é o valor que ao substituir as variáveis da equação a tornam verdadeira, formando o seu conjunto solução.
 
 Ex: 2x = 10

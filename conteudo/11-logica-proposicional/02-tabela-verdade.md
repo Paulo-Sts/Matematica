@@ -1,6 +1,6 @@
 # Tabela Verdade
 
-> ## 1. Definição
+## 1. Definição
 - Trata-se de uma tabela formada por linhas e colunas, mediante a qual são analisados os valores lógicos de proposições compostas. 
 - O número de linhas da tabela depende do número de proposições que a sentença apresenta. 
 - Representação:
@@ -8,18 +8,18 @@
   - n = número de proposições
 - A ordem das possibilidades inicia com 4 verdadeiro e 4 falso na proposição **p**, 2 verdadeiro e 2 falso na proposição **q** e assim por diante sendo a proxima proposição sempre a alternância entre verdadeiro e falso a metade da proposição anterior, até alternar 1 verdadeiro e 1 falso.
 
-> #### Possíveis Resultados da Tabela Verdade
+#### Possíveis Resultados da Tabela Verdade
 - Tautologia: É uma proposição cujo valor lógico é sempre verdadeiro.
 - Contradição: É uma proposição cujo valor lógico é sempre falso.
 - Contingência: Quando uma proposição não é tautológica nem contra-válida, a chamamos de contingência ou proposição indeterminada.
 
-> #### Formação da Tabela Verdade
+#### Formação da Tabela Verdade
 1. Descobrir o número de proposições simples.
 2. Calcular o número de linhas da tabela-verdade pela fórmula.
 3. Desenhar a tabela-verdade.
 4. Preencher a tabela-verdade com valores lógicos de verdadeiro ou falso.
 
-> #### Regras para o Preenchimento da Tabela Verdade
+#### Regras para o Preenchimento da Tabela Verdade
 1. Começar sempre pelas proposições simples e suas negações, se houver.
 2. Resolver os ( ), [ ] e { }, respectivamente, se houver.
 3. Fazer primeiro as conjunções e disjunções, depois condicional e por último o Bicondicional.
@@ -46,7 +46,7 @@ Exemplo 2: ~p ∧ q
 
 > ### 1.1 Tabelas Verdade da Proposição Composta
 
-> #### Tabela Verdade da Conjunção
+#### Tabela Verdade da Conjunção
 - Formada pelo conectivo **e**.
 - Será verdadeira somente quando todas as proposições forem verdadeiras.
 - Operação:
@@ -61,7 +61,7 @@ Exemplo 2: ~p ∧ q
 | F | V | F     |
 | F | F | F     |
 
-> #### Tabela Verdade da Disjunção 
+#### Tabela Verdade da Disjunção 
 - Formada pelo conectivo **ou**.
 - Será falsa somente quando todas proposições forem falsas.
 - Operação:
@@ -74,7 +74,7 @@ Exemplo 2: ~p ∧ q
 | F | V | V     |
 | F | F | F     |
 
-> #### Tabela Verdade da Condicional 
+#### Tabela Verdade da Condicional 
 - Formada pelo conectivo **Se...então..**.
 - Será falsa somente quando a primeira proposição (antecedente) for verdadeira e a segunda proposição (consequente) for falsa.
 - Operação:
@@ -97,7 +97,7 @@ Exemplo 2: ~p ∧ q
 >   - "Aprender Matemática é condição NECESSÁRIA para estudar com Waguinho" (q → p)
 >   - "Estudo com Waguinho SOMENTE SE aprendo Matemática" (→)
 
-> #### Tabela Verdade da Bicondicional
+#### Tabela Verdade da Bicondicional
 - Formada pelo conectivo **Se, e somente se...**.
 - Será verdadeira quando ambas as proposições tiverem o mesmo valor lógico.
 - Operação:
@@ -112,7 +112,7 @@ Exemplo 2: ~p ∧ q
 | F | V | F      |
 | F | F | V      |
 
-> #### Tabela Verdade da Disjunção Exclusiva
+#### Tabela Verdade da Disjunção Exclusiva
 - Formada pelo conectivo **ou...ou...**.
 - Será verdadeira somente quando ambas as proposições tiverem valor lógico diferente.
 - Operação:
@@ -127,7 +127,7 @@ Exemplo 2: ~p ∧ q
 | F | V | V       |
 | F | F | F       |
 
-> ## 2. Resumo das Regras da Lógica Proposicional
+## 2. Resumo das Regras da Lógica Proposicional
 
 <div style="display:inline_block">
     <img align="left" height="450" width="600" alt="TypeScript" src="./../../img/regras-logica-proposicional.png">

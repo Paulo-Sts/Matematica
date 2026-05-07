@@ -1,6 +1,6 @@
 # Probabilidade de um Evento
 
-> ## 1. Definição
+## 1. Definição
 - A probabilidade de ocorrência de um evento, se dá pela razão entre os resultados favoráveis e os resultados possíveis.
 - Representação:
   - P(A) = n(A)/n(Ω)

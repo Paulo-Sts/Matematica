@@ -1,6 +1,6 @@
 # Progressão Geométrica
 
-> ## 1. Definição
+## 1. Definição
 - Progressão geométrica é uma sequência de números em que cada termo a partir do segundo, se da pela multiplicação do termo anterior com uma constante **q**. Essa constante é chamada de razão da P.G.
 - Cada termo da sequência possui uma posição definida, sendo a sua posição em relação aos outros termos determinante para estabelecimento dos próximos termos da P.G.
 
@@ -16,7 +16,7 @@ Ex: (64, 16, 4, 1, ...)
   - a<sub>n</sub> = enésimo termo
   - a<sub>n-1</sub> = termo anterior
 
-> #### Cálculo
+#### Cálculo
 1. Divide-se o 2º termo da P.G pelo primeiro termo.
 2. Verifica-se se a divisão entre os demais termos pelo seu antecessor tem o mesmo resultado.
 3. Se sim, trata-se de uma P.G e esse valor é a razão que a determina.
@@ -31,34 +31,34 @@ Ex: (2, 4, 8, 16) ⟶ q = 2
 > ### 1.2 Classificação das P.Gs
 - As progressões aritméticas são definidas, a partir do valor das razões que a definem.
 
-> #### Constante
+#### Constante
 - Progressão geométrica em que o valor da razão é igual a 1, sendo assim todos os termos da P.G possuem o mesmo valor.
 
 Ex: (2, 2, 2, 2, 2) => q = 1  
 
-> #### Crescente
+#### Crescente
 - Progressão geométrica em que o valor da razão é maior que zero. Os termos da P.G sempre aumentarão de valor.
 
 Ex: (9, 27, 81, 243, 729...) => q = 3  
 
-> #### Decrescente
+#### Decrescente
 - Progressão geométrica em que o valor da razão é menor que zero. Os termos da P.G sempre diminuirão de valor.
 
 Ex: (-6, -36,- 216, -1296, ...) => q = 6  
 
-> #### Oscilante ou Alternante
+#### Oscilante ou Alternante
 - Progressão geométrica em que o valor da razão é menor que zero e a continuidade varia entre termos positivos e negativos.
 
 Ex: (2, -4, 8, -16, 32, 64, …) => q = -2  
 
-> #### Quase Nula
+#### Quase Nula
 - Progressão geométrica em que apenas o primeiro elemento é diferente de zero.
 
 Ex: (5, 0, 0, 0) => q = 0  
 
 > ### 1.3 Propriedades das Progressões Geométricas
 
-> #### Relação entre Termo Médio e Termos Extremos
+#### Relação entre Termo Médio e Termos Extremos
 - Em uma P.G (a, b, c) em que a ≠ 0, o quadrado do termo médio da P.G será igual ao produto dos termos extremos da P.G.
 
 Ex: (3, 6, 12)
@@ -67,7 +67,7 @@ Ex: (3, 6, 12)
 2. Produto dos extremos ⟶ 3 . 12 = 36
 3. Igualdade ⟶ 36 = 36
 
-> #### Igualdade do Produto de Termos Equidistantes e Termos Extremos
+#### Igualdade do Produto de Termos Equidistantes e Termos Extremos
 - A multiplicação de termos equidistantes de uma P.G será igual ao produto dos termos extremos da P.G.
 
 Ex: (4, 8, 16, 32, 64)

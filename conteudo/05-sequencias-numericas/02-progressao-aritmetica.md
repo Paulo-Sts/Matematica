@@ -19,7 +19,7 @@ Ex: (20, 10, 0, -10, ...)
   - a<sub>n</sub> = enésimo termo
   - a<sub>n-1</sub> = termo anterior
 
-> #### Cálculo
+#### Cálculo
 1. Subtraí-se o 2º termo da P.A pelo primeiro termo.
 2. Verifica-se se a subtração entre os demais termos e pelo seu antecessor tem o mesmo resultado.
 3. Se sim, trata-se de uma P.A e esse valor é a razão que a determina.
@@ -34,24 +34,24 @@ Ex: (2, 5, 8, 11) ⟶ r = 3
 > ### 1.2 Classificação das P.As
 - As progressões aritméticas são definidas, a partir do valor das razões que a definem.
 
-> #### Constante
+#### Constante
 - Progressão aritmérica em que o valor da razão é igual a zero. Sendo assim todos os termos da P.A possuem o mesmo valor.
 
 Ex: (2, 2, 2, 2, 2) ⟶ r = 0  
 
-> #### Crescente
+#### Crescente
 - Progressão aritmética em que o valor da razão é maior que zero. Os termos da P.A sempre aumentarão de valor.
 
 Ex: (2, 8, 14, 20, 28, ...) ⟶ r = 6  
 
-> #### Decrescente
+#### Decrescente
 - Progressão aritmética em que o valor da razão é menor que zero. Os termos da P.A sempre diminuirão de valor.
 
 Ex: (30, 25, 20, 15, 10, 5, 0, -5, -10, ...) ⟶ r = -5  
 
 > ### 1.3 Propriedades das Progressões Aritméticas
 
-> #### Igualdade da Soma de Termos Equidistantes e a Soma dos Termos Extremos
+#### Igualdade da Soma de Termos Equidistantes e a Soma dos Termos Extremos
 - Em uma P.A finita, a soma dos termos equidistantes dos extremos é igual a soma dos termos extremos.
 
 Ex: (2, 6, 10, 14, 18, 22, 26)  
@@ -63,7 +63,7 @@ Ex: (2, 6, 10, 14, 18, 22, 26)
 > [!TIP] DICA: 
 > - Essa propriedade é útil em questões que se pede para encontrar o valor de um determinado termo, a partir dos termos dados, por exemplo tem se os 1º, 2º e 6º termos e se pede o valor do 5º termo. 
 
-> #### Relação entre Três Termos Consecutivos
+#### Relação entre Três Termos Consecutivos
 - Considerando três termos consecutivos de uma P.A, o termo do meio será igual a média aritmética dos termos dos extremos.
 
 Ex: (2, 6, 10, 14, 18, 22, 26)  
@@ -72,7 +72,7 @@ Ex: (2, 6, 10, 14, 18, 22, 26)
 2. Média dos termos extremos ⟶ 10 + 18 = 28/2 = 14
 3. Igualdade com o termo do meio ⟶ 14 = 14
 
-> #### Igualdade entre o Valor Central e a Média dos Termos Equidistantes de uma P.A de Tamanho Ímpar
+#### Igualdade entre o Valor Central e a Média dos Termos Equidistantes de uma P.A de Tamanho Ímpar
 - Em uma P.A finita com número ímpar de termos, o termo central é igual à média aritmética dos termos equidistantes do termo central da P.A.
 
 Ex: (2, 6, 10, 14, 18, 22, 26)  
@@ -81,7 +81,7 @@ Ex: (2, 6, 10, 14, 18, 22, 26)
 2. Média dos termos equidistantes ⟶ 10 + 18 = 28/2 = 14 | 6 + 22 = 28/2 = 14 | 2 + 26 = 28/2 = 14
 3. Igualdade com o termo central ⟶ 14 = 14
 
-> #### Igualdade entre Três Termos Consecutivos Somados e o Triplo do Termo Central
+#### Igualdade entre Três Termos Consecutivos Somados e o Triplo do Termo Central
 - Em uma P.A, selecionando três termos consecutivos, a soma destes termos, será igual ao triplo do termo do central deste subconjunto.
 
 Ex: (2, 6, 10, 14, 18, 22, 26)  

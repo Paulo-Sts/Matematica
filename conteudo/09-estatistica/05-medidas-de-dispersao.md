@@ -1,6 +1,6 @@
 # Medidas de Dispersão 
 
-> ## 1. Definição
+## 1. Definição
 - São parâmetros estatísticos usados para determinar o grau de variabilidade dos dados de um conjunto de valores.
 - A utilização desses parâmetros tornam a análise de uma amostra mais confiável, visto que as variáveis de tendência central (média, mediana, moda) muitas vezes encondem a homogeneidade ou não dos dados.
 - As medidas de dispersão mais usadas são: amplitude, variância, desvio padrão e coeficiente de variação.

@@ -1,6 +1,6 @@
 # Adição
 
-> ## 1. Definição
+## 1. Definição
 - A adição é a junção (acréscimo) de dois ou mais elementos (números) através de uma operação matemática.
 - O simbolo **+** representa a operação de adição.
 - Cada termo da adição é chamado de **parcela**.
@@ -10,7 +10,7 @@
 - Prova real da adição:
   - soma - parcela2 = parcela1
 
-> #### Cálculo
+#### Cálculo
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Somar os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada junção o resultado é um algarismo, sendo reagrupado para a próxima ordem o valor que exceder (maior que 9) o teto da respectiva casa decimal (unidade, dezena, centena, ...).
@@ -29,7 +29,7 @@ Ex: 35 + 66 = 101
 
 > ### 1.1 Propriedades da Adição
 
-> #### Comutativa
+#### Comutativa
 - A ordenação dos elementos de uma adição não altera o seu resultado.
 - Representação:
   - a + b = b + a
@@ -37,14 +37,14 @@ Ex: 35 + 66 = 101
 Ex: 10 + 15 = 25  
 Ex: 15 + 10 = 25  
 
-> #### Associativa
+#### Associativa
 - A associação (junção parcial) entre diferentes parcelas de uma adição para simplificar o cálculo, não interferem no resultado.
 - Representação:
   - (a + b) + c = a + (b + c)
 
 Ex: (3 + 9) + 7 =  3 + (9 + 7)   
 
-> #### Elemento Neutro
+#### Elemento Neutro
 - O zero é o elemento neutro de uma adição, pois não modifica o seu resultado. Sendo assim todo número somado a zero é o próprio número.
 - Representação:
   - a + 0 = a
@@ -52,7 +52,7 @@ Ex: (3 + 9) + 7 =  3 + (9 + 7)
 Ex: 10 + 0 = 10  
 Ex: 0 + 6 = 6  
 
-> #### Elemento Oposto
+#### Elemento Oposto
 - O número oposto ou simétrico é o número com sinal trocado.
 - A soma de números opostos sempre é igual a zero.
 - Representação:
@@ -63,13 +63,13 @@ Ex: -6 + 6 = 0
 
 > ### 1.2 Regra dos Sinais na Adição
 
-> #### Sinais iguais
+#### Sinais iguais
 - Soma-se os valores e repete-se o sinal.
 
 Ex: 10 + 7 = 17  
 Ex: -4 + (-5) = -9
 
-> #### Sinais diferentes
+#### Sinais diferentes
 - Subtrai-se os valores mantendo o sinal do maior número.
 
 Ex: -2 + 7 = +5  

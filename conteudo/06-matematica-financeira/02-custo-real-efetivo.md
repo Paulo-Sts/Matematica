@@ -1,6 +1,6 @@
 # Custo Real Efetivo
 
-> ## 1. Definição
+## 1. Definição
 - O custo real efetivo ou taxa de juros real, calcula o ganho real em operações financeiras de financiamento, empréstimo e investimo. 
 - O cálculo é feito para retirar o efeito da taxa de inflação sobre o juros, encontrando assim a taxa real de juros.
 - Fórmula da taxa real:

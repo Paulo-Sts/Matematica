@@ -1,6 +1,6 @@
 # Sequências
 
-> ## 1. Definição
+## 1. Definição
 - É todo conjunto composto por elementos que obedeçam a uma determinada lei de formação (ordem).
 - Prinpipais tipos de sequências:
   - Sequências numéricas;
@@ -8,7 +8,7 @@
   - Sequências geométricas;
   - Sequências de eventos.
 
-> ## 2. Sequências numéricas
+## 2. Sequências numéricas
 - Sequências numericas é são conjuntos formados por números definidos por determinada ordem.
 - Os elementos que formam a sequência são chamados de termos da sequência. A sua posição e seu valor é determinado pela lei de formação da sequência.
 - Representação:
@@ -23,49 +23,49 @@
 
 > ### 2.1 Tipos de Sequências
 
-> #### Sequência Finita
+#### Sequência Finita
 - Sequência que possui uma quantidade limitade de termos, possuindo início e fim.
 
 Ex: (5, 7, 9, 11, 13)  
 
-> #### Sequência Infinita
+#### Sequência Infinita
 - Sequência que possui uma quantidade infinita de termos, tendo um início, mas não possuindo fim.
 
 Ex: (1, 3, 5, 7, 9, ...)
 
-> #### Sequência Crescente
+#### Sequência Crescente
 - Sequência em que cada termo da sequência é sempre maior que o seu antecessor.
 
 Ex: (2, 4, 6, 8)
 
-> #### Sequência Decrescente
+#### Sequência Decrescente
 - Sequência em que cada termo da sequência é sempre menor que o seu antecessor.
 
 Ex: (10, 5, 0, -5, -10, ...)
 
-> #### Sequência Monótona
+#### Sequência Monótona
 - Sequência que não é nem crescente nem decrescente.
 
 Ex: (1, 2, 1, 2, 1, 2, ...)
 
-> #### Sequência Constante
+#### Sequência Constante
 - Sequência em que todos os termos são iguais.
 
 Ex: (2, 2, 2, 2, 2)
 
-> #### Sequência Oscilante
+#### Sequência Oscilante
 - Sequência em que os termos possuem valores maiores e menores que seus sucessores.
 
 Ex: (0, -4, 20, -6, 12, ...)
 
 > ### 2.2 Exemplos de Sequências Numéricas 
 
-> #### Sequência de Fibonacci
+#### Sequência de Fibonacci
 - É uma das sequências numéricas mais conhecidas na matemática. Ela começa com os números 0 e 1, e os números subsequentes são obtidos somando os dois números anteriores. P
 - Sequência:
   - (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...)
 
-> #### Sequência dos Números Primos 
+#### Sequência dos Números Primos 
 - Sequência formada por números que só possuem dois divisores. É uma sequência infinita.
 - Sequência:
   - (2, 3, 5, 7, 11, 13, 17, 19, 23, 29,...)

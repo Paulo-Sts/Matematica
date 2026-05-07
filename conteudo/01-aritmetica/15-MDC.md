@@ -1,11 +1,11 @@
 # MDC
 
-> ## 1. Definição
+## 1. Definição
 - Máximo divisor comum, é o produto dos divisores comuns de dois ou mais números.
 - O MDC de dois números **a** e **b**, é o maior valor que divide **a** e **b** ao mesmo tempo.
 - O MDC é determinado a partir da decomposição dos valores em fatores primos.
 
-> #### Cálculo
+#### Cálculo
 1. Organiza-se os números a esquerda lado a lado.
 2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números.
 3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
@@ -26,17 +26,17 @@ Ex: MDC de 30 e 12 = 6
 
 > ### 1.1 Propriedades do MDC
 
-> #### MDC entre Números Consecutivos
+#### MDC entre Números Consecutivos
 - Entre dois números consecutivos o MDC entre eles sempre será 1, pois eles são primos entre si.
 
 Ex: MDC(11, 10) = 1  
 
-> #### MDC entre Divisores
+#### MDC entre Divisores
 - O MDC entre dois ou mais números em que um deles é divisor dos demais, o MDC será esse número.
 
 Ex: MDC(5, 10, 20) = 5  
 
-> #### Relação MDC e MMC
+#### Relação MDC e MMC
 - O produto entre o MDC e o MMC de dois números é igual ao produto desses dois números. 
 - Representação da relação:
   - MDC(a, b) x MMC(a, b) = a x b

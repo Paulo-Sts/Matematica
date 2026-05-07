@@ -1,6 +1,6 @@
 # Taxa de Juros
 
-> ## 1. Definição
+## 1. Definição
 - A taxa de juros é uma operação em que um capital (valor monetário conhecido hoje) é projetado para uma data posterior. O objetivo é descobrir qual o valor que esse capital irá se transformar.
 - A taxa de juros é expressa como uma porcentagem acompanhada por uma unidade de tempo. Essa expressão pode se apresentar em diferentes formas, sendo fundamental adequar a expressão da taxa a condição apresentada para a realização da operação.
 
@@ -31,13 +31,13 @@ taxa = 36% ao ano
 2. Divisão ⟶ 36/12 = 3
 3. Resposta: A taxa efetiva é = 3% ao mês
 
-> ## 2. Taxas Proporcionais
+## 2. Taxas Proporcionais
 - Taxas proporcionais, são diferentes taxas que produzem os mesmos juros, em um mesmo prazo a juros simples. As taxas proporcionais são taxas equivalentes em aplicações de regime simples.
 - A conversão entre taxas aplicadas a juros simples é feita a partir da relação do seu período de capitalização com o período da aplicação.
 
 Ex: 12% a.m = 144% a.a = 24% a.b
 
-> ## 3. Taxas Equivalentes
+## 3. Taxas Equivalentes
 - São diferentes taxas que aplicadas, no regime composto, a um mesmo prazo produzem o mesmo montante.
 - A conversão em taxas equivalentes no regime composto se dá a partir da conversão de uma taxa de menor período para uma taxa de maior período, ou o contrário.
 - O período de capitalização determina o período de cálculo da taxa equivalente em outra unidade de tempo. Por exemplo se a capitalização for mensal, para uma taxa equivalente anual o período será de 12 meses.

@@ -1,6 +1,6 @@
 # Frações
 
-> ## 1. Definição
+## 1. Definição
 - Fração é a representação da retirada de partes de um valor inteiro que foi dividido em porções iguais.
 - As frações representam também uma divisão, ou seja, a separação de um determinado valor a partir de um determinado número fragmentado em partes iguais.
 - O termos que formam a fração são o **numerador** que é o número de partes do todo que foram tomadas e o **denominador** que representa o número total de partes iguais que o valor inteiro foi dividido.
@@ -23,7 +23,7 @@
 > Ex: -1/2 = 1/-2 = -(1/2)  
 > Ex: 1/2 = -1/-2  
 
-> ## 2. Tipos de Fração
+## 2. Tipos de Fração
 
 > ### 2.1 Fração Própria
 - Uma fração é própria, quando o seu numerador é menor que o denominador, ou seja, representa um valor menor que um inteiro.
@@ -79,7 +79,7 @@ Ex: 6/3 = 2
  
 Ex: 3/9 = 0,333... 
 
-> ## 3. Operações com frações
+## 3. Operações com frações
 
 > ### 3.1 Adição de Frações
 - Para frações com diferentes denominadores é preciso realizar a transformação de seus denominadores em denominadores iguais.
@@ -89,7 +89,7 @@ Ex: 3/9 = 0,333...
   - a + b/c = (d:1 . a)/d + (d:c . b)/d
   - d = MMC(1, c)
 
-> #### Cálculo
+#### Cálculo
 1. Verifica-se o valor dos denominadores de cada fração.
 2. Para denominadores iguais, repete-se o denominador e soma-se os numeradores de cada fração.
 3. Se for possível dividir o numerador pelo denominador em um valor inteiro, ou realizar a simplificação da fração resultante da adição, realiza-se a divisão, ou simplificação.
@@ -110,7 +110,7 @@ Ex: 3/9 = 0,333...
   - a - b/c = (d:1 . a)/d - (d:c . b)/d
   - d = MMC(1, c)
 
-> #### Cálculo
+#### Cálculo
 1. Verifica-se o valor dos denominadores de cada fração.
 2. Para denominadores iguais, repete-se o denominador e soma-se os numeradores de cada fração.
 3. Se for possível simplifica-se a fração resultante.

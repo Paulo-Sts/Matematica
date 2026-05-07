@@ -1,6 +1,6 @@
 # Fatorial
 
-> ## 1. Definição
+## 1. Definição
 - O fatorial de um número é o produto deste número por todos os seus antecessores até 1.
 - Representação:
   - n!

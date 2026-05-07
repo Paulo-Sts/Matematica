@@ -1,6 +1,6 @@
 # Sistemas de Amortização Misto
 
-> ## 1. Definição
+## 1. Definição
 - Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
 - Representação:
   - Prestação = amortização + juros
@@ -36,7 +36,7 @@ n = 100
 3. Dividir ⟶ P<sub>sam</sub> = 3.586,57/2 ⟶ P<sub>sam</sub> = 1.793,29
 4. Resposta: Prestação pelo SAC é = R$ 1.793,29
 
-> #### Vantegens e Desvantagens do SAM
+#### Vantegens e Desvantagens do SAM
 - O montante pago pelo sistema SAM é menor do que o montante pago pelo sistema Price.
 - As primeiras parcelas no sistema SAM não são tão altas como no sistema SAC.
 - O montante pago pelo sistema SAM é maior do que o montante pago pelo sistema SAC.

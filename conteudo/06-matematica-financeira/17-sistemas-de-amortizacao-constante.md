@@ -1,13 +1,13 @@
 # Sistemas de Amortização Constante
 
-> ## 1. Definição
+## 1. Definição
 - Em uma operação de parcelamento, ao saldarmos um compromisso através de pagamentos iguais ou variáveis, estamos na realidade fazendo dois pagamentos. O primeiro pagamento refere-se a devolução ao credor do capital recebido, processo chamado de amortização, pago de acordo com condições combinadas previamente. O segundo pagamento ao credor diz respeito à remuneração dos recursos de propriedade do detentor do capital. Esses valores referem-se aos juros. Após o pagamento de cada prestação, a amortização é abatida do saldo devedor.
 - Representação:
   - Prestação = amortização + juros
 - O Sistema de Amortização Constante (SAC) é um sistema de amortização utilizado em geral para financiamentos imobiliários. 
 - O cálculo da amortização de uma dívida é feito utilizando uma tabela que relaciona as prestações, a amortização, o saldo devedor e os juros.
 
-> #### Características
+#### Características
 - As amortizações são iguais ao longo do tempo.
 - O valor da prestação é variável ao longo do tempo.
 - Os juros incidem sobre o saldo devedor que por decrescerem ao longo do tempo, geram juros cada vez menores, ou seja, os juros são decrescentes.

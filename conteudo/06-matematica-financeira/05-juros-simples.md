@@ -1,6 +1,6 @@
 # Juros Simples 
 
-> ## 1. Definição
+## 1. Definição
 - O regime de juros simples é o regime de capitalização em que os juros são calculados a cada período, tendo sempre como base o capital inicial.
 - As variáveis que formam o juros simples são:
   - Juros (Valor acrescido)
@@ -14,7 +14,7 @@
 
 > ### 1.1 Fórmulas do Cálculo dos Juros Simples
 
-> #### Valor do Montante
+#### Valor do Montante
 - Calcula o valor final da aplicação.
 - Fórmula:
   - M = c + j
@@ -22,7 +22,7 @@
   - c = capital
   - j = juros
 
-> #### Valor dos Juros
+#### Valor dos Juros
 - Calcula o valor dos juros sobre o capital inicial. 
 - Fórmula:
   - J = c . i . t
@@ -31,7 +31,7 @@
   - i = taxa de juros (em porcentagem ou em forma unitária)
   - t = tempo
 
-> #### Fórmula do Montante
+#### Fórmula do Montante
 - Calcula já o valor final da aplicação, a partir da incidência dos juros.
 - Fórmula:
   - M = c . (1 + i . t)

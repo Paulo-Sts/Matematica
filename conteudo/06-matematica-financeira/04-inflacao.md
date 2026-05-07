@@ -1,6 +1,6 @@
 # Inflação
 
-> ## 1. Definição
+## 1. Definição
 - A inflação é o aumento do preço de produtos e serviços. É uma taxa calculada a partir de índices de preços, que mensuram o nível geral dos preços ao longo do tempo.
 - A inflação também pode ser entendida, como a perda de valor da moeda ao longo do tempo, sendo o seu aumento inversamente proporcional ao valor de compra da moeda.
 - O processo inverso a inflação, chama-se deflação e é entendida como a baixa generalizada dos preços de produtos e serviços, ou seja, é um processo de desaceleração econômica.
@@ -20,7 +20,7 @@
 
 > ### 1.2 Cálculo da Inflação
 
-> #### Inflação de um Período
+#### Inflação de um Período
 - Cálcula a inflação de um determinado período.
 - Fórmula:
   - Inflação no período = (índice final/índice inicial) - 1  
@@ -37,7 +37,7 @@ inflação no período = ?
 3. Subtração ⟶ 1,25 - 1 = 0,25
 4. Resposta: A inflação foi = 25%
 
-> #### Taxa Acumulada de Inflação
+#### Taxa Acumulada de Inflação
 - A inflação acumulada é o produto da inflação de cada período somado ao valor total em cada período, menos o valor total final.
 - Fórmula:
   - inflação acumulada = (1 + i1) . (1 + i2) ... (1 + in) - 1
@@ -60,7 +60,7 @@ inflação acumulada = ?
 5. Forma de porcentagem ⟶ 0,11384 . 100 = 11,384%
 6. Resposta: A inflação foi = 11,384%
 
-> #### Desvalorização Monetária
+#### Desvalorização Monetária
 - Determina a diminuição do poder de compra da moeda de acordo com o índice de inflação.
 - Fórmula:
   - TDM = taxa inflacionária/(1 + taxa inflacionária)

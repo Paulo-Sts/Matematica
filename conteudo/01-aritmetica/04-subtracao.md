@@ -1,6 +1,6 @@
 # Subtração
 
-> ## 1. Definição
+## 1. Definição
 - A subtração é a retirada (descréscimo) de uma parte (um menor valor) de algo (um todo, um maior valor), sendo a operação matemática inversa a adição.
 - O simbolo **-** (menos) representa a operação de subtração.
 - Os termos da subtração são o **minuendo** (a quantidade original) e o **subtraendo** (a parte a ser retirada).
@@ -11,7 +11,7 @@
 - Prova real da subtração:
   - subtraendo + diferença = minuendo
 
-> #### Cálculo
+#### Cálculo
 1. Empilhar as parcelas de acordo com sua casa decimal (unidade sob unidade, dezena sob dezena, centena sob centena, ...).
 2. Subtrair os algarismos de mesma ordem começando da casa das unidades.
 3. Para cada subtração o resultado é um algarismo.
@@ -42,7 +42,7 @@ Ex: 78 - 29 = 49
 
 > ### 1.1 Propriedades da Subtração
 
-> #### Não Comutativa
+#### Não Comutativa
 - A ordenação dos elementos de uma subtração se alterada mudará o seu resultado.
 - Representação:
   - a - b ≠ b - a
@@ -50,14 +50,14 @@ Ex: 78 - 29 = 49
 Ex: 60 - 45 = 15  
 Ex: 45 - 60 = -15 (não faz parte dos números naturais)  
 
-> #### Não Associativa
+#### Não Associativa
 - A associação entre diferentes partes de uma subtração para simplificar o cálculo, não pode ser feita, pois altera o resultado.
 - Representação:
   - (a - b) - c ≠ a - (b - c)
 
 Ex: (13 - 9) - 2 ≠ 13 - (9 - 2)   
 
-> #### Elemento Neutro
+#### Elemento Neutro
 - O zero é o elemento neutro pois não altera o resultado, porém dependendo da posição a sua presença em uma subtração cria uma situação em que ser um elemento neutro é falso, pois o resultado é diferente.
 - Representação:
   - a - 0 ≠ 0 - a
@@ -67,13 +67,13 @@ Ex: 0 - 10 = -10
 
 > ### 1.2 Regra dos Sinais na Subtração
 
-> #### Sinais iguais
+#### Sinais iguais
 - Soma-se os valores e repete-se o sinal.
 
 Ex: 10 + 7 = 17  
 Ex: -4 + (-5) = -9
 
-> #### Sinais diferentes
+#### Sinais diferentes
 - Subtrai-se os valores mantendo o sinal do maior número.
 
 Ex: -2 + 7 = +5  

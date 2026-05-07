@@ -1,32 +1,32 @@
 # Séries Uniformes
 
-> ## 1. Definição
+## 1. Definição
 - Séries uniformes são pagamentos ou recebimentos constantes que ocorrem em intervalos iguais. 
 - Também são chamadas de rendas certas, séries financeiras ou anuidades.
 - A diferença entre capitalização e séries uniformes é que a capitalização tem a aplicação/pagamento de um único valor e sua retirada após um período, já as rendas certas são duas ou mais aplicações/pagamentos em um determinado intervalo de tempo.
 
 > ### 1.1 Classificação das Séries Uniformes
 
-> #### De Acordo com o Prazo
+#### De Acordo com o Prazo
 - A perspectiva é o número de prestações.
 - Tipos:
   - Temporária ou Finita (prestações ocorrem em determinado período);
   - Perpétua ou Infinita (prestações não tem prazo para fim).
 
-> #### De Acordo com o Valor 
+#### De Acordo com o Valor 
 - A perspectiva é o valor dos recebimentos ou pagamentos.
 - Tipos:
   - Constante ou Uniforme (os valores são sempre iguais);
   - Variável ou Não uniforme (os valores não são iguais).
 
-> #### De Acordo com a Forma
+#### De Acordo com a Forma
 - A perspectiva a forma de realização do pagamento ou recebimento.
 - Tipos:
   - Antecipadas (pagamento realizado no início de cada período, no ato do negócio);
   - Postecipadas ou Imediatas (pagamento realizado no fim da cada período, um período após o ato do negócio);
   - Diferida (quando houver carência para pagamento da primeira prestação);
 
-> #### De Acordo com a Periodicidade
+#### De Acordo com a Periodicidade
 - A perspectiva do ato de realização do pagamento ou recebimento.
 - Tipos:
   - Periódica (intervalos entre prestações é igual);
@@ -37,7 +37,7 @@
 
 > ### 1.2 Fórmulas Séries Uniformes
 
-> #### Pagamentos Antecipados
+#### Pagamentos Antecipados
 - Fórmula:
   - V = p . [(1 + i)<sup>t</sup> - 1]/(1 + i)<sup>t - 1</sup>. i
   - V = valor financiado ou investido
@@ -45,7 +45,7 @@
   - i = taxa de juros
   - t = prazo
 
-> #### Pagamentos Postecipados ou Imediatos
+#### Pagamentos Postecipados ou Imediatos
 - Fórmula:
   - V = p . [(1 + i)<sup>t</sup> - 1]/(1 + i)<sup>t</sup>. i
   - V = valor financiado ou investido
@@ -53,7 +53,7 @@
   - i = taxa de juros
   - t = prazo
 
-> #### Pagamentos Diferidos
+#### Pagamentos Diferidos
 - Fórmula:
   - V = p . [(1 + i)<sup>t</sup> - 1]/(1 + i)<sup>t + m</sup>. i
   - V = valor financiado ou investido

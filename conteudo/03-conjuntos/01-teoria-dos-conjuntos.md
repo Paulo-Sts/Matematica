@@ -1,6 +1,6 @@
 # Teoria dos Conjuntos 
 
-> ## 1. Definição
+## 1. Definição
 - É a teoria matemática que trata do agrupamento de elementos e suas relações.
 - Conjuntos, são formados por elementos (qualquer coisa), podendo ser finitos ou infinitos.
 - Representação de conjunto:
@@ -8,7 +8,7 @@
 
 > ### 1.1 Relações entre Conjuntos
 
-> #### Pertinência
+#### Pertinência
 - Indica se um elemento pertence ou não pertence a um determinado conjunto.
 - Representação:
   - Elemento ∈ conjunto (pertence)
@@ -19,7 +19,7 @@ Ex: B = {1, 2, 3, 4}
 1. 2 ∈ B  
 2. 10 ∉ B  
 
-> #### Inclusão
+#### Inclusão
 - Indica se um conjunto é um sujconjunto de outro ou não.
 - Representação:
   - **A** ⊂ **B** (**A** está contido em **B**)
@@ -36,22 +36,22 @@ Ex: A = {1, 2}; B = {1, 2, 3, 4} e C = {11, r}
 
 > ### 1.2 Tipos de Conjuntos
 
-> #### Conjunto Unitário
+#### Conjunto Unitário
 - É um conjunto formado por um único elemento.
 - Representação:
   - A = {2} (Primo par)
 
-> #### Conjunto Vazio
+#### Conjunto Vazio
 - O conjunto vazio é um conjunto que não possui elementos.
 - Representação:
   - {} ou ∅
 
-> #### Conjunto Universo
+#### Conjunto Universo
 - É o conjunto que possui todos os elementos de um determinado contexto, sendo representado pela letra **U**.
 - Representação:
   - U = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} (Números menores que 10)
 
-> #### Subconjuntos
+#### Subconjuntos
 - São conjuntos formados a partir de um outro conjunto.
 - As partes de um conjunto A, é o conjunto formado por todos os subconjuntos de A.
 - Representação:

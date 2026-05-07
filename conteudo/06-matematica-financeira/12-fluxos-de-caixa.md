@@ -1,11 +1,11 @@
 # Fluxos de Caixa
 
-> ## 1. Definição
+## 1. Definição
 - Fluxo de Caixa (cash flow em inglês) é um registro ou projeção de uma sequência de movimentações financeiras ao longo do tempo. 
 - O principal objetivo do fluxo de caixa é fornecer informações para a tomada de decisões a partir de uma visão futura dos recursos financeiros que integram suas contas.
 - Ele pode se apresentar em forma de gráfico ou tabela como uma previsão de entradas e saídas de uma empresa, família, ou de um empréstimo isolado. 
 
-> #### Gráfico
+#### Gráfico
 
 <br>
 <div style="display:inline_block">
@@ -15,7 +15,7 @@
 > [!CAUTION] OBSERVAÇÃO: 
 > - As entradas de recursos são representadas por setas orientadas para cima, perpendiculares ao eixo horizontal. Já as saídas de recursos são representadas da mesma forma, porém as setas serão colocadas para baixo. O eixo horizontal é o tempo. A flecha para baixo significa que saída de valor. A flecha para cima significa que entrada de valor.
 
-> #### Tabela
+#### Tabela
 
 | MÊS | OPERAÇÃO  | VALOR        |
 | --- | --------- | ------------ |

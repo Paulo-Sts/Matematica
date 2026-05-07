@@ -1,6 +1,6 @@
 # Desconto Composto
 
-> ## 1. Definição
+## 1. Definição
 - Desconto composto é uma dedução do valor nominal de um título quando este é pago/recebido de forma antecipada. Possue mesma lógica do desconto simples.
 - Representação desconto:
   - D = n - a
@@ -14,7 +14,7 @@
 > ### 1.1 Desconto Comercial
 - É o tipo de desconto utilizado pelos bancos e comércio em geral. A base do cálculo do desconto é o valor nominal.
 
-> #### Fórmula do Valor Atual
+#### Fórmula do Valor Atual
 - Fórmula:
   - A = n . (1 - i)<sup>t</sup>
   - A = valor atual
@@ -25,7 +25,7 @@
 > ### 1.2 Desconto Racional
 - É o tipo de desconto tendo como base o valor atual. Também é chamado de desconto verdadeiro.
 
-> #### Fórmula Valor Atual
+#### Fórmula Valor Atual
 - Fórmula:
   - A = n/(1 + i)<sup>t</sup>
   - A = valor atual

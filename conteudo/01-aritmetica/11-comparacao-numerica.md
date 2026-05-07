@@ -1,6 +1,6 @@
 # Comparação Numérica
 
-> ## 1. Definição
+## 1. Definição
 - A comparação entre dois números é o estabelecimento de uma relação entre esses números.
 - A comparação entre números se dá sempre do número do primeiro membro para o número no segundo membro e indica uma relação de hierarquia ou de similaridade.
 - Relações de comparação:

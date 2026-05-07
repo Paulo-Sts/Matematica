@@ -13,7 +13,7 @@
 
 ## 2. Tipos de Fatoração
 
-> ### Termo Comum em Evidência
+> ### 2.1 Termo Comum em Evidência
 - Quando todos os termos da expressão têm um fator comum (número e/ou letra), colocamos esse fator em evidência.
 - Geralmente utilizado quando a expressão for um binômio.
 - Representação:
@@ -42,7 +42,7 @@ Ex: 18x^3 + 12x^2
 > [!TIP] DICA: 
 > - O fator comum é sempre o máximo divisor comum (MDC) entre os termos.
 
-> ### Agrupamento
+> ### 2.2 Agrupamento
 - Usado quando a expressão tem 4 termos ou mais. O agrupamento ocorre entre os termos que têm fator comum entre si.
 - Representação:
   - ax + ay + bx + by ⟶	(ax + ay) + (bx + by) ⟶	a(x + y) + b(x + y) = (x + y)(a + b)
@@ -61,7 +61,7 @@ Ex: 4x^2 + 8x + 6xy + 12y
 > [!TIP] DICA: 
 > - Se não funcionar de primeira, tente reorganizar os termos.
 
-> ### Diferença de Dois Quadrados
+> ### 2.3 Diferença de Dois Quadrados
 - É usado quando a expressão é formada pela diferença entre dois termos que são quadrados perfeitos, ou seja, que possuem raíz exata.
 - Representação:
   - a^2 - b^2 = (a + b) . (a - b)
@@ -87,7 +87,7 @@ Ex: x^2 - 9
 >   - Números: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100...
 >   - Variáveis: x², x⁴, y⁶ (expoente par)
 
-> ### Trinômio do Quadrado Perfeito
+> ### 2.4 Trinômio do Quadrado Perfeito
 - Resulta do produto notável (a + b)^2 ou (a - b)^2. Nesse caso na fatoração algébrica é feito o caminho inverso, da direita para a esquerda.
 - Para identificar um trinômio quadrado perfeito, é preciso observar se os termos das pontas são quadrados perfeitos e, sendo o caso, verifica-se se o termo central está multiplicando
 pelo número 2 uma letra pela outra.
@@ -106,7 +106,7 @@ Ex: x^2 + 6x + 9
 2. Verificar se o termo do meio é 2ab (ou -2ab): 2 . x . 3 = 6x
 3. Montar a expressão: (x + 3)^2
 
-> ### Trinômio do 2º Grau
+> ### 2.5 Trinômio do 2º Grau
 - Usado em expressões formadas por três termos em que não há quadrado perfeito. 
 - Fatora-se a expressão a partir do valor das raízes, a transformando em uma equação do 2ª grau.
 - Representação:
@@ -131,7 +131,7 @@ Ex: 2x^2 - 5x + 3
 4. Encontrar raízes da equação: x = -b ± √Δ/2a ⟶ x = -(-5) ± √1/2.2 ⟶ x = 5 ± 1/4 ⟶ x1 = 5 + 1/4 = 6/4 = 3/2 | x2 = 5 - 1/4 = 4/4 = 1
 5. Montar expressão: 2(x - 3/2) . (x - 1)    
 
-> ### Soma e Diferença de Dois Cubos
+> ### 2.6 Soma e Diferença de Dois Cubos
 - É usado quando a expressão é um binômio com expoente ao cubo.
 - Representação:
   - x^3 + y^3 = (x + y) . (x^2 - xy + y^2)

@@ -1,6 +1,6 @@
 # Probabilidade da União de Dois Eventos
 
-> ## 1. Definição
+## 1. Definição
 - A probabilidade da união de dois eventos se dá pela soma da probabilidade do evento **A** acontecer com a probabilidade do evento **B** acontecer, subtraindo a probabilidade dos eventos **A** e **B** acontecerem ao mesmo tempo (interseção). 
 - Se não existir interseção entre os eventos a interseção será igual a zero.
 - Representação:

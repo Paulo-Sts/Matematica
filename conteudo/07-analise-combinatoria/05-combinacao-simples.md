@@ -1,6 +1,6 @@
 # Combinação Simples
 
-> ## 1. Definição
+## 1. Definição
 - É o cálculo do número de combinações possíveis dos **n** elementos de um conjunto **A**, em que o tamanho do agrupamento é igual ou menor a quantidade de elementos do conjunto e a ordem dos elementos não importa, ou seja, os mesmos elementos em ordem distinta representam uma mesma combinação.
 - Fórmula: 
   - C<sub>n, p</sub>= n!/p!(n - p!)

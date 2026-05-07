@@ -1,6 +1,6 @@
 # Probabilidade de Eventos Independentes
 
-> ## 1. Definição
+## 1. Definição
 - O cálculo da probabilidade da ocorrência de eventos ao mesmo tempo que não são relacionados se dá pelo produto da probabilidade de ocorrência de cada evento.
 - Representação:
   - P(A ∩ B) = P(A) . P(B) 

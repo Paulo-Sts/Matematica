@@ -1,6 +1,6 @@
 # Razão e Proporção
 
-> ## 1. Razão
+## 1. Razão
 - Razão é a divisão entre dois números seguindo sua ordem de apresentação. A razão representa uma relação entre grandezas.
 - Uma razão pode ser definida de três formas: forma fracionária, forma decimal e na forma percentual.
 - A razão pode ser representada nas formas: **a/b**, **a:b** ou **a** ***está para*** **b**.
@@ -23,14 +23,14 @@ Ex: 1/2 = 0.5 = 50%
 
 > ### 2.1 Propriedades da Proporção
 
-> #### Propriedade Fundamental das Proporções
+#### Propriedade Fundamental das Proporções
 - O produto dos meios, é igual ao produto dos extremos.
 - Representação:
   - a/b = c/d ⟶ a x d = b x c
   - a e d = extremos
   - b e c = meios
 
-> #### Igualdade entre Denominadores e seu Respectivo Numerador
+#### Igualdade entre Denominadores e seu Respectivo Numerador
 - A soma ou subtração entre denominadores pelos numeradores de cada razão de uma proporção não altera a proporção.
 - Representação:
   - a/b = c/d ⟶ a + b/b = c + d/d
@@ -41,7 +41,7 @@ Ex: 2/5 = 6/15 = 0,4
 2. 7/5 = 21/15
 3. 1,4 = 1,4
 
-> #### Igualdade da Soma ou Subtração dos Numeradores e dos Denominadores
+#### Igualdade da Soma ou Subtração dos Numeradores e dos Denominadores
 - A soma ou subtração dos numeradores e denominadores é igual a primeira razão, assim como é igual a segunda razão.
 - Representação:
   - a/b = c/d 
@@ -53,7 +53,7 @@ Ex: 10/5 = 8/4
 2. 18/9 = 10/5
 3. 2 = 2
 
-> #### Terceira Proporcional
+#### Terceira Proporcional
 - Para dois números naturais **a** e **b**, diferentes de zero, a terceira proporcional desses dois números é o número **x**, tal que **a/b** = **b/x**. 
 
 Ex: 20/10 = 10/x
@@ -73,7 +73,7 @@ Ex: 8/12 = 6/x
 3. x = 72/8
 4. x = 9
 
-> #### Média Geométrica ou Média Proporcional
+#### Média Geométrica ou Média Proporcional
 - Em uma proporção definida por **a/x** = **x/b** o número **x** será a média geométrica entre **a** e **b**.
 
 Ex: 5/x = x/20
@@ -89,7 +89,7 @@ Ex: 5/x = x/20
 - Os números proporcionais, tratam da relação que se estabelece entre conjuntos de grandezas.
 - Grandeza é tudo que pode ser medido, contado ou comparado.
 
-> #### Números Diretamente Proporcionais
+#### Números Diretamente Proporcionais
 - Os números de uma sequência numérica são diretamente proporcionais aos números de outra sequência numérica, se a razão respectiva entre os seus elementos tiver o mesmo resultado.
 - A relação diretamente proporcional determina que quando uma grandeza aumenta seu valor a outra também aumenta proporcionalmente, assim como o inverso.
 - Representação:
@@ -105,7 +105,7 @@ Ex: (2, 4, 6, 8) e (1, 2, 3, 4)
 3. 6/3 = 2
 4. 8/4 = 2
 
-> #### Números Inversamente Proporcionais
+#### Números Inversamente Proporcionais
 - Os números de uma sequência numérica são inversamente proporcionais aos números de outra sequência numérica, se o produto respectivo entre os seus elementos tiver o mesmo resultado.
 - A relação inversamente proporcional determina que quando uma grandeza aumenta seu valor, a outra diminui proporcionalmente, assim como o inverso.
 - Representação:
@@ -127,7 +127,7 @@ Ex: (1, 2, 3, 4, 6) e (36, 18, 12, 9, 6)
 - Existem divisões diretamente proporcionais e divisões inversamente proporcionais.
 - Quando a questão não especificar o tipo de divisão, considera-se que a divisão é diretamente proporcional.
 
-> #### Divisão Diretamente Proporcional
+#### Divisão Diretamente Proporcional
 - Na divisão diretamente proporcional a distribuição das partes é diretamente determinada pela proporção que cada parte representa em relação ao todo.
 - Nessa divisão um valor é dividido por um outro valor (formado pela soma das partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor correspondente a uma parte do total então será distribuido de acordo com a quantidade que cada respectiva parte representa do total das partes.
 - Representação:
@@ -144,7 +144,7 @@ Ex: divisão de 100 em partes diretamente proporcionais a 1, 5 e 4.
 4. Divisão diretamente proporcional: 10 x 1 = 10 | 10 x 5 = 50 | 10 x 4 = 40
 5. Respoata: 10, 50 e 40
 
-> #### Divisão Inversamente Proporcional
+#### Divisão Inversamente Proporcional
 - Na divisão inversamente proporcional a distribuição das partes é inversamente determinada pela proporção que cada parte representa em relação ao todo.
 - Nessa divisão um valor é dividido por um outro valor (formado pelo inverso da soma das partes com as quais esse valor será dividido), resultando no valor que corresponde a uma parte do total. Esse valor correspondente a uma parte do total então será distribuido de acordo com a quantidade que cada respectivo inverso da parte representa do total das partes.
 - Quanto maior o valor, menor sua parte e quanto menor o valor maior a sua parte.

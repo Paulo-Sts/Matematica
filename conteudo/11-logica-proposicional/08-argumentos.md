@@ -1,6 +1,6 @@
 # Argumentos
 
-> ## 1. Definição
+## 1. Definição
 - Um argumento é um conjunto de enunciados (proposições) articulados entre si, onde alguns (as premissas) servem de evidência para sustentar outro (a conclusão) . É a unidade fundamental do raciocínio lógico.
 - Premissas: São as proposições que fornecem a base ou a justificativa para a conclusão. Funcionam como as "provas" ou "evidências" do raciocínio .
 - Conclusão: É a proposição que se pretende defender ou provar com base nas premissas apresentadas . Geralmente, é introduzida por palavras como "logo", "portanto", "assim", "por conseguinte".
@@ -18,11 +18,11 @@
   - Premissa 3: O Gran Cursos já recebeu cinco vezes o prêmio de melhor empresa.
   - Conclusão: O Gran Cursos é o melhor curso do Brasil.
 
-> #### Indicadores Textuais
+#### Indicadores Textuais
 - Indicadores de premissas: pois, porque, dado que, visto que, etc.
 - Indicadores de conclusão: assim, logo, deste modo, daí, consequentemente, segue que, etc.
 
-> ## 2. Validade do Argumento
+## 2. Validade do Argumento
 - Um argumento é válido se a conclusão é uma consequência necessária de suas premissas . Em outras palavras, se as premissas forem verdadeiras, a conclusão obrigatoriamente terá que ser verdadeira.
 - Verdade e falsidade são predicados das proposições, nunca dos argumentos.
 - Um argumento não válido chama-se sofisma ou falácia.
@@ -62,9 +62,9 @@
 | Falsas      | Verdadeira | Pode ser Válido | A conclusão até é verdadeira, mas o raciocínio partiu de premissas falsas. A estrutura pode estar correta. |
 | Falsas      | Falsa      | Pode ser Válido | A estrutura está correta, mas o conteúdo todo é falso .                                                    |
 
-> ## 3. Exemplos de Análise de Argumentos
+## 3. Exemplos de Análise de Argumentos
 
-> #### Etapas para Análise de um Argumento
+#### Etapas para Análise de um Argumento
 1. Identificar as proposições: Separar as premissas da conclusão.
 2. Atribuir variáveis: Simbolizar as proposições simples (p, q, r...).
 3. Traduzir para linguagem lógica: Escrever cada premissa e a conclusão usando os conectivos .
@@ -85,24 +85,24 @@
 > [!CAUTION] OBSERVAÇÃO:
 > - Na avaliação de um argumento, deve-se partir das proposições simples e considerar todas as premissas verdadeiras. Se a conclusão não for uma consequência lógica necessária, o argumento é falacioso.
 
-> ## 4. Solidez do Argumento
+## 4. Solidez do Argumento
 - Definição de Solidez: Um argumento é sólido (ou cogente) quando ele satisfaz duas condições simultaneamente :
   1. O argumento é válido (sua estrutura é correta).
   2. Todas as suas premissas são verdadeiras (na realidade).
 - A solidez é o objetivo final de um bom raciocínio. A validade garante a correção lógica, mas a verdade das premissas garante que a conclusão corresponda aos fatos. Um argumento sólido nos obriga logicamente a aceitar a conclusão como verdadeira .
 
-> ## 5. Tipos de Argumento
+## 5. Tipos de Argumento
 
-> #### Silogismo Categórico
+#### Silogismo Categórico
 - É um argumento composto por exatamente duas premissas e uma conclusão, todas elas proposições categóricas (Todo A é B; Nenhum A é B; Algum A é B; Algum A não é B) .
 - Exemplo: 
   - "Todo molusco é invertebrado. O caracol é um molusco. Logo, o caracol é invertebrado." 
 
-> #### Dedução
+#### Dedução
 - É um argumento que pretende ser válido, onde a conclusão deriva com necessidade das premissas. 
 - Se as premissas forem verdadeiras, a conclusão é garantida como verdadeira. 
 - É o tipo de argumento que a lógica formal estuda prioritariamente.
 
-> #### Indução
+#### Indução
 - É um argumento que parte de casos particulares para chegar a uma conclusão geral. 
 - A conclusão é provável, mas não garantida, mesmo com premissas verdadeiras.

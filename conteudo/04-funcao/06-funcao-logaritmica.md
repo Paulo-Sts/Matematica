@@ -1,6 +1,6 @@
 # Função do Logarítmica
 
-> ## 1. Definição
+## 1. Definição
 - A função logarítmica é dada pela lei de formação f(x) = log<sub>a</sub> x, na qual **a** é a base positiva (a > 0) e sempre diferente de 1. 
 - Nesse tipo de função, o logaritmo de base **a**, ligado a determinado valor de **b**, tem o expoente igual a **x**, que é a potência da base que resulta justamente em **b**. 
 - Representação:
@@ -21,7 +21,7 @@ A) f(x) = log<sub>a</sub>x
 B) f(x) = log<sub>2</sub>(x - 4)  
 C) f(x) = log<sub>x</sub>  
 
-> #### Propriedades da Função Logarítmica
+#### Propriedades da Função Logarítmica
 - D (f) = R+*
 - Im (f) = R
 - f(x) não é par, nem ímpar.
@@ -46,7 +46,7 @@ de existência.
 - O gráfico da função logarítmica é uma curva, construída em razão dos valores aplicados em **x** e os respectivos resultados calculados para f(x).
 - As coordenadas são colocadas dentro do plano cartesiano nos quadrantes I e II, pois essa função é caracterizada por x > 0. Além disso, a depender da base **a**, são classificadas em crescente e decrescente.
 
-> #### A Base do Logaritmo é um Número Real maior que 1
+#### A Base do Logaritmo é um Número Real maior que 1
 - Função crescente: f(x) = log<sub>a</sub> x – a < 1:
 
 <br>
@@ -57,7 +57,7 @@ de existência.
 - Observe que, à medida que x aumenta, acontece o mesmo com a imagem (x2 > x1 <--> log<sub>a</sub> x1), portanto, é uma curva que cresce em virtude do aumento de x.
 - O aumento caracterizado pela análise gráfica foi visivelmente crescendo. Para essa identificação, basta verificar a base do logaritmo e, se ela se enquadrar em maior que, o resultado gráfico será crescente.
 
-> #### A Base do Logaritmo Apresenta um Valor Real entre 0 e 1
+#### A Base do Logaritmo Apresenta um Valor Real entre 0 e 1
 - Função decrescente: f(x) = log<sub>a</sub>x – 0 < a < 1:
 
 <br>

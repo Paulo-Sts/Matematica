@@ -1,6 +1,6 @@
 # Função
 
-> ## 1. Definição
+## 1. Definição
 - Função é uma relação entre variáveis, em que o valor de uma variável **y** vai depender do valor resultante da interação de uma variável **x** com a lei de formação da função (lei de que determina a relação entre as variáveis).
 
 Ex: Um cabeleireiro cobra R$ 12,00 pelo corte com hora marcada e R$ 10,00 sem hora marcada. Ele tem por dia um número fixo de 6 clientes com hora marcada e um número variável "x" de clientes sem hora marcada.
@@ -82,7 +82,7 @@ Ex: Não é função.
 - Representação: 
   - Dada f: A → B, ocorre f<sup>-1</sup>: B → A 
 
-> #### Método para Escrever a Função Inversa
+#### Método para Escrever a Função Inversa
 1. Para escrever a fórmula da função inversa de uma função bijetora, precisamos lembrar que f(x) = y.
 2. Na função bijetora, substituir f(x) por "y".
 3. Onde tem "x" troca-se por "y" e, onde tem "y" troca-se por "x".
@@ -140,7 +140,7 @@ Exemplo: Função f: R → R definida por f(x) = x<sup>3</sup>
 - Realizando o caminho inverso e saindo de C para A, temos: **gof (x) = g(f(x))**
 - Nas funções compostas as operações entre as funções não são comutativas. Ou seja, **fog ≠ gof**
 
-> #### Como determinar função composta
+#### Como determinar função composta
 - Para determinar uma função composta, aplica-se uma função no domínio da outra, substituindo a variável **x** pela lei da outra função.
 
 Exemplo: Determine as funções compostas gof(x) e fog(x) das funções: f

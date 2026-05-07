@@ -1,6 +1,6 @@
 # Equivalências Lógicas
 
-> ## 1. Conceito de Equivalência Lógica
+## 1. Conceito de Equivalência Lógica
 - Duas proposições são logicamente equivalentes quando suas tabelas-verdade são idênticas.  
 - Notação: p ⇔ q ou p = q ou p ≡ q
 - Exemplo:
@@ -25,14 +25,14 @@
 
 > ### 1.2 Equivalências da Condicional
 
-> #### Forma Contrapositiva
+#### Forma Contrapositiva
 - Inverte as proposições e as nega.
 - Representação:
   - p ⟶ q = ~q ⟶ ~p  
 - Exemplo:  
   - "Se chove, então faz frio" equivale a: "Se não faz frio, então não chove"
 
-> #### Regra do "Neymar" (Nega a primeira OU mantém a segunda)
+#### Regra do "Neymar" (Nega a primeira OU mantém a segunda)
 - Nega a primeira proposição, troca a condicional por disjunção e repete a segunda proposição.
 - Representação:
   - p ⟶ q = ~p ∨ q  
@@ -50,13 +50,13 @@
   - p $\underline{\lor}$ q = (p ∧ ~q) ∨ (~p ∧ q)  
 - Exemplo: "Ou traga café ou traga chá" equivale a: "Tragam café e não tragam chá ou não tragam café e tragam chá"
 
-> ## 2. Leis Associativas e Distributivas
+## 2. Leis Associativas e Distributivas
 
-> #### Leis Associativas
+#### Leis Associativas
 1. (p ∧ q) ∧ r = p ∧ (q ∧ r)
 2. (p ∨ q) ∨ r = p ∨ (q ∨ r)
 
-> #### Leis Distributivas
+#### Leis Distributivas
 1. p ∧ (q ∨ r) = (p ∧ q) ∨ (p ∧ r)
 2. p ∨ (q ∧ r) = (p ∨ q) ∧ (p ∨ r)
 

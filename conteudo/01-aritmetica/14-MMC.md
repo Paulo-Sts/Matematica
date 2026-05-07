@@ -1,11 +1,11 @@
 # MMC
 
-> ## 1. Definição
+## 1. Definição
 - Mínimo múltiplo comum, é o menor número que é múltiplo de dois ou mais números ao mesmo tempo. 
 - O MMC de dois números **a** e **b**, também representa o menor valor que pode ser dividido por **a** e **b** ao mesmo tempo.
 - O MMC é determinado a partir da decomposição dos valores em fatores primos.
 
-> #### Cálculo
+#### Cálculo
 1. Organiza-se os números a esquerda lado a lado.
 2. Começa-se a divisão dos números, a partir do menor número primo que divide ao menos um dos números, colocando o quociente a direita.
 3. Coloca-se o resultado das divisões abaixo de cada número, e no caso de não ser possível dividir repete-se o número.
@@ -26,13 +26,13 @@ Ex: MMC de 30 e 14 = 210
 
 > ### 1.1 Propriedades do MMC
 
-> #### MMC entre números primos
+#### MMC entre números primos
 - O MMC de dois ou mais números primos, será o produto entre esses números.
 
 Ex: MMC(2, 11) = 22  
 Ex: MMC(2, 5) = 10  
 
-> #### MMC entre múltiplos
+#### MMC entre múltiplos
 - O MMC entre dois números, em que o maior é múltiplo do menor, será o número maior.
 
 Ex: MMC(10, 2) = 10    

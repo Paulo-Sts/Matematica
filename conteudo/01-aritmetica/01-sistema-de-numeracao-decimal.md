@@ -1,6 +1,6 @@
 # Sistema de Numeração Decimal
 
-> ## 1. Definição
+## 1. Definição
 - Também chamado de sistema hindu-arábico, sendo um sistema de base 10.
 - O sistema decimal é um sistema posicional, ou seja, um mesmo algarismo muda de valor depedendo de sua posição.
 - O algarismo **0** (zero), representa a ausência de um valor (nada).

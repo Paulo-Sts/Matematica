@@ -19,7 +19,7 @@ Ex: 4x^2 - 16 = 0
 4. x = √4    
 5. x = ±2  
 
-> ## 2. Bhaskara
+## 2. Bhaskara
 - É a fórmula utilizada para encontrar as raízes de uma equação do 2º grau completa.
 - Fórmula:
   - x = -b ± √Δ/2a
@@ -36,7 +36,7 @@ Ex: 2x^2 -3x -5 = 0
 2. x1 = (+3 + √49)/2.2 ⟶ (3 + 7)/4 ⟶ 10/4 ⟶ 5/2  
 3. x2 = (-3 + √49)/2.2 ⟶ (-3 + 7)/4 ⟶ -4/4 ⟶ -1 
 
-> ## 3. Propriedades das Raízes e Coeficientes (Relações de Girard)
+## 3. Propriedades das Raízes e Coeficientes (Relações de Girard)
 - Se trata das relações entre as raízes x1 e x2 de uma equação do 2º grau e os coeficientes que formam a equação.
 - Pode-se descobrir as raízes da equação por meio de um sistema de soma e produto, em que a soma de dois valores seja igual a **-b/a** e a multiplicação desses dois valores seja igual a **c/a** simultaneamente.
 - Representação Soma: 

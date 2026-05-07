@@ -1,6 +1,6 @@
 # Valor Presente Líquido
 
-> ## 1. Definição
+## 1. Definição
 - O valor presente líquido (VPL) é o cálculo da relação entre o valor presente inicial (valor do investimento, do empréstimo ou financiamento) e o valor presente previsto (benefícios ou pagamentos) de caixa. O VPL indica o retorno de um investimento, relacionando o valor do investimento com os seus retornos ao longo do tempo de acordo com a taxa de juros.
 - O VPL também é conhecido como valor atual líquido (VAL) e método do valor atual.
 - Fórmula:
@@ -10,7 +10,7 @@
   - i = taxa real de juros
   - n = período
 
-> #### Resultado do VPL
+#### Resultado do VPL
 - O resultado do VPL indica a viabilidade de realizar a operação.
 - Entre dois investimentos viáveis, o mais vantajoso será o de maior VPL.
 

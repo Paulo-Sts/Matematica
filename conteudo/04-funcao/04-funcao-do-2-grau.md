@@ -69,7 +69,7 @@ definir a direção da concavidade da parábola (com a boca para cima ou para ba
     <img align="left" height="200" width="320" src="../../img/grafico-funcao-2-grau-1.png">
 </div><br><br><br><br><br><br><br><br><br><br>
 
-> #### Estudo do Discriminante e sua Relação entre as Raízes
+#### Estudo do Discriminante e sua Relação entre as Raízes
 - O parâmetro Δ (delta) é também chamado de discriminante, porque é seu valor que discrimina, distingue, o tipo de raízes que a função quadrática terá. Ou seja, dependendo
 do valor de Δ, há diferentes tipos de raízes
 - Tipos de raízes:
@@ -92,7 +92,7 @@ do valor de Δ, há diferentes tipos de raízes
     <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-4.png">
 </div><br><br><br><br><br><br><br><br>
 
-> #### Estudo das Posições do Gráfico da Função do 2° grau
+#### Estudo das Posições do Gráfico da Função do 2° grau
 - Quando **a** é maior do que zero, a concavidade está para cima; por essa razão, na primeira linha estão os gráficos todos voltados para cima. Quando **a** é menor do que zero,
 a concavidade está para baixo; por essa razão, na segunda linha, os gráficos estão todos voltados para baixo.
 - Quando ∆ for maior do que zero, encontram-se duas raízes reais e distintas; por essa razão, a parábola toca o eixo x duas vezes. Quando ∆ for igual a zero, encontra-se somente uma raiz dupla; por essa razão, a parábola toca apenas uma vez no eixo x. Quando ∆ for menor do que zero, não existem raízes reais; por essa razão, a parábola não toca o eixo x. 
@@ -102,7 +102,7 @@ a concavidade está para baixo; por essa razão, na segunda linha, os gráficos 
     <img align="left" height="200" width="280" src="../../img/posicoes-grafico-funcao-2-grau.png">
 </div><br><br><br><br><br><br><br><br><br><br>
 
-> #### Estudo dos Coeficientes b e c
+#### Estudo dos Coeficientes b e c
 - Os coeficientes da equação são elementos que interferem na construção do gráfico. O coeficiente **a**, determina a concavidade da parábola. Enquanto o coeficiente **c** indica onde a parábola corta o eixo **Y**.
 - Esses coeficientes estabelecem as seguintes relações:
   - Se c > 0, a parábola irá cortar o eixo Y acima da origem.
@@ -149,7 +149,7 @@ a concavidade está para baixo; por essa razão, na segunda linha, os gráficos 
       <img align="left" height="150" width="350" src="../../img/grafico-funcao-2-grau-10.png">
   </div><br><br><br><br><br><br><br><br>
 
-> #### Ponto Máximo e Ponto Mínimo de uma Função do 2º grau.
+#### Ponto Máximo e Ponto Mínimo de uma Função do 2º grau.
 - No estudo da função do 2º grau, percebemos que seu gráfico é uma parábola e que esse gráfico apresenta pontos notáveis e de bastante aplicação na vida cotidiana e no
 estudo de outras ciências. Esses pontos são: as raízes da função e o vértice da parábola.
 - As raízes determinam quais os pontos onde o gráfico intercepta o eixo das abscissas (eixo x); o vértice pode ser o ponto de máximo absoluto ou de mínimo absoluto da função, ou
@@ -217,7 +217,7 @@ B) Quantos produtos precisam ser vendidos para obtenção do lucro máximo.
 3. Xv = -100/[2(-5)] = -100/(-10) = 10
 4. Dessa forma, fazem-se necessários 10 produtos para obter o maior lucro possível.
 
-> #### Imagem da Função
+#### Imagem da Função
 - Como o vértice representa o ponto máximo ou mínimo da função do 2º grau, ele é usado para definir o conjunto imagem dessa função, ou seja, os valores de y que pertencem à função.
 - Dessa forma, existem duas possibilidades para o conjunto imagem da função quadrática:
   - Para a > 0, o conjunto imagem será:
@@ -255,7 +255,7 @@ Exemplo: Definir a imagem da função f(x) = x2 + 2 x – 3.
 8. A representação será próxima ao exemplo acima. Tudo o que estiver acima do valor Yv = - 4 será considerado como imagem.
 9. Logo, o conjunto imagem será: Im = {y ∊ R/≥ - 4}.
 
-> ### Forma Fatorada da Função
+#### Forma Fatorada da Função
 - A lei de uma função quadrática definida por f(x) = ax2 + bx + c também pode ser escrita na forma fatorada.
 - Representação:
   - f(x) = a . (x - m) . (x - n)

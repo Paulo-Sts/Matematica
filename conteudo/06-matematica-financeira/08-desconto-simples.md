@@ -1,6 +1,6 @@
 # Desconto Simples
 
-> ## 1. Definição
+## 1. Definição
 - Desconto é o abatimento que um título de crédito recebe por ser liquidado antes de seu vencimento, ou seja, é a projeção de um valor futuro para o presente. O desconto é o quanto é cobrado de juros para receber no presente um valor a que se tem direito no futuro.
 - O valor de um título no dia do seu vencimento (pagamento) se chama **valor nominal**, que é o seu valor original.
 - O valor de um título, recebido antes do seu vencimento é um outro valor, menor do que o valor nominal (pois se desconta uma taxa para por receber antecipadamente), sendo chamado de **valor presente ou valor atual**.
@@ -23,7 +23,7 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
 > ### 1.1 Desconto Comercial
 - É o tipo de desconto utilizado pelos bancos e comércio em geral. A base do cálculo do desconto é o valor nominal.
 
-> #### Fórmula do Valor de Desconto
+#### Fórmula do Valor de Desconto
 - Fórmula:
   - D<sub>c</sub> = n . i . t
   - D = desconto comercial
@@ -31,7 +31,7 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
   - i = taxa de juros
   - t = tempo
 
-> #### Fórmula Valor Atual
+#### Fórmula Valor Atual
 - Fórmula:
   - A = n . (1 - i . t)
   - A = valor atual
@@ -42,7 +42,7 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
 > ### 1.2 Desconto Racional
 - É o tipo de desconto tendo como base o valor atual. Também é chamado de desconto verdadeiro.
 
-> #### Fórmula do Valor de Desconto
+#### Fórmula do Valor de Desconto
 - Fórmula:
   - D<sub>r</sub> = a . i . t
   - D = desconto comercial
@@ -50,7 +50,7 @@ Ex: Desconto no cheque de 1000 reais, cobrando 10%
   - i = taxa de juros
   - t = tempo
 
-> #### Fórmula Valor Atual
+#### Fórmula Valor Atual
 - Fórmula:
   - A = n/(1 + i . t)
   - A = valor atual

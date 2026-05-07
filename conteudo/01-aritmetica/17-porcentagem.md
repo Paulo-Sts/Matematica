@@ -1,6 +1,6 @@
 # Porcentagem
 
-> ## 1. Definição
+## 1. Definição
 - Porcentagem ou percentagem, é uma razão com denominador igual a 100, e é utilizada como uma representação de uma parte do total de um valor.
 - Representação:
   - n% = n/100 = 0,n
@@ -10,7 +10,7 @@
  
 Ex: 5% = 5/100 = 0,05 
 
-> #### Cálculo
+#### Cálculo
 1. Identifica-se o valor a partir do qual será aplicada a porcentagem.
 2. Utiliza-se a regra de três, multiplicando o valor pelo numerador da porcentagem e o dividindo por cem.
 3. No caso de se utilizar a porcentagem na forma decimal, basta realizar a multiplicação entre o valor e a porcentagem.
@@ -21,23 +21,23 @@ Ex: 15% de 30 = 4.5
 2. Dividir 450/100 = 4,5
 3. Resposta: 15% de 30 = 4,5 
 
-> ## 2. Operações com Porcentagem
+## 2. Operações com Porcentagem
 
 > ### 2.1 Transformação de Taxas
 
-> #### Taxa Percentual para Taxa Unitária
+#### Taxa Percentual para Taxa Unitária
 - Para converter uma taxa percentual para taxa unitária, basta dividir por 100.
  
 Ex: 20% ⟶ 20 : 100 = 0,2   
 
-> #### Taxa Unitária para Taxa Percentual
+#### Taxa Unitária para Taxa Percentual
 - Para converter uma taxa unitária para taxa percentual, basta multiplicar por 100.
  
 Ex: 0,05 ⟶ 0,05 . 100 = 5%   
 
 > ### 2.2 Aumento de um Valor
 
-> #### Fator de Aumento
+#### Fator de Aumento
 - Pode-se encontrar o aumento de um valor em porcentagem, utilizando a fórmula do fator de aumento.
 - Representação:
   - NV = VA(1 + i)
@@ -51,7 +51,7 @@ Ex: Aumento de 10% de 40
 2. Nv = 40 . 1,1 = 44
 3. NV = 44
 
-> #### Soma de Porcentagem
+#### Soma de Porcentagem
 - Se trata de calcular o valor de aumento, somando a porcentagem que representa o valor original (100%), a nova taxa de aumento. Calculando assim com base na taxa acumulada.
 - Representação:
   - Aumento de n% de **a** ⟶ 100% + n% = m% de **a** = b
@@ -65,7 +65,7 @@ Ex: Aumento de 15% de 350
 
 > ### 2.3 Desconto ou Redução de um Valor
 
-> #### Fator de Redução
+#### Fator de Redução
 - Pode-se encontrar a redução de um valor em porcentagem, utilizando a fórmula do fator de redução.
 - Representação:
   - NV = VA(1 - i)
@@ -79,7 +79,7 @@ Ex: Desconto de 10% de 50
 2. Nv = 50 . 0,9 = 45
 3. NV = 45
 
-> #### Subtração de Porcentagem
+#### Subtração de Porcentagem
 - Se trata de calcular o valor reduzido, subtraindo da porcentagem que representa o valor original (100%), a taxa de redução. Calculando assim com base na taxa já reduzida.
 - Representação:
   - Desconto de n% de **a** ⟶ 100% - n% = m% de **a** = b
@@ -93,7 +93,7 @@ Ex: Desconto de 32% de 500
 
 > ### 2.4 Aumentos e Reduções Sucessivas
 
-> #### Fator de aumento e redução
+#### Fator de aumento e redução
 - Pode-se encontrar os aumentos e reduções sucessivas de um valor em porcentagem, utilizando a fórmula do fator de aumento e redução combinadas.
 - Representação:
   - NV = VA(1 - i).(1 + i) ... (1 ± i)
@@ -109,7 +109,7 @@ Ex: Desconto de 10% de 100 mais aumento de 25% mais desconto de 5%
 3. Nv = 100 . 1,06875
 4. NV = 106,875
 
-> #### Produto das Porcentagens
+#### Produto das Porcentagens
 - Para aumentos e descontos sucessivos, basta multiplicar os vários descontos ou aumentos (ou os dois), para obter o fator acumulado.
 - Representação:
   - n% de **a**, m% do resultado (n% de **a**) e p% do resultado das anteriores = **a** . n% . m% . p% = q (q% de **a**)

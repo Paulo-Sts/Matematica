@@ -1,6 +1,6 @@
 # Negação de Proposições Compostas
 
-> ## 1. Definição
+## 1. Definição
 - No caso das proposições compostas, devemos utilizar as fórmulas da negação.
 - Estas fórmulas são expressões equivalentes à negação das proposições.
 
@@ -27,21 +27,21 @@
 
 > ### 1.4 Negação da Bicondicional
 
-> #### Regra Principal
+#### Regra Principal
 - A negação da bicondicional resulta em uma disjunção exclusiva.
 - Fórmula: ~(p ⟷ q) = p $\underline{\lor}$ q
 - Exemplo: 
   - Proposição: 4 é par se, e somente se 3 é ímpar.
   - Negação: Ou 4 é par ou 3 é ímpar.
 
-> #### Outras formas de negar a Bicondicional
+#### Outras formas de negar a Bicondicional
 - Também pode ser representada negando apenas uma das proposições e mantendo o conectivo:
   - ~(p ⟷ q) = ~p ⟷ q
   - ~(p ⟷ q) = p ⟷ ~q
 
 > ### 1.5 Negação da Disjunção Exclusiva
 
-> #### Regra Principal
+#### Regra Principal
 - A negação da disjunção exclusiva resulta em uma bicondicional.
 - Fórmula: ~(p $\underline{\lor}$ q) = p ⟷ q
 - Exemplo: 
@@ -52,7 +52,7 @@
 - ~(p $\underline{\lor}$ q) = ~p $\underline{\lor}$ q
 - ~(p $\underline{\lor}$ q) = p $\underline{\lor}$ ~q
 
-> ## 2. Resumo da Negação das Proposições Compostas
+## 2. Resumo da Negação das Proposições Compostas
 
 | NOME                | PROPOSIÇÃO | NEGAÇÃO  |
 |---------------------|------------|----------|

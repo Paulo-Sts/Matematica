@@ -1,6 +1,6 @@
 # Probabilidade Complementar
 
-> ## 1. Definição
+## 1. Definição
 - A probabilidade complementar de um evento **A**, se dá pela probabilidade do evento **A** acontecer menos o total de possibilidades (espaço amostral).
 - Um evento complementar é o evento que junto com o evento **A** forma o espaço amostral.
 - Representação:

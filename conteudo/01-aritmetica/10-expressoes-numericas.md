@@ -1,10 +1,10 @@
 # Expressões Numéricas
 
-> ## 1. Definição
+## 1. Definição
 - Expressões numéricas são sequências de operações matemáticas, que envolvem apenas números e símbolos e tem como resultado um número. Além disso não exigem a condição de igualdade.
 - Toda expressão é formada por uma associação de operações, essas devem ser resolvidas seguindo uma ordem de prioridade.
 
-> #### Ordem das Operações
+#### Ordem das Operações
 1. Operações envoltas por parêntese (), colchetes [] e chaves {};
 2. Potenciação e radiciação na ordem que aparecem, da esquerda para a direita;
 3. Multiplicação e divisão na ordem que aparecem, da esquerda para a direita;
@@ -18,7 +18,7 @@ Ex: (25 x 2 + 10) : 20 - 1
 4. Calcular operação de subtração: 3 - 1 = 2
 5. Resposta: 2
 
-> #### Relação entre sinais antes dos Parenteses, Colchetes ou Chaves
+#### Relação entre sinais antes dos Parenteses, Colchetes ou Chaves
 - É como se fosse multiplicado por 1 ou -1.
 - Para sinal positivo, mantém-se os sinais.
 - Para sinal negativo, inverte-se os sinais.

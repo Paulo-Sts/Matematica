@@ -1,6 +1,6 @@
 # Números Primos e Compostos
 
-> ## 1. Números Primos
+## 1. Números Primos
 - Número primo, é todo número que possui apenas dois divisores.
 - O conjunto dos números primos é um conjunto infinito.
 - O número **1** não é considerado um número primo.
@@ -17,11 +17,11 @@ Ex: 18 = 11 + 7
 > [!TIP] DICA: 
 > - Para descobrir se um número é primo, basta dividi-lo pelos números primos antecedentes ao número primo que possui raíz quadrada maior que o número que se quer descobrir se é primo ou composto, se a divisão for exata ele não é primo.
 
-> ## 2. Números Compostos
+## 2. Números Compostos
 - Número composto, é todo número que possua mais de dois divisores, ou seja, além de ser divisível por um e por si mesmo, esse número também é divisível por outros números.
 - Todo número maior que **1** que não primo é um número composto, assim como todo número composto pode ser representado a partir do produto dos números primos que o forma.
 
-> ### Decomposição em números primos ou fatoração numérica
+> ### 2.1 Decomposição em números primos ou fatoração numérica
 - É o processo de representar um número composto qualquer, em forma de multiplicação, em que os elementos da multiplicação são todos números primos.
 - O processo de decomposição, também chamado de fatoração é a divisão sucessiva de um número por números primos, até sua redução ao número **1**.
 - Representação da decomposição:

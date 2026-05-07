@@ -1,11 +1,11 @@
 # Sistemas de Equação do 1º Grau
 
-> ## 1. Definição
+## 1. Definição
 - É um conjunto de duas ou mais equações, em que o valor dos termos que as formam, tem para as respectivas equações as mesmas raízes.
 
 > ### 1.1 Propriedades de Resolução de Sistemas de Equação do 1º grau 
 
-> #### Método da Substituição
+#### Método da Substituição
 - Consiste em isolar um dos termos de uma das equações, encontrando a sua igualdade a partir da relação com o outro termo e então substituindo esse termo pela sua equivalência, tornando assim a equação com um único termo.
 
 Ex:   
@@ -22,7 +22,7 @@ x + y = 11
 > [!TIP] DICA: 
 > - Escolher isolar o termo que possuir coeficiente igual a 1.
 
-> #### Método da Adição
+#### Método da Adição
 - Consiste em somar as equações que formam o sistema, criando uma situação em que um dos termos é eliminado ao realizar o cálculo, restando assim apenas um termo, a partir do qual é possível encontrar o seu valor correspondente.
 
 Ex:   
@@ -37,7 +37,7 @@ x - 2y = -11
 > [!TIP] DICA: 
 > - Quando os valores das equações não forem simétricos, multiplicar uma das equações por um número negativo, para igualar o coeficiente de um dos termos da equação e assim eliminar o termo, deixando apenas um termo a partir do resultado da adição das equações. Para descobrir o valor a ser multiplicado, basta verificar se o maior coeficiente de um dos termos de uma das equações é múltiplo do seu correspondente da outra equação.
 
-> #### Método da Comparação
+#### Método da Comparação
 - Se trata de isolar o mesmo termo das duas equações, igualar as equivalência dos termos isolados e comparar seus valores, encontrando o valor correspondente a um dos termos das equações.
 
 Ex:  

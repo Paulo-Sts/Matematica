@@ -1,9 +1,9 @@
 # Capitalização
 
-> ## 1. Definição
+## 1. Definição
 - É o processo periódico de aplicação de uma quantidade de capital. O cálculo da capitalização determina o rendimento geral da aplicação levando em conta os depósitos realizados de acordo com o passar do tempo.
 
-> #### Fórmula da Capitalização
+#### Fórmula da Capitalização
 - Calcula o valor final da aplicação.
 - Fórmula:
   - M = p . [(1 + i)<sup>t</sup> - 1]/i

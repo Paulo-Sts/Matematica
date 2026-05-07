@@ -1,15 +1,15 @@
 # Estatística Descritiva
 
-> ## 1. Definição
+## 1. Definição
 - A estatística descritiva trata da coleta, organização e interpretação de conjuntos de dados.
 
-> #### População
+#### População
 - É o conjunto universo de todos os elementos a partir do qual se pretende conhecer informações.
 
-> #### Amostra
+#### Amostra
 - É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população.
 
-> ## 2. Variável Estatística
+## 2. Variável Estatística
 - É o tipo de informação sobre a população que se está pesquisando e se deseja conhecer.
 - Tipos de variáveis:
   - Variáveis quantitativas;
@@ -21,13 +21,13 @@
   - Discretas;
   - Contínuas.
 
-> #### Quantitativas Discretas
+#### Quantitativas Discretas
 - Variáveis quantitativas discretas representam valores em que há descontinuidade entre os resultados possíveis.
 
 Ex: Quantidade de pessoas por casa  
 Ex: Anos de vida
 
-> #### Quantitativas Contínuas
+#### Quantitativas Contínuas
 - Variáveis quantitativas contínuas representam valores que podem assumir qualquer valor dentro de uma reta de resultados possíveis.
 
 Ex: Peso da pessoa  
@@ -39,13 +39,13 @@ Ex: altura da pessoa
   - Nominais;
   - Ordinais.
 
-> #### Qualitativas Nominais
+#### Qualitativas Nominais
 - Variáveis qualitativas nominais representam características que não possuem ordem.
 
 Ex: Religião  
 Ex: Cor preferida  
 
-> #### Qualitativas Ordinais
+#### Qualitativas Ordinais
 - Variáveis qualitativas nominais representam características que possuem uma ordem ou hierarquia.
 
 Ex: escolaridade      

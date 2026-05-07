@@ -1,10 +1,10 @@
 # Sistema legal de medidas
 
-> ## 1. Definição
+## 1. Definição
 - O sistema legal de medidas, são o conjunto padrão de unidades de medida, utilizadas para expressar grandezas.  
 - Existem medidas lineares, bidimensionais e tridimensionais. Todas as unidades partem de uma unidade padrão, sendo seus múltiplos e submúltiplos um fator multiplicador (x10, x100 ou x1000) a partir do tipo de medida considerado.  
 
-> #### Relações Importantes
+#### Relações Importantes
 - 1 litro = 1 dm³ 
 - 1000 litros = 1 m³
 - 1 ml = 1 cm³

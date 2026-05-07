@@ -1,10 +1,10 @@
 # Números Decimais
 
-> ## 1. Definição
+## 1. Definição
 - São números racionais não inteiros, expressos por vírgula e que possuem casas decimais.
 - São formadas por duas partes: a parte inteira (antes da vírgula) e a parte fracionária (após a vírgula). A parte fracionária é formada por casas decimais.
 
-> #### Representação
+#### Representação
 
 <div style="display:inline_block">
    <img height="200" width="700" src="../../img/numero-decimal.png">
@@ -26,7 +26,7 @@ Ex: 180,00 = 180/100
 > ### 1.2 Conversão de Dízima Periódica em Fração Geratriz
 - Existem dois tipos de dízimas periódicas, a dízima periódica simples (a parte decimal é apenas formadas por valores repetidos) e a dízima periódica composta (apresenta um antiperíodo antes dos valores repetidos).
 
-> #### Conversão de Dízimas Períodicas Simples
+#### Conversão de Dízimas Períodicas Simples
 1. Coloca-se como numerador o valor da dízima.
 2. Coloca-se como denominador o **9** o número de vezes correspondente as casas da dízima.
 3. Se a dízima possuir parte inteira diferente de zero, deve-se somar a fração da parte decimal com a parte inteira (tirando o MMC) para obter o valor da fração geratriz.
@@ -42,7 +42,7 @@ Ex: 2,88... = 2 + 8/9 = MMC(1, 9) = 9 ⟶ [(9 : 1) x 2 + (9 : 9) x 8]/9 = (18 + 
 
 Ex: 0,45555... = (45 - 4)/90 = 41/90
 
-> ## 2. Operações com Números Decimais
+## 2. Operações com Números Decimais
 
 > ### 2.1 Adição
 - Na adição de números decimais, deve-se igualar as parcelas em ordens iguais, posicionando vírgula embaixo de vírgula.

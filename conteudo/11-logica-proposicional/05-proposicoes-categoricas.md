@@ -1,6 +1,6 @@
 # Proposições Categóricas
 
-> ## 1. Definição
+## 1. Definição
 - Proposição Categórica é uma afirmação que relaciona dois termos (sujeito e predicado) de forma universal ou particular, afirmativa ou negativa. 
 - Podem ser Universais (TODO, NENHUM) ou Particulares (ALGUM, EXISTE, PELO MENOS UM); Afirmativas ou Negativas (NÃO, NADA, NENHUM).
 - Estrutura:
@@ -31,7 +31,7 @@
 | (I) Algum A é B.        | Particular  | Afirmativa |
 | (O) Alguns A não são B. | Particular  | Negativa   |
 
-> ## 2. Negação de Proposições Categóricas
+## 2. Negação de Proposições Categóricas
 - Para negar uma proposição categórica, basta lembrar que a negação deve contradizer a afirmação original. A contraditória de uma universal é uma particular, e vice-versa.
 - Em resumo a negação de uma proposição universal é uma proposição particular, e a negação de uma afirmativa é uma negativa (ou vice-versa).
 
@@ -45,7 +45,7 @@
 > [!CAUTION] OBSERVAÇÃO:
 > - A negação NÃO pode ser feita com "Todo não é" ou "Nenhum não é". É preciso usar os quantificadores corretos.
 
-> #### Processo de Negação 
+#### Processo de Negação 
 1. Identificar o quantificador: Verificar se é "Todo", "Nenhum" ou "Algum".
 2. Identificar a qualidade: Verificar se a frase é afirmativa ou negativa.
 3. Aplicar a regra do quadro:
@@ -54,7 +54,7 @@
   - I (Algum é) vira E (Nenhum... é).
   - O (Algum não é) vira A (Todo... é).
 
-> #### Macete para Encontrar Negação
+#### Macete para Encontrar Negação
 - Deve-se pegar o quantificador e encontrar o seu equivalente que realiza a negação a partir da tabela a seguir.
 
 | PREPOSIÇÃO | NEGAÇÃO | EXPLICAÇÃO       |
@@ -77,25 +77,25 @@
 - Exemplo:
   - "Nenhum pedreiro não é operário" ⇔ "Todo pedreiro é operário"
 
-> ### 3. Aplicações Práticas e Armadilhas Comuns
+## 3. Aplicações Práticas e Armadilhas Comuns
 
-> #### Negação de "Todo"
+#### Negação de "Todo"
 - Muitos erram ao tentar negar "Todo" com "Nenhum". Isso está incorreto, pois "Todo S é P" e "Nenhum S é P" são contrárias (podem ser falsas simultaneamente), mas não são contraditórias.
 - Exemplo: "Todo brasileiro gosta de futebol".
   - Errado: "Nenhum brasileiro gosta de futebol" (basta um que goste para a original ser verdadeira e a negação ser falsa).
   - Certo: "Algum brasileiro não gosta de futebol" (basta um contraexemplo para derrubar a universal).
 
-> #### Negação de "Nenhum"
+#### Negação de "Nenhum"
 - Segue a mesma lógica. A existência de um único elemento que possua a característica já nega a universal negativa.
 - Exemplo: "Nenhum político é honesto".
    - Negação: "Algum político é honesto".
 
-> #### Negação de "Algum" (ou "Existe")
+#### Negação de "Algum" (ou "Existe")
 - Para negar que existe pelo menos um, é preciso afirmar que não existe nenhum.
 - Exemplo: "Algum funcionário é competente".
   - Negação: "Nenhum funcionário é competente".
 
-### 4. Representação por Diagramas de Venn
+## 4. Representação por Diagramas de Venn
 - Todo S é P: O conjunto S está dentro de P. A negação exige que exista pelo menos um S fora de P (Algum S não é P).
 - Nenhum S é P: Os conjuntos são disjuntos (não se tocam). A negação exige que haja interseção (Algum S é P).
 - Algum S é P: Existe interseção entre os conjuntos. A negação exige que não haja interseção (Nenhum S é P).

@@ -1,6 +1,6 @@
 # Diagrama de Venn-Euler
 
-> ## 1. Definição
+## 1. Definição
 - É uma representação gráfica dos elementos de um conjunto.
 
 <div style="display:inline_block">

@@ -1,6 +1,6 @@
 # Juros Compostos
 
-> ## 1. Definição
+## 1. Definição
 - Os juros compostos, são um regime de capitalização em que os juros são calculados tendo como base o montante gerado no período anterior, ou seja, a cada período o juros incide sobre o montante capitalizado no período anterior.
 - As variáveis que formam o juros compostos são:
   - Montante (Valor inicial somado aos juros)
@@ -14,7 +14,7 @@
 
 > ### 1.1 Fórmulas do Cálculo dos Juros Compostos
 
-> #### Valor do Montante
+#### Valor do Montante
 - Calcula o valor final da aplicação.
 - Fórmula:
   - M = c + j
@@ -22,7 +22,7 @@
   - c = capital
   - j = juros
 
-> #### Valor dos Juros
+#### Valor dos Juros
 - Calcula o valor dos juros sobre o capital inicial. 
 - Fórmula:
   - J = m - c
@@ -30,7 +30,7 @@
   - m = montante
   - c = capital inicial
   
-> #### Fórmula do Montante
+#### Fórmula do Montante
 - Calcula já o valor final da aplicação, a partir da incidência dos juros.
 - Fórmula:
   - M = c . (1 + i)<sup>t</sup>

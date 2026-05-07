@@ -1,6 +1,6 @@
 # Combinação com Repetição
 
-> ## 1. Definição
+## 1. Definição
 - É o cálculo do número de combinações possíveis dos **n** elementos de um conjunto **A**, em que o tamanho do agrupamento é maior que a quantidade de elementos do conjunto, ou seja, existe a repetição de elementos e a ordem dos elementos não importa.
 - Fórmula: 
   - CR<sub>n,p</sub>= C<sub>n + p - 1, p</sub>

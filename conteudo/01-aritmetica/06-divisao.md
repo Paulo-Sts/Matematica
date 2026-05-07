@@ -1,6 +1,6 @@
 # Divisão
 
-> ## 1. Definição
+## 1. Definição
 - A divisão é a operação matemática que faz a separação de um valor em partes, de acordo com um outro valor, sendo a operação inversa a multiplicação.
 - Ela mensura quantas vezes um valor (segundo valor), cabe dentro de outro valor (primeiro valor), ou seja, quantos grupos com a quantidade do segundo valor podem ser formados com a quantidade do primeiro valor.
 - Os simbolos **÷**, **/** e **:** (dividido) representam a operação de divisão.
@@ -12,7 +12,7 @@
 - Prova real da divisão:
   - quociente x divisor + resto = dividendo
 
-> #### Cálculo
+#### Cálculo
 1. A divisão é feita da esquerda para a direita, pegando sempre o primeiro algarismo (de maior ordem) do dividendo em que seja possível dividir pelo divisor.
 2. Determina-se um número que multiplicado pelo divisor seja igual ou o mais próximo do dividendo.
 3. O valor encontrado é adicionado como um algarismo do quociente.
@@ -38,7 +38,7 @@ Ex: 232 : 8 = 29
 
 > ### 1.1 Propriedades da Divisão
 
-> #### Não Comutativa
+#### Não Comutativa
 - A ordenação dos elementos de uma divisão altera o seu resultado.
 - Representação:
   - a : b ≠ b : a
@@ -46,7 +46,7 @@ Ex: 232 : 8 = 29
 Ex: 10 : 5 = 2   
 Ex: 5 : 10 = 0.5
 
-> #### Não Associativa
+#### Não Associativa
 - A associação (divisão parcial) entre diferentes elementos de uma divisão para simplificar o cálculo, geram resultados diferentes.
 - Representação:
   - (a : b) : c ≠ a : (b : c)
@@ -54,7 +54,7 @@ Ex: 5 : 10 = 0.5
 Ex: (12 : 2) : 2 = 3     
 Ex: 12 : (2 : 2) =  12     
 
-> #### Igualdade de Múltiplos
+#### Igualdade de Múltiplos
 - O quociente da divisão é o mesmo para os múltiplos comuns do dividendo e do divisor.
 - Representação:
   - a : b = (a x c) : (b x c)
@@ -62,7 +62,7 @@ Ex: 12 : (2 : 2) =  12
 Ex: 4 : 2 = 2  
 Ex: 4 x 3 : 2 x 3 = 2   
 
-> #### Elemento Neutro
+#### Elemento Neutro
 - Em um divisão o quociente de uma divisão por 1 é sempre o valor do dividendo. E quando o dividendo e o divisor forem iguais o quociente sempre será 1.
 - Representação:
   - a : 1 = a
@@ -71,7 +71,7 @@ Ex: 4 x 3 : 2 x 3 = 2
 Ex: 35 : 1 = 35  
 Ex: 69 : 69 = 1  
 
-> #### Elemento Zero
+#### Elemento Zero
 - Quando o zero for o dividendo de uma divisão o resultado sempre será zero. Quando se trata da divisão de um valor por zero, essa divisão não existe (indeterminado).
 - Representação:
   - 0 : a = 0
@@ -82,13 +82,13 @@ Ex: 3 : 0 = ?
 
 > ### 1.2 Regra dos Sinais na Divisão
 
-> #### Sinais Iguais
+#### Sinais Iguais
 - A divisão de dois números com o mesmo sinal, sempre resulta em um número positivo.
 
 Ex: 10 : 2 = 5  
 Ex: -4 : (-2) = 2
 
-> #### Sinais Diferentes
+#### Sinais Diferentes
 - A divisão de dois números com o sinais diferentes, sempre resulta em um número negativo.
 
 Ex: -20 : 4 = -5  

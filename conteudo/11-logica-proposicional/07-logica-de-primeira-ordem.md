@@ -1,13 +1,13 @@
 # Lógica de 1ª Ordem (Lógica de Predicados)
 
-> ## 1. Definição
+## 1. Definição
 - A lógica de primeira ordem, conhecida também como lógica dos predicados, é um sistema lógico que estende a lógica proposicional (lógica sentencial). Ela permite analisar a estrutura interna das sentenças, indo além das conexões entre proposições inteiras.
 - Diferença crucial:
   - Lógica Proposicional: Trabalha com proposições inteiras (P, Q, R) e conectivos. Não analisa o sujeito e o predicado. Ex: P = "João é alto". A estrutura interna de "João" e "alto" é ignorada.
   - Lógica de Primeira Ordem: Decompõe a frase em termos (objetos) e predicados (propriedades ou relações). Ex: Alto(João). Permite quantificar sobre os objetos.
 - É chamada de "primeira ordem" porque os quantificadores (∀, ∃) só podem variar sobre objetos (indivíduos), e não sobre propriedades ou funções.
 
-> #### Sentenças Abertas (ou Funções Proposicionais)
+#### Sentenças Abertas (ou Funções Proposicionais)
 - São expressões que contêm variáveis.
 - Não são proposições, pois seu valor lógico (V/F) depende do valor atribuído à variável.
 - Exemplo: "2x - 8 = 0" só é verdadeira se x = 4.
@@ -15,7 +15,7 @@
   - Atribuir valor à variável.
   - Utilizar quantificadores.
 
-> ## 2. Quantificadores
+## 2. Quantificadores
 - Palavras ou símbolos que indicam quantidade, transformando sentenças abertas em proposições.
 - Eles são utilizados para indicar a quantidade de valores que a variável de uma sentença precisa assumir para que esta sentença se torne verdadeira ou falsa e assim gere uma proposição.
 - Representação:
@@ -61,7 +61,7 @@
   - ∃!x ∈ ℕ (x + 5 = 7) ⟶ apenas x = 2 satisfaz.
   - Leitura: "Existe um único número x pertencente ao conjunto dos números naturais tal que x + 5 = 7".
 
-> ### 2.3 Quantificador Universal Negativo (¬∃)
+> ### 2.4 Quantificador Universal Negativo (¬∃)
 - Representa a ausência de elementos com uma determinada característica.
 - Significado: "Nenhum", "Não existe", "Nada", "Ninguém".
 - Proposição categórica: "Nenhum **A** é **B**" (Frase universal negativa)
@@ -77,7 +77,7 @@
     <img align="left" height="150" width="250" alt="TypeScript" src="./../../img/quantificador-universal-negativo.png">
 </div><br><br><br><br><br><br><br>
 
-> ## 3. Representação Simbolica das Proposições Categóricas
+## 3. Representação Simbolica das Proposições Categóricas
 
 | PROPOSIÇÃO      | QUANTIDADE | QUALIDADE  | SÍMBOLO LÓGICO    |
 |-----------------|------------|------------|-------------------|
@@ -86,10 +86,10 @@
 | Algum A é B     | Particular | Afirmativa | ∃x (A(x) ∧ B(x))  |
 | Algum A não é B | Particular | Negativa   | ∃x (A(x) ∧ ¬B(x)) |
 
-> ## 4. Elementos da Linguagem
+## 4. Elementos da Linguagem
 - A LPO é composta por símbolos lógicos e símbolos não lógicos.
 
-> #### Símbolos Lógicos (comuns a qualquer teoria)
+#### Símbolos Lógicos (comuns a qualquer teoria)
 - Conectivos Proposicionais: ¬ (não), ∧ (e), ∨ (ou), → (se... então), ↔ (se e somente se).
 - Quantificadores:
   - ∀ (Para Todo / Universal): "Para todo x", "Qualquer que seja x".
@@ -97,30 +97,30 @@
 - Variáveis: Símbolos que representam objetos indeterminados (x, y, z, ...).
 - Igualdade (opcional): O símbolo = para indicar que dois termos denotam o mesmo objeto.
 
-> #### Símbolos Não Lógicos (específicos de cada domínio):
+#### Símbolos Não Lógicos (específicos de cada domínio):
 - Constantes: Nomes próprios de objetos específicos no domínio (a, b, c, João, 0, 1, ...).
 - Predicados (ou Relações): Representam propriedades de objetos ou relações entre eles. Ex: P(x) ("x é par"), Amigo(x, y) ("x é amigo de y").
 - Funções: Mapeiam objetos para objetos. Ex: pai(x) ("o pai de x"), soma(x, y) ("x + y").
 
-> ## 5. Sintaxe, Termos e Fórmulas
+## 5. Sintaxe, Termos e Fórmulas
 
-> #### Termo
+#### Termo
 - É uma expressão que representa um objeto.
 - Toda constante é um termo (ex: João).
 - Toda variável é um termo (ex: x).
 - Se f é um símbolo de função e t é um termo, f(t) é um termo (ex: pai(João)).
 
-> #### Fórmula Atômica
+#### Fórmula Atômica
 - É a unidade básica que pode ser verdadeira ou falsa.
 - Se P é um predicado de aridade n (que recebe n argumentos) e t1, t2, ..., tn são termos, então P(t1, t2, ..., tn) é uma fórmula atômica.
 - Ex: MaiorQue(3, 2) ou Gosta(Maria, chocolate).
 
-> #### Fórmula Bem-Formada (FBF)
+#### Fórmula Bem-Formada (FBF)
 - É construída a partir das fórmulas atômicas usando os conectivos proposicionais e os quantificadores.
 - Ex: ∀x (Humano(x) ⟶ Mortal(x))
 - Ex: ∃x (Cachorro(x) ∧ Late(x))
 
-> #### Exemplos de Tradução da Linguagem Natural para a LPO
+#### Exemplos de Tradução da Linguagem Natural para a LPO
 
 | FRASE EM PORTUGUÊS            | REPRESENTAÇÃO EM LPO                                        |
 |-------------------------------|-------------------------------------------------------------|
@@ -130,7 +130,7 @@
 | João ama Maria.               | Ama(João, Maria)                                            |
 | Existe um número primo e par. | ∃x (Primo(x) ∧ Par(x))                                      |
 
-> ## 6. Interpretação e Valor Verdade
+## 6. Interpretação e Valor Verdade
 - Interpretação: Para atribuir valor verdade a uma fórmula, é necessário definir um domínio (conjunto de objetos sobre os quais as variáveis podem variar) e atribuir significados aos símbolos não lógicos (constantes, predicados, funções).
 - Valor Verdade: Uma fórmula é verdadeira em uma interpretação se, ao percorrer todo o domínio, a condição imposta pelos quantificadores for satisfeita.
 - Regras para os Quantificadores:
@@ -148,10 +148,10 @@
 
 ## 8. Propriedades Importantes
 
-> #### Equivalências com Quantificadores                                        
+#### Equivalências com Quantificadores                                        
 - ¬∀x P(x) ≡ ∃x ¬P(x) (A negação de "todo" é "existe algum que não").      
 - ¬∃x P(x) ≡ ∀x ¬P(x) (A negação de "existe" é "nenhum" ou "todo... não"). 
 
-> #### Escopo e Parênteses                                            
+#### Escopo e Parênteses                                            
 - ∀x (P(x) ∧ Q(x)) é diferente de (∀x P(x)) ∧ Q(x)               
 - No primeiro, Q(x) depende de x. No segundo, Q(x) tem x livre.

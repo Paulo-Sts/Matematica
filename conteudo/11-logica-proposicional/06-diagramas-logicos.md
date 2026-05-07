@@ -1,9 +1,9 @@
 # Diagramas Lógicos
 
-> ## 1. Definição
+## 1. Definição
 - As questões de Diagramas lógicos envolvem as proposições categóricas (todo, algum, nenhum), cuja solução requer que desenhemos figuras, os chamados diagramas lógicos.
 
-> ## 2. Todo A é B
+## 2. Todo A é B
 - O conjunto **A** está contido no conjunto **B**.
 - Todo elemento de **A** também é elemento de **B**.
 - Não se pode afirmar que todo **B** é **A**.
@@ -13,13 +13,13 @@
   - "Todo trabalhador é responsável".  
     - Conjunto dos trabalhadores ⊂ Conjunto dos responsáveis.
 
-> #### Representação
+#### Representação
 
 <div style="display:inline_block">
     <img align="left" height="175" width="500" alt="TypeScript" src="./../../img/diagrama-logico-todo-a-e-b.png">
 </div><br><br><br><br><br><br><br><br><br>
 
-> ## 3. Algum A é B
+## 3. Algum A é B
 - Existe pelo menos um elemento que pertence a **A** e a **B** simultaneamente.
 - Os conjuntos A e B têm interseção não vazia.
 - Exemplos:
@@ -28,7 +28,7 @@
   - "Algum advogado é honesto".  
     - Existe pelo menos um advogado honesto.
 
-> #### Representação
+#### Representação
 
 <div style="display:inline_block">
     <img align="left" height="150" width="300" alt="TypeScript" src="./../../img/diagrama-logico-algum-a-e-b.png">

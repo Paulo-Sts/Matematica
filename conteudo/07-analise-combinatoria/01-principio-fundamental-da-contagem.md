@@ -1,6 +1,6 @@
 # Princípio Fundamental da Contagem
 
-> ## 1. Definição
+## 1. Definição
 - O princípio fundamental da contagem, ou princípio multiplicativo é um método para calcular o número de possibilidades de um evento de acordo com as condições que o forma (análise combinatória).
 - O cálculo das possibilidades de um evento com **n** etapas, em que para cada etapa exista uma quantidade de opções de resultados (elementos), o número total de possibilidades que formam o evento, será o produto do número das opções de cada etapa do evento.
 - O PFC também é chamado de médoto do tracinho, em que o tracinho representa o número de etapas ou escolhas de um evento.
@@ -23,7 +23,7 @@ etapa 3 ⟶ 2 (sapato)
 
 > ### 1.1 Tipos de Cálculo PFC
 
-> #### Questões que Pedem a Condição "pelo menos um"
+#### Questões que Pedem a Condição "pelo menos um"
 1. Calcular o total de possibilidades.
 2. Calcular o número de possibilidades que não atendam a condição.
 3. Subtrair do total as possibilidades que não atendam a condição, encontrando a resposta.
