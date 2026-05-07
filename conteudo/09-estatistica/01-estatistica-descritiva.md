@@ -1,13 +1,28 @@
 # Estatística Descritiva
 
 ## 1. Definição
-- A estatística descritiva trata da coleta, organização e interpretação de conjuntos de dados.
+- A estatística descritiva ou dedutiva trata da coleta, organização e interpretação de conjuntos de dados. Seu objetivo é descrever fatos relacionados a certo grupo ou população, sem pretender tirar conclusões de caráter mais genérico.
+
+> ### 1.1 Conceitos Fundamentais
 
 #### População
-- É o conjunto universo de todos os elementos a partir do qual se pretende conhecer informações.
+- É o conjunto universo de todos os elementos a partir do qual se pretende conhecer informações. Um parâmetro é uma medida numérica que descreve alguma característica de uma população.
 
 #### Amostra
-- É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população.
+- É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população. Uma estatística é uma medida numérica que descreve alguma característica de uma amostra.
+
+> ### 1.2 Censo e Estimação
+- São processos estatísticos utilizados no estudo de fenômenos coletivos.
+
+#### Censo
+- É uma avaliação direta de um parâmetro, por meio de dados obtidos de todos os componentes da população. 
+- Características: é caro, lento, quase sempre desatualizado, admite erro processual zero e confiabilidade 100%.
+- O erro é zero, porque se analisa toda uma população.
+
+#### Estimação
+- É uma avaliação indireta de um parâmetro, com base em um estimador, por meio do cálculo de probabilidades por meio de uma amostra.
+- É muito mais comum que se busque uma estimação para se empreender uma pesquisa.
+- E isso decorre por causa de suas características: é barato, rápido, atualizado, admite erro processual positivo e confiabilidade menor que 100%.
 
 ## 2. Variável Estatística
 - É o tipo de informação sobre a população que se está pesquisando e se deseja conhecer.
@@ -34,7 +49,7 @@ Ex: Peso da pessoa
 Ex: altura da pessoa  
 
 > ### 2.2 Variáveis Qualitativas
-- São variáveis que expressam uma característica ou qualidade.
+- São variáveis que expressam uma característica ou qualidade, sendo chamados de atributos.
 - Tipos de variáveis quantitativas:
   - Nominais;
   - Ordinais.
@@ -52,6 +67,8 @@ Ex: escolaridade
 Ex: patente      
 
 ## 3. Formas de Apresentação dos Dados
+- Os dados amostrais devem ser coletados de modo apropriado, através de um processo de seleção aleatória. Desta forma, se não forem coletados de modo apropriado, podem se tornar inúteis, ou induzir a erro o processo decisório.
+- Quando se busca uma amostra de uma população, a amostra necessita ter representatividade.
 
 > ### 3.1 Dados Brutos
 - O conjunto de dados sem nenhum tipo de organização.
