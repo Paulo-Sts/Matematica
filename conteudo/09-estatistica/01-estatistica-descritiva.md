@@ -5,11 +5,11 @@
 
 > ### 1.1 Conceitos Fundamentais
 
-#### População
+#### População (N)
 - É o conjunto universo de todos os elementos a partir do qual se pretende conhecer informações. Um parâmetro é uma medida numérica que descreve alguma característica de uma população.
 
-#### Amostra
-- É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população. Uma estatística é uma medida numérica que descreve alguma característica de uma amostra.
+#### Amostra (n)
+- É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população. Um estimador é uma medida numérica que descreve alguma característica de uma amostra.
 
 > ### 1.2 Censo e Estimação
 - São processos estatísticos utilizados no estudo de fenômenos coletivos.
