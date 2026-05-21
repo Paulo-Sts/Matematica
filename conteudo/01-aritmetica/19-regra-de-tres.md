@@ -27,6 +27,15 @@ Ex: 5 máquinas cortam a grama em 120 minutos, 12 máquinas cortaram em quanto?
 4. Isolar a icógnita: x = 600/12 ⟶ x = 50
 5. Resposta: As 12 máquinas vão cortar a grama em 50 minutos
 
+> [!TIP] DICA: 
+> - Para montar a regra de 3 usa-se a regra das setas para identificar os tipos de grandezas.
+> - Etapas:
+>   - Crie duas colunas, cada uma para uma grandeza diferente, e coloque os valores correspondentes nas linhas.
+>   - Vá na coluna do X e coloque uma seta apontando para cima (ou para baixo, tanto faz, mas adotar para cima como padrão facilita a vida). Ela será a sua referência.
+>   - Olhe para a outra coluna e pense: "Se eu aumentar o valor dessa grandeza, o que acontece com o meu X?". Aumenta também? (Diretamente Proporcional): Coloque a seta na mesma direção(para cima). Diminui? (Inversamente Proporcional): Coloque a seta na direção oposta (para baixo).
+>   - Monte a proporção colocando no primeiro membro a coluna com o X e no outro lado da igualdade as demais colunas
+>   - Se as setas apontarem para o mesmo lado, monte a proporção exatamente como está na tabela e multiplique cruzado. Se as setas apontarem para lados opostos, inverta a fração da coluna sem o X antes de multiplicar.
+
 ## 2. Regra de Três Composta
 - É um processo para resolução de problemas envolvendo três ou mais grandezas, em que a proporção que as forma possui um dos valores desconhecido.
 - A regra de três pode ser diretamente ou inversamente proporcional.
