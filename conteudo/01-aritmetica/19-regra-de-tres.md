@@ -33,7 +33,6 @@ Ex: 5 máquinas cortam a grama em 120 minutos, 12 máquinas cortaram em quanto?
 >   - Crie duas colunas, cada uma para uma grandeza diferente, e coloque os valores correspondentes nas linhas.
 >   - Vá na coluna do X e coloque uma seta apontando para cima (ou para baixo, tanto faz, mas adotar para cima como padrão facilita a vida). Ela será a sua referência.
 >   - Olhe para a outra coluna e pense: "Se eu aumentar o valor dessa grandeza, o que acontece com o meu X?". Aumenta também? (Diretamente Proporcional): Coloque a seta na mesma direção(para cima). Diminui? (Inversamente Proporcional): Coloque a seta na direção oposta (para baixo).
->   - Monte a proporção colocando no primeiro membro a coluna com o X e no outro lado da igualdade as demais colunas
 >   - Se as setas apontarem para o mesmo lado, monte a proporção exatamente como está na tabela e multiplique cruzado. Se as setas apontarem para lados opostos, inverta a fração da coluna sem o X antes de multiplicar.
 
 ## 2. Regra de Três Composta
@@ -69,3 +68,12 @@ Com uma impressoa a menos quantas horas por dias de trabalho serão necessários
 1. Multiplicar as grandezas em seus respectivos membros: 3 . 4 . 10 . 480000 = 2 . 6 . x . 240000 ⟶ 57.600.000 = 2.880.000x
 2. Isolar a icógnita e encontrar o seu valor: x = 57.600.000/2.880.000 ⟶ x = 20
 3. Resposta: Serão necessárias 20 horas por dia de trabalho das impressoras 
+
+> [!TIP] DICA: 
+> - Para montar a regra de 3 usa-se a regra das setas para identificar os tipos de grandezas.
+> - Etapas:
+>   - Monte a tabela com 3 ou mais colunas. Deixe a coluna que contém o X de preferência na primeira ou na última posição para facilitar a visualização.
+>   - Vá na coluna do X e coloque uma seta apontando para cima (ou para baixo, tanto faz, mas adotar para cima como padrão facilita a vida). Ela será a sua referência.
+>   - Pegue a segunda coluna e compare com a do X (finja que as outras colunas não existem). Faça a pergunta: "Se eu aumentar essa grandeza, o X aumenta ou diminui?" Se aumentar, seta para cima. Se diminuir, seta para baixo. Repita o mesmíssimo processo para a terceira coluna, comparando-a apenas com a coluna do X.
+>   - Monte a proporção colocando no primeiro membro a coluna com o X e no outro lado da igualdade as demais colunas
+>   - Se as setas apontarem para o mesmo lado, monte a proporção exatamente como está na tabela e multiplique cruzado. Se as setas apontarem para lados opostos, inverta a fração da coluna sem o X antes de multiplicar.
