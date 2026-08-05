@@ -70,3 +70,19 @@ S3: Se Alice não é cearense, então Consuelo não é piauiense. ~p(f) ⟶ ~r(v
 S4: Alice é cearense ou Consuelo é piauiense. p(v) ∨ r(f) = V  
 
 1. Logo, resposta = d)
+
+Exemplo 2:  
+P1: Não comemos feijoada ou vamos ao clube.  
+P2: Se vamos ao clube, então está calor.  
+
+Sabendo‐se que são verdadeiras as sentenças acima, é correto inferir logicamente que:  
+a) se está calor, então não comemos feijoada.    
+b) se está calor, então comemos feijoada.  
+c) se não está calor, então comemos feijoada.  
+d) se não vamos ao clube, então comemos feijoada.  
+e) se comemos feijoada, então vamos ao clube.  
+
+Resolução:
+1. P1 = ~p ∨ q, P2 = q ⟶ r
+2. a) r ⟶ ~p, b)  r ⟶ p, c) ~r ⟶ p, d) ~q ⟶ p, e) p ⟶ q
+3. p ⟶ q é equivalente a ~p ∨ q logo, resposta = e)
