@@ -6,7 +6,7 @@
   - V = l³
   - l = lado.
 - Fórmula área total:
-  - 6 . l²   
+  - AT = 6 . l²   
 
 <div style="display:inline_block">
     <img align="left" height="150" width="250" alt="TypeScript" src="./../../img/volume-cubo.png">
@@ -20,7 +20,7 @@
   - b = largura 
   - c = altura.
 - Fórmula área total:
-  - 2 (a . b + a . c + b . c)
+  - AT = 2(a . b + a . c + b . c)
 
 <div style="display:inline_block">
     <img align="left" height="150" width="250" alt="TypeScript" src="./../../img/volume-paralelepipedo.png">
@@ -28,11 +28,11 @@
 
 ## 3. Cilindro
 - Fórmula volume:
-  - 𝜋 . R² . H 
+  - V = 𝜋 . R² . H ou V = área da base . H
 - Fórmula área total: 
-  - 2 . 𝜋 . R(H + R) 
+  - AT = 2 . 𝜋 . R(H + R) 
 - Fórmula área lateral: 
-  - 2 . 𝜋 . R . H 
+  - AL = 2 . 𝜋 . R . H 
 
 <div style="display:inline_block">
     <img align="left" height="200" width="180" alt="TypeScript" src="./../../img/volume-cilindro.png">
@@ -44,9 +44,9 @@
 
 ## 4. Cone
 - Fórmula volume:
-  - 1/3 . 𝜋 . R² . H
+  - V = 1/3 . 𝜋 . R² . H
 - Fórmula área total:
-  - 𝜋 . R(g + R)
+  - AT = 𝜋 . R(g + R)
 
 <div style="display:inline_block">
     <img align="left" height="120" width="150" alt="TypeScript" src="./../../img/cone.png">
@@ -58,7 +58,7 @@
 
 ## 5. Pirâmide
 - Fórmula volume:
-  - 1/3 . área da base . H
+  - V = 1/3 . área da base . H
   - área da base = área da figura plana que forma a base da pirâmide
 
 <div style="display:inline_block">
@@ -67,9 +67,9 @@
 
 ## 6. Esfera
 - Fórmula volume:
-  - (4 . 𝜋 . 𝑅³)/3
+  - V = (4 . 𝜋 . 𝑅³)/3
 - Fórmula área total:
-  - 4 . 𝜋 . R²
+  - AT = 4 . 𝜋 . R²
 
 <div style="display:inline_block">
     <img align="left" height="120" width="130" alt="TypeScript" src="./../../img/esfera.png">
