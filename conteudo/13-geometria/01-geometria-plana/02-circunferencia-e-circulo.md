@@ -12,7 +12,7 @@
 - Arco é a porção da circunferência entre dois pontos.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="300" alt="TypeScript" src="./../../img/circulo-e-circunferencia.png">
+    <img align="left" height="150" width="300" alt="TypeScript" src="./../../../img/circulo-e-circunferencia.png">
 </div><br><br><br><br><br><br><br>
 
 ## 2. Área e Comprimento do Círculo
@@ -27,7 +27,7 @@
   - A = πr²
 
 <div style="display:inline_block">
-    <img align="left" height="250" width="330" alt="TypeScript" src="./../../img/area-e-comprimento-circulo.png">
+    <img align="left" height="250" width="330" alt="TypeScript" src="./../../../img/area-e-comprimento-circulo.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 3. Arcos e Ângulos
@@ -42,7 +42,7 @@
   - 90° = π/2 rad
 
 <div style="display:inline_block">
-    <img align="left" height="250" width="320" alt="TypeScript" src="./../../img/arcos-e-angulos.png">
+    <img align="left" height="250" width="320" alt="TypeScript" src="./../../../img/arcos-e-angulos.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### 3.1 Comprimento de um arco (l)
@@ -50,7 +50,7 @@
   - l = α · r (α em radianos)
 
 <div style="display:inline_block">
-    <img align="left" height="220" width="280" alt="TypeScript" src="./../../img/comprimento-de-arco.png">
+    <img align="left" height="220" width="280" alt="TypeScript" src="./../../../img/comprimento-de-arco.png">
 </div><br><br><br><br><br><br><br><br><br><br><br>
 
 Exemplo (pêndulo):  
@@ -76,7 +76,7 @@ Exemplo (pêndulo):
   - Área do setor = 12% de 113,04 ≈ 13,56 cm²
 
 <div style="display:inline_block">
-    <img align="left" height="200" width="400" alt="TypeScript" src="./../../img/setor-circular.png">
+    <img align="left" height="200" width="400" alt="TypeScript" src="./../../../img/setor-circular.png">
 </div><br><br><br><br><br><br><br><br><br>
 
 ## 5. Segmento Circular
@@ -91,7 +91,7 @@ Exemplo (pêndulo):
   - Aseg = 6π − 4√2 = 2(3π − 2√2) cm²
 
 <div style="display:inline_block">
-    <img align="left" height="200" width="430" alt="TypeScript" src="./../../img/segmento-circular.png">
+    <img align="left" height="200" width="430" alt="TypeScript" src="./../../../img/segmento-circular.png">
 </div><br><br><br><br><br><br><br><br><br>
 
 ## 6. Coroa Circular
@@ -105,5 +105,5 @@ Exemplo (pêndulo):
   - Ac = π·64 = 64π m²
 
 <div style="display:inline_block">
-    <img align="left" height="250" width="300" alt="TypeScript" src="./../../img/coroa-circular.png">
+    <img align="left" height="250" width="300" alt="TypeScript" src="./../../../img/coroa-circular.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>

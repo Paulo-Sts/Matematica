@@ -9,7 +9,7 @@
   - AT = 6 . l²   
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="250" alt="TypeScript" src="./../../img/volume-cubo.png">
+    <img align="left" height="150" width="250" alt="TypeScript" src="./../../../img/volume-cubo.png">
 </div><br><br><br><br><br><br><br>
 
 ## 2. Paralelepípedo
@@ -23,7 +23,7 @@
   - AT = 2(a . b + a . c + b . c)
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="250" alt="TypeScript" src="./../../img/volume-paralelepipedo.png">
+    <img align="left" height="150" width="250" alt="TypeScript" src="./../../../img/volume-paralelepipedo.png">
 </div><br><br><br><br><br><br><br>
 
 ## 3. Cilindro
@@ -35,11 +35,11 @@
   - AL = 2 . 𝜋 . R . H 
 
 <div style="display:inline_block">
-    <img align="left" height="200" width="180" alt="TypeScript" src="./../../img/volume-cilindro.png">
+    <img align="left" height="200" width="180" alt="TypeScript" src="./../../../img/volume-cilindro.png">
 </div><br><br><br><br><br><br><br><br><br><br><br>
 
 <div style="display:inline_block">
-    <img align="left" height="250" width="500" alt="TypeScript" src="./../../img/area-total-cilindro.png">
+    <img align="left" height="250" width="500" alt="TypeScript" src="./../../../img/area-total-cilindro.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 4. Cone
@@ -49,11 +49,11 @@
   - AT = 𝜋 . R(g + R)
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="150" alt="TypeScript" src="./../../img/cone.png">
+    <img align="left" height="120" width="150" alt="TypeScript" src="./../../../img/cone.png">
 </div><br><br><br><br><br><br><br>
 
 <div style="display:inline_block">
-    <img align="left" height="225" width="400" alt="TypeScript" src="./../../img/area-total-cone.png">
+    <img align="left" height="225" width="400" alt="TypeScript" src="./../../../img/area-total-cone.png">
 </div><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 5. Pirâmide
@@ -62,7 +62,7 @@
   - área da base = área da figura plana que forma a base da pirâmide
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="300" alt="TypeScript" src="./../../img/piramide.png">
+    <img align="left" height="150" width="300" alt="TypeScript" src="./../../../img/piramide.png">
 </div><br><br><br><br><br><br><br>
 
 ## 6. Esfera
@@ -72,7 +72,7 @@
   - AT = 4 . 𝜋 . R²
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="130" alt="TypeScript" src="./../../img/esfera.png">
+    <img align="left" height="120" width="130" alt="TypeScript" src="./../../../img/esfera.png">
 </div><br><br><br><br><br><br><br>
 
 > [!CAUTION] OBSERVAÇÃO:

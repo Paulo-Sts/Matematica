@@ -7,7 +7,7 @@
 - Ângulos internos: A, B, C
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="180" alt="TypeScript" src="./../../img/triangulo.png">
+    <img align="left" height="120" width="180" alt="TypeScript" src="./../../../img/triangulo.png">
 </div><br><br><br><br><br><br>
 
 ## 2. Condição de Existência (Desigualdade Triangular)
@@ -20,7 +20,7 @@
 - Em qualquer triângulo A + B + C = 180°.
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="180" alt="TypeScript" src="./../../img/soma-triangulo.png">
+    <img align="left" height="120" width="180" alt="TypeScript" src="./../../../img/soma-triangulo.png">
 </div><br><br><br><br><br><br>
 
 ## 4. Teorema do Ângulo Externo
@@ -29,7 +29,7 @@
   - e = A + B
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="180" alt="TypeScript" src="./../../img/teorema-do-angulo-externo.png">
+    <img align="left" height="120" width="180" alt="TypeScript" src="./../../../img/teorema-do-angulo-externo.png">
 </div><br><br><br><br><br><br>
 
 ## 5. Classificação dos Triângulos
@@ -51,7 +51,7 @@
 - As três alturas se encontram no ortocentro.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="320" alt="TypeScript" src="./../../img/altura-triangulo.png">
+    <img align="left" height="150" width="320" alt="TypeScript" src="./../../../img/altura-triangulo.png">
 </div><br><br><br><br><br><br><br>
 
 #### Bissetriz Interna
@@ -59,7 +59,7 @@
 - As três bissetrizes se encontram no incentro.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="200" alt="TypeScript" src="./../../img/bissetriz-interna.png">
+    <img align="left" height="150" width="200" alt="TypeScript" src="./../../../img/bissetriz-interna.png">
 </div><br><br><br><br><br><br><br>
 
 #### Mediana
@@ -67,7 +67,7 @@
 - As três medianas se encontram no baricentro.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="200" alt="TypeScript" src="./../../img/mediana-triangulo.png">
+    <img align="left" height="150" width="200" alt="TypeScript" src="./../../../img/mediana-triangulo.png">
 </div><br><br><br><br><br><br><br>
 
 #### Mediatriz
@@ -75,7 +75,7 @@
 - As três mediatrizes se encontram no circuncentro.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="200" alt="TypeScript" src="./../../img/mediatriz-segmento.png">
+    <img align="left" height="150" width="200" alt="TypeScript" src="./../../../img/mediatriz-segmento.png">
 </div><br><br><br><br><br><br><br>
 
 #### Baricentro (Propriedade)
@@ -86,7 +86,7 @@
   - mediana = 12 cm ⟶ baricentro divide em 8 cm e 4 cm.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="200" alt="TypeScript" src="./../../img/baricentro-triangulo.png">
+    <img align="left" height="150" width="200" alt="TypeScript" src="./../../../img/baricentro-triangulo.png">
 </div><br><br><br><br><br><br><br>
 
 ## 7. Semelhança de Triângulos
@@ -112,7 +112,7 @@
 - Altura ao quadrado: h² = m·n
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="320" alt="TypeScript" src="./../../img/triangulo-retangulo.png">
+    <img align="left" height="150" width="320" alt="TypeScript" src="./../../../img/triangulo-retangulo.png">
 </div><br><br><br><br><br><br><br>
 
 

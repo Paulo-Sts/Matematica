@@ -7,7 +7,7 @@
 - Medida (α): É dada em graus (°), com 0° ≤ α ≤ 180°.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="250" alt="TypeScript" src="./../../img/angulo.png">
+    <img align="left" height="150" width="250" alt="TypeScript" src="./../../../img/angulo.png">
 </div><br><br><br><br><br><br><br>
 
 ### 1.1 Classificação dos Ângulos
@@ -18,7 +18,7 @@
 - Raso: α = 180°
 
 <div style="display:inline_block">
-    <img align="left" height="300" width="500" alt="TypeScript" src="./../../img/tipos-de-angulos.png">
+    <img align="left" height="300" width="500" alt="TypeScript" src="./../../../img/tipos-de-angulos.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### 1.2 Ângulos Complementares
@@ -34,14 +34,14 @@
   - α = β
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="250" alt="TypeScript" src="./../../img/angulo-oposto-pelo-vertice.png">
+    <img align="left" height="150" width="250" alt="TypeScript" src="./../../../img/angulo-oposto-pelo-vertice.png">
 </div><br><br><br><br><br><br><br>
 
 ### 1.5 Bissetriz de um Ângulo
 - Semirreta com origem no vértice que divide o ângulo em dois ângulos de mesma medida.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="270" alt="TypeScript" src="./../../img/bissetriz-de-um-angulo.png">
+    <img align="left" height="150" width="270" alt="TypeScript" src="./../../../img/bissetriz-de-um-angulo.png">
 </div><br><br><br><br><br><br><br>
 
 ### 1.6 Retas Paralelas Cortadas por uma Transversal
@@ -55,7 +55,7 @@
 - Ângulos colaterais externos: São suplementares (soma = 180°).
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="300" alt="TypeScript" src="./../../img/retas-paralelas.png">
+    <img align="left" height="150" width="300" alt="TypeScript" src="./../../../img/retas-paralelas.png">
 </div><br><br><br><br><br><br><br><br>
 
 > [!TIP] DICAS:

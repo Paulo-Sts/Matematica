@@ -4,7 +4,7 @@
 - Polígono é toda figura plana formada por segmentos de reta consecutivos não colineares, fechada, sem cruzamentos.
 
 <div style="display:inline_block">
-    <img align="left" height="200" width="580" alt="TypeScript" src="./../../img/poligonos.png">
+    <img align="left" height="200" width="580" alt="TypeScript" src="./../../../img/poligonos.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 > [!CAUTION] OBSERVAÇÃO:
@@ -26,7 +26,7 @@
 - Dodecágono: 12 lados.
 
 <div style="display:inline_block">
-    <img align="left" height="250" width="600" alt="TypeScript" src="./../../img/tipos-de-poligonos.png">
+    <img align="left" height="250" width="600" alt="TypeScript" src="./../../../img/tipos-de-poligonos.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2. Ângulos em Polígonos Convexos
@@ -43,7 +43,7 @@
 - Polígono regular são os polígonos em que todos os lados e todos os ângulos são congruentes.
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="500" alt="TypeScript" src="./../../img/poligonos-regulares.png">
+    <img align="left" height="150" width="500" alt="TypeScript" src="./../../../img/poligonos-regulares.png">
 </div><br><br><br><br><br><br><br>
 
 ### 3.1 Medida do Ângulo Interno

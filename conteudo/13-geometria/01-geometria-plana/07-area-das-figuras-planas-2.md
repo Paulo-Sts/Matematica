@@ -18,7 +18,7 @@
   - L = lado
 
 <div style="display:inline_block">
-    <img align="left" height="250" width="400" alt="TypeScript" src="./../../img/area-triangulo.png">
+    <img align="left" height="250" width="400" alt="TypeScript" src="./../../../img/area-triangulo.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 2. Círculo
@@ -39,5 +39,5 @@
   - A = 6 × (L²√3/4) = (3L²√3)/2
 
 <div style="display:inline_block">
-    <img align="left" height="150" width="150" alt="TypeScript" src="./../../img/area-hexagono.png">
+    <img align="left" height="150" width="150" alt="TypeScript" src="./../../../img/area-hexagono.png">
 </div><br><br><br><br><br><br><br><br><br>

@@ -17,7 +17,7 @@
 - Trapézio isósceles: diagonais congruentes.
 
 <div style="display:inline_block">
-    <img align="left" height="280" width="480" alt="TypeScript" src="./../../img/trapezio.png">
+    <img align="left" height="280" width="480" alt="TypeScript" src="./../../../img/trapezio.png">
 </div><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### 2.2 Paralelogramo
@@ -31,7 +31,7 @@
 - Diagonais cruzam-se no ponto médio.
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="180" alt="TypeScript" src="./../../img/paralelogramo.png">
+    <img align="left" height="120" width="180" alt="TypeScript" src="./../../../img/paralelogramo.png">
 </div><br><br><br><br><br><br>
 
 ### 2.3 Retângulo
@@ -42,7 +42,7 @@
 - Diagonais congruentes.
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="180" alt="TypeScript" src="./../../img/retangulo.png">
+    <img align="left" height="120" width="180" alt="TypeScript" src="./../../../img/retangulo.png">
 </div><br><br><br><br><br><br>
 
 ### 2.4 Losango
@@ -53,7 +53,7 @@
 - Diagonais são bissetrizes dos ângulos internos.
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="180" alt="TypeScript" src="./../../img/losango.png">
+    <img align="left" height="120" width="180" alt="TypeScript" src="./../../../img/losango.png">
 </div><br><br><br><br><br><br>
 
 ### 2.5 Quadrado
@@ -61,5 +61,5 @@
 - Reúne todas as propriedades do retângulo e do losango.
 
 <div style="display:inline_block">
-    <img align="left" height="120" width="120" alt="TypeScript" src="./../../img/quadrado.png">
+    <img align="left" height="120" width="120" alt="TypeScript" src="./../../../img/quadrado.png">
 </div><br><br><br><br><br><br>
