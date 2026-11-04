@@ -50,3 +50,6 @@ Ex: 2x + 5 = x + 2  em que x ∈ U = N
 1. 2x - x = 2 - 5  
 2. x = -3
 3. S = {} ou ∅
+
+> [!TIP] DICA: 
+> - Quando uma equação for formada por frações, deve-se tirar o MMC, após isso pode-se eliminar os denominadores da fração e calcular a equação de normalmente.
