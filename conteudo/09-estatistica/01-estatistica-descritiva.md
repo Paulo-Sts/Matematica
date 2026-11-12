@@ -6,10 +6,12 @@
 > ### 1.1 Conceitos Fundamentais
 
 #### População (N)
-- É o conjunto universo de todos os elementos a partir do qual se pretende conhecer informações. Um parâmetro é uma medida numérica que descreve alguma característica de uma população.
+- É o conjunto universo de todos os elementos a partir do qual se pretende conhecer informações. 
+- A medida numérica que descreve alguma característica de uma população é chamada de parâmetro.
 
 #### Amostra (n)
-- É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população. Um estimador é uma medida numérica que descreve alguma característica de uma amostra.
+- É um subgrupo representativo da população a partir do qual são extraídas informações que representam toda a população. 
+- A medida numérica que descreve alguma característica de uma amostra é estimador.
 
 > ### 1.2 Censo e Estimação
 - São processos estatísticos utilizados no estudo de fenômenos coletivos.
@@ -46,11 +48,11 @@ Ex: Anos de vida
 - Variáveis quantitativas contínuas representam valores que podem assumir qualquer valor dentro de uma reta de resultados possíveis.
 
 Ex: Peso da pessoa  
-Ex: altura da pessoa  
+Ex: Altura da pessoa  
 
 > ### 2.2 Variáveis Qualitativas
 - São variáveis que expressam uma característica ou qualidade, sendo chamados de atributos.
-- Tipos de variáveis quantitativas:
+- Tipos de variáveis qualitativas:
   - Nominais;
   - Ordinais.
 
@@ -63,8 +65,8 @@ Ex: Cor preferida
 #### Qualitativas Ordinais
 - Variáveis qualitativas nominais representam características que possuem uma ordem ou hierarquia.
 
-Ex: escolaridade      
-Ex: patente      
+Ex: Escolaridade      
+Ex: Patente      
 
 ## 3. Formas de Apresentação dos Dados
 - Os dados amostrais devem ser coletados de modo apropriado, através de um processo de seleção aleatória. Desta forma, se não forem coletados de modo apropriado, podem se tornar inúteis, ou induzir a erro o processo decisório.

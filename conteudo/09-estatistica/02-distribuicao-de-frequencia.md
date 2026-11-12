@@ -1,12 +1,12 @@
 # Distribuição de Frequência
 
 ## 1. Definição
-- Distribuição de Frequência é uma representação tabular dos dados estatísticos, discretos ou contínuos, sendo uma forma de resumir grandes conjuntos de dados. 
+- Distribuição de frequência é uma representação tabular dos dados estatísticos, discretos ou contínuos, sendo uma forma de resumir grandes conjuntos de dados. 
 - Dados representados em uma tabela de frequência facilitam a construção de gráficos, bem como a compreensão sobre a natureza dos dados.
 
 > ### 1.1 Representação dos Dados Discretos
 - Considere a seguinte amostra de valores, relativos às disciplinas estudadas por 20 alunos X: {4, 8, 8, 6, 6, 8, 5, 5, 6, 7, 7, 7, 6, 6, 7, 5, 5, 7, 5, 5}.
-- Essas variáveis são considerados variáveis discretas, pois são valores inteiros. A partir deles, é possível formar tabelas para facilitar a compreensão.
+- Essas variáveis são consideradas variáveis discretas, pois são valores inteiros. A partir deles, é possível formar tabelas para facilitar a compreensão.
 
 #### 1.1.1 Frequência Simples Absoluta (fi)
 - A frequência simples de um elemento é o número de vezes que o elemento figura no conjunto de dados. 
@@ -29,7 +29,7 @@ Exemplo:
 - É a razão entre a frequência absoluta da variável e o número total (n) de elementos da série.
 
 Exemplo:
-- Para compreender a Frequência relativa, basta dividir o "fi" pelo total (20). 
+- Para compreender a frequência relativa, basta dividir o "fi" pelo total (20). 
 - E para dispor o resultado em porcentagem, é preciso apenas multiplicar o resultado por 100. 
 - A frequência relativa apresenta o quanto determinado valor representa em relação ao total.
 
@@ -85,7 +85,7 @@ Exemplo: n = 25 pessoas com altura entre 50 kg e 100 kg.
 4. Serão formadas 5 classes.
 
 > ### 2.2 Amplitude da Classe (h)
-- É a definição do tamanhao de cada classe da representação em classes, em que valor ela começa e em que valor termina, ou seja, é a diferença entre o limite superior e inferior da classe. 
+- É a definição do tamanhao de cada classe da representação em classes, em que valor dela começa e em que valor termina, ou seja, é a diferença entre o limite superior e inferior da classe. 
 - Na definição da amplitude das classes é importante entender as possíveis definições dos valores inferior (início) e superior (final) da classe. As definições indicam se esses valores estão ou pertencem ou não ao intervalo da classe. Sua representação é feita normalmente por meio do simbolo de linhas (\|-, \-|, \|-|).
 - O tamanho da amplitude da classe é feito dividindo o resultado da amplitude da amostra (ou amplitude total), pelo número de classes.
 - Representação:

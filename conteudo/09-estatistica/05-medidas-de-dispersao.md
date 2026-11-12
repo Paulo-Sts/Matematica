@@ -4,7 +4,11 @@
 - São parâmetros estatísticos usados para determinar o grau de variabilidade dos dados de um conjunto de valores.
 - A utilização desses parâmetros tornam a análise de uma amostra mais confiável, visto que as variáveis de tendência central (média, mediana, moda) muitas vezes encondem a homogeneidade ou não dos dados.
 - As medidas de dispersão mais usadas são: amplitude, variância, desvio padrão e coeficiente de variação.
-- Por exemplo: Vamos considerar as idades de dois grupos de crianças que irão participar de duas festas diferentes. Festa A: 1 ano, 2 anos, 2 anos, 12 anos, 12 anos e 13 anos; Festa B: 5 anos, 6 anos, 7 anos, 7 anos, 8 anos e 9 anos. Em ambos os casos, a média é igual a 7 anos de idade. Entretanto, ao observar as idades dos participantes podemos admitir que as atividades escolhidas sejam iguais?
+
+Exemplo:   
+- Vamos considerar as idades de dois grupos de crianças que irão participar de duas festas diferentes. Em ambos os casos, a média é igual a 7 anos de idade. Entretanto, ao observar as idades dos participantes podemos admitir que as atividades escolhidas sejam iguais?  
+- Festa A: {1, 2, 2, 12, 12, 13}
+- Festa B: {5, 6, 7, 7, 8, 9}. 
 
 > ### 1.1 Amplitude
 - Essa medida de dispersão é definida como a diferença entre a maior e a menor observação de um conjunto de dados.
@@ -12,8 +16,7 @@
 - Representação:
   - A = X<sub>maior</sub> - X<sub>menor</sub>
 
-Exemplo: O setor de controle de qualidade de uma empresa seleciona ao acaso peças de um lote. Quando a amplitude das medidas dos diâmetros das peças ultrapassa 0,8 cm o lote é rejeitado.
-Considerando que em um lote foram encontrados os seguintes valores 2,1 cm; 2,0 cm; 2,2 cm; 2,9 cm; 2,4 cm, esse lote foi aprovado ou rejeitado?  
+Exemplo: O setor de controle de qualidade de uma empresa seleciona ao acaso peças de um lote. Quando a amplitude das medidas dos diâmetros das peças ultrapassa 0,8 cm o lote é rejeitado. Considerando que em um lote foram encontrados os seguintes valores 2,1 cm; 2,0 cm; 2,2 cm; 2,9 cm; 2,4 cm, esse lote foi aprovado ou rejeitado?  
 
 1. Para calcular a amplitude, basta identificar o menor e o maior valores, que neste caso, são 2,0 cm e 2,9 cm. 
 2. Calculando a amplitude, temos: A = 2,9 - 2 = 0,9 cm
@@ -26,13 +29,13 @@ Considerando que em um lote foram encontrados os seguintes valores 2,1 cm; 2,0 c
 
 Exemplo: Considerando as idades das crianças das duas festas indicadas anteriormente, vamos calcular a variância desses conjuntos de dados.
 
-FESTA A: 1 ano, 2 anos, 2 anos, 12 anos, 12 anos e 13 anos  
+- Festa A: {1, 2, 2, 12, 12, 13}
 
 1. Média = (1 + 2 + 2 + 12 + 12 + 13)/6 = 7 anos
 2. V = (1 - 7)<sup>2</sup> + (2 - 7)<sup>2</sup> + (2 - 7)<sup>2</sup> + (12 - 7)<sup>2</sup> + (12 - 7)<sup>2</sup> + (13 - 7)<sup>2</sup>/6  
 3. V = 36 + 25 + 25 + 25 + 25 + 36/6 = 28.67 anos<sup>2</sup>
 
-FESTA B: 5 ano, 6 anos, 7 anos, 7 anos, 8 anos e 9 anos  
+- Festa B: {5, 6, 7, 7, 8, 9}.  
 
 1. Média = (5 + 6 + 7 + 7 + 8 + 9)/6 = 7 anos
 2. V = (5 - 7)<sup>2</sup> + (6 - 7)<sup>2</sup> + (7 - 7)<sup>2</sup> + (7 - 7)<sup>2</sup> + (8 - 7)<sup>2</sup> + (9 - 7)<sup>2</sup>/6  
